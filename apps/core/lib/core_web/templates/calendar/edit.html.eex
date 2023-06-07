@@ -1,0 +1,5 @@
+<h1>Edit Calendar</h1>
+
+<%= render "form.html", Map.put(assigns, :action, Routes.calendar_path(@conn, :update, @calendar)) %>
+
+<span><%= link "Back", to: Routes.calendar_path(@conn, :index) %></span>

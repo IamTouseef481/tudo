@@ -1,0 +1,18 @@
+<h1>Show Meta</h1>
+
+<ul>
+
+  <li>
+    <strong>Type:</strong>
+    <%= @meta.type %>
+  </li>
+
+  <li>
+    <strong>Count:</strong>
+    <%= @meta.count %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.meta_path(@conn, :edit, @meta) %></span>
+<span><%= link "Back", to: Routes.meta_path(@conn, :index) %></span>

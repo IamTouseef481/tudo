@@ -1,0 +1,32 @@
+<h1>Listing Geo zones</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Slug</th>
+      <th>Description</th>
+      <th>Coordinates</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for geo_zone <- @geo_zones do %>
+    <tr>
+      <td><%= geo_zone.title %></td>
+      <td><%= geo_zone.slug %></td>
+      <td><%= geo_zone.description %></td>
+      <td><%= geo_zone.coordinates %></td>
+
+      <td>
+        <span><%= link "Show", to: Routes.geo_zone_path(@conn, :show, geo_zone) %></span>
+        <span><%= link "Edit", to: Routes.geo_zone_path(@conn, :edit, geo_zone) %></span>
+        <span><%= link "Delete", to: Routes.geo_zone_path(@conn, :delete, geo_zone), method: :delete, data: [confirm: "Are you sure?"] %></span>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Geo zone", to: Routes.geo_zone_path(@conn, :new) %></span>

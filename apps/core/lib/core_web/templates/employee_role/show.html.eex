@@ -1,0 +1,13 @@
+<h1>Show Employee role</h1>
+
+<ul>
+
+  <li>
+    <strong>Name:</strong>
+    <%= @employee_role.name %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.employee_role_path(@conn, :edit, @employee_role) %></span>
+<span><%= link "Back", to: Routes.employee_role_path(@conn, :index) %></span>

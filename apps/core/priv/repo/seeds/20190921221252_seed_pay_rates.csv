@@ -1,0 +1,3 @@
+id,name,details,inserted_at,updated_at
+monthly,monthly,"{""by"": ""monthly"", ""payday"": 1}",2019-01-11 04:44:03.818695,2019-01-11 04:44:03.818701
+hourly,hourly,"{""by"": ""hourly""}",2019-01-11 04:44:03.820180,2019-01-11 04:44:03.820186

@@ -1,0 +1,28 @@
+<h1>Listing Acl roles</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Parent</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for acl_role <- @acl_roles do %>
+    <tr>
+      <td><%= acl_role.role %></td>
+      <td><%= acl_role.parent %></td>
+
+      <td>
+        <span><%= link "Show", to: Routes.acl_role_path(@conn, :show, acl_role) %></span>
+        <span><%= link "Edit", to: Routes.acl_role_path(@conn, :edit, acl_role) %></span>
+        <span><%= link "Delete", to: Routes.acl_role_path(@conn, :delete, acl_role), method: :delete, data: [confirm: "Are you sure?"] %></span>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Acl role", to: Routes.acl_role_path(@conn, :new) %></span>

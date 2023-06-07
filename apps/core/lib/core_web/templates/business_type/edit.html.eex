@@ -1,0 +1,5 @@
+<h1>Edit Business type</h1>
+
+<%= render "form.html", Map.put(assigns, :action, Routes.business_type_path(@conn, :update, @business_type)) %>
+
+<span><%= link "Back", to: Routes.business_type_path(@conn, :index) %></span>

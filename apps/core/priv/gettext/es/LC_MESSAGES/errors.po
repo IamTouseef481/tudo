@@ -1,0 +1,1190 @@
+msgid "Email has been already taken"
+msgstr "correo electrónico ya se tomó"
+
+msgid "Error while creating user install!"
+msgstr "Error al crear la instalación del usuario!"
+
+msgid "Error while updating user install!"
+msgstr "¡Error al actualizar la instalación del usuario!"
+
+msgid "Something went wrong while retrieving user install"
+msgstr "Se produjo un error al recuperar la instalación del usuario. ¡"
+
+msgid "Unable to create or update user install!"
+msgstr "No se puede crear o actualizar la instalación del usuario!"
+
+msgid "Device Token is missing in install params!"
+msgstr "Falta el token del dispositivo en los parámetros de instalación."
+
+msgid "More than one results against User and FCM token"
+msgstr "Más de un resultado contra el usuario y el token FCM ¡"
+
+msgid "Invalid Email/ Password or Internet issue!"
+msgstr "Correo electrónico / contraseña no válidos o problema de Internet!"
+
+msgid "User profile is blocked"
+msgstr "El perfil de usuario está bloqueado."
+
+msgid "User profile is rejected"
+msgstr "El perfil de usuario está rechazado."
+
+msgid "Your account confirmation pending"
+msgstr "Confirmación de su cuenta pendiente."
+
+msgid "Something went wrong, try again!"
+msgstr "Algo salió mal. ¡Vuelva a intentarlo!"
+
+msgid "Bid doesn't exist!"
+msgstr "¡La oferta no existe!"
+
+msgid "Unexpected error occurred, try again!"
+msgstr "Se produjo un error inesperado, inténtelo de nuevo."
+
+msgid "Business Branch doesn't exist!"
+msgstr "¡La rama comercial no existe!"
+
+msgid "This Business doesn't belongs to you"
+msgstr "Este negocio no le pertenece"
+
+msgid "Enable to fetch Business"
+msgstr "Habilite para buscar Negocio"
+
+msgid "This business doesn't belongs to you"
+msgstr "Este negocio no le pertenece"
+
+msgid "Enable to check business for this branch"
+msgstr "Habilite para verificar el negocio de esta sucursal"
+
+msgid "A Branch with same name already exist for your Business"
+msgstr "Ya existe una sucursal con el mismo nombre para su negocio"
+
+msgid "Enable to fetch Branch"
+msgstr "Habilite para buscar Sucursal"
+
+msgid "Enable to fetch Geo Zones"
+msgstr "Habilite para buscar zonas geográficas"
+
+msgid "Enable to fetch Country Services"
+msgstr "Habilite para buscar País Servicios"
+
+msgid "Enable to fetch Service Types"
+msgstr "Habilitar para obtener tipos de servicio"
+
+msgid "Enable to upsert Branch Services"
+msgstr "Habilitar para actualizar Servicios de sucursal"
+
+msgid "This User have a Business with same name"
+msgstr "Este usuario tiene una empresa con el mismo nombre"
+
+msgid "Enable to fetch User"
+msgstr "Habilitar para buscar Usuario"
+
+msgid "Enable to create Branch"
+msgstr "Habilitar para crear sucursal"
+
+msgid "Invalid Business_id or Country_Service_id"
+msgstr "Business_id o Country_Service_id no válidos"
+
+msgid "Dynamic Screen already exists for this Business and Country Service"
+msgstr "La pantalla dinámica ya existe para esta empresa y el servicio de país"
+
+msgid "Dynamic Screen already exists for this Country Service"
+msgstr "La pantalla dinámica ya existe para estaservicio de país"
+
+msgid "Dynamic Screen doesn't exist"
+msgstr "dinámica deLa pantalla no existe"
+
+msgid "Business and/ or Dynamic Screen is incorrect!"
+msgstr "La pantalla empresarial y / o dinámica es incorrecta."
+
+msgid "Dynamic Screen is in correct!"
+msgstr "¡La pantalla dinámica es correcta!"
+
+msgid "Dynamic group already exists"
+msgstr "El grupo dinámico ya existe ¡"
+
+msgid "Dynamic Group or Screen doesn't exist!"
+msgstr "El grupo dinámico o la pantalla no existe!"
+
+msgid "Dynamic Group doesn't exist!"
+msgstr "¡El grupo dinámico no existe!"
+
+msgid "Dynamic screen doesn't exist!"
+msgstr "¡La pantalla dinámica no existe!"
+
+msgid "Dynamic Screen and Group relationship doesn't exist"
+msgstr "La relación entre la pantalla dinámica y el grupo no existe ¡"
+
+msgid "Notification can't send!"
+msgstr "No se puede enviar la notificación!"
+
+msgid "Token already sent!"
+msgstr "¡Token ya enviado!"
+
+msgid "Employee record already exists!"
+msgstr "¡El registro de empleado ya existe!"
+
+msgid "Enable to fetch Employee"
+msgstr "Habilitar para buscar Empleado"
+
+msgid "Enable to create User"
+msgstr "Habilitar para crear el usuario"
+
+msgid "Manager user doesn't exist!"
+msgstr "Administrador de usuarios no existe."
+
+msgid "Manager user do not exist under this Business!"
+msgstr "¡El usuario administrador no existe en este negocio!"
+
+msgid "Invalid Manager user!"
+msgstr "¡Usuario de Manager no válido!"
+
+msgid "Invalid Branch"
+msgstr "¡ElBranchválido"
+
+msgid "Manager user doesn't belong to the Branch!"
+msgstr "usuario deManager nono pertenece a la sucursal!"
+
+msgid "Unable to validate Manager user!"
+msgstr "¡No se puede validar el usuario de Manager!"
+
+msgid "Invoice doesn't exist!"
+msgstr "¡La factura no existe!"
+
+msgid "Business Sales Tax settings not found"
+msgstr "No se encontró la configuración del impuesto sobre las ventas para empresas"
+
+msgid "Error in fetching Sales Tax settings"
+msgstr "Error al obtener la configuración del impuesto sobre las ventas. ¡"
+
+msgid "Unable to compute Estimated Cost for Job!"
+msgstr "No se puede calcular el costo estimado del trabajo!"
+
+msgid "Settings table fields doesn't have valid keys"
+msgstr "Los campos de la tabla de configuración no tienen claves válidas"
+
+msgid "Failed to generate Invoice, try again!"
+msgstr "No se pudo generar la factura, ¡inténtelo de nuevo!"
+
+msgid "You are not allowed to perform this action!"
+msgstr "¡No está permitido realizar esta acción!"
+
+msgid "Invalid Job or Invoice, try again!"
+msgstr "Trabajo o factura no válidos, inténtelo de nuevo."
+
+msgid "Max allowed Invoice adjustments/day limit reached!"
+msgstr "¡Se alcanzó el límite máximo permitido de ajustes de factura / día!"
+
+msgid "Unable to check Invoice adjustments/day count"
+msgstr "No se pueden verificar los ajustes de la factura / recuento de días."
+
+msgid "Can't update Job status, try again!"
+msgstr "No se puede actualizar el estado del trabajo."
+
+msgid "Job doesn't exist!"
+msgstr "¡El trabajo no existe!"
+
+msgid "Unexpected error occurred while updating group status!"
+msgstr "Se produjo un error inesperado al actualizar el estado del grupo."
+
+msgid "Unable to update Service Provider meta"
+msgstr "No se puede actualizar el meta del proveedor de servicios"
+
+msgid "Unable to update Consumer meta"
+msgstr "No se puede actualizar el meta del consumidor El"
+
+msgid "New Employee record doesn't exist"
+msgstr "registro de nuevo empleado no existe"
+
+msgid "Error in verifying Job status"
+msgstr "Error al verificar el estado del trabajo"
+
+msgid "Unable to verify Job status"
+msgstr "No se puede verificar el estado del trabajo"
+
+msgid "Unable to verify Job updating timing"
+msgstr "No se puede verificar el tiempo de actualización del trabajo"
+
+msgid "Can't start work outside Consumer request time"
+msgstr "No se puede comenzar a trabajar fuera de la hora de solicitud del consumidor"
+
+msgid "Error in verifying Service Provider for rescheduling"
+msgstr "Error al verificar el proveedor de servicios para reprogramar"
+
+msgid "Unable verify Service Provider for rescheduling"
+msgstr "No se puede verificar el proveedor de servicios para reprogramar"
+
+msgid "Something wrong in foreign key OR compulsory parameter is missing"
+msgstr "Algo incorrecto en la clave externa O falta el parámetro obligatorio Los parámetros de"
+
+msgid "Job params are not correct"
+msgstr "trabajo no son correctos"
+
+msgid "Something went wrong in scheduling"
+msgstr "Algo salió mal en la programación"
+
+msgid "Can't delete Leads, something went wrong"
+msgstr "No se pueden eliminar los clientes potenciales, algo salió mal El"
+
+msgid "Employee service doesn't exist"
+msgstr "servicio del empleado no existe"
+
+msgid "Error in validating Employee"
+msgstr "Error en la validación del empleado El"
+
+msgid "Employee doesn't exist, invalid status or contract expired!"
+msgstr "empleado no existe , estado inválido o contrato vencido!"
+
+msgid "Job posting to Self is not allowed"
+msgstr "No se permite la publicación de trabajo para Self"
+
+msgid "Unable to verify Self Job posting"
+msgstr "No se puede verificar la publicación de Self Job"
+
+msgid "No need to check availability now"
+msgstr "No es necesario verificar la disponibilidad ahora"
+
+msgid "Selected Service Provider is not available right now, please search again!"
+msgstr "El proveedor de servicios seleccionado no está disponible en este momento, ¡busque nuevamente!"
+
+msgid "Something went wrong while searching Service Provider, please try again"
+msgstr "Se produjo un error durante la búsqueda del proveedor de servicios. Vuelva a intentarlo."
+
+msgid "Unable to determine Service Provider availability"
+msgstr "No se puede determinar la disponibilidad del proveedor de servicios. El"
+
+msgid "Employee contract expired"
+msgstr "contrato del empleado expiró. ¡"
+
+msgid "Notification sent!"
+msgstr "Notificación enviada!"
+
+msgid "Something went wrong, can't send notification"
+msgstr "Algo salió mal, no se puede enviar la notificación"
+
+msgid "Error in fetching Branch Service"
+msgstr "Error al obtener elservicio de sucursal"
+
+msgid "Error while adding Expected Work Duration from settings in params"
+msgstr "error delal agregar la duración de trabajo esperada de la configuración en los parámetros"
+
+msgid "Error in fetching Expected Work Duration settings"
+msgstr "Error al obtener la configuración de la duración del trabajo esperada"
+
+msgid "Branch Service id missing to read Service Duration from settings"
+msgstr "Falta la identificación del servicio de sucursal para leer la duración del servicio de la configuración"
+
+msgid "Estimated Cost is missing in params and error in fetching Bidding proposal to determine Estimated cost"
+msgstr "Falta el costo estimado en los parámetros y el error en obteniendo la propuesta de oferta para determinar el costo estimado"
+
+msgid "Unable to determine Estimated Cost, try again"
+msgstr "No se puede determinar el costo estimado, inténtelo de nuevo."
+
+msgid "Estimated Cost not found in settings against the Service"
+msgstr "El costo estimado no se encuentra en la configuración con el servicio."
+
+msgid "Multiple records found in settings against provided data"
+msgstr "Se encontraron varios registros en la configuración con los datos proporcionados"
+
+msgid "Invalid Service Type"
+msgstr ". Tipo deno válido. ¡"
+
+msgid "Service Rate settings doesn't exist!"
+msgstr "servicioLa configuración de la tarifa de servicio no existe!"
+
+msgid "Promotion already exist!"
+msgstr "¡La promoción ya existe!"
+
+msgid "Enable to fetch Promotions"
+msgstr "Habilitar para recuperar promociones"
+
+msgid "Invalid Promotion status"
+msgstr "Estado deválido La"
+
+msgid "Promotion doesn't exist"
+msgstr "promoción nopromoción no existe"
+
+msgid "No valid Promotion available against this data"
+msgstr "No hay promoción válida disponible con estos datos"
+
+msgid "Something went wrong calculating Promotion usage"
+msgstr "Se ha producido un error al calcular el uso de la promoción"
+
+msgid "Enable to validate Promotion"
+msgstr "Habilitar para validar la promoción"
+
+msgid "Something missing in params for Promotion validation"
+msgstr "Falta algo en los parámetros para la validación de la promoción El"
+
+msgid "Country doesn't exist"
+msgstr "país no existe"
+
+msgid "Enable to fetch Country"
+msgstr "Habilitar para recuperar el país El"
+
+msgid "Service doesn't exist"
+msgstr "servicio no existe"
+
+msgid "Enable to fetch Service"
+msgstr "Habilitar para recuperar el servicio"
+
+msgid "Enable to fetch Employee Service"
+msgstr "Habilitar para recuperar el servicio del empleado"
+
+msgid "Enable to fetch Country Service"
+msgstr "Habilitar para recuperar el servicio de país El servicio de país"
+
+msgid "Active Country Service doesn't exist"
+msgstr "activo no existe El"
+
+msgid "Branch Service already exist for given parameters"
+msgstr "servicio de sucursal ya existe para los parámetros dados El"
+
+msgid "Branch Service does not exist"
+msgstr "servicio de sucursal no existe"
+
+msgid "Error in creating Branch Service"
+msgstr "Error al crear el servicio de sucursal"
+
+msgid "Error while updating Settings"
+msgstr "Error al actualizar la configuración Configuración de"
+
+msgid "Branch settings on creating Service failed, try again"
+msgstr "sucursal en la creación de servicio no pudo, inténtelo de nuevo"
+
+msgid "Something went wrong in updating Settings"
+msgstr "Algo salió mal en la actualización deconfiguración del"
+
+msgid "Service Radius settings missing for this Branch"
+msgstr "la configuraciónservicio Radius que faltan para la Oficina esta"
+
+msgid "Services Expected Work Duration settings missing for this Branch"
+msgstr "deServicios paraconfiguración de trabajo duración prevista faltantes para estaEsfera"
+
+msgid "Services Rate settings missing for this Branch"
+msgstr "configuración de serviciosdetarifa que falta para estala rama"
+
+msgid "Service Sales Tax settings missing for this Branch"
+msgstr "configuración dede servicio de impuestos de ventas que faltan para esta rama de"
+
+msgid "Error while updating Branch Service"
+msgstr "error al actualizar Branch servicio"
+
+msgid "Merchant Account doesn't exist"
+msgstr "cuenta mercantil no existe"
+
+msgid "Something went wrong, unable to fetch Merchant Account"
+msgstr "Entonces Algo salió mal, no se pudo recuperar la cuenta del comerciante"
+
+msgid "Something went wrong with parameters for Braintree Payment Gateway"
+msgstr "Algo salió mal con los parámetros de Braintree Payment Gateway"
+
+msgid "Something went wrong, Merchant Account creation failed"
+msgstr "Algo salió mal, la creación de la cuenta del comerciante falló La"
+
+msgid "Braintree account doesn't exist"
+msgstr "cuenta de Braintree no existe"
+
+msgid "Unable to fetch Braintree Payment Gateway account"
+msgstr "No se puede recuperar la cuenta de Braintree Payment Gateway"
+
+msgid "Payment method doesn't exist"
+msgstr "El método de pago no existe"
+
+msgid "Unable to fetch Payment method"
+msgstr "No se puede recuperar el método de pago"
+
+msgid "Unable to create Braintree Payment method"
+msgstr "No se puede crear el método de pago de Braintree"
+
+msgid "Unable to update Braintree Payment method"
+msgstr "No se puede actualizar el método de pago de Braintree"
+
+msgid "Unable to update local Payment method"
+msgstr "No se puede actualizar el método de pago local"
+
+msgid "Unable to delete Payment method"
+msgstr "No se puede eliminar el método de pago"
+
+msgid "Unable to delete Braintree Payment method"
+msgstr "No se puede eliminar el método de pago de Braintree"
+
+msgid "Invalid User and/ or Password"
+msgstr "Usuario y / o contraseña no válidos"
+
+msgid "Your Business already enrolled for this Subscription package"
+msgstr "Su empresa ya está inscrita en este paquete de"
+
+msgid "Subscription package doesn't exist!"
+msgstr "suscripción ¡El paquete de suscripción no existe!"
+
+msgid "More than one Subscription"
+msgstr "Más de una suscripción ¡"
+
+msgid "Something went wrong with parameters for Braintree Subscription"
+msgstr "Se produjo un error con los parámetros delsuscripción de Braintree"
+
+msgid "Error while retrying charge Braintree Subscription!"
+msgstr "error deal volver a intentar cargar la suscripción de Braintree!"
+
+msgid "This Service Provider Subscription rule doesn't exist!"
+msgstr "¡Esta regla de suscripción de proveedor de servicios no existe!"
+
+msgid "This Consumer Subscription rule doesn't exist!"
+msgstr "¡Esta regla de suscripción al consumidor no existe!"
+
+msgid "This Braintree Subscription status doesn't exist!"
+msgstr "¡Este estado de suscripción a Braintree no existe!"
+
+msgid "This User doesn't exist!"
+msgstr "¡Este usuario no existe!"
+
+msgid "This Business doesn't exist!"
+msgstr "¡Este negocio no existe!"
+
+msgid "No need to get wallet!"
+msgstr "¡No es necesario tener billetera!"
+
+msgid "Please select a payment method"
+msgstr "Seleccione un método de pago."
+
+msgid "Subscription rule/ plan does not exist for this Country"
+msgstr "La regla / plan de suscripción no existe para este país"
+
+msgid "You exceeded Promotion limit on your Subscription package"
+msgstr ". Excedió el límite de la promoción en su paquete de suscripción."
+
+msgid "Multiple subscription rules against your Country and Subscription package"
+msgstr "Varias reglas de suscripción para su país y paquete de suscripción."
+
+msgid "Something went wrong, Braintree Subscription failed!"
+msgstr "Algo salió mal. ¡La suscripción a Braintree falló!"
+
+msgid "Something went wrong while creating Braintree Subscription"
+msgstr "Produjo un error al crearde Braintree suscripción"
+
+msgid "Subscription plan does not exist for this Country"
+msgstr "el plansuscripción no existe para este país"
+
+msgid "Unable to create local Subscription"
+msgstr "no se puede crear suscripción local,"
+
+msgid "Unable to create local Payment"
+msgstr "no se puede crearde pago"
+
+msgid "Error while creating Balance"
+msgstr "errorlocal,mientras que la creación de Equilibrio"
+
+msgid "Error while updating Balance"
+msgstr "de error durante la actualización del balance"
+
+msgid "Error while getting Balance"
+msgstr "de error al obtener Equilibrio"
+
+msgid "Unable to fetch Braintree Subscription"
+msgstr "Imposible obtener Braintree suscripción"
+
+msgid "Unable to update Braintree subscription"
+msgstr "No se puede actualizar Braintree suscripción"
+
+msgid "Unable to cancel Braintree Subscription"
+msgstr "No es posible cancelar Suscripción Braintree"
+
+msgid "Something went wrong with parameters for Braintree transaction"
+msgstr "Algo salió mal con los parámetros para la transacción Braintree"
+
+msgid "Something went wrong, unable to create Payment Method Nonce"
+msgstr "Algo salió mal, no se pudo crear el Método de Pago Nonce"
+
+msgid "Error in adding Donations and Gratuity!"
+msgstr "Error al agregar Donaciones y Propinas!"
+
+msgid "Something went wrong, can't add Donations and Gratuity!"
+msgstr "Algo salió mal, no se pueden agregar donaciones y propinas."
+
+msgid "Something went wrong, Braintree Payment transaction failed!"
+msgstr "Algo salió mal, la transacción de Braintree Payment falló."
+
+msgid "Amount params missing!"
+msgstr "¡Faltan parámetros de cantidad!"
+
+msgid "Something went wrong, unable to create transaction"
+msgstr "Algo salió mal, no se pudo crear la transacción"
+
+msgid "Something went wrong, can't create local transaction"
+msgstr "Algo salió mal, no se puede crear la transacción local"
+
+msgid "Something went wrong, unable to create local transaction"
+msgstr "Algo salió mal, no se pudo crear la transacción local"
+
+msgid "Something went wrong, can't calculate Gratuity, Donations and Service Provider's amount!"
+msgstr "Algo salió mal, no se puede calcular la propina, las donaciones y el monto del proveedor de servicios."
+
+msgid "Error while creating Consumer spent amount"
+msgstr "Error al crear la cantidad gastada por el consumidor"
+
+msgid "Error while updating Consumer spent amount"
+msgstr "Error al actualizar la cantidad gastada por el consumidor"
+
+msgid "Error while getting Consumer spent amount"
+msgstr "Error al obtener la cantidad gastada por el consumidor ¡La"
+
+msgid "Transaction doesn't exist!"
+msgstr "transacción no existe!"
+
+msgid "Something went wrong, unable to fetch Braintree transaction"
+msgstr "Algo salió mal, no se pudo recuperar la transacción de Braintree."
+
+msgid "Something went wrong, failed to Refund transaction!"
+msgstr "Algo salió mal, no se pudo reembolsar la transacción."
+
+msgid "Braintree Customer account already exists!"
+msgstr "¡La cuenta de cliente de Braintree ya existe!"
+
+msgid "Braintree customer account doesn't exist"
+msgstr "La cuenta de cliente de Braintree no existe"
+
+msgid "Unable to fetch Customer"
+msgstr "No se puede recuperar Cliente"
+
+msgid "Unable to fetch Braintree Customer"
+msgstr "No se puede recuperar Cliente de Braintree"
+
+msgid "Unable to create Customer"
+msgstr "No se puede crear Cliente"
+
+msgid "Unable to update Braintree Customer"
+msgstr "No se puede actualizar Cliente de Braintree"
+
+msgid "Unable to delete Customer"
+msgstr "No se puede borrar Cliente"
+
+msgid "Unable to delete Braintree customer"
+msgstr "No se puede borrar Cliente de Braintree"
+
+msgid "HyperWallet User doesn't exist"
+msgstr "HyperWallet El usuario no existe"
+
+msgid "Multiple Hyperwallet records against this User"
+msgstr "Múltiples registros de Hyperwallet contra este Usuario"
+
+msgid "Unable to fetch local Hyperwallet User"
+msgstr "No se puede recuperar local El usuario de Hyperwallet"
+
+msgid "Unable to list Transfer Methods for the User!"
+msgstr "no puede enumerar los métodos de transferencia para el usuario."
+
+msgid "Hyperwallet Transfer Method doesn't exist"
+msgstr "El método de transferencia de Hyperwallet no existe"
+
+msgid "Unable to fetch Transfer Method"
+msgstr "No se puede recuperar el método de transferencia El método de transferencia de"
+
+msgid "Error while getting Branch"
+msgstr "Error al obtener la sucursal"
+
+msgid "Unable to get Service Provider minimum Transfer Limit"
+msgstr "No se puede obtener el límite de transferencia mínimo del proveedor de servicios"
+
+msgid "Unable to get Service Provider maximum Transfer Limit"
+msgstr "No se puede obtener el límite de transferencia máximo del proveedor de servicios"
+
+msgid "Error in updating Available Balance"
+msgstr "Error al actualizar Saldo disponible Saldo"
+
+msgid "Insufficient Balance"
+msgstr "insuficiente"
+
+msgid "Error in fetching Available Balance"
+msgstr "Error al buscar Disponible Saldo"
+
+msgid "Unable to create Hyperwallet payment!"
+msgstr "No se puede crear el pago de Hyperwallet."
+
+msgid "Unable to get Hyperwallet payment!"
+msgstr "¡No se puede obtener el pago de Hyperwallet!"
+
+msgid "Unable to create Hyperwallet transfer!"
+msgstr "¡No se puede crear la transferencia de Hyperwallet!"
+
+msgid "Unable to create Hyperwallet transfer method!"
+msgstr "¡No se puede crear el método de transferencia Hyperwallet!"
+
+msgid "Unable to create Hyperwallet local transfer method!"
+msgstr "¡No se puede crear el método de transferencia local de Hyperwallet!"
+
+msgid "Unable to update local Transfer method"
+msgstr "No se puede actualizar el método de transferencia local"
+
+msgid "Error while updating local Hyperwallet transfer method"
+msgstr "Error al actualizar el método de transferencia local de Hyperwallet"
+
+msgid "Hyperwallet User already exists!"
+msgstr "¡El usuario de Hyperwallet ya existe!"
+
+msgid "Unable to create Hyperwallet user!"
+msgstr "¡No se puede crear un usuario de Hyperwallet!"
+
+msgid "Unable to create Hyperwallet local user"
+msgstr "No se puede crear el usuario local de Hyperwallet. ¡"
+
+msgid "Unable to update Hyperwallet user!"
+msgstr "No se puede actualizar el usuario de Hyperwallet!"
+
+msgid "Unable to get Hyperwallet user!"
+msgstr "¡No se pudo obtener el usuario de Hyperwallet!"
+
+msgid "Transaction amount couldn't verify with invoice amount!"
+msgstr "¡El monto de la transacción no se pudo verificar con el monto de la factura!"
+
+msgid "Error in fetching Invoice to verify transaction amount"
+msgstr "Error al obtener la factura para verificar el monto de la transacción."
+
+msgid "No record exists for Promotion price verification"
+msgstr "No existe ningún registro para la verificación del precio de la promoción."
+
+msgid "Something went wrong while verifying amount of Subscription promotion"
+msgstr "Se produjo un error al verificar el monto de la promoción de"
+
+msgid "Subscription rule for Service Provider doesn't exist!"
+msgstr "suscripción. ¡La regla de suscripción para el proveedor de servicios no existe!"
+
+msgid "Available Promotion isn't created"
+msgstr "La promoción disponible no se crea ¡"
+
+msgid "Can't add Donation and Gratuity amounts!"
+msgstr "No se pueden agregar montos de donaciones y propinas!"
+
+msgid "Can't get Service Provider Subscriptions"
+msgstr "No se pueden obtener las suscripciones del proveedor de servicios. Los"
+
+msgid "Params to calculate local transaction are not correct"
+msgstr "parámetros para calcular la transacción local no son correctos. ¡no"
+
+msgid "Unauthorized"
+msgstr "Elautorizado"
+
+msgid "User status is not confirmed!"
+msgstr "estado de usuariono está confirmado!"
+
+msgid "Unable to convert String to Time format"
+msgstr "No se puede convertir la cadena a formato de hora. El"
+
+msgid "Device not correct or not supported"
+msgstr "dispositivo no es correcto o no es compatible. ¡"
+
+msgid "Can't send Android notifications!"
+msgstr "No se pueden enviar notificaciones de Android!"
+
+msgid "Can't send IOS notifications!"
+msgstr "¡No se pueden enviar notificaciones de IOS!"
+
+msgid "Dashboard auto refresh"
+msgstr "Actualización automática del panel"
+
+msgid "Share your location"
+msgstr "Comparta su ubicación"
+
+msgid "Profile visibility"
+msgstr "Visibilidad del perfil"
+
+msgid "Send notifications"
+msgstr "Envíe notificaciones"
+
+msgid "Send emails"
+msgstr "Envíe correos electrónicos"
+
+msgid "Error while fetching Branch Availability"
+msgstr "Error al obtener la disponibilidad de la sucursal La"
+
+msgid "Availability Settings for this Branch doesn't exist"
+msgstr "configuración de disponibilidad para esta sucursal no existe"
+
+msgid "Something went wrong, unable to create the Bidding job , try again"
+msgstr "Algo salió mal, no se pudo crear la Oferta, vuelva a intentarlo"
+
+msgid "Something went wrong, can't create the Bidding job"
+msgstr "Algo salió mal, no se puede crear la Oferta"
+
+msgid "Something went wrong, unable to update Bidding job"
+msgstr "Algo salió incorrecto, no se puede actualizar la oferta"
+
+msgid "Something went wrong, can't update Bidding job"
+msgstr "Algo salió mal, no se puede actualizar la oferta"
+
+msgid "Something went wrong, can't delete Bidding job"
+msgstr "Algo salió mal, no se puede eliminar la oferta"
+
+msgid "Something went wrong, unable to create Bid proposal"
+msgstr "Algo salió mal, no se pudo crear la propuesta de oferta"
+
+msgid "Something went wrong, can't create Bid proposal"
+msgstr "Algo salió mal, no se puede crear la propuesta de"
+
+msgid "Bid proposal doesn't exist!"
+msgstr "oferta ¡La propuesta de oferta no existe!"
+
+msgid "Service type doesn't exist!"
+msgstr "¡El tipo de servicio no existe!"
+
+msgid "Error in retrieving Availability Settings for this Branch"
+msgstr "Error al recuperar la configuración de disponibilidad para esta sucursal"
+
+msgid "Something went wrong, can't delete Branch. Services are associated with the Branch"
+msgstr "Algo salió mal, no se puede eliminar la sucursal. Los servicios están asociados con la sucursal. El"
+
+msgid "Business doesn't exist for that user"
+msgstr "negocio no existe para ese usuario."
+
+msgid "Access denied"
+msgstr "Acceso denegado."
+
+msgid "Dynamic field doesn't exist"
+msgstr "El campo dinámico no existe. ¡"
+
+msgid "Dynamic Group already attached to the Screen"
+msgstr "El grupo dinámico ya adjunto a lapantalla"
+
+msgid "Dynamic Field tag doesn't exist!"
+msgstr "etiqueta de campo dinámico deno existe!"
+
+msgid "Dynamic Field type doesn't exist!"
+msgstr "¡El tipo de campo dinámico no existe!"
+
+msgid "Something went wrong, can't update"
+msgstr "Algo salió mal, no se puede actualizar"
+
+msgid "Something went wrong, can't delete"
+msgstr "Algo salió mal, no se puede borrar"
+
+msgid "Something went wrong, can't insert"
+msgstr "Algo salió mal, no se puede insertar"
+
+msgid "Something went wrong, can't retrieve"
+msgstr "Algo salió mal, no se puede recuperar"
+
+msgid "Error in deleting Employee Setting"
+msgstr "Error al eliminar Configuración del empleado"
+
+msgid "Error in updating Employee setting"
+msgstr "Error al actualizar la configuración del empleado"
+
+msgid "Error in creating Employee setting"
+msgstr "Error al crear la configuración del"
+
+msgid "Employee type doesn't exist!"
+msgstr "empleado El tipo de empleado no ¡No existe!"
+
+msgid "Employee status doesn't exist!"
+msgstr "¡El estado de empleado no existe!"
+
+msgid "Employee role doesn't exist!"
+msgstr "¡El rol de empleado no existe!"
+
+msgid "Employee Pay Rate doesn't exist!"
+msgstr "¡La tarifa de pago del empleado no existe!"
+
+msgid "Something went wrong, file upload failed"
+msgstr "Algo salió mal, la carga del archivo fallóno"
+
+msgid "Invalid file format, upload blocked!"
+msgstr ". Formato de archivoválido, carga bloqueada."
+
+msgid "Icon not uploaded successfully!"
+msgstr "¡El icono no se ha subido correctamente!"
+
+msgid "Something went wrong, unable to fetch Geo Zones!"
+msgstr "Se produjo un error, no se pudieron recuperar las zonas geográficas."
+
+msgid "Something went wrong, unable to list Hyperwallet transactions!"
+msgstr "¡Algo salió mal, no se pueden enumerar las transacciones de Hyperwallet!"
+
+msgid "Something went wrong, unable to retrieve Currencies and Transfer Method types due to request"
+msgstr "Algo salió mal, no se pudieron recuperar las monedas y los tipos de métodos de transferencia debido a una solicitud de"
+
+msgid "Connection interruption, unable to retrieve Currencies and Transfer Method types"
+msgstr "interrupción de la conexión, no se pudieron recuperar las monedas y los tipos de métodos de transferencia"
+
+msgid "Error in fetching Currencies and Transfer Methods from Hyperwallet"
+msgstr "Error al obtener las monedas y los métodos de transferencia de Hyperwallet"
+
+msgid "Something went wrong, unable to list Transfer Method fields!"
+msgstr "Algo salió mal, ¡no se pueden enumerar los campos del método de transferencia!"
+
+msgid "Some of the required parameters is missing!"
+msgstr "¡Faltan algunos de los parámetros obligatorios!"
+
+msgid "Invalid Transfer Method type, check your input!"
+msgstr "Tipo de método de transferencia no válido, verifique su entrada."
+
+msgid "Something went wrong, unable to retrieve Transfer Method against this Token and Type"
+msgstr "Se produjo un error, no se pudo recuperar el método de transferencia con este token y se produjo untipo"
+
+msgid "Error in reformatting results after decoding!"
+msgstr "error deal reformatear los resultados después de la decodificación."
+
+msgid "Branch Settings for max allowed Taxes and Discounts doesn't exit!"
+msgstr "¡La configuración de la sucursal para los impuestos y descuentos máximos permitidos no sale!"
+
+msgid "Error while retrieving Branch Settings"
+msgstr "Error mientrasla recuperación deBranch Ajustes"
+
+msgid "Unexpected error occurred during Service Provider adding Taxes and Discounts"
+msgstr "se produjoerror inesperadodurante proveedor de servicios de la adición de impuestos y descuentos"
+
+msgid "Unexpected error occurred during Service Provider adding Discounts"
+msgstr "producido un error inesperado durante el Proveedor de Servicios de la adición de Descuentos"
+
+msgid "Unexpected error occurred during Service Provider adding Taxes"
+msgstr "producido un error inesperado durante el Proveedor de Servicios de la adición de Impuestos"
+
+msgid "Service Provider not allowed to add Taxes"
+msgstr "proveedor de servicios no pueden Anadir Impuestos"
+
+msgid "Service Provider not allowed to add Discounts"
+msgstr "proveedor de servicios no pueden Anadir Descuentos"
+
+msgid "something went wrong in Invoice amount calculation!"
+msgstr "algo salió mal en la factura cálculo de la cantidad!"
+
+msgid "This Bidding proposal doesn't exist!"
+msgstr "¡Esta propuesta de licitación no existe!"
+
+msgid "This Job category doesn't exist!"
+msgstr "¡Esta categoría de trabajo no existe!"
+
+msgid "Job status you are trying doesn't exist!"
+msgstr "¡El estado del trabajo que estás intentando no existe!"
+
+msgid "Unexpected error occurred during Service Provider adding Taxes and Discounts can't retrieve the Job!"
+msgstr "Se produjo un error inesperado mientras el proveedor de servicios agregaba los impuestos y los descuentos no pueden recuperar el trabajo."
+
+msgid "Holiday already exists in your Holiday calendar"
+msgstr "Las vacaciones ya existen en su calendario de vacaciones"
+
+msgid "From and To: time is same, correct your entry and try again."
+msgstr "Desde y Hasta: la hora es la misma, corrija su entrada y vuelva a intentarlo."
+
+msgid "Holiday doesn't exist in your Holiday calendar"
+msgstr "Las vacaciones no existen en su calendario de vacaciones ¡"
+
+msgid "Free Subscription rule for Service Providers doesn't exist!"
+msgstr "La regla de suscripción gratuita para proveedores de servicios no existe!"
+
+msgid "Multiple Service Provider Subscriptions rules available against this package and Country"
+msgstr "Varias reglas de suscripción de proveedores de servicios disponibles para este paquete y país"
+
+msgid "Something went wrong, unable to create Service Provider Subscription rule"
+msgstr "Algo salió mal, no se pudo crear la regla de suscripción de proveedor de servicios"
+
+msgid "You already have a Subscription rule against provided package id and Country"
+msgstr "Ya tiene una regla de suscripción contra el ID de paquete y el país proporcionados"
+
+msgid "Something went wrong, unable to update Service Proficer Subscription rule"
+msgstr "Algo salió mal, no se puede actualizar la regla de suscripción de Service Proficer"
+
+msgid "Something went wrong, unable to retrieve Subscription rule for Service Provider"
+msgstr "Algo salió mal, no puede para recuperar la regla de suscripción para el proveedor de servicios"
+
+msgid "Something went wrong, unable to delete Subscription rule for Service Provider"
+msgstr "Algo salió mal, no se pudo eliminar la regla de suscripción para el proveedor de servicios"
+
+msgid "Something went wrong, unable to update Subscription pricing"
+msgstr "Algo salió mal, no se pudo actualizar el precio de la suscripción"
+
+msgid "Something went wrong, unable to delete Subscription pricing"
+msgstr "Algo salió mal, no se pudo eliminar el precio de la suscripción"
+
+msgid "No available Promotion and not allowed to purchase Promotion"
+msgstr "No hay promoción disponible y no se puede comprar la promoción"
+
+msgid "Error in creating Promotion purchase price, try again"
+msgstr "Error al crear la promoción precio de compra, inténtelo de nuevo ¡"
+
+msgid "Service Provider has No earnings so far!"
+msgstr "El proveedor de servicios no tiene ganancias hasta ahora!"
+
+msgid "Dispute category doesn't exist!"
+msgstr "¡La categoría de disputa no existe!"
+
+msgid "Dispute status doesn't exist!"
+msgstr "¡El estado de disputa no existe!"
+
+msgid "You don't have Promotion usage or eligibility in your Subscription package"
+msgstr "No tiene uso de la promoción o elegibilidad en su paquete de suscripción"
+
+msgid "You don't have any used Promotion in your Subscription package"
+msgstr "No tiene ninguna promoción usada en su paquete de suscripción"
+
+msgid "You don't have any available Promotions in your Subscription package"
+msgstr "No tiene promociones disponibles en su paquete de suscripción"
+
+msgid "Something went wrong, unexpected error occurred while retrieving User!"
+msgstr "Algo salió ¡Se produjo un error incorrecto e inesperado al recuperar el usuario!"
+
+msgid "Your Business doesn't provide the requested Service"
+msgstr "Su empresa no proporciona losservicio solicitados"
+
+msgid "Data already exists!"
+msgstr "datos de."
+
+msgid "Data doesn't exist!"
+msgstr "¡Los datos no existen!"
+
+msgid "Settings does not exist!"
+msgstr "¡La configuración no existe!"
+
+msgid "Multiple FCM Tokens and Users found"
+msgstr "Se encontraron varios usuarios y tokens de FCM."
+
+msgid "Something went wrong, unable to create User installs!"
+msgstr "Algo salió mal, no se pudieron crear instalaciones de usuario."
+
+msgid "Something went wrong, unable to update User installs!"
+msgstr "Se produjo un error, no se pudieron actualizar las instalaciones del usuario."
+
+msgid "Something went wrong while updating User installs!"
+msgstr "Se produjo un error al actualizar las instalaciones del usuario."
+
+msgid "Something went wrong while retrieving User install"
+msgstr "Se produjo un error al recuperar la instalación del usuario."
+
+msgid "Something went wrong, probably status is already confirmed!"
+msgstr "Se produjo un error, ¡probablemente el estado ya está confirmado!"
+
+msgid "Invalid token"
+msgstr "Token no válido"
+
+msgid "Hashing problem"
+msgstr "Problema de hash"
+
+msgid "Something went wrong, incorrect OS detected"
+msgstr "Algo salió mal, se detectó un SO incorrecto La"
+
+msgid "Invoice does not belongs to this Job"
+msgstr "factura no pertenece a este trabajo"
+
+msgid "Error in making params for local payment, try again"
+msgstr "Error al realizar los parámetros para el pago local, inténtelo de nuevo"
+
+msgid "Error in marking schedule for calendar, try again"
+msgstr "Error al marcar el horario para el calendario, intente nuevamente"
+
+msgid "Reassign scheduled Jobs before In-activating the Employee status."
+msgstr "Reasignar los trabajos programados antes de In-activar el estado de Empleado."
+
+msgid "Error in fetching calendar, try again"
+msgstr "Error al obtener el calendario. Vuelva a intentarlo."
+
+msgid "Logout successful"
+msgstr "Cierre de sesión exitoso ¡"
+
+msgid "Token sent successfully!"
+msgstr "Token enviado con éxito!"
+
+msgid "Unable to create Branch!"
+msgstr "¡No se puede crear la rama!"
+
+msgid "Unable to update Branch!"
+msgstr "¡No se puede actualizar Branch!"
+
+msgid "Unable to create Business!"
+msgstr "¡No se puede crear negocio!"
+
+msgid "Unable to update Business!"
+msgstr "¡No se puede actualizar la empresa!"
+
+msgid "Dynamic Field value doesn't exist!"
+msgstr "¡El valor del campo dinámico no existe!"
+
+msgid "Employee setting doesn't exist!"
+msgstr "¡La configuración del empleado no existe!"
+
+msgid "Manage employee doesn't exist!"
+msgstr "¡Administrar empleado no existe!"
+
+msgid "Business Shift Schedule doesn't exist!"
+msgstr "¡El horario de turnos de negocios no existe!"
+
+msgid "Unable to send Employment Invitation"
+msgstr "No se pudo enviar la invitación de empleo"
+
+msgid "No error found"
+msgstr "No se encontró ningún error"
+
+msgid "Unable to list down Hyperwallet users"
+msgstr "No se pudo enumerar los usuarios de Hyperwallet"
+
+msgid "Unable to fetch Invoice"
+msgstr "No se pudo recuperar la factura"
+
+msgid "Unable to generate Invoice"
+msgstr "No se pudo generar elfactura"
+
+msgid "ID or Job_id missing in parameters!"
+msgstr "ID deo Falta el ID de trabajo en los parámetros."
+
+msgid "Invoice locked, you can't update this Invoice!"
+msgstr "Factura bloqueada, no puede actualizar esta factura."
+
+msgid "Error while getting Invoice by Job"
+msgstr "Error al obtener la factura por trabajo."
+
+msgid "Unable to Adjust Invoice"
+msgstr "No se puede ajustar la factura. ¡El"
+
+msgid "Employee doesn't exists!"
+msgstr "empleado no existe!"
+
+msgid "You don't have permission to update this Job"
+msgstr "No tiene permiso para actualizar este trabajo"
+
+msgid "You don't have permission to update Estimated Cost"
+msgstr ". No tiene permiso para actualizar el costo estimado."
+
+msgid "No request to update Cost Estimates"
+msgstr "No hay solicitud para actualizar elestimaciones de costos"
+
+msgid "Error while fetching the Job"
+msgstr "error deal obtener eltrabajo"
+
+msgid "Error while retrieving Branch from Employee_id"
+msgstr "error demientras se recupera la sucursal de Employee_id"
+
+msgid "Service Provider meta doesn't exist!"
+msgstr ". ¡El meta del proveedor de servicios no existe!"
+
+msgid "Consumer meta doesn't exist!"
+msgstr "¡El meta del consumidor no existe!"
+
+msgid "Something went wrong, can't create Promotion"
+msgstr "Se produjo un error, no se puede crear la promoción. ¡"
+
+msgid "Country Service doesn't exist!"
+msgstr "El servicio de país no existe!"
+
+msgid "Service doesn't exist!"
+msgstr "¡El servicio no existe!"
+
+msgid "No record exist against your County"
+msgstr "Ningún registro existen en contra de suel condado"
+
+msgid "Error while retrieving Country from Country code"
+msgstr "error al recuperarde País Código de país"
+
+msgid "This Service not available in this Country"
+msgstr "Este servicio no está disponible en estePaís,"
+
+msgid "Error while creating Lead"
+msgstr "error mientras que la creación deplomo"
+
+msgid "Lead not created"
+msgstr "Plomo Elno se ha creado"
+
+msgid "You don't have Permission to create this Setting"
+msgstr "Usted no tiene permiso para crear estedeselección"
+
+msgid "Error in retrieving Settings"
+msgstr "error en la recuperación de configuración"
+
+msgid "Setting does not exist"
+msgstr "Valor no existe"
+
+msgid "Unable to upsert employee details"
+msgstr "Incapaz de upsert detalles de los empleados"
+
+msgid "This Consumer has already settings with this slug"
+msgstr "Este consumidor ya tiene configuraciones con esta slug."
+
+msgid "This Consumer has already more than 1 Settings with this slug"
+msgstr "Este consumidor ya tiene más de 1 configuración con esta slug."
+
+msgid "Unable to create Settings"
+msgstr "No se puede crearconfiguraciones de"
+
+msgid "Consumer Settings missing for your User profile!"
+msgstr "configuraciones. ¡Faltanconsumidor para su perfil de usuario!"
+
+msgid "Error in fetching Consumer Settings"
+msgstr "Error al obtener la configuración del consumidor."
+
+msgid "Unable to update Settings"
+msgstr "No se puede actualizar la configuración. ¡configuración del"
+
+msgid "Consumer Setting doesn't exist!"
+msgstr "Laconsumidor no existe!"
+
+msgid "Employee details doesn't exist!"
+msgstr "¡Los detalles del empleado no existen!"
+
+msgid "Something went wrong, unable to delete Settings, try again"
+msgstr "Algo salió mal, no se puede eliminar la configuración, inténtelo de nuevo."
+
+msgid "Unable to Logout"
+msgstr "No se puede cerrar la sesión. ¡"
+
+msgid "User Address doesn't exist!"
+msgstr "La dirección de usuario no existe!"
+
+msgid "Can't create client Token!"
+msgstr "¡No se puede crear el token de cliente!"
+
+msgid "Something went wrong, unable to retrieve Donation list"
+msgstr "Algo salió mal, no se pudo recuperar la lista de donaciones"
+
+msgid "User's Country ID doesn't exist"
+msgstr ". El ID de país del usuario no existe."
+
+msgid "Error in retrieving User's Country ID!"
+msgstr "Error al recuperar el ID de país del usuario."
+
+msgid "Business or Branch ID must present in params"
+msgstr "La identificación de la empresa o sucursal debe aparecer en los parámetros."
+
+msgid "Promotion purchase Price missing, try again later!"
+msgstr "Compra de la promoción. Falta el precio, ¡inténtelo de nuevo más tarde!"
+
+msgid "Employee Enrollment"
+msgstr "inscripción de empleados ¡"
+
+msgid "Reset Password"
+msgstr "Contraseña de restablecimiento de"
+
+msgid "Can't get push notification message!"
+msgstr "No se puede recibir el mensaje de notificación automática!"
+
+msgid "Please register yourself on TUDO using email"
+msgstr "Regístrese en TUDO usando el correo electrónico."
+
+msgid "We noticed you already an account on TUDO app. just login using email"
+msgstr "Notamos que ya tiene una cuenta en la aplicación TUDO. solo inicie sesión usando el correo electrónico El"
+
+msgid "Employee status is"
+msgstr "estado del empleado es"
+
+msgid "You can't update Job status after"
+msgstr "No puede actualizar el estado del trabajo después de"
+
+msgid "You can't update Job status after Service Provider"
+msgstr "No puede actualizar el estado del trabajo después del Proveedor de servicios"
+
+msgid "You can't update Job status after Consumer"
+msgstr "No puede actualizar el estado del trabajo después de Consumidor"
+
+msgid "Your business already purchased the Package:"
+msgstr "Su empresa ya compró el Paquete: la"
+
+msgid "Amount must be at least"
+msgstr "cantidad debe ser al menos el"
+
+msgid "MAX transfer limit is , Today’s remaining limit is"
+msgstr "límite de transferencia MÁX. , El límite restante de hoy es"
+
+msgid "Error while creating details, try again"
+msgstr "Error al crear los detalles. Vuelva a intentarlo."
+
+msgid "Error while updating details, try again"
+msgstr "Error al actualizar los detalles. Vuelva a intentarlo."
+
+msgid "Multiple records found for this employee!"
+msgstr "Se encontraron varios registros para este empleado."

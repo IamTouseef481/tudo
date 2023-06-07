@@ -1,0 +1,33 @@
+<h1>Show Platform terms and conditions</h1>
+
+<ul>
+
+  <li>
+    <strong>Type:</strong>
+    <%= @platform_terms_and_conditions.type %>
+  </li>
+
+  <li>
+    <strong>Start date:</strong>
+    <%= @platform_terms_and_conditions.start_date %>
+  </li>
+
+  <li>
+    <strong>End date:</strong>
+    <%= @platform_terms_and_conditions.end_date %>
+  </li>
+
+  <li>
+    <strong>Url:</strong>
+    <%= @platform_terms_and_conditions.url %>
+  </li>
+
+  <li>
+    <strong>Country:</strong>
+    <%= @platform_terms_and_conditions.country_id %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.platform_terms_and_conditions_path(@conn, :edit, @platform_terms_and_conditions) %></span>
+<span><%= link "Back", to: Routes.platform_terms_and_conditions_path(@conn, :index) %></span>

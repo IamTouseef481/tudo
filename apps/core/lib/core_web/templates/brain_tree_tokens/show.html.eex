@@ -1,0 +1,18 @@
+<h1>Show Brain tree tokens</h1>
+
+<ul>
+
+  <li>
+    <strong>Id:</strong>
+    <%= @brain_tree_tokens.id %>
+  </li>
+
+  <li>
+    <strong>Token:</strong>
+    <%= @brain_tree_tokens.token %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.brain_tree_tokens_path(@conn, :edit, @brain_tree_tokens) %></span>
+<span><%= link "Back", to: Routes.brain_tree_tokens_path(@conn, :index) %></span>

@@ -1,0 +1,34 @@
+<h1>Listing Platform terms and conditions</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Start date</th>
+      <th>End date</th>
+      <th>Url</th>
+      <th>Country</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for platform_terms_and_conditions <- @platform_terms_and_conditions do %>
+    <tr>
+      <td><%= platform_terms_and_conditions.type %></td>
+      <td><%= platform_terms_and_conditions.start_date %></td>
+      <td><%= platform_terms_and_conditions.end_date %></td>
+      <td><%= platform_terms_and_conditions.url %></td>
+      <td><%= platform_terms_and_conditions.country_id %></td>
+
+      <td>
+        <%= link "Show", to: Routes.platform_terms_and_conditions_path(@conn, :show, platform_terms_and_conditions) %>
+        <%= link "Edit", to: Routes.platform_terms_and_conditions_path(@conn, :edit, platform_terms_and_conditions) %>
+        <%= link "Delete", to: Routes.platform_terms_and_conditions_path(@conn, :delete, platform_terms_and_conditions), method: :delete, data: [confirm: "Are you sure?"] %>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Platform terms and conditions", to: Routes.platform_terms_and_conditions_path(@conn, :new) %></span>

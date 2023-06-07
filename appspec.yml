@@ -1,0 +1,10 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /var/www/tudo/tudo
+hooks:
+  BeforeInstall:
+    - location: /home/ubuntu/deploy.sh
+      timeout: 300
+      runas: ubuntu

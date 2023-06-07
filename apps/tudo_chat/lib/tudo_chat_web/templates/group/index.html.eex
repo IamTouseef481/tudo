@@ -1,0 +1,46 @@
+<h1>Listing Groups</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Group type</th>
+      <th>Reference</th>
+      <th>Is active</th>
+      <th>Service request</th>
+      <th>Editable</th>
+      <th>Forward</th>
+      <th>Add members</th>
+      <th>Allow pvt message</th>
+      <th>Profile pic</th>
+      <th>Expires by date</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for group <- @groups do %>
+    <tr>
+      <td><%= group.name %></td>
+      <td><%= group.group_type %></td>
+      <td><%= group.reference_id %></td>
+      <td><%= group.is_active %></td>
+      <td><%= group.service_request_id %></td>
+      <td><%= group.editable %></td>
+      <td><%= group.forward %></td>
+      <td><%= group.add_members %></td>
+      <td><%= group.allow_pvt_message %></td>
+      <td><%= group.profile_pic %></td>
+      <td><%= group.expires_by_date %></td>
+
+      <td>
+        <%= link "Show", to: Routes.group_path(@conn, :show, group) %>
+        <%= link "Edit", to: Routes.group_path(@conn, :edit, group) %>
+        <%= link "Delete", to: Routes.group_path(@conn, :delete, group), method: :delete, data: [confirm: "Are you sure?"] %>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Group", to: Routes.group_path(@conn, :new) %></span>

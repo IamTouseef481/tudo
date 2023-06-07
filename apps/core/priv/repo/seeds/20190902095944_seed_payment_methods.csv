@@ -1,0 +1,11 @@
+id,description
+credit_card,Credit Card
+paypal,Paypal
+cash,Cash
+android_pay,Android Pay
+apple_pay,Apple Pay
+google_pay,Google Pay
+samsung_pay,Samsung Pay
+union_pay,Union Pay
+venmo,Venmo
+cheque,Cheque

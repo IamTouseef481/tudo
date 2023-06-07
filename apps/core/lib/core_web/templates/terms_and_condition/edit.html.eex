@@ -1,0 +1,5 @@
+<h1>Edit Terms and condition</h1>
+
+<%= render "form.html", Map.put(assigns, :action, Routes.terms_and_condition_path(@conn, :update, @terms_and_condition)) %>
+
+<span><%= link "Back", to: Routes.terms_and_condition_path(@conn, :index) %></span>

@@ -1,0 +1,55 @@
+<%= form_for @changeset, @action, fn f -> %>
+  <%= if @changeset.action do %>
+    <div class="alert alert-danger">
+      <p>Oops, something went wrong! Please check the errors below.</p>
+    </div>
+  <% end %>
+
+  <%= label f, :name %>
+  <%= text_input f, :name %>
+  <%= error_tag f, :name %>
+
+  <%= label f, :group_type %>
+  <%= text_input f, :group_type %>
+  <%= error_tag f, :group_type %>
+
+  <%= label f, :reference_id %>
+  <%= number_input f, :reference_id %>
+  <%= error_tag f, :reference_id %>
+
+  <%= label f, :is_active %>
+  <%= checkbox f, :is_active %>
+  <%= error_tag f, :is_active %>
+
+  <%= label f, :service_request_id %>
+  <%= number_input f, :service_request_id %>
+  <%= error_tag f, :service_request_id %>
+
+  <%= label f, :editable %>
+  <%= checkbox f, :editable %>
+  <%= error_tag f, :editable %>
+
+  <%= label f, :forward %>
+  <%= checkbox f, :forward %>
+  <%= error_tag f, :forward %>
+
+  <%= label f, :add_members %>
+  <%= checkbox f, :add_members %>
+  <%= error_tag f, :add_members %>
+
+  <%= label f, :allow_pvt_message %>
+  <%= checkbox f, :allow_pvt_message %>
+  <%= error_tag f, :allow_pvt_message %>
+
+  <%= label f, :profile_pic %>
+  <%= text_input f, :profile_pic %>
+  <%= error_tag f, :profile_pic %>
+
+  <%= label f, :expires_by_date %>
+  <%= datetime_select f, :expires_by_date %>
+  <%= error_tag f, :expires_by_date %>
+
+  <div>
+    <%= submit "Save" %>
+  </div>
+<% end %>

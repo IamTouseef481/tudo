@@ -1,0 +1,6 @@
+"id","name","is_active","country_id","inserted_at","updated_at"
+1,Federal/ National/ Central Govt. Authority,true,1,2019-01-11 04:44:04,2019-01-11 04:44:04
+2,State/ Region/ Province Govt. Authority,true,1,2019-01-11 04:44:04,2019-01-11 04:44:04
+3,County/ City Govt. Authority,true,1,2019-01-11 04:44:04,2019-01-11 04:44:04
+4,Town/Village/Local Govt. Authority,true,1,2019-01-11 04:44:04,2019-01-11 04:44:04
+5,Other Govt. Authority,true,1,2019-01-11 04:44:03,2019-01-11 04:44:03

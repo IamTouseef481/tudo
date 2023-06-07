@@ -1,0 +1,5 @@
+<h1>Edit Brain tree tokens</h1>
+
+<%= render "form.html", Map.put(assigns, :action, Routes.brain_tree_tokens_path(@conn, :update, @brain_tree_tokens)) %>
+
+<span><%= link "Back", to: Routes.brain_tree_tokens_path(@conn, :index) %></span>

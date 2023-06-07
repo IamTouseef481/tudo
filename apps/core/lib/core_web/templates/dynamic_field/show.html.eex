@@ -1,0 +1,18 @@
+<h1>Show Dynamic field</h1>
+
+<ul>
+
+  <li>
+    <strong>Is active:</strong>
+    <%= @dynamic_field.is_active %>
+  </li>
+
+  <li>
+    <strong>Fields:</strong>
+    <%= @dynamic_field.fields %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.dynamic_field_path(@conn, :edit, @dynamic_field) %></span>
+<span><%= link "Back", to: Routes.dynamic_field_path(@conn, :index) %></span>

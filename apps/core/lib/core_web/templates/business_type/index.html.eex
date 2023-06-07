@@ -1,0 +1,26 @@
+<h1>Listing Business types</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for business_type <- @business_types do %>
+    <tr>
+      <td><%= business_type.name %></td>
+
+      <td>
+        <%= link "Show", to: Routes.business_type_path(@conn, :show, business_type) %>
+        <%= link "Edit", to: Routes.business_type_path(@conn, :edit, business_type) %>
+        <%= link "Delete", to: Routes.business_type_path(@conn, :delete, business_type), method: :delete, data: [confirm: "Are you sure?"] %>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Business type", to: Routes.business_type_path(@conn, :new) %></span>

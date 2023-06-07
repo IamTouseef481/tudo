@@ -1,0 +1,18 @@
+<h1>Show Licence issuing authorities</h1>
+
+<ul>
+
+  <li>
+    <strong>Name:</strong>
+    <%= @licence_issuing_authorities.name %>
+  </li>
+
+  <li>
+    <strong>Is active:</strong>
+    <%= @licence_issuing_authorities.is_active %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.licence_issuing_authorities_path(@conn, :edit, @licence_issuing_authorities) %></span>
+<span><%= link "Back", to: Routes.licence_issuing_authorities_path(@conn, :index) %></span>

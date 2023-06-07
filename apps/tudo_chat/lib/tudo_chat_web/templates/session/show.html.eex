@@ -1,0 +1,18 @@
+<h1>Show Session</h1>
+
+<ul>
+
+  <li>
+    <strong>User:</strong>
+    <%= @session.user_id %>
+  </li>
+
+  <li>
+    <strong>Token:</strong>
+    <%= @session.token %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.session_path(@conn, :edit, @session) %></span>
+<span><%= link "Back", to: Routes.session_path(@conn, :index) %></span>

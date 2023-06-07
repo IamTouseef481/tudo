@@ -1,0 +1,3 @@
+id,title,description,value,is_percentage,business_id,tax_type_id,inserted_at,updated_at
+1,tax1,"",5,true,null,11,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162249
+2,tax2,"",20,true,null,12,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162249

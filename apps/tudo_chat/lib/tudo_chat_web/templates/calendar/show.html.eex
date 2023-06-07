@@ -1,0 +1,73 @@
+<h1>Show Calendar</h1>
+
+<ul>
+
+  <li>
+    <strong>Calendar title:</strong>
+    <%= @calendar.calendar_title %>
+  </li>
+
+  <li>
+    <strong>Calendar desc:</strong>
+    <%= @calendar.calendar_desc %>
+  </li>
+
+  <li>
+    <strong>All day:</strong>
+    <%= @calendar.all_day %>
+  </li>
+
+  <li>
+    <strong>Start date:</strong>
+    <%= @calendar.start_date %>
+  </li>
+
+  <li>
+    <strong>Duration:</strong>
+    <%= @calendar.duration %>
+  </li>
+
+  <li>
+    <strong>Recurring:</strong>
+    <%= @calendar.recurring %>
+  </li>
+
+  <li>
+    <strong>Recurring interval:</strong>
+    <%= @calendar.recurring_interval %>
+  </li>
+
+  <li>
+    <strong>Number of occurances:</strong>
+    <%= @calendar.number_of_occurances %>
+  </li>
+
+  <li>
+    <strong>End date:</strong>
+    <%= @calendar.end_date %>
+  </li>
+
+  <li>
+    <strong>Reminders:</strong>
+    <%= @calendar.reminders %>
+  </li>
+
+  <li>
+    <strong>Alarm sound:</strong>
+    <%= @calendar.alarm_sound %>
+  </li>
+
+  <li>
+    <strong>Snooz:</strong>
+    <%= @calendar.snooz %>
+  </li>
+
+  <li>
+    <strong>Show us:</strong>
+    <%= @calendar.show_us %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.calendar_path(@conn, :edit, @calendar) %></span>
+<span><%= link "Back", to: Routes.calendar_path(@conn, :index) %></span>

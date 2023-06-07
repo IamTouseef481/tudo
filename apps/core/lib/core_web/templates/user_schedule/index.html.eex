@@ -1,0 +1,26 @@
+<h1>Listing User schedules</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Schedule</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for user_schedule <- @user_schedules do %>
+    <tr>
+      <td><%= user_schedule.schedule %></td>
+
+      <td>
+        <span><%= link "Show", to: Routes.user_schedule_path(@conn, :show, user_schedule) %></span>
+        <span><%= link "Edit", to: Routes.user_schedule_path(@conn, :edit, user_schedule) %></span>
+        <span><%= link "Delete", to: Routes.user_schedule_path(@conn, :delete, user_schedule), method: :delete, data: [confirm: "Are you sure?"] %></span>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New User schedule", to: Routes.user_schedule_path(@conn, :new) %></span>

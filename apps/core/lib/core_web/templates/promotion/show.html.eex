@@ -1,0 +1,33 @@
+<h1>Show Promotion</h1>
+
+<ul>
+
+  <li>
+    <strong>Title:</strong>
+    <%= @promotion.title %>
+  </li>
+
+  <li>
+    <strong>Description:</strong>
+    <%= @promotion.description %>
+  </li>
+
+  <li>
+    <strong>Photos:</strong>
+    <%= @promotion.photos %>
+  </li>
+
+  <li>
+    <strong>Begin date:</strong>
+    <%= @promotion.begin_date %>
+  </li>
+
+  <li>
+    <strong>End date:</strong>
+    <%= @promotion.end_date %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.promotion_path(@conn, :edit, @promotion) %></span>
+<span><%= link "Back", to: Routes.promotion_path(@conn, :index) %></span>

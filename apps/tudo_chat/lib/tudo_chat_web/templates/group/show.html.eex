@@ -1,0 +1,63 @@
+<h1>Show Group</h1>
+
+<ul>
+
+  <li>
+    <strong>Name:</strong>
+    <%= @group.name %>
+  </li>
+
+  <li>
+    <strong>Group type:</strong>
+    <%= @group.group_type %>
+  </li>
+
+  <li>
+    <strong>Reference:</strong>
+    <%= @group.reference_id %>
+  </li>
+
+  <li>
+    <strong>Is active:</strong>
+    <%= @group.is_active %>
+  </li>
+
+  <li>
+    <strong>Service request:</strong>
+    <%= @group.service_request_id %>
+  </li>
+
+  <li>
+    <strong>Editable:</strong>
+    <%= @group.editable %>
+  </li>
+
+  <li>
+    <strong>Forward:</strong>
+    <%= @group.forward %>
+  </li>
+
+  <li>
+    <strong>Add members:</strong>
+    <%= @group.add_members %>
+  </li>
+
+  <li>
+    <strong>Allow pvt message:</strong>
+    <%= @group.allow_pvt_message %>
+  </li>
+
+  <li>
+    <strong>Profile pic:</strong>
+    <%= @group.profile_pic %>
+  </li>
+
+  <li>
+    <strong>Expires by date:</strong>
+    <%= @group.expires_by_date %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.group_path(@conn, :edit, @group) %></span>
+<span><%= link "Back", to: Routes.group_path(@conn, :index) %></span>

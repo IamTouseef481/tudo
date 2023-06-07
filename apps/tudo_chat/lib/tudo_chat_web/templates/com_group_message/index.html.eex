@@ -1,0 +1,32 @@
+<h1>Listing Com group messages</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Content type</th>
+      <th>Message</th>
+      <th>Is active</th>
+      <th>Is personal</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for com_group_message <- @com_group_messages do %>
+    <tr>
+      <td><%= com_group_message.content_type %></td>
+      <td><%= com_group_message.message %></td>
+      <td><%= com_group_message.is_active %></td>
+      <td><%= com_group_message.is_personal %></td>
+
+      <td>
+        <%= link "Show", to: Routes.com_group_message_path(@conn, :show, com_group_message) %>
+        <%= link "Edit", to: Routes.com_group_message_path(@conn, :edit, com_group_message) %>
+        <%= link "Delete", to: Routes.com_group_message_path(@conn, :delete, com_group_message), method: :delete, data: [confirm: "Are you sure?"] %>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Com group message", to: Routes.com_group_message_path(@conn, :new) %></span>

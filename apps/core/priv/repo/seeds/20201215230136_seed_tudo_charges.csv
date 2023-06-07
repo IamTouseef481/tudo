@@ -1,0 +1,13 @@
+name,slug,value,is_percentage,country_id,inserted_at,updated_at
+Booking Fee,booking_fee,10,true,1,2020-12-15 03:56:15.162244,2020-12-15 03:56:15.162244
+Commission Fee,commission_fee,5,true,1,2020-12-15 03:56:15.162244,2020-12-15 03:56:15.162244
+Cancellation Fee,cancellation_fee,0,true,1,2020-12-15 03:56:15.162244,2020-12-15 03:56:15.162244
+Govt Fee,govt_fee,0,true,1,2020-12-15 03:56:15.162244,2020-12-15 03:56:15.162244
+Insurance Fee,insurance_fee,10,true,1,2020-12-15 03:56:15.162244,2020-12-15 03:56:15.162244
+Braintree Fee,braintree_fee,3,true,1,2020-12-15 03:56:15.162244,2020-12-15 03:56:15.162244
+PayPal Payment Fee,paypal_payment_fee,3.49,true,1,2020-12-15 03:56:15.162244,2020-12-15 03:56:15.162244
+PayPal Payout Fee,paypal_payout_fee,0.25,false,1,2020-12-15 03:56:15.162244,2020-12-15 03:56:15.162244
+Hyperwallet Fee,hyperwallet_fee,1,true,1,2020-12-15 03:56:15.162244,2020-12-15 03:56:15.162244
+BSP Transfer Delay Days,bsp_transfer_delay_days,0,false,1,2020-12-15 03:56:15.162244,2020-12-15 03:56:15.162244
+BSP Minimum Transfer Amount,bsp_minimum_transfer_amount,50,false,1,2020-12-15 03:56:15.162244,2020-12-15 03:56:15.162244
+BSP Maximum Transfer Amount,bsp_maximum_transfer_amount,5000,false,1,2020-12-15 03:56:15.162244,2020-12-15 03:56:15.162244

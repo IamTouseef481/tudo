@@ -1,0 +1,29 @@
+event,slug,cmr_email,bsp_email,cmr_notification,bsp_notification,category_id,inserted_at,updated_at
+New Bid Request,new_bid_request,false,false,false,true,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Bid Reject,bid_reject,false,false,false,true,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Create Job Confirmed,create_job_confirmed,true,true,true,true,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Create Job Pending,create_job_pending,true,true,true,true,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Cancel Job,cancel_job,true,true,true,true,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Reschedule Job,reschedule_job,true,true,true,true,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Agent Reassign Job,agent_reassign_job,false,false,true,false,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Job Invoice,job_invoice,true,false,true,false,payment,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Adjust Invoice,adjust_invoice,false,true,false,true,payment,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Invoice Adjusted,adjusted_invoice,true,false,true,false,payment,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Raise Dispute,raise_dispute,false,true,false,true,payment,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Manage Dispute,manage_dispute,true,false,true,false,payment,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Payment Made,payment_made,true,true,true,true,payment,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Cash Payment,cash_payment,false,false,true,true,payment,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Cheque Payment,cheque_payment,false,false,true,true,payment,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Reject Changes,reject_changes,true,true,true,true,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Accept Job Changes,accept_job_changes,true,true,true,true,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Update Platform Terms,update_platform_terms,true,true,true,true,tudo_account,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Invite Employee,invite_employee,true,false,true,false,invitation,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Employee Invite Accept,employee_invitation_accept,false,false,false,true,invitation,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+On-board Walk_in CMR Near Appointment,on_board_walk_in_cmr_near_appointment,false,false,true,false,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+On-board Walk_in Near Appointment,on_board_walk_in_near_appointment,false,false,true,true,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+On-board On-Demand and Home Service Near Appointment,on_board_in_home_on_demand_near_appointment,false,false,true,true,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Appointment Alert 12 Hrs Earlier,appointment_alert_12_hrs_earlier,false,false,false,false,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Appointment Alert 2 Hrs Earlier,appointment_alert_2_hrs_earlier,false,false,false,false,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Appointment Alert 30 Mins Earlier,appointment_alert_30_mins_earlier,false,false,false,false,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Appointment Alert 5 Mins Earlier,appointment_alert_5_mins_earlier,false,false,false,false,job,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+Incoming call,call,false,false,true,true,chat,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244

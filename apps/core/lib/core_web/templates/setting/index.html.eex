@@ -1,0 +1,32 @@
+<h1>Listing Settings</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Slug</th>
+      <th>Type,</th>
+      <th>Fields</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for setting <- @settings do %>
+    <tr>
+      <td><%= setting.title %></td>
+      <td><%= setting.slug %></td>
+      <td><%= setting.type %></td>
+      <td><%= setting.fields %></td>
+
+      <td>
+        <span><%= link "Show", to: Routes.setting_path(@conn, :show, setting) %></span>
+        <span><%= link "Edit", to: Routes.setting_path(@conn, :edit, setting) %></span>
+        <span><%= link "Delete", to: Routes.setting_path(@conn, :delete, setting), method: :delete, data: [confirm: "Are you sure?"] %></span>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Setting", to: Routes.setting_path(@conn, :new) %></span>

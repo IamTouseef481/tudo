@@ -1,0 +1,26 @@
+<h1>Listing Employee roles</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for employee_role <- @employee_roles do %>
+    <tr>
+      <td><%= employee_role.name %></td>
+
+      <td>
+        <%= link "Show", to: Routes.employee_role_path(@conn, :show, employee_role) %>
+        <%= link "Edit", to: Routes.employee_role_path(@conn, :edit, employee_role) %>
+        <%= link "Delete", to: Routes.employee_role_path(@conn, :delete, employee_role), method: :delete, data: [confirm: "Are you sure?"] %>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Employee role", to: Routes.employee_role_path(@conn, :new) %></span>

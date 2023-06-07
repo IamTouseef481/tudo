@@ -1,0 +1,530 @@
+msgid "Slug"
+msgstr "Language_AR Text"
+
+msgid "language"
+msgstr "عربى"
+
+msgid "email"
+msgstr "البريد الإلكتروني"
+
+msgid "password"
+msgstr "كلمة المرور"
+
+msgid "show_password"
+msgstr "مشاهدة كلمة المرور"
+
+msgid "hide_password"
+msgstr "إخفاء كلمة المرور"
+
+msgid "login"
+msgstr "تسجيل الدخول"
+
+msgid "signup"
+msgstr "تسجيل حساب جديد"
+
+msgid "code"
+msgstr "Code"
+
+msgid "mobile"
+msgstr "الجوال رقم"
+
+msgid "firstname"
+msgstr "اسمالأول"
+
+msgid "lastname"
+msgstr "اسم العائلة"
+
+msgid "termsandcondition"
+msgstr "أوافق TUDO شروط والحالة"
+
+msgid "clear"
+msgstr "واضحة"
+
+msgid "backtologin"
+msgstr "العودة إلى الدخول"
+
+msgid "forgot"
+msgstr "هل نسيتكلمة"
+
+msgid "deals"
+msgstr "عروض"
+
+msgid "eventer"
+msgstr "EvenTer"
+
+msgid "hanging"
+msgstr "RSVP"
+
+msgid "mynet"
+msgstr "MyNet"
+
+msgid "nter"
+msgstr "NTer"
+
+msgid "payment"
+msgstr "المدفوعات"
+
+msgid "report"
+msgstr "تقارير"
+
+msgid "schedule"
+msgstr "من المقرر"
+
+msgid "addinhouse"
+msgstr "إضافة في المنزل"
+
+msgid "addevent"
+msgstr "إضافة حدث"
+
+msgid "addtask"
+msgstr "إضافة مهمة"
+
+msgid "addondemand"
+msgstr "إضافة عند الطلبطلب"
+
+msgid "addwalkin"
+msgstr "إضافة بدونإضافة"
+
+msgid "addbranch"
+msgstr "فرع"
+
+msgid "addemployee"
+msgstr "إضافة موظف"
+
+msgid "addinvoice"
+msgstr "إضافة فاتورة"
+
+msgid "addfollowup"
+msgstr "إضافة موعد للمتابعة"
+
+msgid "dashboard"
+msgstr "لوحة المعلومات الخاصة بي"
+
+msgid "setting"
+msgstr "إعدادات"
+
+msgid "BusinessServiceProvider"
+msgstr "كن مقدم خدمة أعمال"
+
+msgid "switchtoService Provider"
+msgstr "التبديل إلىمزود الأعمال"
+
+msgid "Notification"
+msgstr "تفضيل إشعار"
+
+msgid "TUDO"
+msgstr "راجعTUDO"
+
+msgid "contactus"
+msgstr "اتصل بنا"
+
+msgid "signout"
+msgstr "تسجيل الخروج"
+
+msgid "branch"
+msgstr "الفرع"
+
+msgid "dob"
+msgstr "تاريختاريخ الميلاد"
+
+msgid "roleofmployee"
+msgstr "دور الموظف"
+
+msgid "rolename"
+msgstr "اسم الدور"
+
+msgid "vehicleid"
+msgstr "معرّف تسجيل المركبة"
+
+msgid "service"
+msgstr "الخدمة"
+
+msgid "employeetype"
+msgstr "نوع الموظف"
+
+msgid "workshift"
+msgstr "وردية العمل"
+
+msgid "payscale"
+msgstr "جدول الدفع"
+
+msgid "annulabsencehours"
+msgstr "ساعات الغياب السنوية"
+
+msgid "legalbusinessname"
+msgstr "الاسم القانوني"
+
+msgid "branchphone"
+msgstr "للشركة رقم الهاتف رقم"
+
+msgid "licenseno"
+msgstr "الترخيص التجاري #"
+
+msgid "establishedyear"
+msgstr "الحافلة. سنة التأسيس"
+
+msgid "expirydate"
+msgstr "الرخصة تاريخ انتهاء الصلاحية"
+
+msgid "profilepicture"
+msgstr "صورة الملف التجاري صورة"
+
+msgid "licensepicture"
+msgstr "الرخصةالصورة"
+
+msgid "alternatephone"
+msgstr "التجاري رقم الهاتف"
+
+msgid "numberofemployees"
+msgstr "عدد الموظفين"
+
+msgid "businesslegaladdress"
+msgstr "العنوان القانوني"
+
+msgid "legalbusinesscheck"
+msgstr "للعمل نعم ، عمري يزيد عن 18 عامًا وأقبل بالمتابعة"
+
+msgid "errortext"
+msgstr "يجب أن تقبل التحقق من هذا الشرط"
+
+msgid "selectcheck"
+msgstr "حدد خانة (مربعات) الاختيار التي تنطبق على عملك."
+
+msgid "customervisitcheck"
+msgstr "الخدمات(يقوم العميل بزيارة منشأة الأعمال الخاصة بي)"
+
+msgid "customervisithelp"
+msgstr "الفوريةالمساعدة - اختر مربع الاختيار أعلاه إذا قام العميل (العملاء) بزيارة مرفق عملك للحصول على الخدمات التي يقدمها عملك. مثال: قانون الشركات والمكاتب طبيب، الغناء، بار ومطعم، فنادق، سيارات ورشة لاصلاح، وماذلك،"
+
+msgid "businesscheck"
+msgstr "إلى البيت الخدمات (عملي زيارة شخصية الأماكن العملاء)"
+
+msgid "businesscheckhelp"
+msgstr "مساعدة - اختر خانة الاختيار أعلاه إذا كنت أنت أو موظف زيارتك (ق) مكان العميل لتقديم خدمات عملك. مثال: تنظيف المنزل ، وخدمات الإصلاح ، والعامل الماهر ، والسباكة ، والدروس الخصوصية بالمنزل ، ودروس الموسيقى ، والمربية ، والمساعدات الصحية ، وما إلى ذلك."
+
+msgid "businessprovidecheck"
+msgstr "خدمات عند الطلب (يقدم نشاطي التجاري خدمات حسب الموقع للعملاء)"
+
+msgid "businessprovidehelp"
+msgstr "مساعدة - اختر مربع الاختيار أعلاه إذا كان لديك تقدم الأعمال خدمات عند الطلب على مدار الساعة. مثال: سيارة أجرة ، مساعدة على الطريق ، إصلاحات طارئة ، خدمات قائمة على الموقع ، سيارة إسعاف ، خدمات عامة ، إلخ."
+
+msgid "CustomerWalkIn"
+msgstr "خدمات الدخول (يزور العميل منشأة عملي)"
+
+msgid "CustomerInHome"
+msgstr "الخدمات الداخلية (أعمالي الشخصية لزيارة أماكن العملاء)"
+
+msgid "BusinessOnDemand"
+msgstr "خدمات عند الطلب (بلدي يقدم العمل خدمات حسب الطلب للعملاء على أساس الموقع)"
+
+msgid "uploadprofilepicture"
+msgstr "تحميل صور الملف التجاري:"
+
+msgid "agreeandaccept"
+msgstr "أوافق وأوافق على دفع المستحقات المتكبدة في التحقق من خلفية نشاطي التجاري"
+
+msgid "accepttudo"
+msgstr "أوافق وأوافق على شروط وأحكام TUDO"
+
+msgid "labeluploadlicenpicture"
+msgstr "تحميل صور ترخيص العمل"
+
+msgid "infromationislegitmate"
+msgstr "معلومات الهوية التي تم إدخالها أعلاه شرعية ودقيقة إلى معرفتي"
+
+msgid "identificationtype1"
+msgstr "حدد نوع التعريف"
+
+msgid "documentnumber1"
+msgstr "الشخصي رقم"
+
+msgid "issuingauthority1"
+msgstr "الهويةسلطة إصدار تعريف الصورة"
+
+msgid "identificationtype2"
+msgstr "الشخصيةحدد نوع الهوية الشخصية"
+
+msgid "documentnumber2"
+msgstr "رخصة العمل #"
+
+msgid "issuingauthority2"
+msgstr "سلطة إصدار تعريف الصورة"
+
+msgid "informationislegitmate"
+msgstr "أوافق على أن معلومات الهوية التي تم إدخالها أعلاه شرعية ودقيقة حسب معرفتي"
+
+msgid "licenseissuingauthoritytype"
+msgstr "نوع الترخيص إصدار"
+
+msgid "businesslicenseno"
+msgstr "الترخيص التجاري #"
+
+msgid "licenseissuingauthority"
+msgstr "ترخيص العمل سلطة إصدار الترخيص"
+
+msgid "Next"
+msgstr "التالية"
+
+msgid "newpass"
+msgstr "كلمة المرور الجديدة"
+
+msgid "confirmpass"
+msgstr "تأكيد كلمة المرور"
+
+msgid "createHoliday"
+msgstr "إعدادالعملعطلة"
+
+msgid "updateHoliday"
+msgstr "تحديثالعمل"
+
+msgid "title"
+msgstr "عنوان"
+
+msgid "discrption"
+msgstr "العطلةالعطلة"
+
+msgid "dishint"
+msgstr "وصفوصفإجازة"
+
+msgid "duration"
+msgstr "المدة"
+
+msgid "todate"
+msgstr "إلى تاريخ"
+
+msgid "fromdate"
+msgstr "من تاريخ"
+
+msgid "totime"
+msgstr "إلى وقت"
+
+msgid "fromtime"
+msgstr "من وقت"
+
+msgid "ishalf"
+msgstr "جزئي يوم؟"
+
+msgid "update"
+msgstr "التحديث"
+
+msgid "cancel"
+msgstr "إلغاء"
+
+msgid "delete"
+msgstr "حذف"
+
+msgid "close"
+msgstr "إغلاق"
+
+msgid "confDelete"
+msgstr "هل أنت متأكد؟"
+
+msgid "updateMessage"
+msgstr "تم التحديث"
+
+msgid "createMessage"
+msgstr "بنجاح تم"
+
+msgid "deleteHoliday"
+msgstr "الحذف بنجاح"
+
+msgid "hitToDate"
+msgstr "حتى تاريخ"
+
+msgid "hitfromdate"
+msgstr "من تاريخ"
+
+msgid "hitToTime"
+msgstr "إلى وقت"
+
+msgid "hitFromTime"
+msgstr "من وقت"
+
+msgid "errTitle"
+msgstr "مطلوب عنوان الإجازة."
+
+msgid "errDis"
+msgstr "الوصف مطلوب."
+
+msgid "errToDate"
+msgstr "إلى تاريخ مطلوب."
+
+msgid "errToDate1"
+msgstr "النطاق الزمني غير صالح."
+
+msgid "errFromDate"
+msgstr "من التاريخ مطلوب."
+
+msgid "errToTime"
+msgstr "الوقت المطلوب."
+
+msgid "errFromTime"
+msgstr "من الوقت مطلوب."
+
+msgid "errToTime2"
+msgstr "النطاق الزمني غير صالح."
+
+msgid "allholi"
+msgstr "قائمةالسنوية"
+
+msgid "noholi"
+msgstr "العطلاتلم يتم العثور على الإجازات في هذا الشهر"
+
+msgid "noholiist"
+msgstr "الإجازة غير متوفرة"
+
+msgid "servicedate"
+msgstr "تاريخ الخدمة"
+
+msgid "flexibleme"
+msgstr "الوقت المرن (+/- ساعتان)"
+
+msgid "selectaddress"
+msgstr "حدد عنوان"
+
+msgid "uploadpicture"
+msgstr "تحميل الصور"
+
+msgid "next"
+msgstr "التالي"
+
+msgid "begintime"
+msgstr "وقت البدء وقت"
+
+msgid "endtime"
+msgstr "الانتهاء"
+
+msgid "save"
+msgstr "حفظ"
+
+msgid "namedis"
+msgstr "الاسم أو الوصف"
+
+msgid "offday"
+msgstr "خارج اليوم"
+
+msgid "default"
+msgstr "الافتراضي"
+
+msgid "nameORdis"
+msgstr "الاسم أو الوصف"
+
+msgid "err1"
+msgstr "وقتغير صالح"
+
+msgid "err2"
+msgstr "البدء أو الانتهاءبداية الاستراحة أو وقت الانتهاء غير صالح"
+
+msgid "err3"
+msgstr "يجب أن يتطلب الاسم أو الوصف"
+
+msgid "err4"
+msgstr "ساعتين كحد أقصى من التداخل المسموح به بين الورديات."
+
+msgid "err5"
+msgstr "يجب أن يكون وقت الاستراحة بين حدودالتحول تم"
+
+msgid "err6"
+msgstr "جدولحفظ الجدول بنجاح"
+
+msgid "err7"
+msgstr "معذرةً ، حدث خطأ ما ، حاول مرة أخرى !!"
+
+msgid "err8"
+msgstr "الرجاء إدخال معلومات التحول المطلوبة"
+
+msgid "err9"
+msgstr "هل أنت متأكد من تعيين الجداول الافتراضية لعملك؟"
+
+msgid "module"
+msgstr "المقرر"
+
+msgid "filter_title"
+msgstr "تصفيةحسب الحالة"
+
+msgid "accept"
+msgstr "نقبل"
+
+msgid "reject"
+msgstr "رفض"
+
+msgid "onway"
+msgstr "يوم في اتجاه"
+
+msgid "onboard"
+msgstr "من داخل المجلس"
+
+msgid "reschedule"
+msgstr "وإعادةجدولة"
+
+msgid "adjinvoice"
+msgstr "ضبط"
+
+msgid "invoice"
+msgstr "فاتورة"
+
+msgid "denyadjrequest"
+msgstr "رفض Adj.Request"
+
+msgid "sendremind"
+msgstr "إرسال تذكير"
+
+msgid "denydispute"
+msgstr "رفض المنازعات"
+
+msgid "resolvedispute"
+msgstr "حل المنازعات"
+
+msgid "pending"
+msgstr "قيد"
+
+msgid "waiting"
+msgstr "الانتظار"
+
+msgid "acceptreject"
+msgstr "قبول أو رفض"
+
+msgid "cancelled"
+msgstr "ألغي"
+
+msgid "scheduled"
+msgstr "المقرر"
+
+msgid "completed"
+msgstr "الانتهاء من"
+
+msgid "invoiced"
+msgstr "فواتير"
+
+msgid "invoicea"
+msgstr "فواتير (A)"
+
+msgid "closed"
+msgstr "مغلق"
+
+msgid "dispute"
+msgstr "المنازعات"
+
+msgid "finalized"
+msgstr "النهائية،"
+
+msgid "pay"
+msgstr "ادفع فاتورة"
+
+msgid "paydues"
+msgstr "سداد مستحقات"
+
+msgid "raisedispute"
+msgstr "رفع خلاف"
+
+msgid "ignored"
+msgstr "تجاهل"
+
+msgid "rejected"
+msgstr "رفض"
+
+msgid "reqinvoiceadjustment"
+msgstr "طلبتسوية الفاتورة"
+
+msgid "finalize"
+msgstr "وضع الصيغة النهائية"

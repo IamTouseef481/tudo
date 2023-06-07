@@ -1,0 +1,30 @@
+<h1>Listing Channels</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Desc</th>
+      <th>Status</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for channel <- @channels do %>
+    <tr>
+      <td><%= channel.name %></td>
+      <td><%= channel.desc %></td>
+      <td><%= channel.status %></td>
+
+      <td>
+        <%= link "Show", to: Routes.channel_path(@conn, :show, channel) %>
+        <%= link "Edit", to: Routes.channel_path(@conn, :edit, channel) %>
+        <%= link "Delete", to: Routes.channel_path(@conn, :delete, channel), method: :delete, data: [confirm: "Are you sure?"] %>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Channel", to: Routes.channel_path(@conn, :new) %></span>

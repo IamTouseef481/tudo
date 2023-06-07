@@ -1,0 +1,7 @@
+defmodule Core.Repo.Migrations.CreateSeedAclRes do
+  use Ecto.Migration
+
+  def change do
+
+  end
+end

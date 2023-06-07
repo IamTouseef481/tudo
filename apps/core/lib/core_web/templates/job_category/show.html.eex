@@ -1,0 +1,18 @@
+<h1>Show Job category</h1>
+
+<ul>
+
+  <li>
+    <strong>Name:</strong>
+    <%= @job_category.name %>
+  </li>
+
+  <li>
+    <strong>Description:</strong>
+    <%= @job_category.description %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.job_category_path(@conn, :edit, @job_category) %></span>
+<span><%= link "Back", to: Routes.job_category_path(@conn, :index) %></span>

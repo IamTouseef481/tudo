@@ -1,0 +1,30 @@
+<h1>Listing Terms and conditions</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Text</th>
+      <th>Start date</th>
+      <th>End date</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for terms_and_condition <- @terms_and_conditions do %>
+    <tr>
+      <td><%= terms_and_condition.text %></td>
+      <td><%= terms_and_condition.start_date %></td>
+      <td><%= terms_and_condition.end_date %></td>
+
+      <td>
+        <%= link "Show", to: Routes.terms_and_condition_path(@conn, :show, terms_and_condition) %>
+        <%= link "Edit", to: Routes.terms_and_condition_path(@conn, :edit, terms_and_condition) %>
+        <%= link "Delete", to: Routes.terms_and_condition_path(@conn, :delete, terms_and_condition), method: :delete, data: [confirm: "Are you sure?"] %>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Terms and condition", to: Routes.terms_and_condition_path(@conn, :new) %></span>

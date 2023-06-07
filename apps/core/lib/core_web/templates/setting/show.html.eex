@@ -1,0 +1,28 @@
+<h1>Show Setting</h1>
+
+<ul>
+
+  <li>
+    <strong>Title:</strong>
+    <%= @setting.title %>
+  </li>
+
+  <li>
+    <strong>Slug:</strong>
+    <%= @setting.slug %>
+  </li>
+
+  <li>
+    <strong>Type,:</strong>
+    <%= @setting.type %>
+  </li>
+
+  <li>
+    <strong>Fields:</strong>
+    <%= @setting.fields %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.setting_path(@conn, :edit, @setting) %></span>
+<span><%= link "Back", to: Routes.setting_path(@conn, :index) %></span>

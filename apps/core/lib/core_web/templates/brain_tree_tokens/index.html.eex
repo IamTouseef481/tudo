@@ -1,0 +1,28 @@
+<h1>Listing Brain tree tokens</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Token</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for brain_tree_tokens <- @brain_tree_tokens do %>
+    <tr>
+      <td><%= brain_tree_tokens.id %></td>
+      <td><%= brain_tree_tokens.token %></td>
+
+      <td>
+        <span><%= link "Show", to: Routes.brain_tree_tokens_path(@conn, :show, brain_tree_tokens) %></span>
+        <span><%= link "Edit", to: Routes.brain_tree_tokens_path(@conn, :edit, brain_tree_tokens) %></span>
+        <span><%= link "Delete", to: Routes.brain_tree_tokens_path(@conn, :delete, brain_tree_tokens), method: :delete, data: [confirm: "Are you sure?"] %></span>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Brain tree tokens", to: Routes.brain_tree_tokens_path(@conn, :new) %></span>

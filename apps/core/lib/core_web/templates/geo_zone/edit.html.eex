@@ -1,0 +1,5 @@
+<h1>Edit Geo zone</h1>
+
+<%= render "form.html", Map.put(assigns, :action, Routes.geo_zone_path(@conn, :update, @geo_zone)) %>
+
+<span><%= link "Back", to: Routes.geo_zone_path(@conn, :index) %></span>

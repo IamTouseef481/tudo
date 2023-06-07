@@ -1,0 +1,24 @@
+"id","slug","title","type","images","description","is_active","inserted_at","updated_at"
+1,accounter,AccounTer,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1584714623803790_accounter.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+2,business,Business,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1584714628066506_business.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+3,business_setting,Bus. Setting,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1584714629520042_business-setting.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+4,bus_net,BusNet,dashboard,"{""icon"": ""https://tudoicons.s3.amazonaws.com/Icons/buznet.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+5,deals,Deals,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1584714632007529_deals.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+6,eventer,EvenTer,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1584714633402531_eventer.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+7,RSVP,RSVP,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1584714634463024_hanging.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+8,my_net,MyNet,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1584714635666862_mynet.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+9,n_ter,NTer,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1584714636657167_nter.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+10,payments,Payments,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1584714637735363_payments.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+11,promos,Promos,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1584714638653429_prmos.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+12,reports,Reports,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1584714640001537_reports.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+13,scheduled,Scheduled,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1584714641039849_scheduled.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+14,calendar,Calendar,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1592667558797266_calendar.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+15,mymanager,My Manager,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1592667562998679_manager.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+16,myemployees,My Employees,dashboard,"{""icon"": ""https://tudoicons.s3.amazonaws.com/Icons/myemployee.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+19,bid_request,Bid Requests,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1623855410621333_bid_request.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+20,proposals,Bid Proposals,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1623855416986926_bid-response.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+21,job_search,Job Search,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1623855419755759_job-search.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+22,job_posting,Job Postings,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1623855418330711_job-posting.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+17,leads,Leads,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1623855420873363_leads.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+18,prospects,Prospects,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1623855422203251_prospects.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15
+23,search,Search,dashboard,"{""icon"": ""https://s3.amazonaws.com/tudoicons/Icons/1624427763721039_Search.png"", ""label"": """"}","",true,2019-02-06 03:56:15,2019-02-06 03:56:15

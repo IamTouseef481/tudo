@@ -1,0 +1,60 @@
+<h1>Listing Users</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Email</th>
+      <th>Mobile</th>
+      <th>Is verified</th>
+      <th>Password hash</th>
+      <th>Profile</th>
+      <th>Reset password token</th>
+      <th>Reset password sent at</th>
+      <th>Failed attempts</th>
+      <th>Singn in count</th>
+      <th>Current sign in at</th>
+      <th>Locked at</th>
+      <th>Unlock token</th>
+      <th>Confirmation token</th>
+      <th>Confirmed at</th>
+      <th>Confirmation sent at</th>
+      <th>Platform terms and condition</th>
+      <th>Business</th>
+      <th>Scopes</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for user <- @users do %>
+    <tr>
+      <td><%= user.email %></td>
+      <td><%= user.mobile %></td>
+      <td><%= user.is_verified %></td>
+      <td><%= user.password_hash %></td>
+      <td><%= user.profile %></td>
+      <td><%= user.reset_password_token %></td>
+      <td><%= user.reset_password_sent_at %></td>
+      <td><%= user.failed_attempts %></td>
+      <td><%= user.singn_in_count %></td>
+      <td><%= user.current_sign_in_at %></td>
+      <td><%= user.locked_at %></td>
+      <td><%= user.unlock_token %></td>
+      <td><%= user.confirmation_token %></td>
+      <td><%= user.confirmed_at %></td>
+      <td><%= user.confirmation_sent_at %></td>
+      <td><%= user.platform_terms_and_condition_id %></td>
+      <td><%= user.business_id %></td>
+      <td><%= user.scopes %></td>
+
+      <td>
+        <%= link "Show", to: Routes.user_path(@conn, :show, user) %>
+        <%= link "Edit", to: Routes.user_path(@conn, :edit, user) %>
+        <%= link "Delete", to: Routes.user_path(@conn, :delete, user), method: :delete, data: [confirm: "Are you sure?"] %>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New User", to: Routes.user_path(@conn, :new) %></span>

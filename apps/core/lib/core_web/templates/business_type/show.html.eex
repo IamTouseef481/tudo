@@ -1,0 +1,13 @@
+<h1>Show Business type</h1>
+
+<ul>
+
+  <li>
+    <strong>Name:</strong>
+    <%= @business_type.name %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.business_type_path(@conn, :edit, @business_type) %></span>
+<span><%= link "Back", to: Routes.business_type_path(@conn, :index) %></span>

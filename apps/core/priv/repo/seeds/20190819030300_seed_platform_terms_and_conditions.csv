@@ -1,0 +1,19 @@
+id,slug,type,text,url,country_id,start_date,end_date,inserted_at,updated_at
+1,"legal_owner","bsp",I am legal owner of this business and over 18 years of age.,null,1,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+2,"license_oath","bsp","Above entered business license information is legitimate and accurate to my knowledge.",null,1,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+3,"bsp_agree_and_accept","bsp","I agree and accept to pay charges incurred in verifying my business background",null,1,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+4,"identity_oath","bsp",Above entered Identity information is legitimate and accurate to my knowledge.,null,1,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+5,"bsp_terms_and_conditions","bsp",null,"http://10.0.1.22:7068/tc/bsp-terms-and-conditions-v0.1.html",1,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+6,"cmr_terms_and_conditions","cmr",null,"http://10.0.1.22:7068/tc/cmr-terms-and-conditions-v0.1.html",1,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+7,"legal_owner","bsp",I am legal owner of this business and over 18 years of age.,null,2,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+8,"license_oath","bsp","Above entered business license information is legitimate and accurate to my knowledge.",null,2,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+9,"bsp_agree_and_accept","bsp","I agree and accept to pay charges incurred in verifying my business background",null,2,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+10,"identity_oath","bsp",Above entered Identity information is legitimate and accurate to my knowledge.,null,2,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+11,"bsp_terms_and_conditions","bsp",null,"http://10.0.1.22:7068/tc/bsp-terms-and-conditions-v0.1.html",2,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+12,"cmr_terms_and_conditions","cmr",null,"http://10.0.1.22:7068/tc/cmr-terms-and-conditions-v0.1.html",2,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+13,"legal_owner","bsp",I am legal owner of this business and over 18 years of age.,null,3,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+14,"license_oath","bsp","Above entered business license information is legitimate and accurate to my knowledge.",null,3,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+15,"bsp_agree_and_accept","bsp","I agree and accept to pay charges incurred in verifying my business background",null,3,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+16,"identity_oath","bsp",Above entered Identity information is legitimate and accurate to my knowledge.,null,3,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+17,"bsp_terms_and_conditions","bsp",null,"http://10.0.1.22:7068/tc/bsp-terms-and-conditions-v0.1.html",3,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30
+18,"cmr_terms_and_conditions","cmr",null,"http://10.0.1.22:7068/tc/cmr-terms-and-conditions-v0.1.html",3,2019-07-08 10:37:28,2019-07-08 10:37:30,2019-07-08 10:37:28,2019-07-08 10:37:30

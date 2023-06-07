@@ -1,0 +1,18 @@
+<h1>Show Payment</h1>
+
+<ul>
+
+  <li>
+    <strong>Id:</strong>
+    <%= @payment.id %>
+  </li>
+
+  <li>
+    <strong>Token:</strong>
+    <%= @payment.token %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.payment_path(@conn, :edit, @payment) %></span>
+<span><%= link "Back", to: Routes.payment_path(@conn, :index) %></span>

@@ -1,0 +1,36 @@
+<h1>Listing Menus</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Slug</th>
+      <th>Images</th>
+      <th>Doc order</th>
+      <th>Menu order</th>
+      <th>Description</th>
+      <th>Is active</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for menu <- @menus do %>
+    <tr>
+      <td><%= menu.slug %></td>
+      <td><%= menu.images %></td>
+      <td><%= menu.doc_order %></td>
+      <td><%= menu.menu_order %></td>
+      <td><%= menu.description %></td>
+      <td><%= menu.is_active %></td>
+
+      <td>
+        <%= link "Show", to: Routes.menu_path(@conn, :show, menu) %>
+        <%= link "Edit", to: Routes.menu_path(@conn, :edit, menu) %>
+        <%= link "Delete", to: Routes.menu_path(@conn, :delete, menu), method: :delete, data: [confirm: "Are you sure?"] %>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Menu", to: Routes.menu_path(@conn, :new) %></span>

@@ -1,0 +1,28 @@
+<h1>Show Geo zone</h1>
+
+<ul>
+
+  <li>
+    <strong>Title:</strong>
+    <%= @geo_zone.title %>
+  </li>
+
+  <li>
+    <strong>Slug:</strong>
+    <%= @geo_zone.slug %>
+  </li>
+
+  <li>
+    <strong>Description:</strong>
+    <%= @geo_zone.description %>
+  </li>
+
+  <li>
+    <strong>Coordinates:</strong>
+    <%= @geo_zone.coordinates %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.geo_zone_path(@conn, :edit, @geo_zone) %></span>
+<span><%= link "Back", to: Routes.geo_zone_path(@conn, :index) %></span>

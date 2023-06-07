@@ -1,0 +1,28 @@
+<h1>Listing Dynamic fields</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Is active</th>
+      <th>Fields</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for dynamic_field <- @dynamic_fields do %>
+    <tr>
+      <td><%= dynamic_field.is_active %></td>
+      <td><%= dynamic_field.fields %></td>
+
+      <td>
+        <%= link "Show", to: Routes.dynamic_field_path(@conn, :show, dynamic_field) %>
+        <%= link "Edit", to: Routes.dynamic_field_path(@conn, :edit, dynamic_field) %>
+        <%= link "Delete", to: Routes.dynamic_field_path(@conn, :delete, dynamic_field), method: :delete, data: [confirm: "Are you sure?"] %>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Dynamic field", to: Routes.dynamic_field_path(@conn, :new) %></span>

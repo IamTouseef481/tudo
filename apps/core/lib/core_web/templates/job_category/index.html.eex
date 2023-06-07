@@ -1,0 +1,28 @@
+<h1>Listing Job categories</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for job_category <- @job_categories do %>
+    <tr>
+      <td><%= job_category.name %></td>
+      <td><%= job_category.description %></td>
+
+      <td>
+        <span><%= link "Show", to: Routes.job_category_path(@conn, :show, job_category) %></span>
+        <span><%= link "Edit", to: Routes.job_category_path(@conn, :edit, job_category) %></span>
+        <span><%= link "Delete", to: Routes.job_category_path(@conn, :delete, job_category), method: :delete, data: [confirm: "Are you sure?"] %></span>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Job category", to: Routes.job_category_path(@conn, :new) %></span>

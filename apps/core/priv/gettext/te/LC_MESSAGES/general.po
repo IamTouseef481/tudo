@@ -1,0 +1,5757 @@
+msgid "Slug"
+msgstr "TE_translation"
+
+msgid "language"
+msgstr "తెలుగు"
+
+msgid "email"
+msgstr "ఇమెయిల్"
+
+msgid "password"
+msgstr "పాస్‌వర్డ్"
+
+msgid "show_password"
+msgstr "చూపించు పాస్‌వర్డ్‌ని"
+
+msgid "hide_password"
+msgstr "దాచు పాస్‌వర్డ్‌ని"
+
+msgid "login"
+msgstr "లాగ్"
+
+msgid "signup"
+msgstr "చేయండి"
+
+msgid "info_text"
+msgstr "సమాచారం"
+
+msgid "not_registered_text"
+msgstr "చేయండి సైన్ అప్దయచేసి ముందుగా సైన్ అప్ చేసి, ఆపై లాగిన్ అవ్వండి."
+
+msgid "forgot_passowrd_text"
+msgstr "పాస్‌వర్డ్ మర్చిపోయారా?"
+
+msgid "went_wrong_text"
+msgstr "ఎక్కడో తేడ జరిగింది!"
+
+msgid "login_text"
+msgstr "లోనికి ప్రవేశించండి"
+
+msgid "signup_text"
+msgstr "సైన్ అప్"
+
+msgid "enter_email_text"
+msgstr "ఎంటర్ ఇమెయిల్"
+
+msgid "code"
+msgstr "కోడ్"
+
+msgid "mobile"
+msgstr "మొబైల్ సంఖ్య"
+
+msgid "firstname"
+msgstr "మొదటి పేరు"
+
+msgid "lastname"
+msgstr "చివరి పేరు"
+
+msgid "termsandcondition"
+msgstr "నేను నిబంధనలు మరియు షరతులుఅంగీకరిస్తున్నారు"
+
+msgid "clear"
+msgstr "ప్రశాంతంగా"
+
+msgid "backtologin"
+msgstr "లాగిన్ బ్యాక్"
+
+msgid "forgot"
+msgstr "పాస్వర్డ్ మర్చిపోయారా"
+
+msgid "deals"
+msgstr "డీల్స్"
+
+msgid "eventer"
+msgstr "Eventer"
+
+msgid "hanging"
+msgstr "RSVP"
+
+msgid "mynet"
+msgstr "MyNet"
+
+msgid "nter"
+msgstr "NTer"
+
+msgid "payment"
+msgstr "చెల్లింపులు"
+
+msgid "report"
+msgstr "నివేదికలు"
+
+msgid "schedule"
+msgstr "షెడ్యూల్డ్"
+
+msgid "addinhouse"
+msgstr "Add గృహ సర్వీస్"
+
+msgid "addevent"
+msgstr "జోడించండిఈవెంట్"
+
+msgid "addtask"
+msgstr "టాస్క్జోడించు"
+
+msgid "addondemand"
+msgstr "పైన జోడించండిసర్వీస్డిమాండ్"
+
+msgid "addwalkin"
+msgstr "జోడించండివల్క్-ఇన్ సర్వీస్"
+
+msgid "addbranch"
+msgstr "బ్రాంచ్"
+
+msgid "addemployee"
+msgstr "ఉద్యోగి"
+
+msgid "addinvoice"
+msgstr "వాయిస్జోడించు"
+
+msgid "addfollowup"
+msgstr "జోడించండి తదుపరి అపాయింట్మెంట్"
+
+msgid "bsp_dashboard"
+msgstr "వ్యాపారం డాష్బోర్డ్"
+
+msgid "cmr_dashboard"
+msgstr "డాష్బోర్డ్"
+
+msgid "setting"
+msgstr "సెట్టింగులు"
+
+msgid "BusinessServiceProvider"
+msgstr "సర్వీస్ ప్రొవైడర్అవ్వండి"
+
+msgid "switchtobsp"
+msgstr "సర్వీస్ ప్రొవైడర్ప్రాధాన్యతలకుస్విచ్"
+
+msgid "Notification"
+msgstr "నోటిఫికేషన్"
+
+msgid "TUDO"
+msgstr "చూడండి TUDO"
+
+msgid "contactus"
+msgstr "మమ్మల్ని సంప్రదించండి"
+
+msgid "signout"
+msgstr "సైన్ ఔట్"
+
+msgid "tryagain_txt"
+msgstr "మళ్ళీప్రయత్నించండి!"
+
+msgid "coming_soon_txt"
+msgstr "త్వరలో రానున్న"
+
+msgid "branch"
+msgstr "బ్రాంచ్"
+
+msgid "dob"
+msgstr "తేదీ,"
+
+msgid "roleofmployee"
+msgstr "ఉద్యోగి"
+
+msgid "rolename"
+msgstr "పాత్ర పేరు"
+
+msgid "vehicleid"
+msgstr "వాహనం వాహనం రిజిస్ట్రేషన్ ID"
+
+msgid "service"
+msgstr "సర్వీస్"
+
+msgid "employeetype"
+msgstr "ఉద్యోగి రకం"
+
+msgid "workshift"
+msgstr "వర్క్ షెడ్యూల్ షిఫ్ట్"
+
+msgid "payscale"
+msgstr "పే స్కేల్"
+
+msgid "annulabsencehours"
+msgstr "వార్షిక గైర్హాజరు గంటలు"
+
+msgid "select_service_error"
+msgstr "మీరు కనీసం ఒక సర్వీస్‌ని ఎంచుకోవాలి"
+
+msgid "legalbusinessname"
+msgstr "లీగల్ బిజినెస్ పేరు"
+
+msgid "branchphone"
+msgstr "బ్రాంచ్ ఫోన్ నంబర్"
+
+msgid "licenseno"
+msgstr "బిజినెస్ లైసెన్స్ నంబర్"
+
+msgid "establishedyear"
+msgstr "సంవత్సరం స్థాపించబడిన"
+
+msgid "expirydate"
+msgstr "లైసెన్స్ గడువు తేదీ"
+
+msgid "profilepicture"
+msgstr "వ్యాపార ప్రొఫైల్ ఫోటోలు"
+
+msgid "licensepicture"
+msgstr "వ్యాపార లైసెన్స్ ఫోటోలు"
+
+msgid "alternatephone"
+msgstr "వ్యాపార ఫోన్ సంఖ్య"
+
+msgid "numberofemployees"
+msgstr "ఉద్యోగులుఅడ్రస్సంఖ్య"
+
+msgid "businesslegaladdress"
+msgstr "వ్యాపారం లీగల్"
+
+msgid "legalbusinesscheck"
+msgstr "కొనసాగించడానికి వయస్సు 18 సంవత్సరాలు ఉంటాయి అంగీకరించాలి"
+
+msgid "errortext"
+msgstr "మీరుకొనసాగించడానికి నిబంధనలను అంగీకరించాలి"
+
+msgid "title_business"
+msgstr "వ్యాపారం సైన్ అప్"
+
+msgid "title_branch"
+msgstr "వ్యాపారం బ్రాంచ్"
+
+msgid "update"
+msgstr "నవీకరణ"
+
+msgid "next"
+msgstr "తదుపరి"
+
+msgid "branch_legal_name"
+msgstr "బ్రాంచ్ లీగల్ పేరు"
+
+msgid "branch_phone_number"
+msgstr "బ్రాంచ్ ఫోన్ సంఖ్య"
+
+msgid "branch_established_year"
+msgstr "బ్రాంచ్స్థాపన సంవత్సరం"
+
+msgid "employee_in_branch"
+msgstr "బ్రాంచ్ఉద్యోగులసంఖ్య"
+
+msgid "branch_legal_address"
+msgstr "బ్రాంచ్‌లోలీగల్ అడ్రస్"
+
+msgid "select_personal_identity_type"
+msgstr "వ్యక్తిగత గుర్తింపు రకాన్నిటైప్"
+
+msgid "select_branch_type"
+msgstr "ఎంచుకోండి బ్రాంచ్ బిజినెస్ టైప్ఎంచుకోండి"
+
+msgid "branch_type"
+msgstr "బ్రాంచ్ టైప్"
+
+msgid "business_type"
+msgstr "బిజినెస్"
+
+msgid "address_suggest_text"
+msgstr "ఫ్లోర్#, సూట్#, ఆప్ట్#, ప్లాట్#, మొదలైనవి చేర్చడానికి మీరు చిరునామాను ఎడిట్ చేయవచ్చు"
+
+msgid "branch_update_success"
+msgstr "."
+
+msgid "branch_established_years"
+msgstr "బ్రాంచ్ ఎస్టాబ్లిష్‌మెంట్ సంవత్సరం"
+
+msgid "address_error_text_1"
+msgstr "చిరునామా దేశం, సరైన బ్రాంచ్ చిరునామా లేదా దేశంతో సరిపోలడం లేదు."
+
+msgid "address_error_text_2"
+msgstr "క్షమించండి ఏదో తప్పు జరిగింది, దయచేసి మళ్లీ ప్రయత్నించండి."
+
+msgid "selectcheck"
+msgstr "మీ వ్యాపారానికి వర్తించే సేవలను ఎంచుకోండి. మీరు కీలక పదాల కోసం కూడా శోధించవచ్చు."
+
+msgid "customervisitcheck"
+msgstr "(వాక్ -ఇన్ సర్వీసెస్) - మీ వ్యాపారం అందించే సేవల కోసం వినియోగదారుడు \"మీ వ్యాపార స్థలాన్ని సందర్శిస్తారు\"."
+
+msgid "customervisithelp"
+msgstr "సహాయం - వినియోగదారుడు మీ వ్యాపారాన్ని అందించే సేవల కోసం మీ వ్యాపార స్థలాన్ని సందర్శిస్తే, \"వాక్ -ఇన్\" ట్యాబ్‌పై క్లిక్ చేయండి. ఉదాహరణ: లా ఫర్మ్, డాక్టర్ ఆఫీసు, బార్బర్ షాప్, బార్ & రెస్టారెంట్, హోటల్స్, ఆటో రిపేర్ షాప్, మొదలైనవి"
+
+msgid "businesscheck"
+msgstr "(ఇన్ -హోమ్ సర్వీసెస్) - వ్యాపార సేవలను అందించడానికి మీ వ్యాపారం వినియోగదారుల స్థలాన్ని సందర్శిస్తుంది."
+
+msgid "businesscheckhelp"
+msgstr "సహాయం - మీ వ్యాపార సేవలు మీ వ్యాపార సేవలను అందించడానికి వినియోగదారుల స్థలాన్ని సందర్శిస్తే \"ఇన్ -హోమ్\" ట్యాబ్‌పై క్లిక్ చేయండి. ఉదాహరణ: హోమ్ క్లీనింగ్, రిపేర్ సర్వీసెస్, హ్యాండిమాన్, ప్లంబింగ్, హోమ్ ట్యూటరింగ్, మ్యూజిక్ క్లాసులు, నానీ, హెల్త్ కేర్, మొదలైనవి"
+
+msgid "businessprovidecheck"
+msgstr "(ఆన్ -డిమాండ్ సర్వీసెస్) - మీ బిజినెస్ లొకేషన్ బేస్డ్, తక్షణ సేవలను వినియోగదారులకు అందిస్తుంది."
+
+msgid "businessprovidehelp"
+msgstr "సహాయం - మీ వ్యాపారం వినియోగదారులకు లొకేషన్ ఆధారిత, తక్షణ సేవలను అందిస్తే, \"ఆన్ -డిమాండ్\" ట్యాబ్‌పై క్లిక్ చేయండి. ఉదాహరణ: టాక్సీ, రోడ్‌సైడ్ అసిస్టెన్స్, ఎమర్జెన్సీ రిపేర్లు, లొకేషన్ ఆధారిత సేవలు, ఫుడ్ డెలివరీ, అంబులెన్స్, పబ్లిక్ సర్వీసెస్ మొదలైనవి"
+
+msgid "CustomerWalkIn"
+msgstr "(వాక్ -ఇన్ సర్వీసెస్) - మీ బిజినెస్ అందించే సేవల కోసం వినియోగదారుడు \"మీ బిజినెస్ ప్లేస్‌ని సందర్శిస్తాడు\"."
+
+msgid "CustomerInHome"
+msgstr "(ఇంటిలో సేవలు) - వ్యాపార సేవలను అందించడానికి మీ వ్యాపారం వ్యక్తిగత వినియోగదారుని సందర్శిస్తుంది."
+
+msgid "BusinessOnDemand"
+msgstr "(ఆన్ -డిమాండ్ సేవలు) - మీ వ్యాపారం వినియోగదారులకు లొకేషన్ ఆధారిత, తక్షణ సేవలను అందిస్తుంది."
+
+msgid "infromationislegitmate"
+msgstr "పైన పేర్కొన్న గుర్తింపు వివరాలు చట్టబద్ధమైనవి, ఖచ్చితమైనవి మరియు నాకు చెందినవి."
+
+msgid "identificationtype1"
+msgstr "వ్యక్తిగత గుర్తింపు రకం 1"
+
+msgid "documentnumber1"
+msgstr "వ్యక్తిగత ID నంబర్"
+
+msgid "issuingauthority1"
+msgstr "ఫోటో గుర్తింపు జారీ అధికారాన్ని"
+
+msgid "identificationtype2"
+msgstr "ఎంచుకోండి వ్యక్తిగత గుర్తింపు రకం 2"
+
+msgid "documentnumber2"
+msgstr "వ్యాపార లైసెన్స్ సంఖ్య"
+
+msgid "issuingauthority2"
+msgstr "ఫోటో గుర్తింపు జారీ అధికారం"
+
+msgid "informationislegitmate"
+msgstr "నమోదు చేసిన గుర్తింపు వివరాలు చట్టబద్ధమైనవి, ఖచ్చితమైనవి మరియు నాకు చెందినవి."
+
+msgid "business_title"
+msgstr "వ్యక్తిగత గుర్తింపు వివరాలు"
+
+msgid "identity_document_number"
+msgstr "గుర్తింపు పత్రం సంఖ్య సంఖ్య"
+
+msgid "identification_expiry_date"
+msgstr "గుర్తింపు గడువు గడువు తేదీ"
+
+msgid "unlicensed_update_succ_text"
+msgstr "శాఖ అనుమతి లేని వివరాలు విజయవంతంగా నవీకరించబడ్డాయి."
+
+msgid "licenseissuingauthoritytype"
+msgstr "లైసెన్స్ ఇష్యూయింగ్ అథారిటీ"
+
+msgid "businesslicenseno"
+msgstr "బిజినెస్ లైసెన్స్ నంబర్"
+
+msgid "labeluploadlicenpicture"
+msgstr "అప్లోడ్ ముందు మరియుమీ వ్యాపారం లైసెన్సువెనుక ఫోటోలు"
+
+msgid "licenseissuingauthority"
+msgstr "జారీచేసే అధికారఫోటోలనుపేరు"
+
+msgid "branch_title"
+msgstr "బ్రాంచ్ లైసెన్సు వివరాలు"
+
+msgid "bsp_title"
+msgstr "వ్యాపారం లైసెన్సు వివరాలు"
+
+msgid "document_required_text"
+msgstr "వ్యాపారం లైసెన్సు"
+
+msgid "document_required_desc"
+msgstr "మీరు కెళ్ళాలి కనీసం రెండు లైసెన్సు పత్రం ఫోటోలు అప్ లోడ్ చెయ్యాలి"
+
+msgid "choose_an_image"
+msgstr "ఒకచిత్రంఎంచుకోండి"
+
+msgid "gallery"
+msgstr "గ్యాలరీ"
+
+msgid "camera"
+msgstr "కెమెరా"
+
+msgid "licensed_update_succ_text"
+msgstr "లైసెన్స్ వివరాలు విజయవంతంగా నవీకరించబడిందిఅవసరం."
+
+msgid "branchlicenseno"
+msgstr "బ్రాంచ్ లైసెన్స్ సంఖ్య"
+
+msgid "license_expiry_date"
+msgstr "వ్యాపారం లైసెన్సు గడువు తేదీ"
+
+msgid "agreeandaccept"
+msgstr "నేను అంగీకరిస్తున్నాను మరియు నా వ్యాపార నేపథ్యం ధృవీకరణకోసం ఖర్చు చెల్లించడానికి"
+
+msgid "uploadprofilepicture"
+msgstr "అప్లోడ్ వ్యాపారం ప్రొఫైల్ ఫోటోలుఅంగీకరిస్తున్నారు:"
+
+msgid "accepttudo"
+msgstr "నేను TUDO నిబంధనలను అంగీకరించాలి మరియు నిబంధనలు"
+
+msgid "branch_is"
+msgstr "బ్రాంచ్"
+
+msgid "business_is"
+msgstr "వ్యాపారంఉంది"
+
+msgid "write_branch_profile"
+msgstr "మీ బ్రాంచ్ వ్యాపారం ప్రొఫైల్"
+
+msgid "write_business_profile"
+msgstr "వ్రాయండిమీ వ్యాపారం ప్రొఫైల్"
+
+msgid "other"
+msgstr "బీమా కంటే బాండెడ్ఇతర ఉంటే"
+
+msgid "explain_if_other_text"
+msgstr "బీమా బాండెడ్కంటే ఇతర ఉంటే వివరించండి"
+
+msgid "please_enter_branch_details"
+msgstr "నమోదు చేయండి బ్రాంచ్ ప్రొఫైల్ వివరాలు"
+
+msgid "please_enter_business_details"
+msgstr "వ్యాపారం ప్రొఫైల్ వివరాలునమోదు చేయండి"
+
+msgid "note"
+msgstr "సమాచారం ప్రవేశించిందిఇతర TUDO వినియోగదారులందరికీ పబ్లిక్గా కనిపిస్తాయి ఉంది:PS"
+
+msgid "insured_text"
+msgstr "జనరల్ బాధ్యతబీమా"
+
+msgid "surety_text"
+msgstr "జామీను బాండెడ్"
+
+msgid "branch_update_succ_text"
+msgstr "విజయవంతంగా నవీకరించబడిందిబ్రాంచ్ ప్రొఫైల్ వివరాలనువివరించండి."
+
+msgid "upload_upto_5_text"
+msgstr "5 వ్యాపార ప్రొఫైల్ ఫోటోల వరకు అప్‌లోడ్ చేయండి"
+
+msgid "select_service_page_title"
+msgstr "సేవలు"
+
+msgid "no_service_type"
+msgstr "ఈ రకానికి సేవలు అందుబాటులో లేవు,"
+
+msgid "please_select_one_service_desc"
+msgstr "తదుపరి కొనసాగడానికి కనీసం ఒక సేవను ఎంచుకోండి"
+
+msgid "in_home_text"
+msgstr "హోమ్-హోమ్ సేవలు"
+
+msgid ""
+msgstr ""
+
+msgid "newpass"
+msgstr "కొత్త పాస్‌వర్డ్"
+
+msgid "confirmpass"
+msgstr "ధృవీకరించండి పాస్వర్డ్"
+
+msgid "module"
+msgstr "వ్యాపార సెలవు"
+
+msgid "createHoliday"
+msgstr "సృష్టించు సెలవుదినం"
+
+msgid "updateHoliday"
+msgstr "సెలవు"
+
+msgid "holidays_title"
+msgstr "టైటిల్"
+
+msgid "discrption"
+msgstr "వివరణ"
+
+msgid "dishint"
+msgstr "హాలిడేవివరణ"
+
+msgid "duration"
+msgstr "వ్యవధి"
+
+msgid "todate"
+msgstr "తేదీ"
+
+msgid "fromdate"
+msgstr "నుండి"
+
+msgid "totime"
+msgstr "సమయం"
+
+msgid "fromtime"
+msgstr "వరకు సమయం"
+
+msgid "ishalf"
+msgstr "హాఫ్ డే?"
+
+msgid "save"
+msgstr "సేవ్"
+
+msgid "delete"
+msgstr "తొలగించు"
+
+msgid "close"
+msgstr "క్లోజ్"
+
+msgid "confDelete"
+msgstr "మీరు ఖచ్చితంగా ఉన్నారా?"
+
+msgid "updateMessage"
+msgstr "విజయవంతంగా నవీకరించబడింది"
+
+msgid "createMessage"
+msgstr "విజయవంతంగా సృష్టించబడింది"
+
+msgid "deleteHoliday"
+msgstr "విజయవంతంగా తొలగించబడింది"
+
+msgid "hitToDate"
+msgstr "తేదీ"
+
+msgid "hitfromdate"
+msgstr "నుండి"
+
+msgid "hitToTime"
+msgstr "సమయంటైమ్"
+
+msgid "hitFromTime"
+msgstr "వరకు టైమ్టైమ్"
+
+msgid "errTitle"
+msgstr "అవసరం."
+
+msgid "errDis"
+msgstr "వివరణ అవసరం."
+
+msgid "errToDate"
+msgstr "తేదీ అవసరం."
+
+msgid "errToDate1"
+msgstr "చెల్లని తేదీ పరిధి."
+
+msgid "errFromDate"
+msgstr "తేదీ నుండి అవసరం."
+
+msgid "errToTime"
+msgstr "సమయం అవసరం."
+
+msgid "errFromTime"
+msgstr "సమయం అవసరం."
+
+msgid "errToTime2"
+msgstr "చెల్లని సమయ పరిధి."
+
+msgid "allholi"
+msgstr "అన్ని హాలిడే"
+
+msgid "noholi"
+msgstr "ఈ నెల లోలేవు సెలవులు"
+
+msgid "noholiist"
+msgstr "లేవు సెలవులు అందుబాటులో"
+
+msgid "servicedate"
+msgstr "సర్వీస్ తేదీ"
+
+msgid "flexibleme"
+msgstr "ఫ్లెక్సిబుల్ (+/- 2 గంటలు)"
+
+msgid "selectaddress"
+msgstr "అడ్రస్ ఎంచుకోండి"
+
+msgid "uploadpicture"
+msgstr "అప్లోడ్ ఫోటోలు"
+
+msgid "search"
+msgstr "శోధన"
+
+msgid "begintime"
+msgstr "ప్రారంభం సమయం"
+
+msgid "endtime"
+msgstr "ముగింపు సమయం"
+
+msgid "shift_schedule_title"
+msgstr "శీర్షిక"
+
+msgid "namedis"
+msgstr "పేరు లేదా వివరణ"
+
+msgid "offday"
+msgstr "డే ఆఫ్"
+
+msgid "default"
+msgstr "డిఫాల్ట్"
+
+msgid "nameORdis"
+msgstr "పేరు లేదా వివరణ"
+
+msgid "err1"
+msgstr "Shift ప్రారంభిస్తారు లేదా ముగింపు సమయం చెల్లదు"
+
+msgid "err2"
+msgstr "విరామం ప్రారంభం లేదా ముగింపు సమయం చెల్లదు"
+
+msgid "err3"
+msgstr "పేరు లేదా వివరణ తప్పనిసరిగా"
+
+msgid "err4"
+msgstr "అతివ్యాప్తి చెందడానికి ఇతర షిఫ్ట్‌కి కనీసం 2 గంటల వ్యత్యాసం అవసరం."
+
+msgid "err5"
+msgstr "విరామం సమయం తప్పనిసరిగా షిఫ్ట్ సమయానికి మధ్య ఉండాలి,"
+
+msgid "err6"
+msgstr "షెడ్యూల్ విజయవంతంగా సేవ్ చేయబడింది"
+
+msgid "err7"
+msgstr "ఏదో తప్పు జరిగింది!"
+
+msgid "err8"
+msgstr "దయచేసి ముందుకు వెళ్లడానికి అవసరమైన షిఫ్ట్ డేటాను నమోదు చేయండి"
+
+msgid "err9"
+msgstr "మీరు వ్యాపారం కోసం డిఫాల్ట్ షెడ్యూల్‌ను సెట్ చేయాలనుకుంటున్నారా?"
+
+msgid "enter_shift_go_ahead"
+msgstr "ప్రయాణంలో కోసం బదిలీ సమయాన్ని నమోదు ముందుకు"
+
+msgid "shift_time"
+msgstr "Shift సమయం"
+
+msgid "shift_breaks"
+msgstr "Shift బ్రేక్స్"
+
+msgid "shift_txt"
+msgstr "Shift"
+
+msgid "business_hours_for"
+msgstr "కోసంవ్యాపారం గంటల"
+
+msgid "filter_title"
+msgstr "వడపోతద్వారా స్థితి"
+
+msgid "pending"
+msgstr "పెండింగ్లో"
+
+msgid "waiting"
+msgstr "వేచి"
+
+msgid "ignored"
+msgstr "నిర్లక్ష్యం"
+
+msgid "rejected"
+msgstr "తిరస్కరించింది"
+
+msgid "confirmed"
+msgstr "షెడ్యూల్డ్"
+
+msgid "started_heading"
+msgstr "ఆన్ వే"
+
+msgid "started_working"
+msgstr "ఆన్ బోర్డు"
+
+msgid "completed"
+msgstr "పూర్తయింది"
+
+msgid "invoiced"
+msgstr "ఇన్వాయిస్"
+
+msgid "paid"
+msgstr "క్లోజ్డ్"
+
+msgid "closed"
+msgstr "క్లోజ్డ్"
+
+msgid "finalized"
+msgstr "ఖరారు"
+
+msgid "cancelled"
+msgstr "రద్దు"
+
+msgid "scheduled"
+msgstr "షెడ్యూల్డ్"
+
+msgid "onway"
+msgstr "ఆన్ వే"
+
+msgid "onboard"
+msgstr "ఆన్ బోర్డు"
+
+msgid "invoice"
+msgstr "వాయిస్"
+
+msgid "accept_reject"
+msgstr "ఆమోదిస్తారా/ తిరస్కరిస్తారా"
+
+msgid "bids"
+msgstr "బిడ్లు"
+
+msgid "disputes"
+msgstr "వివాదాలు"
+
+msgid "overdues"
+msgstr "Overdues"
+
+msgid "payments"
+msgstr "చెల్లింపులు"
+
+msgid "jobs"
+msgstr "ఉద్యోగాలు"
+
+msgid "dues"
+msgstr "గడువులు"
+
+msgid "invoice_title"
+msgstr "ఇన్వాయిస్ వివరాలు"
+
+msgid "total_amt"
+msgstr "మొత్తం"
+
+msgid "send_invoice"
+msgstr "వాయిస్ పంపండి"
+
+msgid "add_tax"
+msgstr "పన్నుజోడించండి"
+
+msgid "add_tax_succ"
+msgstr "పన్నువిజయవంతంగా జోడించబడింది."
+
+msgid "add_chrg"
+msgstr "ఛార్జ్"
+
+msgid "add_chrg_succ"
+msgstr "విజయవంతంగాఛార్జ్"
+
+msgid "add_discount"
+msgstr "డిస్కౌంట్జోడించారు"
+
+msgid "add_discount_succ"
+msgstr "విజయవంతంగాడిస్కౌంట్"
+
+msgid "add_comment"
+msgstr "వ్యాఖ్యలుజోడించారు"
+
+msgid "add_comment_succ"
+msgstr "వ్యాఖ్యలు విజయవంతంగా జోడించారు"
+
+msgid "send_conf"
+msgstr "మీకు కన్స్యూమర్ వాయిస్ పంపండి ఖచ్చితంగాజోడించండి?"
+
+msgid "send_tax_conf"
+msgstr "మీరు ఈ ఇన్‌వాయిస్‌పై పన్ను వసూలు చేయడం లేదు, ప్రభుత్వం తరపున పన్ను వసూలు చేయడం మీ బాధ్యత. మీరు ఖచ్చితంగా కొనసాగాలా?"
+
+msgid "send_succ"
+msgstr "వాయిస్ విజయవంతంగాఉత్పత్తి"
+
+msgid "red_dis"
+msgstr "అభ్యర్థన అడ్జస్ట్మెంట్"
+
+msgid "red_resone_title"
+msgstr "అడ్జస్ట్మెంట్ అభ్యర్థన కారణాలు ఎంటర్"
+
+msgid "red_resone_label"
+msgstr "మీ సర్వీస్ ప్రొవైడర్ తెలియజేసే సర్దుబాటు కారణం లెట్ ..."
+
+msgid "red_resone_error"
+msgstr "వివాద అభ్యర్థనకారణాలు నమోదు"
+
+msgid "pay"
+msgstr "పే"
+
+msgid "submit"
+msgstr "సమర్పించండి"
+
+msgid "cancel"
+msgstr "రద్దు"
+
+msgid "tax_title"
+msgstr "చేయండిశీర్షిక"
+
+msgid "tax_error"
+msgstr "అవసరం రంగంలో"
+
+msgid "tax_select_amt"
+msgstr "ఎంచుకోండి మొత్తం"
+
+msgid "tax_in_per"
+msgstr "చేయండి:సొమ్ము"
+
+msgid "tax_dis_title"
+msgstr "నమోదు"
+
+msgid "tax_per"
+msgstr "వివరణ%పన్ను%"
+
+msgid "disc_per"
+msgstr "రాయితీ"
+
+msgid "max_allow"
+msgstr "మాక్స్ఎంటర్అనుమతి"
+
+msgid "dis_title"
+msgstr "శీర్షిక"
+
+msgid "dis_error"
+msgstr "అవసరం రంగంలో"
+
+msgid "dis_select_amt"
+msgstr "ఎంచుకోండిమొత్తం"
+
+msgid "dis_in_per"
+msgstr "పరిమాణం:"
+
+msgid "dis_dis_title"
+msgstr "వివరణఎంటర్"
+
+msgid "card_number"
+msgstr "కార్డ్ సంఖ్య"
+
+msgid "card_holder_name"
+msgstr "కార్డ్ హోల్డర్ పేరు"
+
+msgid "card_expiry_date"
+msgstr "గడువు తేదీ"
+
+msgid "card_cvv"
+msgstr "CVV"
+
+msgid "card_expiry_date_hint"
+msgstr "MM/YY"
+
+msgid "card_holder_name_hint"
+msgstr "ఎంటర్ కార్డ్ హోల్డర్ పేరు"
+
+msgid "card_submit_button"
+msgstr "Add పేమెంట్ కార్డ్"
+
+msgid "add_card_details_title"
+msgstr "Add పేమెంట్ కార్డ్ వివరాలు"
+
+msgid "add_card_success_dialog_desc"
+msgstr "విజయవంతంగాపేమెంట్ కార్డ్ జోడించారు"
+
+msgid "add_card_success_status"
+msgstr "విజయం"
+
+msgid "add_card_okay"
+msgstr "సరే"
+
+msgid "select_payment_option_title"
+msgstr "ఎంచుకోండి చెల్లింపు ఎంపిక"
+
+msgid "payable_amount"
+msgstr "మొత్తం చెల్లించవలసిన మొత్తాన్ని"
+
+msgid "choose_credit_card_title"
+msgstr "ఎంచుకోండి ఒక చెల్లింపు కార్డ్"
+
+msgid "add_new_debit_card_button_text"
+msgstr "#ERROR!"
+
+msgid "no_card_added"
+msgstr "చెల్లింపు కార్డ్ ఇంకా జోడించబడలేదు!"
+
+msgid "transaction_success_title"
+msgstr "లావాదేవీ విజయవంతమైన"
+
+msgid "transaction_sucssess_desc"
+msgstr "ధన్యవాదాలు ఎక్కువ ప్రాసెసింగ్ చెల్లింపు"
+
+msgid "tudo_pass_hint"
+msgstr "ఎంటర్ మీ TUDO పాస్వర్డ్"
+
+msgid "tudo_pass_label"
+msgstr "TUDO పాస్వర్డ్"
+
+msgid "select_card_error_desc"
+msgstr "దయచేసి ఎంచుకోండి ఒక చెల్లింపు పద్ధతి"
+
+msgid "enter_tudo_pass_title"
+msgstr "కొనసాగడానికి మీ పాస్వర్డ్ను నమోదు చేయండి"
+
+msgid "delete_card_question"
+msgstr "మీరు ఖచ్చితంగా ఈ చెల్లింపు కార్డ్ తొలగించడానికి చేస్తున్నారాసమర్పించండి?"
+
+msgid "credit_card_delete_success"
+msgstr "చెల్లింపు కార్డ్ విజయవంతంగా తొలగించబడింది"
+
+msgid "default_method_ques"
+msgstr "మీరు ఖచ్చితంగా ఈ కార్డును డిఫాల్ట్ చెల్లింపు పద్ధతిగా చేస్తారా?"
+
+msgid "default_success"
+msgstr "డిఫాల్ట్ చెల్లింపు పద్ధతి విజయవంతంగా సృష్టించబడింది."
+
+msgid "long_press_desc"
+msgstr "(*గమనిక: డిఫాల్ట్ చెల్లింపు పద్ధతిని చేయడానికి కార్డ్‌పై ఎక్కువసేపు నొక్కండి)"
+
+msgid "expired_text"
+msgstr "కార్డ్ గడువు"
+
+msgid "pay_text"
+msgstr "ముగిసిందిచెల్లించండి"
+
+msgid "my_wallet_text"
+msgstr "నా వాలెట్"
+
+msgid "or_text"
+msgstr "లేదా"
+
+msgid "alternative_payments"
+msgstr "ప్రత్యామ్నాయ చెల్లింపు పద్ధతులు"
+
+msgid "credt_card_number"
+msgstr "క్రెడిట్ కార్డ్ నంబర్"
+
+msgid "valid_thru"
+msgstr "చెల్లుబాటు అవుతుంది"
+
+msgid "success_purchase"
+msgstr "మీ చెల్లింపు విజయవంతంగా"
+
+msgid "able_to_create_promotion"
+msgstr "ప్లాన్ చేయబడింది, ఇప్పుడు మీరు ప్రమోషన్‌ను"
+
+msgid "amount_due"
+msgstr "బకాయి మొత్తం"
+
+msgid "cash_paid_in"
+msgstr "నగదు చెల్లించబడింది"
+
+msgid "enter_cash_amount"
+msgstr "నగదు మొత్తాన్ని నమోదు చేయండి"
+
+msgid "please_enter_cash_amt"
+msgstr "దయచేసి నగదు విలువను నమోదు చేయండి"
+
+msgid "amount_should_greater_payable"
+msgstr "చెల్లింపు విలువ చెల్లించాల్సిన మొత్తం కంటే ఎక్కువగా ఉండాలి"
+
+msgid "collected_cash"
+msgstr "సేకరించిన నగదు"
+
+msgid "pay_proceed"
+msgstr "చెల్లించండి & కొనసాగించండి"
+
+msgid "payment_cash_request"
+msgstr "మీ చెల్లింపు అభ్యర్థన పూర్తయింది, దయచేసి సర్వీస్ ప్రొవైడర్ రసీదుని నిర్ధారించే వరకు వేచి ఉండండి"
+
+msgid "create_braintree_account_screen_title"
+msgstr "సృష్టించగలుగుతారు బ్రెయిన్‌ట్రీ ఖాతాసృష్టించండి"
+
+msgid "company_name"
+msgstr "పేరును"
+
+msgid "contact_number"
+msgstr "కాంటాక్ట్ నంబర్"
+
+msgid "contact_number_hint"
+msgstr "ఎంటర్ చెయ్యండి"
+
+msgid "cmr_terms_condition_text"
+msgstr "."
+
+msgid "success_dialog_title"
+msgstr "సక్సెస్"
+
+msgid "success_desc"
+msgstr "బ్రేంట్రీ విజయవంతంగారూపొందించినవారు ఖాతా"
+
+msgid "okay_text"
+msgstr "సరే"
+
+msgid "paypal_seller_account_success"
+msgstr "పేపాల్ విక్రేత ఖాతా విజయవంతంగా సృష్టించబడింది"
+
+msgid "paypal_method_success"
+msgstr "చెల్లింపు పద్ధతి విజయవంతంగా జోడించబడింది"
+
+msgid "payout_account_create_success"
+msgstr "మీ ఫండ్స్ విత్‌డ్రా ఖాతా విజయవంతంగా సృష్టించబడింది"
+
+msgid "tip_title"
+msgstr "పే వాయిస్"
+
+msgid "tip_to_bsp"
+msgstr "చిట్కామీTUDO వేదిక"
+
+msgid "tip_to_bsp_desc"
+msgstr "చిట్కాలు 100%వెళుతుందిTUDO వేదిక"
+
+msgid "donate_desc"
+msgstr "చారిటబుల్ మరియు లాభాపేక్షలేని సంస్థదానం"
+
+msgid "discount_per_label"
+msgstr "డిస్కౌంట్%"
+
+msgid "discount_per_hint"
+msgstr "డిస్కౌంట్% ఎంటర్"
+
+msgid "invoiceAmt_text"
+msgstr "వాయిస్ ఆంట్ .:"
+
+msgid "tipAmt_text"
+msgstr "చిట్కా ఆంట్ .:"
+
+msgid "pay_txt"
+msgstr "పే"
+
+msgid "tudo_garuntee"
+msgstr "* TUDO హామీలు 100% విరాళాలు వెళ్తాడులాభాపేక్షలేని సంస్థలు"
+
+msgid "add_tudo_pro_plan"
+msgstr "TUDO ప్రొటెక్షన్ ప్లాన్జోడించండి TUDO"
+
+msgid "invoice_amt"
+msgstr "ఇన్‌వాయిస్ మొత్తాన్ని"
+
+msgid "booking_fee_text"
+msgstr "బుకింగ్ ఫీజు"
+
+msgid "gratutity_text"
+msgstr "గ్రాట్యుటీ/ టిప్ మొత్తం"
+
+msgid "payment_success_text"
+msgstr "చెల్లింపు విజయవంతంగా పూర్తయింది!"
+
+msgid "sent_to_text"
+msgstr "పంపబడింది."
+
+msgid "inovice_no_text"
+msgstr "ఇన్‌వాయిస్‌కువెళ్లడం"
+
+msgid "back_to_home_button"
+msgstr "ఇంటికి తిరిగి"
+
+msgid "something_wrong_text"
+msgstr "ఏదో తప్పు జరిగింది, మళ్లీ ప్రయత్నించండి"
+
+msgid "question_text"
+msgstr "ఈ సర్వీస్ ప్రొవైడర్‌లో మీ నుండి వినడానికి, రేట్ చేయడానికి మరియు మీ అభిప్రాయాన్ని అందించడానికి మేము ఇష్టపడతామా?"
+
+msgid "yes_text"
+msgstr "అవును"
+
+msgid "no_text"
+msgstr "కాదు"
+
+msgid "bsp_review_screen_title"
+msgstr "రేటు మరియురివ్యూ"
+
+msgid "rating_error"
+msgstr "సర్వీస్అనుభవంరేటు మరియు రివ్యూ"
+
+msgid "post_positive"
+msgstr "ఈ సర్వీస్లోరివ్యూ సానుకూల"
+
+msgid "post_improvements"
+msgstr "ఈ సర్వీస్లో మెరుగుదలలను సూచించండి"
+
+msgid "post_positive_desc"
+msgstr "మీరు పనినే అత్యంత"
+
+msgid "post_improvements_desc"
+msgstr "సూచించండి మెరుగుదలలు"
+
+msgid "submit_button"
+msgstr "సమర్పించండి"
+
+msgid "thanks_text"
+msgstr "మీ సమీక్ష మరియు ఫీడ్బ్యాక్ధన్యవాదాలు"
+
+msgid "field_required_text"
+msgstr "అవసరమైన ఫీల్డ్"
+
+msgid "we_recommended_text_cmr"
+msgstr "(* మేము మీరు ఈ వినియోగదారు అవుట్ రేటింగ్ ఇవ్వాలని సిఫార్సు 5 లో)5"
+
+msgid "we_recommended_text_bsp"
+msgstr "(*నుండి ఈ వ్యాపారానికి రేటింగ్ ఇవ్వమని మేము మీకు సిఫార్సు చేస్తున్నాము)"
+
+msgid "thanks_review_txt"
+msgstr "సమీక్ష మరియు వ్యాఖ్యలకు ధన్యవాదాలు"
+
+msgid "create_hyperwallet_user_title"
+msgstr "స్వీకరించదగిన ఖాతాను సృష్టించండి"
+
+msgid "select_birth_country"
+msgstr "మీ జన్మ"
+
+msgid "country_of_birth"
+msgstr "దేశాన్నిజాతీయతను"
+
+msgid "select_nationality"
+msgstr "ఎంచుకోండి మీఎంచుకోండి జాతీయత"
+
+msgid "country_of_nationality"
+msgstr "దేశాన్ని"
+
+msgid "select_profile_type"
+msgstr "ఎంచుకోండి ప్రొఫైల్ రకం"
+
+msgid "enter_valid_date"
+msgstr "దయచేసిచెల్లుబాటు అయ్యే తేదీని నమోదు చేయండి"
+
+msgid "date_of_birth"
+msgstr "పుట్టిన తేదీ"
+
+msgid "business_name"
+msgstr "వ్యాపారం పేరు"
+
+msgid "select_gender"
+msgstr "లింగం"
+
+msgid "select_business_type"
+msgstr "ఎంచుకోండి బిజినెస్ టైప్"
+
+msgid "select_business_role"
+msgstr "బిజినెస్ కాంటాక్ట్ రోల్ టైప్"
+
+msgid "business_operating_name"
+msgstr "బిజినెస్ ఆపరేటింగ్ నేమ్"
+
+msgid "business_registration_id"
+msgstr "బిజినెస్ రిజిస్ట్రేషన్ ఐడి"
+
+msgid "choose_address_from_map"
+msgstr "మ్యాప్"
+
+msgid "address_line1"
+msgstr "అడ్రస్ లైన్ 1 (హౌస్ నం, లొకాలిటీ)"
+
+msgid "address_required"
+msgstr "అడ్రస్"
+
+msgid "city"
+msgstr "సిటీ"
+
+msgid "city_required"
+msgstr "సిటీ పేరు"
+
+msgid "state"
+msgstr "స్టేట్"
+
+msgid "state_required"
+msgstr "స్టేట్ నేమ్"
+
+msgid "country"
+msgstr "కంట్రీ"
+
+msgid "pincode"
+msgstr "జిప్/ పిన్ కోడ్"
+
+msgid "business_Address_details"
+msgstr "బిజినెస్ అడ్రస్"
+
+msgid "business_address_line1"
+msgstr "బిజినెస్ అడ్రస్ లైన్ 1 (హౌస్ నం, లొకేషన్)"
+
+msgid "business_address_required"
+msgstr "వ్యాపార చిరునామా"
+
+msgid "business_city"
+msgstr "బిజినెస్ సిటీ"
+
+msgid "business_city_required"
+msgstr "బిజినెస్ సిటీ పేరు"
+
+msgid "business_state"
+msgstr "బిజినెస్ స్టేట్"
+
+msgid "business_state_required"
+msgstr "బిజినెస్ స్టేట్ నేమ్"
+
+msgid "business_country"
+msgstr "బిజినెస్ కంట్రీ"
+
+msgid "business_pincode"
+msgstr "బిజినెస్ జిప్/ పిన్ కోడ్"
+
+msgid "checkbox_text"
+msgstr "కాపీ అడ్రస్ పైన వ్యాపార చిరునామా o"
+
+msgid "hyperwallet_success_text"
+msgstr "పొందింది ఖాతారూపొందించినవారు విజయవంతంగా"
+
+msgid "paypal_email_id"
+msgstr "పేపాల్ వ్యాపారం ఖాతా ID"
+
+msgid "paypal_email_id_hint"
+msgstr "ఎంటర్ పేపాల్ వ్యాపారం ఖాతా Id"
+
+msgid "email_desc"
+msgstr "* www.paypal.com వద్ద పేపాల్ వ్యాపారం ఖాతా సృష్టించు మరియు ఇక్కడ పునఃప్రవేశ ఎంటర్"
+
+msgid "age_desc"
+msgstr "* మీ 18 మరియు పాతఉండాలి"
+
+msgid "contact_role_type"
+msgstr "బిజినెస్ కాంటాక్ట్ రోల్ టైప్"
+
+msgid "business_type_text"
+msgstr "వ్యాపారం పద్ధతి"
+
+msgid "birth_country_text"
+msgstr "బర్త్ దేశం"
+
+msgid "nationality_country"
+msgstr "జాతీయతదేశం"
+
+msgid "address_type_text"
+msgstr "చిరునామా రకం"
+
+msgid "gender_type_text"
+msgstr "లింగం రకం"
+
+msgid "repeat_paypal_text"
+msgstr "పేపాల్ బిజినెస్ అకౌంట్ ID ని రిపీట్ చేయండి"
+
+msgid "repeat_paypal_validate_text"
+msgstr "పేపాల్ ఐడి & రిపీట్ పేపాల్ ఐడి తప్పక సరిపోలాలి"
+
+msgid "confirm_paypal_id"
+msgstr "పేపాల్ ఇమెయిల్ ఐడిని నిర్ధారించండి"
+
+msgid "confirm_paypal_validate"
+msgstr "ఇమెయిల్ మరియు నిర్ధారణ ఇమెయిల్ తప్పనిసరిగా ఒకే విధంగా ఉండాలి"
+
+msgid "hyperwallet_recievable_screen_title"
+msgstr "స్వీకరించదగిన పద్ధతులు"
+
+msgid "no_methods_text"
+msgstr "స్వీకరించదగిన చెల్లింపు బదిలీ పద్ధతి ఇంకా జోడించబడలేదు!"
+
+msgid "currency_type"
+msgstr "కరెన్సీ రకం:"
+
+msgid "debit_cards"
+msgstr "డెబిట్ కార్డులు"
+
+msgid "bank_accounts"
+msgstr "బ్యాంక్ ఖాతాలు"
+
+msgid "wire_accounts"
+msgstr "వైర్ ఖాతాలు"
+
+msgid "default_question_text"
+msgstr "మీరు ఖచ్చితంగా డిఫాల్ట్ బదిలీ పద్ధతిని మార్చుతారా?"
+
+msgid "default_transfer_success"
+msgstr "డిఫాల్ట్ బదిలీ చెల్లింపు పద్ధతి విజయవంతంగా నవీకరించబడింది."
+
+msgid "add_transfer_method_page_screen_title"
+msgstr "బదిలీ పద్ధతిని జోడించండి"
+
+msgid "loading"
+msgstr "లోడింగ్......."
+
+msgid "make_default"
+msgstr "డిఫాల్ట్ చెల్లింపు పద్ధతి చేయండి"
+
+msgid "country_currency_code"
+msgstr "దేశం కరెన్సీ కోడ్"
+
+msgid "choose_currency_code"
+msgstr "కరెన్సీ కోడ్‌ని"
+
+msgid "select_country_currency"
+msgstr "ఎంచుకోండి దేశం కరెన్సీ కోడ్"
+
+msgid "transfer_method_type"
+msgstr "బదిలీ పద్ధతి రకం"
+
+msgid "select_transfer_method_type"
+msgstr "ఎంచుకోండి బదిలీ పద్ధతి రకం"
+
+msgid "payment_method"
+msgstr "చెల్లింపు బదిలీ విధానం విజయవంతంగా జోడించబడింది!"
+
+msgid "country_txt"
+msgstr "దేశం"
+
+msgid "choose_country_txt"
+msgstr "కంట్రీఎంచుకోండి"
+
+msgid "block_hold_success"
+msgstr "బ్లాక్‌ను/భవిష్యత్తులో అపాయింట్‌మెంట్ సెట్టింగ్‌లను విజయవంతంగా అప్‌డేట్ చేయండి."
+
+msgid "auto_schedule_success"
+msgstr "ఆటో షెడ్యూల్ సెట్టింగ్ విజయవంతంగా అప్‌డేట్ చేయబడింది."
+
+msgid "bloc_hold_off_ques"
+msgstr "మీరు భవిష్యత్తులో అపాయింట్‌మెంట్‌లను బ్లాక్/హోల్డ్ చేసి ఖచ్చితంగా కొనసాగించాలా?"
+
+msgid "bloc_hold_on_ques"
+msgstr "మీరు భవిష్యత్తు నియామకాలను ప్రారంభించబోతున్నారు, మీరు ఖచ్చితంగా కొనసాగాలా?"
+
+msgid "auto_schedule_off_ques"
+msgstr "మీరు నియామకాల స్వీయ షెడ్యూల్‌ను నిలిపివేయబోతున్నారు, మీరు ఖచ్చితంగా కొనసాగాలా?"
+
+msgid "auto_schedule_on_ques"
+msgstr "మీరు నియామకాల యొక్క ఆటో షెడ్యూల్‌ని ప్రారంభించబోతున్నారు, మీరు ఖచ్చితంగా కొనసాగాలా?"
+
+msgid "business_setting_screen_title"
+msgstr "వ్యాపార సెట్టింగుల"
+
+msgid "business_profile_overview"
+msgstr "బస్సు. ప్రొఫైల్ అవలోకనం"
+
+msgid "business_country_specific"
+msgstr "దేశం నిర్దిష్ట సెట్టింగ్‌లు"
+
+msgid "bloc_hold_future_appointments"
+msgstr "బ్లాక్/హోల్డ్ ఫ్యూచర్ అపాయింట్‌మెంట్"
+
+msgid "auto_schedule"
+msgstr "ఆటో షెడ్యూల్"
+
+msgid "business_service_radius"
+msgstr "సర్వీస్ రేడియస్"
+
+msgid "business_service_duration"
+msgstr "సర్వీస్ వ్యవధి"
+
+msgid "my_wallet"
+msgstr "నా వాలెట్"
+
+msgid "my_recievables"
+msgstr "స్వీకరించదగినవి మరియు బదిలీ"
+
+msgid "business_sales_taxe_rate"
+msgstr "పన్ను రేటు"
+
+msgid "business_vehicles"
+msgstr "బస్సు. వాహనాల"
+
+msgid "business_insaurance"
+msgstr "బస్సు. భీమా"
+
+msgid "employee_center"
+msgstr "ఉద్యోగుల కేంద్రం"
+
+msgid "business_branches"
+msgstr "శాఖల"
+
+msgid "license_and_usage_statistics"
+msgstr "లైసెన్స్ మరియు వినియోగ"
+
+msgid "invoice_allowance_limits"
+msgstr "ఇన్‌వాయిస్ అలవెన్స్ పరిమితులు"
+
+msgid "business_rate_card"
+msgstr "రేట్ కార్డ్"
+
+msgid "business_shift_schedule"
+msgstr "షిఫ్ట్ షెడ్యూల్"
+
+msgid "business_holiday_calendar"
+msgstr "హాలిడే క్యాలెండర్ల"
+
+msgid "business_service_estimates"
+msgstr "సర్వీస్ అంచనాల"
+
+msgid "license_usage_statistics"
+msgstr "లైసెన్స్ మరియు వినియోగ"
+
+msgid "subscription_text"
+msgstr "చందాలు"
+
+msgid "skip_text"
+msgstr "దాటవేయండి,"
+
+msgid "skip_desc"
+msgstr "మీరు దాటవేయబోతున్నారు, గైడెడ్ సెటప్ TUDO ప్లాట్‌ఫారమ్‌లో మీ వ్యాపారాన్ని అనుకూలీకరించడానికి సహాయపడుతుంది. మీరు ఖచ్చితంగా దాటవేస్తారా?"
+
+msgid "business_setup"
+msgstr "బిజినెస్ సెటప్"
+
+msgid "business_profile_overview_screen_title"
+msgstr "బిజినెస్ ఓవర్‌వ్యూ"
+
+msgid "business_owner_details"
+msgstr "బిజినెస్ ఓనర్ వివరాలు:"
+
+msgid "user_name"
+msgstr "యూజర్ పేరు"
+
+msgid "phone"
+msgstr "ఫోన్"
+
+msgid "business_details"
+msgstr "బిజినెస్ వివరాలు:"
+
+msgid "business_phone"
+msgstr "బిజినెస్ ఫోన్"
+
+msgid "business_established_year"
+msgstr "బిజినెస్ ఎస్టాబ్లిష్డ్ ఇయర్"
+
+msgid "number_employees"
+msgstr "ఎంప్లాయిస్"
+
+msgid "business_license_details"
+msgstr "బిజినెస్ లైసెన్స్ వివరాలు:"
+
+msgid "business_license_number"
+msgstr "బిజినెస్ లైసెన్స్ నంబర్"
+
+msgid "license_issuing_authority"
+msgstr "లైసెన్స్ జారీ చేసే అథారిటీ"
+
+msgid "uploaded_business_license_pictures"
+msgstr "బిజినెస్ లైసెన్స్ ఫోటోలు"
+
+msgid "business_profile_details"
+msgstr "బిజినెస్ ప్రొఫైల్ వివరాలు:"
+
+msgid "business_profile_text"
+msgstr "బిజినెస్ ప్రొఫైల్ ఇన్ఫో"
+
+msgid "uploaded_business_profile_pictures"
+msgstr "బిజినెస్ ప్రొఫైల్ ఫోటోలు"
+
+msgid "business_Service_details"
+msgstr "బిజినెస్ సేవా వివరాలు:"
+
+msgid "selected_business_services"
+msgstr "ఎంచుకున్న సేవల"
+
+msgid "business_profile_expiry_date"
+msgstr "లైసెన్స్ గడువు తేదీ"
+
+msgid "branch_country"
+msgstr "వ్యాపార దేశం"
+
+msgid "done"
+msgstr "పూర్తయింది"
+
+msgid "thanks_text_desc"
+msgstr "సర్వీస్ ప్రొవైడర్ సైన్అప్ విజయవంతమైంది, మీ వ్యాపార ప్రొఫైల్ ధృవీకరణ పెండింగ్‌లో ఉంది మరియు మేము త్వరలో మా నిర్ణయాన్ని తెలియజేస్తాము. అప్పుడప్పుడు TUDO అదనపు సమాచారం కోసం అడగవచ్చు మరియు ఈ సమయంలో గైడెడ్ బిజినెస్ సెటప్‌కు వెళ్లండి."
+
+msgid "business_unlicense_details"
+msgstr "లైసెన్స్ లేని వ్యాపారం వివరాలు:"
+
+msgid "personal_identity_1"
+msgstr "వ్యక్తిగత Identity1"
+
+msgid "personal_id_number"
+msgstr "వ్యక్తిగత ID సంఖ్య"
+
+msgid "expiry_date"
+msgstr "గడువు తేదీ"
+
+msgid "personal_identity_type_1"
+msgstr "వ్యక్తిగత Identification1 టైప్"
+
+msgid "uploaded_identification_image_1"
+msgstr "వ్యక్తిగత Identification1 ఫోటోలు"
+
+msgid "personal_identity_2"
+msgstr "వ్యక్తిగత Identity2"
+
+msgid "personal_identity_type_2"
+msgstr "వ్యక్తిగత Identification2 టైప్"
+
+msgid "uploaded_identification_image_2"
+msgstr "వ్యక్తిగత Identification2 ఫోటోలు"
+
+msgid "selected_consents"
+msgstr "ఎంచుకున్న సమ్మతిస్తే:"
+
+msgid "custom_issuing_authority_text"
+msgstr "లైసెన్సు జారీచేసే అధికార పేరు"
+
+msgid "selected_services"
+msgstr "ఎంచుకున్న సేవలను"
+
+msgid "invoice_allowance_limits_screen_title"
+msgstr "వాయిస్ అనుమతి పరిమితులు"
+
+msgid "invoice_allowance_confirm"
+msgstr "వాయిస్ అనుమతి పరిమితులు మార్చడానికి ఖచ్చితంగా ఉన్నారా?"
+
+msgid "header_title"
+msgstr "బిజినెస్ ఇన్‌వాయిస్చేస్తున్నప్పుడు గరిష్టంగా అనుమతించబడిన పరిమితులు"
+
+msgid "invoice_allowance_success"
+msgstr "ఇన్‌వాయిస్ అలవెన్స్ పరిమితులను విజయవంతంగా అప్‌డేట్."
+
+msgid "max_allowed_tax"
+msgstr "మాక్స్ అనుమతించింది పన్ను"
+
+msgid "Max_allowed_discount"
+msgstr "గరిష్టంగా డిస్కౌంట్"
+
+msgid "max_invoice_adjust_count"
+msgstr "మాక్స్ ఇన్‌వాయిస్ సర్దుబాటు కౌంట్"
+
+msgid "allow_bsp_discount"
+msgstr "ఏజెంట్ డిస్కౌంట్ జోడించడానికి"
+
+msgid "allow_bsp_tax"
+msgstr "అనుమతించండి ఏజెంట్ పన్ను జోడించడానికి అనుమతించండి"
+
+msgid "change_discount_ques"
+msgstr "మీరు డిస్కౌంట్ సెట్టింగ్‌ను ఖచ్చితంగా మారుస్తారా?"
+
+msgid "change_tax_ques"
+msgstr "మీరు ఖచ్చితంగా పన్ను సెట్టింగ్‌ని మారుస్తారా?"
+
+msgid "discount_settings_success"
+msgstr "విజయవంతంగా అప్‌డేట్ చేయబడిన డిస్కౌంట్ సెట్టింగ్‌ని అనుమతించండి/నిరోధించండి."
+
+msgid "tax_settings_success"
+msgstr "విజయవంతంగా నవీకరించబడిన పన్ను సెట్టింగ్‌ని అనుమతించండి/నిరోధించండి."
+
+msgid "business_service_radius_screen_title"
+msgstr "సర్వీస్ రేడియస్"
+
+msgid "update_confirm_text"
+msgstr "సర్వీస్ రేడియస్ సెట్టింగ్‌ని మీరు ఖచ్చితంగా అప్‌డేట్ చేస్తున్నారా?"
+
+msgid "update_success_text"
+msgstr "సర్వీస్ రేడియస్ సెట్టింగ్‌లు విజయవంతంగా అప్‌డేట్ చేయబడ్డాయి."
+
+msgid "default_confirm_text"
+msgstr "మీరు సేవా రేడియస్ సెట్టింగ్‌లను మునుపటిలాగా తిరిగి ఇవ్వాలనుకుంటున్నారా?"
+
+msgid "same_radius_question_text"
+msgstr "అన్ని సేవలకు ఒకే వ్యాసార్థం?"
+
+msgid "no_service_available"
+msgstr "సెట్టింగ్‌ల కోసం సేవ అందుబాటులో లేదు"
+
+msgid "branch_setup_success"
+msgstr "అభినందనలు! మీ వ్యాపారం సెటప్ విజయవంతంగా పూర్తి, వ్యాపార అవకాశాలుసర్వీసెస్TUDO కనెక్ట్"
+
+msgid "finish_text"
+msgstr "ముగించు"
+
+msgid "business_expected_duration_screen_title"
+msgstr "సర్వీస్ వ్యవధి"
+
+msgid "same_duration_question"
+msgstr "అన్ని సేవలకుఒకే కాలంలోఅయ్యి?"
+
+msgid "home_service_label"
+msgstr "ఇన్-హోమ్ సర్వీసెస్"
+
+msgid "walk_in_label"
+msgstr "వాక్-ఇన్ సర్వీసెస్"
+
+msgid "on_demand_label"
+msgstr "ఆన్-డిమాండ్ సర్వీసెస్‌లో"
+
+msgid "include_travel_text"
+msgstr "ట్రావెల్ / రాకపోకల సమయాన్ని చేర్చాలా?"
+
+msgid "schedule_update_success_text"
+msgstr "సేవా వ్యవధి సెట్టింగ్‌లు విజయవంతంగా నవీకరించబడ్డాయి."
+
+msgid "schedule_default_question_text"
+msgstr "మీరు సేవా వ్యవధి సెట్టింగ్‌లను మునుపటిలాగా తిరిగి ఇవ్వాలనుకుంటున్నారా?"
+
+msgid "schedule_update_question_text"
+msgstr "మీరు సేవా వ్యవధి సెట్టింగ్‌లను ఖచ్చితంగా అప్‌డేట్ చేస్తున్నారా?"
+
+msgid "something_wrong_server"
+msgstr "ఏదో తప్పు జరిగింది, మళ్లీ ప్రయత్నించండి."
+
+msgid "business_rate_card_screen_title"
+msgstr "రేట్ కార్డ్"
+
+msgid "update_suceess_text"
+msgstr "బిజినెస్ సర్వీస్ రేట్ కార్డ్ విజయవంతంగా అప్‌డేట్ చేయబడింది."
+
+msgid "fill_proper_text"
+msgstr "దయచేసి అన్ని విలువలను సరిగ్గా పూరించండి"
+
+msgid "common_price_text"
+msgstr "అన్ని సేవలకు సమాన ధర?"
+
+msgid "fixed_rate_label"
+msgstr "స్థిర రేటు"
+
+msgid "hourly_rate_label"
+msgstr "గంట రేటు"
+
+msgid "price_in"
+msgstr "ధర"
+
+msgid "enter_price_in"
+msgstr "ఎంటర్ ప్రైస్"
+
+msgid "business_sales_tax_rate_screen_title"
+msgstr "బిజినెస్ సేల్స్ టాక్స్"
+
+msgid "sales_tax_rate_label"
+msgstr "సేల్స్ టాక్స్"
+
+msgid "tax_line_description"
+msgstr "ఇన్వాయిస్ టాక్స్ లైన్ వివరణ"
+
+msgid "tax_rate_text"
+msgstr "పన్ను రేటు"
+
+msgid "common_tax_rate_question"
+msgstr "అన్ని సర్వీసులకుసమాన పన్ను రేటు?"
+
+msgid "tax_before_discount"
+msgstr "డిస్కౌంట్లకు ముందు పన్ను వర్తించబడిందా?"
+
+msgid "select_tax_authority"
+msgstr "పన్ను అథారిటీని ఎంచుకోండి"
+
+msgid "national_business_tax_text"
+msgstr "జాతీయ వ్యాపార పన్ను గుర్తింపు సంఖ్య"
+
+msgid "regional_business_tax_text"
+msgstr "ప్రాంతీయ వ్యాపార పన్ను గుర్తింపు సంఖ్య"
+
+msgid "please_fill_value_text"
+msgstr "దయచేసి అన్ని అవసరమైన ఫీల్డ్‌లను నమోదు చేయండి"
+
+msgid "businesss_sales_tax_rate_update_confirm"
+msgstr "మీరు ఖచ్చితంగా అమ్మకపు పన్ను రేటును అప్‌డేట్ చేస్తున్నారా?"
+
+msgid "businesss_sales_tax_rate_success"
+msgstr "విక్రయ పన్ను రేటు విజయవంతంగా నవీకరించబడింది."
+
+msgid "businesss_sales_tax_rate_default_confirm"
+msgstr "మీరు సేల్స్ టాక్స్ రేట్ సెట్టింగ్‌లను మునుపటిలాగా తిరిగి ఇవ్వాలనుకుంటున్నారా?"
+
+msgid "tax_rate"
+msgstr "పన్ను రేటు"
+
+msgid "should_be_in_range"
+msgstr "(*పన్ను రేటు తప్పనిసరిగా 0 నుండి 99 మధ్య ఉండాలి)"
+
+msgid "fiscal_year_text"
+msgstr "ఆర్థిక సంవత్సరం"
+
+msgid "business_fiscal_year_text"
+msgstr "వ్యాపార ఆర్థిక సంవత్సరం"
+
+msgid "tax_calculated_age"
+msgstr "పన్ను %లో లెక్కించబడిందా?"
+
+msgid "equal_tax_all_service"
+msgstr "అన్ని సేవలకు సమాన పన్ను విలువ?"
+
+msgid "business_service_estimates_screen_title"
+msgstr "సర్వీస్ అంచనాలు"
+
+msgid "hrs_text"
+msgstr "(/గంటలు)"
+
+msgid "save_confirm_text"
+msgstr "మీరు సేవా అంచనాలను ఆదా చేయాలనుకుంటున్నారా?"
+
+msgid "save_suceess_text"
+msgstr "సేవా అంచనాలు విజయవంతంగా సేవ్ చేయబడ్డాయి."
+
+msgid "multiplier_factor_text"
+msgstr "గుణించే కారకాన్ని"
+
+msgid "note_text"
+msgstr "*గమనిక: అంచనాలు పన్ను మినహా మినహాయించబడ్డాయి"
+
+msgid "mins_text"
+msgstr "."
+
+msgid "travel_communicate_text"
+msgstr "ప్రయాణ/ ప్రయాణ సమయం అంచనాలలో చేర్చబడిందా?"
+
+msgid "hr_text"
+msgstr "గంటలు."
+
+msgid "personal_details_Screen_title"
+msgstr "వ్యక్తిగత డేటా"
+
+msgid "phone_no"
+msgstr "ఫోన్ నంబర్"
+
+msgid "country_code"
+msgstr "కంట్రీ కోడ్"
+
+msgid "address_mandatory"
+msgstr "మ్యాప్ చిరునామా నుండి"
+
+msgid "address"
+msgstr "చిరునామాను"
+
+msgid "select_country"
+msgstr "ఎంచుకోండి దేశం"
+
+msgid "choose_country"
+msgstr "ఎంచుకోండి దేశం"
+
+msgid "gender"
+msgstr "లింగం"
+
+msgid "error"
+msgstr "లోపం"
+
+msgid "select_field_error_text"
+msgstr "దయచేసి ప్రొఫైల్ పిక్చర్‌తో అవసరమైన అన్ని అంశాలను ఎంచుకోండి"
+
+msgid "okay"
+msgstr "సరే"
+
+msgid "personal_identification_screen_title"
+msgstr "గుర్తింపు వివరాల"
+
+msgid "no_idnetification_available"
+msgstr "గుర్తింపు వివరాలు ఇంకా జోడించబడలేదు."
+
+msgid "identification_type"
+msgstr "గుర్తింపు రకం"
+
+msgid "identification_name"
+msgstr "గుర్తింపు పేరు"
+
+msgid "identification_number"
+msgstr "గుర్తింపు సంఖ్య"
+
+msgid "exp_date"
+msgstr "గడువు తేదీ"
+
+msgid "perosnal_identity_2"
+msgstr "వ్యక్తిగత గుర్తింపు 2 వ్యక్తిగత గుర్తింపు 1"
+
+msgid "perosnal_identity_1"
+msgstr "వ్యక్తిగత గుర్తింపును"
+
+msgid "add_personal_identification_screen_title"
+msgstr "జోడించండి వ్యక్తిగత గుర్తింపు"
+
+msgid "update_identification"
+msgstr "నవీకరణ వ్యక్తిగత గుర్తింపు"
+
+msgid "document_number_2"
+msgstr "పత్రం 2 సంఖ్య"
+
+msgid "update_success"
+msgstr "వ్యక్తిగత గుర్తింపు విజయవంతంగా నవీకరించబడింది."
+
+msgid "create_success"
+msgstr "వ్యక్తిగత గుర్తింపు విజయవంతంగా సృష్టించబడింది."
+
+msgid "document_number_1"
+msgstr "వ్యక్తిగత గుర్తింపు పత్రం 1 సంఖ్య"
+
+msgid "photo_identity_1_exp_date"
+msgstr "ఫోటో గుర్తింపు 1 గడువు తేదీ"
+
+msgid "photo_identity_2_exp_date"
+msgstr "ఫోటో గుర్తింపు 2 గడువు తేదీ"
+
+msgid "perosnal_identity_1_pictures"
+msgstr "అప్‌లోడ్ వ్యక్తిగత గుర్తింపు 1 ఫోటోలు"
+
+msgid "perosnal_identity_2_pictures"
+msgstr "వ్యక్తిగత గుర్తింపు"
+
+msgid "please_select_2_document"
+msgstr "2 ఫోటోలు అప్‌లోడ్ చేయండి దయచేసి కనీసం 2 ఫోటోలను అప్‌లోడ్ చేయండి (మీ గుర్తింపు కార్డు ముందు మరియు వెనుక)"
+
+msgid "terms"
+msgstr "పైన పేర్కొన్న గుర్తింపు వివరాలు చట్టబద్ధమైనవి, ఖచ్చితమైనవి మరియు నాకు చెందినవి."
+
+msgid "education_and_qualification_title"
+msgstr "విద్య & అర్హతలు"
+
+msgid "no_education_text"
+msgstr "విద్య మరియు అర్హతలు ఇంకా జోడించబడలేదు."
+
+msgid "from"
+msgstr "నుండి:"
+
+msgid "to"
+msgstr "కు:"
+
+msgid "institution_country"
+msgstr "ఇన్స్టిట్యూషన్, దేశం"
+
+msgid "add_education_and_qualification_title"
+msgstr "చేర్చు ఎడ్యుకేషన్ & అర్హతలు"
+
+msgid "add_success"
+msgstr "ఎడ్యుకేషన్ అండ్ క్వాలిఫికేషన్ విజయవంతంగా జోడించారు."
+
+msgid "add_education_and_qualification_update_title"
+msgstr "అప్డేట్ ఎడ్యుకేషన్ & అర్హతలు"
+
+msgid "education_and_qualification_info_title"
+msgstr "ఎడ్యుకేషన్ & అర్హతలు వివరాలు"
+
+msgid "qualification_type"
+msgstr "అర్హతలు టైప్"
+
+msgid "qualification"
+msgstr "అర్హతలు"
+
+msgid "qualification_number"
+msgstr "అర్హతలు సంఖ్య"
+
+msgid "qualification_field"
+msgstr "అర్హతలు ఫీల్డ్"
+
+msgid "qualification_exp_date"
+msgstr "అర్హతలు గడువు తేదీ"
+
+msgid "from_date"
+msgstr "నుండి తేదీ"
+
+msgid "end_date"
+msgstr "ముగింపు తేదీ"
+
+msgid "institution_name"
+msgstr "ఇన్స్టిట్యూషన్ పేరు"
+
+msgid "additional_details"
+msgstr "అదనపు వివరాలు"
+
+msgid "uploaded_images_certificates"
+msgstr "సర్టిఫికెట్ ఫోటోలు"
+
+msgid "delete_confirm"
+msgstr "మీరు ఖచ్చితంగా ఈ ఎడ్యుకేషన్ అండ్ క్వాలిఫికేషన్ తొలగించడానికి చేస్తున్నారా?"
+
+msgid "delete_success"
+msgstr "విద్య మరియు అర్హతలు విజయవంతంగా తొలగించబడ్డాయి."
+
+msgid "work_experience_list_title"
+msgstr "పని అనుభవం"
+
+msgid "no_exp_added_text"
+msgstr "పని అనుభవం వివరాలు ఇంకా జోడించబడలేదు."
+
+msgid "exp_type"
+msgstr "అనుభవం రకం"
+
+msgid "emp_type"
+msgstr "ఉపాధి రకం"
+
+msgid "organization_name"
+msgstr "సంస్థ పేరు"
+
+msgid "job_role"
+msgstr "ఉద్యోగ పాత్ర"
+
+msgid "contact_person_name"
+msgstr "సంప్రదించండి వ్యక్తి పేరు"
+
+msgid "current"
+msgstr "ప్రస్తుత"
+
+msgid "city_country"
+msgstr "నగరం, దేశం"
+
+msgid "add_work_experience_title"
+msgstr "పని అనుభవాన్ని జోడించండి"
+
+msgid "add_work_experience_update_title"
+msgstr "పని అనుభవం"
+
+msgid "exp_added_success"
+msgstr "పని అనుభవం విజయవంతంగా జోడించబడింది."
+
+msgid "exp_update_success"
+msgstr "పని అనుభవం విజయవంతంగా నవీకరించబడింది."
+
+msgid "work_experience_info_title"
+msgstr "పని అనుభవం వివరాలు"
+
+msgid "experience"
+msgstr "అనుభవం"
+
+msgid "refer_person_name"
+msgstr "రిఫరెన్స్ వ్యక్తి పేరు"
+
+msgid "refer_person_number"
+msgstr "సూచన వ్యక్తి సంఖ్య"
+
+msgid "refer_person_email"
+msgstr "రిఫరెన్స్ వ్యక్తి ఇమెయిల్"
+
+msgid "exp_delete_que"
+msgstr "మీరు ఖచ్చితంగా తొలగిస్తారా?"
+
+msgid "exp_delete_success"
+msgstr "విజయవంతంగా తొలగించబడింది"
+
+msgid "insurance_list_title"
+msgstr "నా భీమా"
+
+msgid "no_insurance_added_text"
+msgstr "బీమా ఇంకా జోడించబడలేదు."
+
+msgid "agent_name"
+msgstr "ఏజెంట్ పేరు"
+
+msgid "add_insurance_title"
+msgstr "ఇన్సూరెన్స్"
+
+msgid "add_insurance_update_title"
+msgstr "అప్‌డేట్ ఇన్సూరెన్స్"
+
+msgid "insurance_added_success"
+msgstr "బీమా విజయవంతంగా జోడించబడింది."
+
+msgid "insurance_update_success"
+msgstr "భీమా విజయవంతంగా నవీకరించబడింది."
+
+msgid "insurance_info_title"
+msgstr "భీమా వివరాలు"
+
+msgid "insurance_policy_type"
+msgstr "భీమా పాలసీ రకం"
+
+msgid "policy_name"
+msgstr "పాలసీ పేరు"
+
+msgid "insurance_company"
+msgstr "భీమా కంపెనీ పేరు"
+
+msgid "insurance_policy_number"
+msgstr "భీమా పాలసీ సంఖ్య"
+
+msgid "policy_value"
+msgstr "పాలసీ విలువ/ పరిమితి"
+
+msgid "agent_mobile_number"
+msgstr "ఏజెంట్ మొబైల్ నంబర్"
+
+msgid "agent_email_id"
+msgstr "ఏజెంట్ ఇమెయిల్ ఐడి"
+
+msgid "additional_information"
+msgstr "అదనపు సమాచారం"
+
+msgid "uploaded_images_policies"
+msgstr "భీమా పాలసీ ఫోటోలు"
+
+msgid "delete_insurance_confirm"
+msgstr "మీరు ఖచ్చితంగా ఈ భీమాను తొలగిస్తారా?"
+
+msgid "delete_inusrance_success_text"
+msgstr "భీమా విజయవంతంగా తొలగించబడింది."
+
+msgid "vehicle_list_title"
+msgstr "నా వాహనాల"
+
+msgid "no_vehicles_added_text"
+msgstr "వాహన వివరాలు ఇంకా జోడించబడలేదు."
+
+msgid "add_vehicles_title"
+msgstr "వాహనాలను జోడించండి వాహనాలను"
+
+msgid "add_vehicles_update_title"
+msgstr "అప్‌డేట్ చేయండి వాహనాలు"
+
+msgid "vehicles_added_success"
+msgstr "విజయవంతంగా జోడించబడ్డాయి."
+
+msgid "vehicles_update_success"
+msgstr "వాహన వివరాలు విజయవంతంగా నవీకరించబడ్డాయి."
+
+msgid "vehicle_info_title"
+msgstr "వాహనం వివరాలు"
+
+msgid "vehicle_model"
+msgstr "వాహనం మోడల్"
+
+msgid "vehicle_make"
+msgstr "వాహనంవాహనం"
+
+msgid "vehicle_type_name"
+msgstr "వాహనం రకంవాహనం రకం"
+
+msgid "vehicle_type_id"
+msgstr "వాహనం"
+
+msgid "vehicle_identification_number"
+msgstr "వాహనం గుర్తింపు సంఖ్య సంఖ్య"
+
+msgid "vehicle_register_number"
+msgstr "వాహనం నమోదు సంఖ్య"
+
+msgid "vehicle_paint_color"
+msgstr "వాహనం శరీర రంగు రంగు"
+
+msgid "vehicle_type"
+msgstr "వాహనం వాహనం రకం"
+
+msgid "vehicle_modal_year"
+msgstr "వాహనం సంవత్సరం సంవత్సరం"
+
+msgid "permit1"
+msgstr "అనుమతి 1"
+
+msgid "permit2"
+msgstr "అనుమతి 2"
+
+msgid "permit3"
+msgstr "అనుమతి 3"
+
+msgid "uploaded_images"
+msgstr "వాహన ఫోటోలు"
+
+msgid "delete_success_text"
+msgstr "వాహనం విజయవంతంగా తొలగించబడింది."
+
+msgid "not_defined_txt"
+msgstr "నిర్వచించబడలేదు"
+
+msgid "logout_confirm"
+msgstr "మీరు ఖచ్చితంగా లాగ్ అవుట్ చేయాలనుకుంటున్నారా?"
+
+msgid "yes"
+msgstr "అవును"
+
+msgid "no"
+msgstr "కాదు"
+
+msgid "logout_failed"
+msgstr "వినియోగదారు లాగ్అవుట్ విఫలమైంది!"
+
+msgid "tudo_text"
+msgstr "TUDO"
+
+msgid "about_tudo"
+msgstr "గురించి TUDO"
+
+msgid "contact_tudo"
+msgstr "సంప్రదించండి TUDO"
+
+msgid "refer_tudo"
+msgstr "చూడండి TUDO"
+
+msgid "tudo_legal"
+msgstr "TUDO చట్టపరమైన నిబంధనలు మరియు షరతులు"
+
+msgid "tudo_help"
+msgstr "TUDO అప్లికేషన్ సహాయంతో"
+
+msgid "my_profile"
+msgstr "నా ప్రొఫైల్"
+
+msgid "my_indentification"
+msgstr "నా గుర్తింపు"
+
+msgid "education_quali"
+msgstr "నా ఎడ్యుకేషన్ & అర్హతలు"
+
+msgid "work_experience"
+msgstr "నా వర్క్ ఎక్స్పీరియన్స్"
+
+msgid "my_address"
+msgstr "నా చిరునామా"
+
+msgid "my_insurance"
+msgstr "నా భీమా"
+
+msgid "my_vehicles"
+msgstr "నా వాహనాలు"
+
+msgid "my_family"
+msgstr "నా కుటుంబం"
+
+msgid "themes"
+msgstr "థీమ్స్"
+
+msgid "my_prefernces"
+msgstr "నా ప్రాధాన్యతలు"
+
+msgid "logout_text"
+msgstr "లాగ్అవుట్"
+
+msgid "provide_feedback"
+msgstr "TUDOఅభిప్రాయం అందించండి"
+
+msgid "terms_of_use"
+msgstr "ఉపయోగించడానికియొక్కTUDO నిబంధనలు"
+
+msgid "privacy_notice"
+msgstr "TUDOగోప్యతా ప్రకటన"
+
+msgid "mail_subject"
+msgstr "TUDO వినియోగదారు"
+
+msgid "mail_body"
+msgstr "హలో TUDO మద్దతు బృందం."
+
+msgid "demo_txt"
+msgstr "డెమో"
+
+msgid "are_you_sure_to_delete"
+msgstr "మీరు ఖచ్చితంగా తొలగిస్తారా?"
+
+msgid "identity_number"
+msgstr "ఐడెంటిటీ డాక్యుమెంట్ నంబర్"
+
+msgid "identity_name"
+msgstr "జారీ చేసే అథారిటీ"
+
+msgid "identity_exp_Date"
+msgstr "ఐడెంటిఫికేషన్ గడువు తేదీ"
+
+msgid "select_identity_type"
+msgstr "వ్యక్తిగత గుర్తింపు రకాన్ని టైప్ చేయండి"
+
+msgid "knodledge_desc"
+msgstr "నేను గుర్తింపు సమాచారాన్ని ధృవీకరించాను మరియు నా జ్ఞానానికి దాని ఖచ్చితత్వం మరియు చట్టబద్ధతను అంగీకరించండి."
+
+msgid "at_least_2_docs"
+msgstr "దయచేసి కనీసం 2 పత్రాలుఎంచుకోండి"
+
+msgid "upload_pictures"
+msgstr "అప్లోడ్ పత్రం ఫోటోలు"
+
+msgid "work_exp_type"
+msgstr "వర్క్ ఎక్స్పీరియన్స్ టైప్"
+
+msgid "work_exp"
+msgstr "వర్క్ ఎక్స్పీరియన్స్"
+
+msgid "enter_name"
+msgstr "సంస్థ పేరు నమోదు చేయండి (వర్తిస్తే)"
+
+msgid "name_of_oraga"
+msgstr "సంస్థ పేరు (వర్తిస్తే)"
+
+msgid "enter_city"
+msgstr "పైన సంస్థ ఉన్నయొక్క City ఎంటర్"
+
+msgid "city_of_organization"
+msgstr "సంస్థ City"
+
+msgid "enter_role_with_organization"
+msgstr "పైనసంస్థతో మీ పాత్ర ఎంటర్"
+
+msgid "role_with_organization"
+msgstr "సంస్థ Job రోల్"
+
+msgid "currently_question"
+msgstr "నేను ప్రస్తుతం ఈ సంస్థలోచేస్తున్నాను"
+
+msgid "begin_date"
+msgstr "ఉద్యోగంఉపాధి ప్రారంభం తేదీ"
+
+msgid "person_name"
+msgstr "పేరు ఈ వ్యక్తిని ఏర్పాటు చేయండి సంస్థల"
+
+msgid "reference_person_name"
+msgstr "సూచన/ సంప్రదింపు వ్యక్తి పేరు"
+
+msgid "contact_per_email"
+msgstr "నుండి"
+
+msgid "elaborate_job"
+msgstr "మీ ఉద్యోగ విధులు"
+
+msgid "additional_info"
+msgstr "అదనపు సమాచారం గురించి విజయం లేదా వైఫల్యం కథ"
+
+msgid "country_is_required"
+msgstr "దేశం లేదు"
+
+msgid "contact_person_number"
+msgstr "ఈ సంస్థఅవసరంసంప్రదించండి పర్సన్ ఫోన్ సంఖ్య"
+
+msgid "refer_person_phone_number"
+msgstr "సూచన / సంప్రదించండి పర్సన్ ఫోన్ సంఖ్య"
+
+msgid "i_have_read"
+msgstr "నేనుచదివి అంగీకరిస్తున్నాను"
+
+msgid "tudo_terms_use"
+msgstr "వాడుకTUDO నిబంధనలు"
+
+msgid "and_text"
+msgstr "మరియు"
+
+msgid "privacy_policies"
+msgstr "గోప్యతా నోటీసు"
+
+msgid "must_accept_terms_to_continue"
+msgstr "మీరుకొనసాగించడానికి TUDO నియమాలు మరియు నిబంధనలు అంగీకరించాలి"
+
+msgid "brainree_terms_of_use"
+msgstr "వినియోగ బ్రేంట్రీ నిబంధనలు"
+
+msgid "agree_back_verification"
+msgstr "నా వ్యాపార నేపథ్యం కోసం ఖర్చు చెల్లించడానికి నేను అంగీకరిస్తున్నాను మరియు అంగీకరిస్తున్నాను nd ధృవీకరణ"
+
+msgid "hyperwallet_terms"
+msgstr "హైపర్‌వాలెట్ ఉపయోగ నిబంధనలు"
+
+msgid "licensed_terms_text"
+msgstr "నేను నమోదు చేసిన సమాచారం చట్టబద్ధమైనదని మరియు నా జ్ఞానానికి చెల్లుబాటు అయ్యేదని నేను ధృవీకరిస్తున్నాను"
+
+msgid "unlicensed_terms_text"
+msgstr "పైన నమోదు చేసిన వివరాలు చట్టబద్ధమైనవి, ఖచ్చితమైనవి మరియు నాకు చెందినవి."
+
+msgid "owner_business_text"
+msgstr "నేను ఈ వ్యాపారం యొక్క చట్టపరమైన యజమాని am మరియు నా వయసు 18 సంవత్సరాలుగా ఉన్నాను"
+
+msgid "enter_first_name"
+msgstr "ఎంటర్ మీ మొదటి పేరు"
+
+msgid "first_name"
+msgstr "మొదటి పేరు"
+
+msgid "enter_last_name"
+msgstr "మీ చివరి పేరు"
+
+msgid "last_name"
+msgstr "చివరి పేరు"
+
+msgid "enter_your_password"
+msgstr "ఎంటర్ మీ పాస్వర్డ్"
+
+msgid "error_text"
+msgstr "లోపం"
+
+msgid "signup_failed"
+msgstr "సైన్అప్విఫలమైంది"
+
+msgid "tudo_sign_up"
+msgstr "TUDOబ్యాకప్సైన్ ఇన్"
+
+msgid "back_to_login"
+msgstr "లోనికి ప్రవేశించండి కు ఎంటర్?"
+
+msgid "time_is_expired"
+msgstr "OTP గడువు"
+
+msgid "your_time_desc"
+msgstr "ముగిసింది OTP గడువు ముగిసింది దయచేసి కొత్తదాన్ని స్వీకరించడానికి రీసెట్ బటన్‌ని నొక్కండి"
+
+msgid "resend_the_otp"
+msgstr "OTP ని"
+
+msgid "wait_text"
+msgstr "వేచి ఉండండి"
+
+msgid "enter_otp"
+msgstr "OTP ని నమోదు చేయండి"
+
+msgid "emailed_otp_text"
+msgstr "మేము మీ ఇమెయిల్ ఖాతాకు OTP (వన్ టైమ్ పిన్) పంపాము, మీ TUDO ఖాతాను యాక్టివేట్ చేయడానికి OTP ని నమోదు చేయండి. (గమనిక: ఇమెయిల్ స్వీకరించడానికి దయచేసి 5 నిమిషాల వరకు అనుమతించండి, మీ స్పామ్ ఫోల్డర్‌ను కూడా తనిఖీ చేయండి)"
+
+msgid "success_text"
+msgstr "!"
+
+msgid "pass_change_success_text"
+msgstr "పాస్‌వర్డ్ విజయవంతంగా నవీకరించబడింది!"
+
+msgid "fill_cell_text"
+msgstr "*దయచేసి అన్ని కణాలను సరిగ్గా పూరించండి"
+
+msgid "didnt_get_code_text"
+msgstr "OTP అందుకోలేదా? మళ్లీ పంపండి"
+
+msgid "aye_text"
+msgstr "!!"
+
+msgid "verify_text"
+msgstr "చెల్లుబాటు అవుతుంది"
+
+msgid "clear_text"
+msgstr "క్లియర్"
+
+msgid "select_language"
+msgstr "భాషను ఎంచుకోండి"
+
+msgid "next_text"
+msgstr "తదుపరి"
+
+msgid "select_calendar"
+msgstr "క్యాలెండర్"
+
+msgid "policy_periods"
+msgstr "పాలసీ చెల్లుబాటు అయ్యే కాలాలను"
+
+msgid "atleast_2_document"
+msgstr "ఎంచుకోండి దయచేసి కనీసం 2 డాక్యుమెంట్‌లనుడాక్యుమెంట్"
+
+msgid "upload_doc_text"
+msgstr "అప్‌లోడ్ చేయండిఅప్‌లోడ్ చేయండి ఫోటోలు"
+
+msgid "insurance_policy_cat_text"
+msgstr "భీమా పాలసీ వర్గం"
+
+msgid "valid_date_txt"
+msgstr "దయచేసి చెల్లుబాటు అయ్యే తేదీని నమోదు చేయండి"
+
+msgid "start_date_text"
+msgstr "ప్రారంభ తేదీ"
+
+msgid "end_date_text"
+msgstr "పాలసీ ముగింపు తేదీ"
+
+msgid "name_of_policy_text"
+msgstr "మీ భీమా పాలసీపేరు"
+
+msgid "additional_info_text"
+msgstr "అదనపు"
+
+msgid "policy_value_limit_text"
+msgstr "పాలసీ విలువ/ పరిమితి"
+
+msgid "agent_email_id_text"
+msgstr "భీమా ఏజెంట్ ఇమెయిల్ ఐడి"
+
+msgid "insurance_company_name_text"
+msgstr "భీమా కంపెనీ పేరు"
+
+msgid "agent_name_text"
+msgstr "భీమా ఏజెంట్ పేరు"
+
+msgid "policy_number_text"
+msgstr "భీమా పాలసీ నంబర్"
+
+msgid "code_text"
+msgstr "కోడ్"
+
+msgid "country_code_text"
+msgstr "దేశం కోడ్"
+
+msgid "agent_phone_number_text"
+msgstr "ఇన్సూరెన్స్ ఏజెంట్ ఫోన్ నంబర్"
+
+msgid "please_select_image"
+msgstr "దయచేసి ఒక చిత్రాన్ని"
+
+msgid "error_while_pick_image_txt"
+msgstr "ఎంచుకునేటప్పుడు ఇమేజ్"
+
+msgid "please_choose_image_txt"
+msgstr "ఎర్రర్‌ను ఎంచుకోండి దయచేసి ఇమేజ్"
+
+msgid "gallery_txt"
+msgstr "గ్యాలరీ"
+
+msgid "camera_txt"
+msgstr "కెమెరాను"
+
+msgid "please_select_gender"
+msgstr "ఎంచుకోండి దయచేసి లింగ"
+
+msgid "gender_txt"
+msgstr "లింగం"
+
+msgid "additional_activites"
+msgstr "అదనపు కార్యకలాపాలు లేదా పార్టిసిపేషన్"
+
+msgid "additional_during_study_text"
+msgstr "అదనపు యాక్టివిటీలు లేదా పార్టిసిపేషన్ మొదలైనవి స్టడీ"
+
+msgid "qualification_field_study"
+msgstr "క్వాలిఫికేషన్ ఫీల్డ్ లేదా స్టడీ"
+
+msgid "highest_degree_qualification"
+msgstr "అత్యున్నత డిగ్రీలో ఎంచుకోండి లేదా అర్హత?"
+
+msgid "enter_instituation_name"
+msgstr "ఎంటర్ ఇన్స్టిట్యూషన్ పేరు"
+
+msgid "name_of_institution"
+msgstr "పేరు ఇన్స్టిట్యూషన్ యొక్క"
+
+msgid "qualification_certificate_number"
+msgstr "అర్హతలు లేదా సర్టిఫికేషన్ సంఖ్యఎంటర్"
+
+msgid "certificate_number"
+msgstr "అర్హతలు లేదా సర్టిఫికెట్ సంఖ్య"
+
+msgid "qualification_required_txt"
+msgstr "అర్హతలుఅవసరం"
+
+msgid "qualification_txt"
+msgstr "అర్హతలు"
+
+msgid "select_qualification"
+msgstr "ఎంచుకోండి అర్హతలు"
+
+msgid "body_paint_color"
+msgstr "వాహనం శరీర పెయింట్ రంగు"
+
+msgid "registration_plate_number"
+msgstr "వాహనం రిజిస్ట్రేషన్ / ప్లేట్ సంఖ్య"
+
+msgid "vehicle_identity_number"
+msgstr "వాహనం గుర్తింపు సంఖ్య"
+
+msgid "vehicle_type_text"
+msgstr "వాహన రకం"
+
+msgid "model_year_text"
+msgstr "వాహనం మోడల్ సంవత్సరం"
+
+msgid "vehicle_permit_1"
+msgstr "వాహనం Permit1"
+
+msgid "vehicle_permit_2"
+msgstr "వాహనం Permit2"
+
+msgid "vehicle_permit_3"
+msgstr "వాహనంPermit3"
+
+msgid "additional_info_txt"
+msgstr "అదనపు సమాచారం"
+
+msgid "select_calendar_text"
+msgstr "మీ క్యాలెండర్జోడించు"
+
+msgid "tudo_appointment"
+msgstr "TUDO నియామకం"
+
+msgid "for_text"
+msgstr "కోసం"
+
+msgid "service_text"
+msgstr "సర్వీస్"
+
+msgid "add_charge"
+msgstr "ఛార్జ్"
+
+msgid "enter_title"
+msgstr "ఎంటర్ శీర్షిక"
+
+msgid "field_should_required"
+msgstr "అవసరమైన ఫీల్డ్ ఎంటర్"
+
+msgid "enter_quantity"
+msgstr "పరిమాణంఎంటర్"
+
+msgid "should_be_decimal"
+msgstr "పరిమాణంఉండాలి సంఖ్య విలువ"
+
+msgid "quan_greater_text"
+msgstr "మొత్తము అప్పుడు తురుము పీట ఉండాలి 0"
+
+msgid "unit_price_text"
+msgstr "ఎంటర్ యూనిట్ ధర"
+
+msgid "charge_in_number"
+msgstr "ఛార్జీలు సంఖ్య విలువఉండాలి"
+
+msgid "charge_greater_text"
+msgstr "ఛార్జీలుఆపై 0తురుము పీట ఉండాలి"
+
+msgid "enter_desc_text"
+msgstr "ఎంటర్వివరణ"
+
+msgid "applicable_tax"
+msgstr "వర్తించేకోసంపన్నులు"
+
+msgid "applicable_discount"
+msgstr "డిస్కౌంట్ కోసం వర్తించే"
+
+msgid "add_comment_text"
+msgstr "వ్యాఖ్యలుజోడించండి"
+
+msgid "write_billing_text"
+msgstr "/ ఇన్వాయిస్ వ్యాఖ్యలువ్రాయండి బిల్లింగ్"
+
+msgid "reason_Additional_charge"
+msgstr "అదనపు ఛార్జీలు కోసంవ్రాయండి కారణాల లేదా సర్వీస్ వివరాలు మొదలైనవి"
+
+msgid "type_comments"
+msgstr "మీ వ్యాఖ్యలుటైప్"
+
+msgid "invoice_details"
+msgstr "ఇన్వాయిస్ వివరాలు"
+
+msgid "invoice_generated_success_text"
+msgstr "వాయిస్ విజయవంతంగా ఉత్పత్తి"
+
+msgid "please_give_rating_text"
+msgstr "దయచేసి ఈ కన్స్యూమర్"
+
+msgid "post_positive_text"
+msgstr "ఈ Share కన్స్యూమర్అందిస్తున్న మీ సానుకూల అనుభవం"
+
+msgid "what_you_like_most_text"
+msgstr "WRమీకు చాలా నచ్చిన"
+
+msgid "invoice_txt"
+msgstr "ఇన్‌వాయిస్#"
+
+msgid "charges_text"
+msgstr "ఛార్జీలు"
+
+msgid "discounts"
+msgstr "డిస్కౌంట్ల"
+
+msgid "taxes"
+msgstr "పన్నులు"
+
+msgid "total"
+msgstr "మొత్తం"
+
+msgid "do_you_remove"
+msgstr "మీరు ఖచ్చితంగా లైన్‌ని తీసివేస్తారా?"
+
+msgid "qty_txt"
+msgstr "క్యూటి."
+
+msgid "unit_price"
+msgstr "యూనిట్ ధర:"
+
+msgid "app_title"
+msgstr "Appt. టైటిల్"
+
+msgid "app_date"
+msgstr "యాప్.తేదీ"
+
+msgid "payment_type_text"
+msgstr "చెల్లింపు పద్ధతి"
+
+msgid "from_txt"
+msgstr "నుండి"
+
+msgid "invoice_date"
+msgstr "ఇన్వాయిస్ తేదీ"
+
+msgid "agent_txt"
+msgstr "ఏజెంట్"
+
+msgid "bill_to_text"
+msgstr "వీరికి బిల్"
+
+msgid "comments_txt"
+msgstr "వ్యాఖ్యలు"
+
+msgid "unplesant_text"
+msgstr "వినియోగిస్తుండగాఅందిస్తున్న భాగస్వామ్యం చెడు"
+
+msgid "elidigble_discount"
+msgstr "డిస్కౌంట్ కోసం అర్హత"
+
+msgid "leads_text"
+msgstr "దారితీస్తుంది"
+
+msgid "prospects_text"
+msgstr "ప్రాస్పెక్టస్"
+
+msgid "branch_list_screen_title"
+msgstr "బ్రాంచ్ జాబితా"
+
+msgid "inactive_text"
+msgstr "నిశ్చలం"
+
+msgid "active_text"
+msgstr "Active"
+
+msgid "employees_text"
+msgstr "ఉద్యోగులు"
+
+msgid "address_text"
+msgstr "చిరునామా"
+
+msgid "delete_text"
+msgstr "తొలగించు"
+
+msgid "bsp_signup_licensed_terms_page_title"
+msgstr "ఎంచుకోండి సర్వీసులు"
+
+msgid "atleast_one_service_text"
+msgstr "దయచేసి కెళ్ళాలి కనీసం ఒక సర్వీస్ఎంచుకోండి"
+
+msgid "deactive_confirm_text"
+msgstr "మీరు ఖచ్చితంగా మీ బ్రాంచ్ నుండి ఈ సర్వీస్ సోమరిగాచేయు చేస్తున్నారాఅనుభవం?"
+
+msgid "deactive_success_text"
+msgstr "శాఖ విజయవంతంగా నిష్క్రియం చేయబడింది."
+
+msgid "add_service_confirm_text"
+msgstr "మీరు ఖచ్చితంగా ఈ సేవను మీ బ్రాంచ్‌కు జోడించాలనుకుంటున్నారా?"
+
+msgid "service_added_success_text"
+msgstr "మీ బ్రాంచ్‌కు సేవ విజయవంతంగా జోడించబడింది."
+
+msgid "error_while_picking_text"
+msgstr "చిత్రాన్ని ఎంచుకునేటప్పుడు లోపం"
+
+msgid "please_choose_img_text"
+msgstr "దయచేసి ఒక చిత్రాన్ని"
+
+msgid "enter_first_name_text"
+msgstr "ఉద్యోగి మొదటి పేరు"
+
+msgid "employee_first_name"
+msgstr "ఉద్యోగి మొదటి పేరు"
+
+msgid "employee_last_name"
+msgstr "ఉద్యోగి చివరి పేరు"
+
+msgid "employee_address_mandatory"
+msgstr "ఉద్యోగి చిరునామా"
+
+msgid "employee_address_text"
+msgstr "ఉద్యోగి చిరునామా"
+
+msgid "employee_demographic_text"
+msgstr "ఉద్యోగి జనాభా సమాచారం"
+
+msgid "please_select_all_required_fields"
+msgstr "దయచేసి ప్రొఫైల్ పిక్చర్పాటు అవసరమైన సమాచారాన్ని నమోదు చేయండి"
+
+msgid "employee_identification_title"
+msgstr "ఎంప్లాయీ ఐడెంటిఫికేషన్లిస్ట్‌తో"
+
+msgid "employee_list_title"
+msgstr "ఎంప్లాయీ"
+
+msgid "hey_there_text"
+msgstr "హే!"
+
+msgid "scan_tudo_text"
+msgstr "TUDO QR కోడ్నుండి స్కాన్"
+
+msgid "take_new_employee"
+msgstr "మాన్యువల్ ఎంట్రీ"
+
+msgid "employee_idnetity"
+msgstr "ఉద్యోగి గుర్తింపు"
+
+msgid "spend_100_text"
+msgstr "$ 100 ఖర్చు మరియు 20% పొందుటకు మీ మొత్తంఆఫ్:"
+
+msgid "review_pay_text"
+msgstr "రివ్యూ & చెల్లించండి"
+
+msgid "estimated_cost"
+msgstr "అంచనా వ్యయం"
+
+msgid "excluding_text"
+msgstr "(Add-ons మరియు పన్నులు మినహాయించి)"
+
+msgid "search_by_job_name"
+msgstr "Job పేరు వెతుకు"
+
+msgid "promotion_module_title"
+msgstr "ప్రమోషన్సృష్టించు,"
+
+msgid "title_text"
+msgstr "శీర్షిక"
+
+msgid "image_upload_error"
+msgstr "చిత్రం అప్లోడ్ లోపం దయచేసిమళ్ళీ ప్రయత్నించండి"
+
+msgid "combined_promotion_ques"
+msgstr "ప్రమోషన్ ఉంటుందిఇతర ప్రమోషన్లతో కలిపి?"
+
+msgid "promotion_title"
+msgstr "ప్రమోషన్ శీర్షిక"
+
+msgid "describe_promotion"
+msgstr "ప్రమోషన్ గురించి వివరించండి"
+
+msgid "enter_promotion_details"
+msgstr "ప్రమోషన్ నమోదు చేయండి వివరాలు"
+
+msgid "promotion_type"
+msgstr "ప్రమోషన్ రకం"
+
+msgid "promotion_begin_date"
+msgstr "ప్రమోషన్ప్రారంభం తేదీ"
+
+msgid "promotion_end_date"
+msgstr "ప్రమోషన్ ముగింపు తేదీ"
+
+msgid "promotion_brodcast_range"
+msgstr "ప్రమోషన్ బ్రాడ్కాస్ట్ రేంజ్"
+
+msgid "upload_promotion_pictures"
+msgstr "అప్లోడ్ ప్రచార ఫోటోలు"
+
+msgid "promotion_exp_values"
+msgstr "ప్రమోషన్ గడువు విలువ"
+
+msgid "reaching_sum_discount"
+msgstr "ఈ మొత్తానికి డిస్కౌంట్ విలువచేరుకున్న తరువాతప్రమోషన్ గడువు"
+
+msgid "usage_max_limit"
+msgstr "ప్రమోషన్ఈ మొత్తానికి మొత్తం విలువ చేరేతర్వాత గడువు"
+
+msgid "per_user_limit_promotion"
+msgstr "ప్రమోషన్ లో యూజర్ పరిమితి పెర్"
+
+msgid "promotional_camping_desc"
+msgstr "* గమనిక: ఎంచుకోండి నగదు డిస్కౌంట్ స్థిర మీరు ఈ ప్రమోషనల్ ఆఫర్గమనిక కోరుకుంటున్నారో:"
+
+msgid "disc_amount"
+msgstr "డిస్కౌంట్ మొత్తం"
+
+msgid "disc_amount_mandatory"
+msgstr "డిస్కౌంట్ మొత్తం"
+
+msgid "amount_text"
+msgstr "పరిమాణం"
+
+msgid "this_promotional_offer"
+msgstr "* ఎంచుకోండి స్థిర ప్రచార ఆఫర్ కోరుకుంటున్నారోడిస్కౌంట్% వయస్సు"
+
+msgid "discount_age"
+msgstr "మీరు%ఈడిస్కౌంట్"
+
+msgid "percentage_between"
+msgstr "డిస్కౌంట్%(1 - 100) మధ్య ఉండాలి"
+
+msgid "percentage_required"
+msgstr "డిస్కౌంట్ విలువ అవసరం"
+
+msgid "must_between_100"
+msgstr "డిస్కౌంట్ % తప్పనిసరిగా 1 నుండి 100 మధ్య"
+
+msgid "no_service_combination"
+msgstr "ఈ కలయిక కోసం సేవలు అందుబాటులో లేవు"
+
+msgid "apply_promotion_ques"
+msgstr ", మీ అన్ని సేవలకు ప్రమోషన్ వర్తించాలా?"
+
+msgid "walk_in_lable"
+msgstr "వాక్-ఇన్"
+
+msgid "in_house_label"
+msgstr "-హోమ్"
+
+msgid "on_Demand_label"
+msgstr "ఆన్-డిమాండ్"
+
+msgid "promotion_details"
+msgstr "ప్రమోషన్ వివరాలు"
+
+msgid "promotion_terms"
+msgstr "ప్రమోషన్ నిబంధనలు మరియు షరతులు వెబ్ పేజీ (ఏదైనా ఉంటే)"
+
+msgid "type_web_page_url"
+msgstr "వెబ్ పేజీ URL టైప్ చేయండి (URL పని చేస్తున్నట్లు నిర్ధారించుకోండి)"
+
+msgid "promotion_terms_conditions"
+msgstr "ప్రమోషన్ నిబంధనలు మరియు షరతులు"
+
+msgid "business_prof_details"
+msgstr "దయచేసివ్యాపార ప్రొఫైల్ వివరాలునమోదు చేయండి"
+
+msgid "promotion_terms_mandatory"
+msgstr "ప్రమోషన్ నిబంధనలు మరియు షరతులు"
+
+msgid "have_agree_text"
+msgstr "నేను చదవండి మరియు అంగీకరించినకు"
+
+msgid "tudo_promotions_terms"
+msgstr "TUDO ప్రమోషన్లు నియమాలు మరియు నిబంధనలు"
+
+msgid "must_check_text"
+msgstr "మీరుకొనసాగించడానికి నిబంధనలను అంగీకరించాలి"
+
+msgid "create_txt"
+msgstr "సృష్టించు"
+
+msgid "invoice_pay"
+msgstr "పే"
+
+msgid "succ_text"
+msgstr "విజయం"
+
+msgid "promotion_create_success"
+msgstr "ప్రమోషన్ విజయవంతంగారూపొందించినవారు"
+
+msgid "promotion_cost"
+msgstr "చెల్లింపు వివరాలు"
+
+msgid "share_text"
+msgstr "Share"
+
+msgid "promotion_applied"
+msgstr "ప్రమోషన్సేవలుపాటించినప్పుడు:"
+
+msgid "promotion_images"
+msgstr "ప్రచార ఫోటోలు"
+
+msgid "description_text"
+msgstr "వివరణ"
+
+msgid "broad_range"
+msgstr "బ్రాడ్కాస్ట్ రేంజ్"
+
+msgid "promotion_pricing_text"
+msgstr "ధరప్రమోషన్"
+
+msgid "base_unit_price"
+msgstr "ప్రమోషన్ బేస్ యూనిట్ ధర"
+
+msgid "promotion_cost_text"
+msgstr "లో ప్రసారం రేంజ్ఆధారంగాసర్దుబాటు ధర"
+
+msgid "tudo_disc"
+msgstr "TUDO డిస్కౌంట్"
+
+msgid "estimates_tax_txt"
+msgstr "పన్ను"
+
+msgid "estimate_total_cost"
+msgstr "ప్రమోషన్ కొనుగోలుధర"
+
+msgid "promotion_disc_details"
+msgstr "ప్రమోషన్ డిస్కౌంట్ వివరాలు"
+
+msgid "disc_details"
+msgstr "డిస్కౌంట్ వివరాలు"
+
+msgid "promotion_usage_max_limit"
+msgstr "మొత్తం తర్వాత ప్రమోషన్ గడువు ముగుస్తుంది మొత్తం విలువ"
+
+msgid "per_user_limit"
+msgstr "ప్రమోషన్‌పై ప్రతి యూజర్ పరిమితి"
+
+msgid "share_text_label"
+msgstr "షేర్"
+
+msgid "status_text"
+msgstr "స్థితి:"
+
+msgid "utilization_text"
+msgstr "వినియోగం"
+
+msgid "business_promotion"
+msgstr "వ్యాపార ప్రమోషన్ల"
+
+msgid "payment_process_like_to_Do"
+msgstr "చెల్లింపు ప్రాసెస్ చేయబడింది మరియు ప్రమోషన్ విజయవంతంగా సృష్టించబడింది !! \n మీరు ఈ ప్రమోషన్ లింక్‌ని సోషల్ మీడియా ద్వారా ఇతరులకు షేర్ చేయవచ్చు."
+
+msgid "share_with_social_media"
+msgstr "సోషల్ మీడియాలేదువాటా"
+
+msgid "search_text"
+msgstr "శోధన"
+
+msgid "dont_avail_promotion"
+msgstr "ప్రమోషన్లుఈ సమయంలో అందుబాటులో"
+
+msgid "please_purchase_seprate"
+msgstr "మీ సభ్యత్వ ప్రణాళిక లేదా కొనుగోలు వ్యక్తిగత ప్రమోషన్కొనసాగాలని అప్గ్రేడ్"
+
+msgid "purchase_text"
+msgstr "కొనుగోలు"
+
+msgid "any_available_promotion"
+msgstr "ప్రమోషన్లు ఈ సమయంలోఅందుబాటులో లేదు"
+
+msgid "not_now_text"
+msgstr "ఇప్పుడు కాదు"
+
+msgid "cutomer_not_exist"
+msgstr "వ్యాపారం ఉనికిలో లేదు"
+
+msgid "select_subscription"
+msgstr "చందా ప్లాన్ఎంచుకోండి"
+
+msgid "select_plan_desc"
+msgstr "క్రాట్ ప్రమోషన్ఒకఎంచుకోండి చందా ప్లాన్"
+
+msgid "paid_service_desc"
+msgstr "ప్రమోషన్ ధరఆధారంగా మారుతుంది బ్రాడ్‌కాస్ట్ రేంజ్ ఏరియాలో"
+
+msgid "selected_plan"
+msgstr "ఎంచుకున్న ప్లాన్"
+
+msgid "monthly_plan"
+msgstr "మంత్లీ ప్లాన్"
+
+msgid "deal_details_title"
+msgstr "డీల్ వివరాలు"
+
+msgid "exact_one_service_to_next"
+msgstr "తదుపరి కొనసాగడానికి కనీసం ఒక సర్వీస్‌ని ఎంచుకోండి"
+
+msgid "please_enter_valid_time"
+msgstr "దయచేసి చెల్లుబాటు అయ్యే తేదీ మరియు టైమ్"
+
+msgid "service_date_time"
+msgstr "సర్వీస్ తేదీ మరియు టైమ్"
+
+msgid "job_title"
+msgstr "సర్వీస్ అపాయింట్‌మెంట్ టైటిల్"
+
+msgid "upload_picture"
+msgstr "అప్‌లోడ్ ఫోటోలు (ఏదైనా ఉంటే)"
+
+msgid "error_in_finding_bsp"
+msgstr "క్షమించండి, ఈ సమయంలో సర్వీస్ ప్రొవైడర్లు అందుబాటులో లేరు, దయచేసి వేరే తేదీతో ప్రయత్నించండి మరియు సమయం"
+
+msgid "something_went_wrong"
+msgstr "ఏదో తప్పు జరిగింది!"
+
+msgid "you_can_edit_address"
+msgstr "మీరు Apt #, ప్లాట్ #, అంతస్తు #, సూట్ #, మొదలైనవిఉన్నాయి మార్చు చిరునామా ఉండవచ్చు"
+
+msgid "please_enter_address"
+msgstr "ఎంచుకోండి సర్వీస్ చిరునామా"
+
+msgid "please_select_valid_time"
+msgstr "దయచేసి ఎంచుకోండి సరియైన సమయం"
+
+msgid "service_type_text"
+msgstr "సర్వీస్ టైప్"
+
+msgid "create_walk_in"
+msgstr "సృష్టించువల్క్-ఇన్"
+
+msgid "walk_in_create_success"
+msgstr "విజయవంతంగా రూపొందించినవారువాక్-ఇన్ సర్వీస్ నియామకం"
+
+msgid "in_home_create_success"
+msgstr "గృహవిజయవంతంగా రూపొందించినవారు సర్వీస్ నియామకం"
+
+msgid "on_demand_create_success"
+msgstr "ఆన్ డిమాండ్సర్వీస్ నియామకం విజయవంతంగారూపొందించినవారు:"
+
+msgid "questionaries_response"
+msgstr "ప్రశ్నాపత్రం స్పందన"
+
+msgid "select_terms_conditions"
+msgstr "TUDO నియమాలు మరియు కండిషన్అంగీకరించండి"
+
+msgid "job_details"
+msgstr "నియామకం వివరాలు"
+
+msgid "service_information"
+msgstr "సర్వీస్ సమాచారం"
+
+msgid "select_from_address_book"
+msgstr "ఎంచుకోండిచిరునామా పుస్తకంనుండి"
+
+msgid "current_location"
+msgstr "ప్రస్తుత స్థానం"
+
+msgid "appointment"
+msgstr "నియామకం"
+
+msgid "date_and_time"
+msgstr "తేదీ మరియు సమయం"
+
+msgid "request_type"
+msgstr "అభ్యర్థన పద్ధతి"
+
+msgid "bsp_listview"
+msgstr "జాబితా వీక్షణ"
+
+msgid "sort"
+msgstr "క్రమీకరించు"
+
+msgid "add_address_txt"
+msgstr "చిరునామాను జోడించండి"
+
+msgid "save_address_txt"
+msgstr "చిరునామాను సేవ్ చేయండి"
+
+msgid "selected_address_txt"
+msgstr "ఎంచుకున్న చిరునామా"
+
+msgid "custom_address_type"
+msgstr "అనుకూల చిరునామా రకం"
+
+msgid "custom_address_txt"
+msgstr "అనుకూల చిరునామా"
+
+msgid "select_address_type"
+msgstr "చిరునామా రకాన్ని ఎంచుకోండి"
+
+msgid "mark_default_address"
+msgstr "డిఫాల్ట్ చిరునామాగా గుర్తించండి"
+
+msgid "no_bsp_found"
+msgstr "క్షమించాలి, ఈ సమయంలో అందుబాటులో లేదు సర్వీస్ ప్రొవైడర్స్, దయచేసి వేర్వేరు ప్రయత్నించండి తేదీ మరియు సమయం"
+
+msgid "distance_text"
+msgstr "డిస్టాన్స్"
+
+msgid "service_providers"
+msgstr "సర్వీస్ ప్రొవైడర్స్"
+
+msgid "app_id"
+msgstr "Appt #:."
+
+msgid "appt_type"
+msgstr "Appt.Type:"
+
+msgid "spend_txt"
+msgstr "కేటాయిస్తున్నారు"
+
+msgid "get_off_desc"
+msgstr "మరియు% డిస్కౌంట్ పొందండి మీ మొత్తంఆఫ్:"
+
+msgid "cost_estimates"
+msgstr "అంచనా వ్యయం"
+
+msgid "plus_taxes"
+msgstr "(ప్లస్ పొడగింతలు మరియు అదనపు పన్నులు)"
+
+msgid "enter_re_schedule_reason"
+msgstr "వాయిదా కారణమునమోదు"
+
+msgid "re_schedule_reason"
+msgstr "వ్రాయండి వాయిదా కారణం"
+
+msgid "re_schedule_text"
+msgstr "నియామకం వాయిదా"
+
+msgid "service_provider_must_accept"
+msgstr "గమనికచేయండి:ఇతర పార్టీ తప్పక ఈలోగా నియామకం, మీ వాయిదా అభ్యర్థనను అంగీకరించడానికి వేచి దశలోఉంటుంది"
+
+msgid "re_schedule"
+msgstr "వాయిదా"
+
+msgid "select_new_time"
+msgstr "దయచేసి ఒక క్రొత్త తేదీ మరియు సమయంఎంచుకోండి"
+
+msgid "rescheduled_success"
+msgstr "రెస్చెడుల్ అభ్యర్థన ఆమోదం కోసం సర్వీస్ ప్రొవైడర్‌కు పంపబడింది."
+
+msgid "reschedule_title"
+msgstr "వాయిదా కారణము"
+
+msgid "enter_cancellation_text"
+msgstr "రద్దు కారణమునమోదు చేయండి"
+
+msgid "write_cancellation_reason"
+msgstr "వ్రాయండి రద్దు కారణాన్ని"
+
+msgid "cancel_appointment"
+msgstr "నియామకం"
+
+msgid "cancellation_fees_text"
+msgstr "మీరు ఈ సేవ నియామకం రద్దు చేస్తున్నారా ఖచ్చితంగారద్దు?TUDO $ 0.00 వరకు రద్దు రుసుము విధించవచ్చు"
+
+msgid "confirmation"
+msgstr "కన్ఫర్మేషన్"
+
+msgid "deals_offers"
+msgstr "డీల్స్ & ఆఫర్స్"
+
+msgid "deal_schedule"
+msgstr "డీల్ షెడ్యూల్"
+
+msgid "job_title_required"
+msgstr "అపాయింట్‌మెంట్ టైటిల్ అవసరం ఫీల్డ్"
+
+msgid "please_select_date_time"
+msgstr "దయచేసి తేదీ మరియు టైమ్ఎంచుకోండి"
+
+msgid "no_deals_found"
+msgstr "లేదు డీల్స్!"
+
+msgid "select_address"
+msgstr "ఎంచుకోండి చిరునామా"
+
+msgid "your_time_exp_text"
+msgstr "OTP గడువు ముగిసింది దయచేసి కొత్త OTP కోసం మళ్లీOTP ని"
+
+msgid "success_password_change"
+msgstr "పాస్‌వర్డ్ విజయవంతంగా నవీకరించబడింది"
+
+msgid "fill_all_cell_text"
+msgstr "*దయచేసిచేయండి మరియు మళ్లీనొక్కండి"
+
+msgid "verify_txt"
+msgstr "ధృవీకరించండి"
+
+msgid "resend_otp_text"
+msgstr "OTP అందుకోలేదా?మళ్ళీ"
+
+msgid "wait"
+msgstr "వేచి"
+
+msgid "enter_password_text"
+msgstr "మీ పాస్వర్డ్ఎంటర్"
+
+msgid "new_pass_text"
+msgstr "కొత్త పాస్వర్డ్"
+
+msgid "update_pass_text"
+msgstr "నవీకరణ పాస్వర్డ్"
+
+msgid "forgot_pass_text"
+msgstr "మర్చిపోయారా పాస్వర్డ్"
+
+msgid "job_address_not_found"
+msgstr "గుర్తించడం సర్వీస్ చిరునామాసాధ్యం కాలేదు"
+
+msgid "change_details"
+msgstr "గమనికపంపు:సర్వీస్ ప్రొవైడర్ ఆమోదం కోసం పంపారు సవరణ అభ్యర్థన, ఈలోగా నియామకం వేచి స్థితిలో ఉంటుంది."
+
+msgid "new_schedule"
+msgstr "సవరించిన షెడ్యూల్:"
+
+msgid "change_reason"
+msgstr "సవరణ కారణం::"
+
+msgid "appt_txt"
+msgstr "Appt.#Appt."
+
+msgid "app_type_text"
+msgstr "రకం:"
+
+msgid "token_text"
+msgstr "టోకెన్#"
+
+msgid "employee_enrollment"
+msgstr "ఉద్యోగుల నమోదు"
+
+msgid "previous_text"
+msgstr "మునుపటి"
+
+msgid "enrollment_completed"
+msgstr "నమోదు విజయవంతంగా పూర్తయింది"
+
+msgid "hey_text"
+msgstr "హే,"
+
+msgid "recived_invitations"
+msgstr "మీ కొత్త ఉపాధి ఆఫర్‌కు అభినందనలు. కొనసాగించడానికి ఆఫర్‌ని అంగీకరించండి/ తిరస్కరించండి."
+
+msgid "accept_text"
+msgstr "అంగీకరించండి"
+
+msgid "accept_invitation_ques"
+msgstr "మీరు ఖచ్చితంగా ఆహ్వానాన్ని అంగీకరిస్తారా?"
+
+msgid "reject_text"
+msgstr "తిరస్కరించండి"
+
+msgid "reject_invitations_ques"
+msgstr "మీరు ఖచ్చితంగా ఆహ్వానాన్ని తిరస్కరిస్తున్నారా?"
+
+msgid "self_invite"
+msgstr "స్వీయ ఉపాధి ఆహ్వానం అనుమతించబడదుచేయని"
+
+msgid "sort_by"
+msgstr "క్రమబద్ధీకరణ ద్వారా"
+
+msgid "unselected_sort"
+msgstr "ఎంపిక"
+
+msgid "are_you_running_business"
+msgstr "మీరు వ్యాపారాన్ని నడుపుతున్నారా?"
+
+msgid "consumer_success_popup_text1"
+msgstr "అభినందనలు, మీ TUDO కన్స్యూమర్ ఖాతా విజయవంతంగా సృష్టించబడింది"
+
+msgid "consumer_success_popup_text2"
+msgstr "మీరు వ్యాపారాన్ని నిర్వహిస్తుంటే, TUDO ప్లాట్‌ఫారమ్‌లో మీ వ్యాపారాన్ని వృద్ధి చేసుకోండి. TUDO మీ చేతివేళ్ల వద్ద ఆధునిక మరియు రియల్ టైమ్ టెక్నాలజీని తీసుకువస్తుంది, శక్తివంతమైన వ్యాపార మరియు ఉత్పాదక సాధనాలతో నిండి ఉంది, మీ అరచేతి నుండి మీ వ్యాపారాన్ని సమర్ధవంతంగా నడిపించడంలో సహాయపడతాయి,"
+
+msgid "consumer_success_popup_text3"
+msgstr "ప్రశ్నల కోసం మాకు help@tudo.app"
+
+msgid "service_details"
+msgstr "సేవా వివరాల"
+
+msgid "services_help_screen_title"
+msgstr "సేవ సహాయం"
+
+msgid "main_header_text"
+msgstr "మీ స్వభావం గురించి TUDO కి చెప్పండి మీ వ్యాపారం మీ వినియోగదారులకు అందించే అన్ని వర్తించే సేవలను ఎంచుకోవడం ద్వారా వ్యాపారం."
+
+msgid "walk_in_desc"
+msgstr "మార్కెట్‌లో మీ వ్యాపారం అందించే సేవలను పొందడానికి వినియోగదారుల నడకలు/సందర్శనలు/మీ వ్యాపార స్థానం/కార్యాలయం/స్టోర్ ముందు భాగంలోకి ప్రవేశిస్తాయి. ఉదాహరణ: సలోన్, హాస్పిటల్, అకౌంటింగ్, డ్రై-క్లీనర్‌లు మొదలైనవి."
+
+msgid "in_house_desc"
+msgstr "మీ సేవలను అందించడానికి మీరు లేదా మీ వ్యాపార ప్రతినిధి గృహ/ కార్యాలయం/ వ్యాపారం వంటి వినియోగదారుల సేవా చిరునామాను సందర్శిస్తారు. ఉదాహరణ: హోమ్ క్లీనింగ్, హ్యాండిమాన్, ప్లంబర్, ఎలక్ట్రీషియన్, కేర్ టేకర్, మొదలైనవి"
+
+msgid "on_demand_desc"
+msgstr ". మీ సేవలను అందించడానికి మీరు లేదా మీ వ్యాపార ప్రతినిధి వినియోగదారుల ప్రస్తుత జియోలొకేషన్‌కు చేరుకుంటారు. ఉదాహరణ: టాక్సీ, రోడ్సైడ్ సహాయం, అత్యవసర మరమ్మతు, ఏ ప్రదేశ-ఆధారిత సేవలు, అంబులెన్స్, ప్రజా సేవలు, మొదలైనవి"
+
+msgid "my_preference_screen_title"
+msgstr "నా ప్రాధాన్యతలు"
+
+msgid "auto_refresh_mode"
+msgstr "డాష్బోర్డ్ స్వీయ రిఫ్రెష్"
+
+msgid "share_my_location_text"
+msgstr "విధానమునుఇతర TUDO వినియోగదారులుతో నా స్థానాన్ని"
+
+msgid "profile_visibility"
+msgstr "ఇతర TUDO వినియోగదారులుపంపడంనా ప్రొఫైల్ ప్రత్యక్షత"
+
+msgid "notifications_settings"
+msgstr "నోటిఫికేషన్ సెట్టింగ్లు"
+
+msgid "send_notifications"
+msgstr "పంపండి ప్రకటనలు"
+
+msgid "send_emails"
+msgstr "ఇమెయిల్స్"
+
+msgid "dashboard_success"
+msgstr "డాష్బోర్డ్ ఆటో రిఫ్రెష్ మోడ్ విజయవంతంగా"
+
+msgid "locatioon_success"
+msgstr "ఇతర TUDO వినియోగదారుల సెట్టింగ్లు నవీకరించబడింది తో విజయవంతంగామీ స్థానాలను Share"
+
+msgid "visibility_success"
+msgstr "ప్రొఫైల్ దృశ్యమానత సెట్టింగ్లు నవీకరించబడింది విజయవంతంగా"
+
+msgid "notification_success"
+msgstr "పంపండి నోటిఫికేషన్ సెట్టింగ్లు నవీకరించబడింది విజయవంతంగా"
+
+msgid "emails_success"
+msgstr "పంపండి ఇమెయిల్స్ సెట్టింగులు నవీకరించబడింది విజయవంతంగా"
+
+msgid "auto_refresh_true_question"
+msgstr "నవీకరించబడింది,ఆటో రిఫ్రెష్ చెయ్యబడుతుంది ONమరింత బ్యాటరీ మరియు నెట్వర్క్ డేటా వినియోగించవచ్చు. మీరు ఖచ్చితంగా కొనసాగాలా?"
+
+msgid "auto_refresh_false_question"
+msgstr "ఆటో అప్‌డేట్‌లు ఆఫ్ చేయబడతాయి మరియు డాష్‌బోర్డ్ అప్‌డేట్‌లకు మాన్యువల్ రిఫ్రెష్ అవసరం. మీరు ఖచ్చితంగా కొనసాగాలా?"
+
+msgid "share_location_true_question"
+msgstr "మీ స్థానం ఇతర TUDO వినియోగదారులతో భాగస్వామ్యం చేయబడుతుంది. మీరు ఖచ్చితంగా కొనసాగాలా?"
+
+msgid "share_location_false_question"
+msgstr "మీ స్థానం ఇతర TUDO వినియోగదారులతో భాగస్వామ్యం చేయబడదు, అప్లికేషన్ రియల్ టైమ్ అప్‌డేట్‌లను ప్రభావితం చేయవచ్చు. మీరు ఖచ్చితంగా కొనసాగాలా?"
+
+msgid "profile_visibility_true_question"
+msgstr "మీ TUDO ప్రొఫైల్ ఇతర TUDO వినియోగదారులకు కనిపిస్తుంది. మీరు ఖచ్చితంగా కొనసాగాలా?"
+
+msgid "profile_visibility_false_question"
+msgstr "మీ TUDO ప్రొఫైల్ ప్రైవేట్‌గా ఉంటుంది మరియు ఇతర TUDO వినియోగదారులకు కనిపించదు. మీరు ఖచ్చితంగా కొనసాగాలా?"
+
+msgid "notification_true_question"
+msgstr "నోటిఫికేషన్ మరియు ఇమెయిల్‌లు రెండూ ఆఫ్ చేయబడవు. కనీసం ఒకరు ఆన్‌లో ఉండాలి."
+
+msgid "notification_false_question"
+msgstr "ఆటో అప్‌డేట్‌లు ఆఫ్ చేయబడతాయి మరియు అప్‌డేట్‌లకు మాన్యువల్ చర్య అవసరం. మీరు ఖచ్చితంగా కొనసాగాలా?"
+
+msgid "emails_true_question"
+msgstr "మీరు TUDO అప్లికేషన్ నుండి ఇమెయిల్‌లను అందుకుంటారు. మీరు ఖచ్చితంగా కొనసాగాలా?"
+
+msgid "emails_false_question"
+msgstr "మీరు ఇమెయిల్‌లను స్వీకరించరు, కానీ మీరు ఇప్పటికీ TUDO నుండి ముఖ్యమైన ఇమెయిల్‌లను అందుకుంటారు. మీరు ఖచ్చితంగా కొనసాగాలా?"
+
+msgid "on_board"
+msgstr "ఆన్ బోర్డ్"
+
+msgid "active"
+msgstr "యాక్టివ్"
+
+msgid "terminated"
+msgstr "రద్దు చేయబడిన"
+
+msgid "long_leave"
+msgstr "లాంగ్ లీవ్"
+
+msgid "retired"
+msgstr "రిటైర్డ్"
+
+msgid "pending_enrollment"
+msgstr "పెండింగ్ ఎన్‌రోల్‌మెంట్"
+
+msgid "pending_approval"
+msgstr "పెండింగ్ ఆమోదం"
+
+msgid "bsp_earnings_module_title"
+msgstr "ఆదాయాలు మరియు బదిలీలు"
+
+msgid "sry_text"
+msgstr "క్షమించండి .....!"
+
+msgid "no_earnings_yet"
+msgstr "తోబుట్టువుల సంపాదన ఇంకా"
+
+msgid "annual_earnings"
+msgstr "వార్షిక సంపాదన"
+
+msgid "annual_transfer"
+msgstr "వార్షికబదిలీలు."
+
+msgid "available_funds"
+msgstr "అందుబాటులో ఫండ్స్"
+
+msgid "ready_to_transfer"
+msgstr "బదిలీరెడీ"
+
+msgid "tudo_reserve"
+msgstr "TUDO రిజర్వ్"
+
+msgid "date_txt"
+msgstr "తేదీ"
+
+msgid "transaction_id"
+msgstr "లావాదేవీ ID"
+
+msgid "amount_txt"
+msgstr "జమచేస్తుంది"
+
+msgid "transfer_now_txt"
+msgstr "ఇప్పుడు"
+
+msgid "transaction_details"
+msgstr "లావాదేవీ వివరాలు"
+
+msgid "transaction_time"
+msgstr "లావాదేవీ సమయం"
+
+msgid "appt_id_text"
+msgstr "Appt: ID:"
+
+msgid "appt_date_txt"
+msgstr "Appt. తేదీ:"
+
+msgid "appt_title_text"
+msgstr "Appt. శీర్షిక:"
+
+msgid "bill_to_txt"
+msgstr "బిల్ టు:"
+
+msgid "agent_text"
+msgstr "ఏజెంట్:"
+
+msgid "total_transaction_amt_text"
+msgstr "మొత్తం లావాదేవీ మొత్తం"
+
+msgid "invoice_amount"
+msgstr "ఇన్‌వాయిస్ మొత్తం"
+
+msgid "deduction_details"
+msgstr "తగ్గింపుల వివరాలు"
+
+msgid "charges_total"
+msgstr "ఛార్జీలు మొత్తం"
+
+msgid "discount_total"
+msgstr "డిస్కౌంట్లు మొత్తం"
+
+msgid "tax_total"
+msgstr "పన్ను మొత్తం"
+
+msgid "gratutity_collected"
+msgstr "గ్రాట్యుటీ సేకరించిన"
+
+msgid "sub_total_invoice"
+msgstr "సబ్ టోటల్ ఇన్‌వాయిస్"
+
+msgid "sub_total_deduction"
+msgstr "సబ్ మొత్తం తగ్గింపుల"
+
+msgid "transfer_text"
+msgstr "బదిలీ"
+
+msgid "note_msg_desc"
+msgstr "(* గమనిక: ప్రతి బదిలీ లావాదేవీకి వర్తించే ఆర్థిక ఛార్జీలు)"
+
+msgid "available_transfer_methods"
+msgstr "అందుబాటులో ఉన్న బదిలీ పద్ధతులు"
+
+msgid "amount_ready_transfer"
+msgstr "మొత్తం సిద్ధంగా ఉన్నాయి బదిలీ"
+
+msgid "amount_required"
+msgstr "బదిలీ మొత్తం అవసరం"
+
+msgid "govt_imposed_fee"
+msgstr "ప్రభుత్వం. విధించిన రుసుము"
+
+msgid "financial_chargebacks"
+msgstr "ఫైనాన్షియల్ Chargebacks"
+
+msgid "tudo_Cancellation_fee"
+msgstr "TUDO రద్దు"
+
+msgid "tudo_portion"
+msgstr "ఫీజుగ్రాట్యుటీభాగం TUDO"
+
+msgid "tudo_commission"
+msgstr "TUDO కమిషన్"
+
+msgid "payment_processing_fee"
+msgstr "చెల్లింపు ప్రాసెసింగ్ ఫీజు"
+
+msgid "service_earning_amount"
+msgstr "సర్వీస్ సంపాదన మొత్తం"
+
+msgid "amount_transfer_success"
+msgstr "మొత్తం మీ ఖాతాకు బదిలీ విజయవంతంగా"
+
+msgid "my_earing_transfer"
+msgstr "నా సంపాదన మరియు బదిలీలు"
+
+msgid "transfer_txt"
+msgstr "నిధుల బదిలీ"
+
+msgid "earning_txt"
+msgstr "సంపాదన"
+
+msgid "transfered_id_txt"
+msgstr "బదిలీ id"
+
+msgid "no_payments_done"
+msgstr "కి సంపాదన ఇంకా"
+
+msgid "no_transaction_done"
+msgstr "లేవు బదిలీలు ఇంకా"
+
+msgid "service_paid_amount"
+msgstr "సర్వీస్ చెల్లించిన మొత్తం"
+
+msgid "consumer_add_ons"
+msgstr "కన్స్యూమర్ పొడిగింతలతో"
+
+msgid "tudo_protection"
+msgstr "TUDOరక్షణ"
+
+msgid "of_invoice"
+msgstr "ఇన్‌వాయిస్"
+
+msgid "tudo_booking"
+msgstr "TUDO బుకింగ్ ఫీజు"
+
+msgid "charitable_contribution"
+msgstr "స్వచ్ఛంద విరాళాల"
+
+msgid "sub_total_add_ons"
+msgstr "మొత్తం మొత్తం యాడ్-ఆన్‌లు"
+
+msgid "owen_tudo"
+msgstr "TUDO"
+
+msgid "check_amount_consumer"
+msgstr "వినియోగదారు నుండి మొత్తం"
+
+msgid "reports_screen_title"
+msgstr "రిపోర్ట్‌లకు"
+
+msgid "select_duration"
+msgstr "ఎంపిక చేయబడ్డాయిఎంచుకున్న వ్యవధి"
+
+msgid "last_month"
+msgstr "గత నెల"
+
+msgid "last_3_month"
+msgstr "చివరి 3 నెలలు"
+
+msgid "last_6_month"
+msgstr "గత 6 నెలలు"
+
+msgid "no_reports_text"
+msgstr "ఇంకా నివేదికలు అందుబాటులో లేవు ఇంకా"
+
+msgid "service_provider_info"
+msgstr "సర్వీస్ ప్రొవైడర్ సమాచారం"
+
+msgid "business_profile"
+msgstr "వ్యాపార ప్రొఫైల్:"
+
+msgid "buss_license"
+msgstr "వ్యాపార లైసెన్స్"
+
+msgid "exp_date_text"
+msgstr "గడువు తేదీ"
+
+msgid "authority_text"
+msgstr "అధికారం"
+
+msgid "uploaded_pic"
+msgstr "అప్‌లోడ్ చేసిన లైసెన్స్ ఫోటోలు:"
+
+msgid "business_est_year"
+msgstr "వ్యాపారం స్థాపించబడినఇయర్"
+
+msgid "bounded"
+msgstr "పరిమిత"
+
+msgid "insured"
+msgstr "భీమా"
+
+msgid "other_details"
+msgstr "ఇతర సంఖ్య:"
+
+msgid "background_verifed"
+msgstr "నేపధ్యం ధృవీకరించబడిన"
+
+msgid "unregistered"
+msgstr "నమోదుకాని"
+
+msgid "verified_business"
+msgstr "ధృవీకరించిన వ్యాపార"
+
+msgid "business_contact"
+msgstr "బిజినెస్ కాంటాక్ట్"
+
+msgid "name_text"
+msgstr "పేరు"
+
+msgid "email_text"
+msgstr "ఇమెయిల్"
+
+msgid "phone_text"
+msgstr "ఫోన్ నం"
+
+msgid "country_text"
+msgstr "దేశం"
+
+msgid "service_offered"
+msgstr "లభించే సేవలు"
+
+msgid "reviews_text"
+msgstr "కన్స్యూమర్ రేటింగ్ మరియు సమీక్షలు"
+
+msgid "what_good_text"
+msgstr "ప్రోస్"
+
+msgid "what_bad_text"
+msgstr "Suggestio ns"
+
+msgid "no_reviews_text"
+msgstr "వ్రాయండి సమీక్షమొదటి ఒకఉండండి"
+
+msgid "consumer_info"
+msgstr "వినియోగదారుల సమాచారం"
+
+msgid "no_reviews_user_text"
+msgstr "ఇప్పటివరకు ఏ సమీక్షలు లేవు"
+
+msgid "deal_filter_screen_title"
+msgstr "వడపోతలు"
+
+msgid "reset_txt"
+msgstr "రీసెట్"
+
+msgid "apply_txt"
+msgstr "వర్తించు"
+
+msgid "select_rating_count"
+msgstr "రేటింగ్"
+
+msgid "high_to_low"
+msgstr "Lowఎంచుకోండిహై"
+
+msgid "low_to_high"
+msgstr "Low హై"
+
+msgid "expires_in"
+msgstr "గడువు ముగిసేది లో"
+
+msgid "select_expires_in"
+msgstr "ఎంచుకోండిగడువు ముగిసేది"
+
+msgid "ascending_txt"
+msgstr "పెరిగే"
+
+msgid "descending_txt"
+msgstr "అవరోహణ"
+
+msgid "distance"
+msgstr "దూరం"
+
+msgid "near_to_far"
+msgstr "ఫార్వరకుదగ్గర"
+
+msgid "far_to_near"
+msgstr "నియర్పద్ధతిఫార్"
+
+msgid "service_type"
+msgstr "సర్వీస్"
+
+msgid "please_select_more_filters"
+msgstr "(దయచేసి మరింత ఫిల్టర్ కోసం రకం ఎంచుకోండి)"
+
+msgid "apply_to_all"
+msgstr "ఫిల్టర్లు వర్తించుమీ అన్ని సేవలకు?"
+
+msgid "no_deals_found_filter"
+msgstr "డీల్స్ లేవుమీ ఎంపికకనుగొనబడలేదు"
+
+msgid "select_filter_to_apply"
+msgstr "దరఖాస్తు చేయడానికి ఫిల్టర్‌ని ఎంచుకోండి"
+
+msgid "enter_filter_name_to_proceed"
+msgstr "కొనసాగడానికి ఫిల్టర్ పేరు నమోదు చేయండి"
+
+msgid "update_filter_txt"
+msgstr "ఫిల్టర్‌ని అప్‌డేట్ చేయండి"
+
+msgid "save_filter_txt"
+msgstr "ఫిల్టర్‌ను సేవ్ చేయండి"
+
+msgid "filter_name_txt"
+msgstr "ఫిల్టర్ పేరు"
+
+msgid "enter_filter_name_txt"
+msgstr "ఫిల్టర్ పేరు నమోదు చేయండి"
+
+msgid "all_txt"
+msgstr "అన్ని"
+
+msgid "appointment_duration"
+msgstr "నియామక వ్యవధి"
+
+msgid "short_to_long"
+msgstr "తక్కువ దూరం నుండి ఎక్కువ దూరం"
+
+msgid "long_to_short"
+msgstr "ఎక్కువ దూరం నుండి తక్కువ దూరం"
+
+msgid "theme_screen_title"
+msgstr "థీమ్"
+
+msgid "selected_color"
+msgstr "ఎంచుకున్న రంగు"
+
+msgid "complimentory_color"
+msgstr "కాంప్లిమెంటరీ కలర్"
+
+msgid "chat_module_title"
+msgstr "జోడించండి సభ్యుడు"
+
+msgid "group_admin"
+msgstr "గ్రూప్ అడ్మిన్"
+
+msgid "group_name"
+msgstr "గ్రూప్ పేరు"
+
+msgid "enter_group_name"
+msgstr "నమోదు చేయండిగ్రూప్ పేరు"
+
+msgid "my_net"
+msgstr "MyNet"
+
+msgid "bus_net"
+msgstr "BusNet"
+
+msgid "paypal_payout_screen_title"
+msgstr "నా బదిలీలు"
+
+msgid "transfer_now"
+msgstr "ఇప్పుడు బదిలీ"
+
+msgid "available_amt"
+msgstr "అందుబాటులో పరిమాణం:"
+
+msgid "paypal_account_id"
+msgstr "చేయండి:ఉపసంహరణ ఖాతా Id"
+
+msgid "update_txt"
+msgstr "నవీకరణ"
+
+msgid "transfers_in"
+msgstr "ట్రాన్స్ఫర్"
+
+msgid "enter_payout_amount"
+msgstr "ఎంటర్ఉపసంహరణ మొత్తం"
+
+msgid "please_enter_amount"
+msgstr "జమచేస్తుందినమోదు"
+
+msgid "value_should_be_proper"
+msgstr "మొత్తం తక్కువ లేదా సమానంగా ఉండాలిఅందుబాటులో ఉన్న నిధులకు"
+
+msgid "transfer_success"
+msgstr "నిధుల బదిలీ విజయవంతంగా మీ పేపాల్ ఖాతాకు ప్రాసెస్ చేయబడింది."
+
+msgid "contract_begin"
+msgstr "కాంట్రాక్ట్ ప్రారంభం తేదీ"
+
+msgid "contract_end"
+msgstr "కాంట్రాక్ట్ ముగింపు తేదీ"
+
+msgid "please_valid_Date"
+msgstr "చెల్లుబాటు అయ్యే తేదినినమోదు"
+
+msgid "select_emp_type"
+msgstr "ఎంచుకోండి ఉద్యోగి రకం"
+
+msgid "select_manager"
+msgstr "ఎంచుకోండి మేనేజర్"
+
+msgid "manager"
+msgstr "మేనేజర్"
+
+msgid "select_org_role"
+msgstr "ఎంచుకోండి ఆర్గనైజేషన్ రోల్"
+
+msgid "org_role"
+msgstr "సంస్థ పాత్ర"
+
+msgid "emp_payrate"
+msgstr "ఎంచుకోండి ఉద్యోగి Payrate"
+
+msgid "payrate"
+msgstr "Payrate"
+
+msgid "invite_emp"
+msgstr "ఆహ్వానించండి ఉద్యోగిని"
+
+msgid "select_shift_schedule"
+msgstr "ఎంచుకోండి Shiftషెడ్యూల్"
+
+msgid "shift_schedule"
+msgstr "Shiftషెడ్యూల్"
+
+msgid "buss_legal_address"
+msgstr "వ్యాపార చిరునామా"
+
+msgid "invite"
+msgstr "ఆహ్వానించండి"
+
+msgid "emp_invitation"
+msgstr "ఉద్యోగి ఆహ్వానంచేయండి!"
+
+msgid "emp_invite_success"
+msgstr "ఉద్యోగ ఆహ్వానం విజయవంతంగా పంపబడింది!"
+
+msgid "erro_emp_invite"
+msgstr "ఉపాధి ఆహ్వానంపంపించడంలో లోపం"
+
+msgid "invite_emp_2"
+msgstr "ఉద్యోగి Step2ఆహ్వానించండి"
+
+msgid "select_detail_require"
+msgstr "ఎంచుకోండి వివరాలు ఉద్యోగిఅవసరం"
+
+msgid "vehicle"
+msgstr "వాహన"
+
+msgid "insurance"
+msgstr "బీమా"
+
+msgid "exp_text"
+msgstr "అనుభవం"
+
+msgid "emp_role_org"
+msgstr "ఉద్యోగి పాత్ర ఎంటర్ సంస్థ"
+
+msgid "select_one_service"
+msgstr "మీరుతదుపరికొనసాగాలనిఒక సేవ ఎంచుకోవాలి"
+
+msgid "no_service"
+msgstr "కోసం లో-Home సేవనుఏ సేవలుఅందుబాటులో"
+
+msgid "service_detail_title"
+msgstr "సర్వీస్ వివరాలు"
+
+msgid "job_description"
+msgstr "సర్వీస్ వివరణ"
+
+msgid "bid_option"
+msgstr "బిడ్ ఎంపిక"
+
+msgid "upload_image"
+msgstr "అప్లోడ్ పిక్చర్స్ (ఏదైనా ఉంటే)"
+
+msgid "date_time"
+msgstr "తేదీ మరియు సమయం"
+
+msgid "job_date"
+msgstr "సర్వీస్ తేదీ"
+
+msgid "your_proposal_title"
+msgstr "బిడ్ ప్రతిపాదనలు"
+
+msgid "bid_job_title"
+msgstr "బిడ్ అభ్యర్థనలు"
+
+msgid "date_time_error"
+msgstr "నుండి క్యాలెండర్ఎంపిక తేదీ మరియు సమయం దయచేసి"
+
+msgid "proposal_detail_title"
+msgstr "ప్రతిపాదన వివరాలు"
+
+msgid "remark"
+msgstr "ప్రధానంగా ప్రత్యేక"
+
+msgid "bidding_cost"
+msgstr "బిడ్డింగ్ ధర"
+
+msgid "create_proposal_title"
+msgstr "ప్రతిపాదనసృష్టించు"
+
+msgid "cost_method"
+msgstr "ఖర్చు పద్ధతి"
+
+msgid "consumer_questions"
+msgstr "కన్స్యూమర్నుండిప్రశ్నలు"
+
+msgid "bid_requests_title"
+msgstr "బిడ్అభ్యర్థనలు"
+
+msgid "bid_details_title"
+msgstr "బిడ్ వివరాలు"
+
+msgid "proposal"
+msgstr "ప్రతిపాదన"
+
+msgid "bid_proposal"
+msgstr "బిడ్ ప్రతిపాదన"
+
+msgid "pay_before_request_text"
+msgstr "బిడ్ అభ్యర్థనలకు చెల్లించండి మరియు ప్రతిస్పందించండి. ప్రత్యామ్నాయంగా మీరు మీ సబ్‌స్క్రిప్షన్ ప్లాన్‌ను అప్‌గ్రేడ్ చేయవచ్చు"
+
+msgid "send_proposal"
+msgstr "మీ ప్రతిపాదన పంపండి"
+
+msgid "warning_txt"
+msgstr "హెచ్చరిక"
+
+msgid "paypal_txt"
+msgstr "పేపాల్"
+
+msgid "cash_txt"
+msgstr "క్యాష్"
+
+msgid "check_txt"
+msgstr "తనిఖీ"
+
+msgid "cash_confirm_question"
+msgstr "మీరు అంగీకరించారు వినియోగదారు నుండి నగదు మరియు నగదు రసీదుని నిర్ధారించడం?"
+
+msgid "cash_payment_success"
+msgstr "మీరు నగదు లావాదేవీ విజయవంతంగా ధ్రువీకరించారుధన్యవాదాలు,"
+
+msgid "confirm_settle"
+msgstr "నిర్ధారించండి &సెటిల్"
+
+msgid "cash_collected_consumer"
+msgstr "కన్స్యూమర్నుండి సేకరించినక్యాష్"
+
+msgid "amount_due_consumer"
+msgstr "గడువు కన్స్యూమర్నుండిమొత్తం"
+
+msgid "returned_cash"
+msgstr "సంతులనం క్యాష్తిరిగి"
+
+msgid "tudo_payment_slip"
+msgstr "TUDO కి బాకీ మొత్తం"
+
+msgid "amount_be_settled"
+msgstr "TUDOస్థిరపడి వుంటుందిమొత్తం"
+
+msgid "invoice_include_tax"
+msgstr "ఇన్వాయిస్ మొత్తం(పన్నులు సహా)"
+
+msgid "tudo_platform_deduction"
+msgstr "TUDO వేదిక పన్ను"
+
+msgid "govt_charge_etc"
+msgstr "(Govt. ఫీజు, Chargebacks ఇతర రుసుములు, మొదలైనవి)"
+
+msgid "check_confirm_question"
+msgstr "మీరు వినియోగదారు నుండి చెక్కును స్వీకరించి చెక్కు రసీదుని నిర్ధారించారా?"
+
+msgid "check_payment_success"
+msgstr "ధన్యవాదాలు, చెక్ లావాదేవీ విజయవంతంగా"
+
+msgid "check_payment_split"
+msgstr "చేయండి చెల్లింపు స్లిప్"
+
+msgid "total_check_amt"
+msgstr "చెక్ చేయండి మొత్తం చెక్ మొత్తం"
+
+msgid "bank_name"
+msgstr "బ్యాంక్ పేరు"
+
+msgid "check_number"
+msgstr "చెక్ నంబర్"
+
+msgid "check_date"
+msgstr "చెక్ డేట్"
+
+msgid "infavor_of_name"
+msgstr "ఫేవర్ ఇన్ నేమ్"
+
+msgid "signatory_name"
+msgstr "సిగ్నేటరీ పేరు"
+
+msgid "amount_due_from_consumer"
+msgstr "చెక్ మొత్తం"
+
+msgid "add_check_detail"
+msgstr "జోడించండి చెక్ వివరాలు"
+
+msgid "please_upload_atleast_2_images"
+msgstr "దయచేసి అప్‌లోడ్ చేయండి ముందు మరియు వెనుక ఫోటోలు"
+
+msgid "you_need_to_add_2_image"
+msgstr "మీరు అప్‌లోడ్ చేయాలి ముందు మరియు వెనుక ఫోటోలు చెక్ చేయండిప్రక్కనకొనసాగాలని"
+
+msgid "upload_check_img"
+msgstr "అప్లోడ్ ముందు మరియు వెనుక పరిశీలించడం"
+
+msgid "please_enter_check_proper"
+msgstr "ఫోటోలు పరిశీలించడం సంఖ్య ఎంట్రీ"
+
+msgid "select_check_date"
+msgstr "పరిశీలించడం తేదీ ఎంచుకోండి"
+
+msgid "enter_bank_name"
+msgstr "ఎంటర్ బ్యాంక్ పేరు"
+
+msgid "check_amt"
+msgstr "పరిశీలించడం మొత్తం"
+
+msgid "check_rcv_name"
+msgstr "అనుకూలంగా జారీ"
+
+msgid "enter_check_rcv_name"
+msgstr "ఎంటర్ అనుకూలంగా జారీజారీ"
+
+msgid "check_rcv_name_error"
+msgstr "పేరుతోఅనుకూలంగా"
+
+msgid "enter_check_amt"
+msgstr "ఎంటర్మొత్తంతనిఖీ"
+
+msgid "name_of_sign"
+msgstr "ఐనా పేరును"
+
+msgid "enter_name_of_signatory"
+msgstr "ఐనాచెల్లింపుఎంటర్"
+
+msgid "check_accepted_wait"
+msgstr "మీ చెక్ అభ్యర్థన, ప్రాసెస్ సర్వీస్ ప్రొవైడర్ యొక్క నిర్ధారణకోసం"
+
+msgid "subscription_screen_title"
+msgstr "చందాలు"
+
+msgid "plan_name"
+msgstr "ప్రణాళిక పేరువేచి:"
+
+msgid "plan_cycle"
+msgstr "ప్రణాళిక సైకిల్:"
+
+msgid "paid_amount"
+msgstr "చెల్లించిన మొత్తం:"
+
+msgid "start_date"
+msgstr "ప్రారంభ తేదీ"
+
+msgid "plan_usage"
+msgstr "ప్రణాళిక వాడుక"
+
+msgid "balance"
+msgstr "సంతులనం"
+
+msgid "entitlement"
+msgstr "యెన్టైటిల్మెంట్"
+
+msgid "no_limit"
+msgstr "పరిమితి"
+
+msgid "qr_code_text"
+msgstr "QR కోడ్ భాగస్వామ్యం మీ TUDO ప్రొఫైల్"
+
+msgid "notification_center"
+msgstr "నోటిఫికేషన్ సెంటర్"
+
+msgid "accept_schedule"
+msgstr "అంగీకరించు & షెడ్యూల్"
+
+msgid "send"
+msgstr "పంపండి"
+
+msgid "service_info_text"
+msgstr "సర్వీస్ సమాచారం"
+
+msgid "cancle_txt"
+msgstr "రద్దు"
+
+msgid "purchase_txt"
+msgstr "కొనుగోలు"
+
+msgid "branch_purchased_info"
+msgstr "మీరుచేయాలి మీ ఖాతాకు బ్రాంచ్ జోడించడానికి మీ సభ్యత్వ ప్రణాళికఅప్గ్రేడ్ ఒక చందా ప్లాన్ పై"
+
+msgid "employee_purchased_info"
+msgstr "మీరు తప్పక బిఒక చందా ప్లాన్ ఇ, మీ వ్యాపారం ఖాతాకు ఉద్యోగి జోడించడానికి మీ సభ్యత్వ ప్రణాళికఅప్గ్రేడ్"
+
+msgid "text_txt"
+msgstr "టెక్స్ట్ను"
+
+msgid "enter_text_txt"
+msgstr "నమోదు టెక్స్ట్"
+
+msgid "address_denided_question"
+msgstr "మీ పరికరంలో స్థాన సేవలను యాక్సెస్ చేయడానికి TUDO ని అనుమతించండి, కొనసాగించడానికి సరే నొక్కండి."
+
+msgid "estimate"
+msgstr "అంచనా"
+
+msgid "calendar_txt"
+msgstr "క్యాలెండర్"
+
+msgid "ask_question_screen_title"
+msgstr "ప్రశ్నఅడగండి"
+
+msgid "ask_question_seeker"
+msgstr "వేలం మీ ప్రశ్నలు వ్రాసి"
+
+msgid "prev_text"
+msgstr "మునుపటి"
+
+msgid "question_txt"
+msgstr "ప్రశ్న"
+
+msgid "ask_question_txt"
+msgstr "అడగండి ప్రశ్న"
+
+msgid "paid_total_amt_txt"
+msgstr "చెల్లించిన మొత్తంవిఫలమైంది,"
+
+msgid "fail_job_history"
+msgstr "నియామకం చరిత్రలోపొందడంలో"
+
+msgid "job_history"
+msgstr "నియామకం చరిత్ర"
+
+msgid "by_txt"
+msgstr "ద్వారా"
+
+msgid "confirm_accepting_changes"
+msgstr "ఆనిర్ధారించండిమీరు సర్వీసు అపాయింట్‌మెంట్ సవరణలను అంగీకరిస్తున్నారు మరియు అంగీకరిస్తున్నారు, మీరు సర్వీస్ అపాయింట్‌మెంట్ సవరణలను"
+
+msgid "confirm_rejecting_desc"
+msgstr "తిరస్కరిస్తున్నట్లు నిర్ధారించండి, మీరు"
+
+msgid "begin_service_que"
+msgstr "ఈ సర్వీస్ అపాయింట్‌మెంట్‌లో మీ కస్టమర్‌కు సేవ చేయడం ప్రారంభించబోతున్నారా"
+
+msgid "onboard_process_desc"
+msgstr "?"
+
+msgid "plan_appoint_date"
+msgstr "ప్రణాళికాబద్ధమైన సర్వీస్ అపాయింట్‌మెంట్ తేదీ:"
+
+msgid "reason_dispute"
+msgstr "వివాదాస్పద కారణాలు"
+
+msgid "enter_reason_txt"
+msgstr "దయచేసి చెల్లుబాటు అయ్యే కారణాన్ని నమోదు చేయండి"
+
+msgid "uodate_forward_dispute"
+msgstr "TUDO ఆటో చెల్లింపులను విజయవంతంగా చెల్లింపు చేసిన 10 రోజుల తర్వాత సర్వీస్ అపాయింట్‌మెంట్‌లను పూర్తి చేస్తుంది మరియు మధ్యలో వివాదాలు (ఏదైనా ఉంటే) లేవనెత్తుతుంది, మీరు ఖచ్చితంగా 'ఫైనలైజ్' చేస్తారా?"
+
+msgid "dispute_que"
+msgstr "మీరు ఖచ్చితంగా వివాదం పరిష్కరించబడ్డారా?"
+
+msgid "are_you_appoint"
+msgstr "దయచేసి మీరు సర్వీస్ అపాయింట్‌మెంట్ అవసరాలను తీర్చారనిఉన్నారని నిర్ధారించండి"
+
+msgid "completed_generated_que"
+msgstr "మరియు ఇన్‌వాయిస్ రూపొందించడానికి సిద్ధంగా."
+
+msgid "confirmation_text"
+msgstr "నిర్ధారణ"
+
+msgid "email_has_been_already_taken"
+msgstr "ఇమెయిల్ ఇప్పటికేతీసుకోబడింది"
+
+msgid "error_while_creating_user_install"
+msgstr "యూజర్ ఇన్‌స్టాల్‌ను సృష్టించేటప్పుడులోపం!"
+
+msgid "error_while_updating_user_install"
+msgstr "యూజర్ ఇన్‌స్టాల్‌ను అప్‌డేట్ చేస్తున్నప్పుడు లోపం!"
+
+msgid "something_went_wrong_while_getting_user_install"
+msgstr "యూజర్ ఇన్‌స్టాల్‌ను తిరిగి పొందుతున్నప్పుడు ఏదో తప్పు జరిగింది యూజర్ ఇన్‌స్టాల్‌ను"
+
+msgid "unable_to_create_or_update_user_install"
+msgstr "సృష్టించడం లేదా అప్‌డేట్ చేయడం సాధ్యపడలేదు!"
+
+msgid "device_token_is_missing_in_install_params"
+msgstr "ఇన్‌స్టాల్ పారామ్‌లలో పరికర టోకెన్ లేదు!"
+
+msgid "more_than_one_results_against_user_and_fcm_token"
+msgstr "వినియోగదారు మరియు FCM టోకెన్వ్యతిరేకంగా ఒకటి కంటే ఎక్కువ ఫలితాలు"
+
+msgid "invalid_email_or_some_internet_issue"
+msgstr "చెల్లని ఇమెయిల్/ పాస్‌వర్డ్ లేదా ఇంటర్నెట్ సమస్యకు!"
+
+msgid "user_is_blocked"
+msgstr "వినియోగదారు ప్రొఫైల్‌కివినియోగదారు ప్రొఫైల్"
+
+msgid "user_is_rejected"
+msgstr "తిరస్కరించబడింది"
+
+msgid "confirmation_pending"
+msgstr "మీ ఖాతా నిర్ధారణ పెండింగ్‌లో ఉంది,"
+
+msgid "bid_does_not_exist"
+msgstr "బిడ్ ఉనికిలో లేదు!"
+
+msgid "unexpected_error_occurred"
+msgstr "ఊహించని లోపం సంభవించింది, మళ్లీ ప్రయత్నించండి!"
+
+msgid "branch_does_not_exist"
+msgstr "వ్యాపార శాఖ ఉనికిలో లేదు!"
+
+msgid "this_business_does_not_belongs_to_you"
+msgstr "ఈవ్యాపారం మీరుచెందిన లేదు"
+
+msgid "enable_to_fetch_business"
+msgstr "వ్యాపారం పొందడంలోప్రారంభించు"
+
+msgid "this_branch_does_not_belongs_to_you"
+msgstr "ఈ వ్యాపారలేదు చెందిన మీరుకాదు"
+
+msgid "enable_to_check_business_for_this_branch"
+msgstr "ఈ శాఖకోసం వ్యాపార తనిఖీ ప్రారంభించు"
+
+msgid "already_have_a_branch_for_this_business"
+msgstr "ఒక శాఖ అదే పేరుతో ఇప్పటికే మీ వ్యాపారం కోసం ఉనికిలో"
+
+msgid "enable_to_fetch_branch"
+msgstr "పొందడంలో ప్రారంభించుబ్రాంచ్"
+
+msgid "enable_to_fetch_geo_zones"
+msgstr "జియో మండలాలు పొందడంలో ప్రారంభించు"
+
+msgid "enable_to_fetch_country_services"
+msgstr "దేశం పొందడంలో ప్రారంభించుసేవలు"
+
+msgid "enable_to_fetch_service_types"
+msgstr "సర్వీస్ రకాలు పొందడంలో ప్రారంభించు"
+
+msgid "enable_to_upsert_branch_services"
+msgstr "బ్రాంచ్ సర్వీసులు upsert కు ఎనేబుల్"
+
+msgid "this_user_have_a_business_with_same_name"
+msgstr "ఈ వాడుకరి అదే పేరుతో ఒక వ్యాపార కలిగి"
+
+msgid "enable_to_fetch_user"
+msgstr "పొందడంలో ప్రారంభించువినియోగదారును"
+
+msgid "enable_to_create_branch"
+msgstr "బ్రాంచ్సృష్టించడానికి ప్రారంభించు"
+
+msgid "invalid_business_id_or_country_service_id"
+msgstr "చెల్లని Business_id లేదా Country_Service_id"
+
+msgid "dynamic_screen_exists_for_this_business_and_cs"
+msgstr "డైనమిక్ స్క్రీన్ఈ వ్యాపారం మరియు కంట్రీ సర్వీసులతోకోసం ఇప్పటికే ఉంది"
+
+msgid "dynamic_screen_exists_for_this_country_service"
+msgstr "డైనమిక్ స్క్రీన్ ఇప్పటికే ఈ కంట్రీ సర్వీసులతోకోసం ఉనికిలో"
+
+msgid "dynamic_screen_does_not_exist"
+msgstr "డైనమిక్స్క్రీన్"
+
+msgid "business_or_dynamic_screen_is_not_correct"
+msgstr "వ్యాపారం లేదు మరియు/ లేదా డైనమిక్ స్క్రీన్ తప్పు!"
+
+msgid "dynamic_screen_is_not_correct"
+msgstr "డైనమిక్ స్క్రీన్ సరైనది!"
+
+msgid "dynamic_group_already_exists"
+msgstr "డైనమిక్ గ్రూప్ ఇప్పటికే ఉంది"
+
+msgid "dynamic_group_or_screen_does_not_exist"
+msgstr "డైనమిక్ గ్రూప్ లేదా స్క్రీన్ ఉనికిలో లేదు!"
+
+msgid "dynamic_group_does_not_exist"
+msgstr "డైనమిక్ గ్రూప్ లేదు!"
+
+msgid "dynamic_group_screen_relation_does_not_exist"
+msgstr "డైనమిక్ స్క్రీన్ మరియు గ్రూప్ సంబంధం లేదు"
+
+msgid "notification_can_not_send"
+msgstr "నోటిఫికేషన్ పంపడం సాధ్యం కాదు!"
+
+msgid "token_already_sent"
+msgstr "టోకెన్ ఇప్పటికే పంపబడింది!"
+
+msgid "employee_already_exist"
+msgstr "ఉద్యోగుల రికార్డు ఇప్పటికే ఉంది!"
+
+msgid "enable_to_fetch_employee"
+msgstr "ఉద్యోగిని పొందడం"
+
+msgid "enable_to_create_user"
+msgstr "ప్రారంభించండి వినియోగదారుసృష్టించడానికి ప్రారంభించండి"
+
+msgid "manager_does_not_exist"
+msgstr "నిర్వాహకుడువినియోగదారు ఉనికిలో లేరు!"
+
+msgid "manager_do_not_exist_under_that_business"
+msgstr "మేనేజర్ వినియోగదారు ఈ వ్యాపారం కింద ఉనికిలో లేరు!"
+
+msgid "manager_invalid"
+msgstr "చెల్లని మేనేజర్ యూజర్!"
+
+msgid "invalid_branch"
+msgstr "చెల్లని బ్రాంచ్బ్రాంచ్‌కు"
+
+msgid "manager_does_not_belong_to_given_branch"
+msgstr "మేనేజర్ వినియోగదారుచెందినవారు కాదు!"
+
+msgid "unable_to_validate_manager"
+msgstr "మేనేజర్ వినియోగదారుని ధృవీకరించడం సాధ్యపడలేదు!"
+
+msgid "invoice_does_not_exist"
+msgstr "ఇన్వాయిస్ ఉనికిలో లేదు!"
+
+msgid "sales_tax_settings_not_found"
+msgstr "వ్యాపార అమ్మకాల పన్ను సెట్టింగ్‌లు కనుగొనబడలేదు"
+
+msgid "error_in_getting_sales_tax_settings"
+msgstr "సేల్స్ టాక్స్ సెట్టింగ్‌లను పొందడంలో లోపం"
+
+msgid "unable_to_make_estimated_job_cost"
+msgstr "ఉద్యోగం కోసం అంచనా వ్యయాన్ని లెక్కించడం సాధ్యపడలేదు!"
+
+msgid "settings_fields_does_not_have_valid_keys"
+msgstr "సెట్టింగ్‌ల పట్టిక ఫీల్డ్‌లలో చెల్లుబాటు అయ్యే కీలు లేవు"
+
+msgid "invoice_not_created_successfully"
+msgstr ", ఇన్‌వాయిస్‌ని రూపొందించడంలో విఫలమైంది, మళ్లీ ప్రయత్నించండి!"
+
+msgid "you_are_not_permitted"
+msgstr "ఈ చర్యను చేయడానికి మీకు అనుమతి లేదు!"
+
+msgid "invalid_invoice_or_job"
+msgstr "చెల్లని ఉద్యోగం లేదా ఇన్‌వాయిస్, మళ్లీ ప్రయత్నించండి!"
+
+msgid "max_change_invoice_limit_reached"
+msgstr "గరిష్టంగా అనుమతించిన ఇన్‌వాయిస్ సర్దుబాట్లు/రోజు పరిమితిని చేరుకుంది!"
+
+msgid "unable_to_check_adjust_count"
+msgstr "ఇన్‌వాయిస్ సర్దుబాట్లు/రోజు గణనను తనిఖీ చేయడం సాధ్యపడలేదు"
+
+msgid "can_not_update_job_status"
+msgstr "ఉద్యోగ స్థితిని అప్‌డేట్ చేయడం సాధ్యం కాదు, మళ్లీ ప్రయత్నించండి!"
+
+msgid "job_does_not_exist"
+msgstr "ఉద్యోగం లేదు!"
+
+msgid "unexpected_error_occurred_while_updating_group_status"
+msgstr "సమూహ స్థితిని నవీకరిస్తున్నప్పుడు ఊహించని లోపం సంభవించింది!"
+
+msgid "unable_to_update_Service Provider_meta"
+msgstr "సర్వీస్ ప్రొవైడర్ మెటానవీకరించలేకపోతున్నారా"
+
+msgid "unable_to_update_Consumer_meta"
+msgstr "నవీకరణ కన్స్యూమర్ మెటాచేయలేక"
+
+msgid "new_employee_does_not_exist"
+msgstr "ఉనికిలో లేదుకొత్త ఉద్యోగి రికార్డు"
+
+msgid "error_in_verifying_job_status"
+msgstr "ఉద్యోగ హోదావెరిఫై లోపం"
+
+msgid "unable_to_verify_job_status"
+msgstr "ఉద్యోగ హోదాధ్రువీకరించడం సాధ్యం కాలేదు"
+
+msgid "unable_to_verify_job_updating_timing"
+msgstr "Job నవీకరించడాన్ని టైమింగ్ ధ్రువీకరించడంసాధ్యం కాలేదు"
+
+msgid "can_not_start_work_outside_request_time"
+msgstr "పని బయట కన్స్యూమర్ అభ్యర్థన సమయంప్రారంభించడం కుదరదు"
+
+msgid "error_in_verifying_provider_for_rescheduling"
+msgstr "రీషెడ్యూల్ కోసం సర్వీస్ ప్రొవైడర్ వెరిఫై లోలోపం"
+
+msgid "unable_verify_provider_for_rescheduling"
+msgstr "రీషెడ్యూల్ పోతున్నాము ధ్రువీకరించడం సర్వీస్ ప్రొవైడర్"
+
+msgid "some_compulsory_parameter_is_missing"
+msgstr "విదేశీ కీ లేదా తప్పనిసరిగా పారామితి లో ఏదో తప్పుతప్పిపోయిన"
+
+msgid "job_params_are_not_correct"
+msgstr "Job పరామితులు సరికాదుఉంటాయి"
+
+msgid "something_went_wrong_in_schedule"
+msgstr "ఏదోషెడ్యూల్ లో తప్పు జరిగింది"
+
+msgid "can_not_delete_leads"
+msgstr "తొలగించలేరు దారితీస్తుంది, ఏదో తప్పువెళ్ళాడు"
+
+msgid "employee_service_does_not_exist"
+msgstr "ఉనికిలోలేదుఉద్యోగి సర్వీసు"
+
+msgid "error_in_validate_employee"
+msgstr "ఉద్యోగిప్రమాణీకరణలో లోపం"
+
+msgid "employee_does_not_available"
+msgstr "ఉద్యోగిఉనికిలో లేదు, చెల్లని స్థితి లేదా ఒప్పందం గడువు ముగిసింది!"
+
+msgid "self_job_posting_is_not_allowed"
+msgstr "అనుమతించబడదు"
+
+msgid "unable_to_verify_self_job_posting"
+msgstr "సెల్ఫ్ జాబ్ పోస్టింగ్స్వీయ జాబ్ పోస్టింగ్‌ను ధృవీకరించడం సాధ్యపడలేదు"
+
+msgid "no_need_to_check_availability_now"
+msgstr "ఇప్పుడు లభ్యతను తనిఖీ చేయవలసిన అవసరం లేదు"
+
+msgid "provider_is_not_available_now"
+msgstr "ఎంచుకున్న సర్వీస్ ప్రొవైడర్ ప్రస్తుతం అందుబాటులో లేదు, దయచేసి మళ్లీ శోధించండి!"
+
+msgid "something_went_wrong_while_searching_Service Provider"
+msgstr "సర్వీస్ ప్రొవైడర్‌ని శోధిస్తున్నప్పుడు ఏదో తప్పు జరిగింది, దయచేసి మళ్లీ ప్రయత్నించండి"
+
+msgid "unable_to_check_provider_availability"
+msgstr "సర్వీస్ ప్రొవైడర్ లభ్యతను గుర్తించడం సాధ్యం కాలేదు"
+
+msgid "employee_contract_expired"
+msgstr "ఉద్యోగుల కాంట్రాక్ట్ గడువు ముగిసింది"
+
+msgid "notification_sent"
+msgstr "నోటిఫికేషన్ పంపబడింది!"
+
+msgid "can_not_send_notification"
+msgstr "ఏదో తప్పు జరిగింది, నోటిఫికేషన్ పంపడం సాధ్యపడలేదు"
+
+msgid "error_in_fetching_branch_service"
+msgstr "బ్రాంచ్ సర్వీస్పొందడంలో"
+
+msgid "error_while_adding_ewd_in_params"
+msgstr "లోపంలోపం పారామ్‌లలో సెట్టింగుల నుండి ఆశించిన పని వ్యవధిని జోడించేటప్పుడు ఆశించిన పని వ్యవధి సెట్టింగ్‌లను"
+
+msgid "error_in_fetching_ewd_settings"
+msgstr "పొందడంలో లోపం"
+
+msgid "branch_service_id_missing_to_get_ewd"
+msgstr "బ్రాంచ్ సర్వీస్ ఐడి సెట్టింగ్‌ల నుండి సేవా వ్యవధి"
+
+msgid "cost_missing_in_params_and_error_in_fetching_proposal"
+msgstr "తప్పిపోయింది అంచనా వ్యయాన్ని నిర్ణయించడానికి బిడ్డింగ్ ప్రతిపాదనను పొందడం అంచనా వ్యయాన్ని నిర్ణయించడం"
+
+msgid "unable_to_make_job_cost"
+msgstr "సాధ్యపడలేదు, మళ్లీ ప్రయత్నించండి ప్రయత్నించండి"
+
+msgid "no_price_settings_for_type_and_cs"
+msgstr "సర్వీస్‌కు వ్యతిరేకంగా సెట్టింగ్‌లలో"
+
+msgid "more_than_one_records_in_settings"
+msgstr "కనుగొనబడలేదు అందించిన డేటాకు వ్యతిరేకంగా సెట్టింగ్‌లలో బహుళ రికార్డులు కనుగొనబడ్డాయి"
+
+msgid "invalid_service_type"
+msgstr "చెల్లని సర్వీస్ రకం"
+
+msgid "settings_service_rates_does_not_exist"
+msgstr "సర్వీస్ రేట్ సెట్టింగ్‌లు లేవు!"
+
+msgid "promotion_already_exist"
+msgstr "ప్రమోషన్ ఇప్పటికే ఉంది!"
+
+msgid "enable_to_fetch_promotion"
+msgstr "ప్రమోషన్లు పొందడం ప్రారంభించు"
+
+msgid "promotion_status_is_invalid"
+msgstr "చెల్లని ప్రమోషన్ స్థితి"
+
+msgid "promotion_does_not_exist"
+msgstr "ప్రమోషన్ఉనికిలో"
+
+msgid "you_do_not_have_valid_available_promotion"
+msgstr "ఈ డేటానువ్యతిరేకంగా అందుబాటులో లేవు చెల్లుబాటులో ప్రమోషన్"
+
+msgid "error_while_making_promotion_used"
+msgstr "ఏదోతప్పు లెక్క ప్రమోషన్ వాడుక"
+
+msgid "enable_to_validate_promotion"
+msgstr "ప్రమోషన్ధ్రువీకరించడానికి ప్రారంభించు"
+
+msgid "missing_params_for_promotion_validation"
+msgstr "ప్రమోషన్ ధ్రువీకరణకోసం పరామితులు లో తప్పిపోయినఏదో"
+
+msgid "country_does_not_exist"
+msgstr "దేశంలేదుఉందా"
+
+msgid "enable_to_fetch_country"
+msgstr "పొందడంలో కంట్రీప్రారంభించు"
+
+msgid "service_does_not_exist"
+msgstr "సర్వీసులతో ఉనికిలో లేదు"
+
+msgid "enable_to_fetch_service"
+msgstr "సర్వీస్ పొందడంలో ప్రారంభించు"
+
+msgid "enable_to_fetch_employee_service"
+msgstr "ఉద్యోగి సర్వీస్పొందడంలో ప్రారంభించు"
+
+msgid "enable_to_fetch_country_service"
+msgstr "కంట్రీ సర్వీసులతోపొందడంలోప్రారంభించు"
+
+msgid "active_country_service_does_not_exist"
+msgstr "Active కంట్రీ సర్వీసులతోఉనికిలో లేదు"
+
+msgid "branch_service_already_exist"
+msgstr "బ్రాంచ్ సర్వీస్ఇచ్చిన పారామితులు కోసం ఇప్పటికే ఉనికిలో"
+
+msgid "branch_service_does_not_exist"
+msgstr "బ్రాంచ్ సర్వీస్ఉనికిలో లేదు"
+
+msgid "error_in_getting_branch_service"
+msgstr "సేవపొందడంలో లోపం"
+
+msgid "error_in_branch_service_creation"
+msgstr "సృష్టించడం బ్రాంచ్ సేవబ్రాంచ్లోపం"
+
+msgid "error_while_updating_settings"
+msgstr "లోపంసెట్టింగ్లుఅప్డేట్ చేస్తున్నప్పుడు"
+
+msgid "unable_to_update_settings_on_bs_creation"
+msgstr "బ్రాంచ్ సెట్టింగులనుసర్వీస్ సృష్టించడంలో విఫలమైంది, మళ్ళీ ప్రయత్నించండి"
+
+msgid "error_in_update_setting"
+msgstr "ఏదో నవీకరించుటకుసెట్టింగులుతప్పు జరిగింది"
+
+msgid "no_service_radius_setting"
+msgstr "ఈ శాఖవరుసలకుసర్వీస్ వ్యాసార్ధం సెట్టింగులు"
+
+msgid "no_services_expected_work_duration_setting"
+msgstr "ఈ శాఖవరుసలకుసర్వీసులు ఊహించినది వర్క్ వ్యవధి సెట్టింగులను"
+
+msgid "no_services_rates_setting"
+msgstr "ఈ శాఖవరుసలకుసర్వీసులు రేట్ సెట్టింగులు"
+
+msgid "no_service_sales_tax_setting"
+msgstr "ఈ శాఖవరుసలకుసర్వీస్ సేల్స్ టాక్స్ సెట్టింగులను"
+
+msgid "error_in_updating_branch_service"
+msgstr "బ్రాంచ్ సర్వీస్అప్డేట్ చేస్తున్నప్పుడులోపం"
+
+msgid "merchant_account_does_not_exist"
+msgstr "వ్యాపారి ఖాతాఉనికిలో లేదు"
+
+msgid "unable_to_fetch_merchant_account"
+msgstr "కాబట్టి mething, తప్పు జరిగింది వ్యాపారి ఖాతాపొందలేకపోయింది"
+
+msgid "something_went_wrong_bt_parameters"
+msgstr "ఏదోబ్రేంట్రీ చెల్లింపు గేట్వేకోసం పారామితులు తప్పు జరిగింది"
+
+msgid "merchant_not_created_successfully"
+msgstr "ఏదోతప్పు జరిగింది, వ్యాపారి ఖాతా సృష్టి విఫలమైంది"
+
+msgid "bt_account_does_not_exist"
+msgstr "బ్రేంట్రీ ఖాతా ఉనికిలోలేదు"
+
+msgid "unable_to_fetch_bt_account"
+msgstr "బ్రేంట్రీ చెల్లింపు గేట్వే ఖాతాపొందడం సాధ్యం కాలేదు"
+
+msgid "payment_method_does_not_exist"
+msgstr "చెల్లింపు పద్ధతి ఉనికిలోలేదు"
+
+msgid "unable_to_fetch_payment_method"
+msgstr "చెల్లింపు పద్ధతి పొందడం సాధ్యం కాలేదు"
+
+msgid "unable_to_create_bt_payment_method"
+msgstr "Braintree చెల్లింపు పద్ధతిని సృష్టించడం సాధ్యం కాదు Braintree చెల్లింపు పద్ధతిని"
+
+msgid "unable_to_update_bt_payment_method"
+msgstr "నవీకరించడం"
+
+msgid "unable_to_update_local_payment_method"
+msgstr "సాధ్యం కాదు స్థానిక చెల్లింపు పద్ధతిని నవీకరించడం"
+
+msgid "unable_to_delete_payment_method"
+msgstr "సాధ్యం కాదు చెల్లింపు పద్ధతిని"
+
+msgid "unable_to_delete_bt_payment_method"
+msgstr "తొలగించడం సాధ్యం కాదు Braintree చెల్లింపు పద్ధతిని తొలగించడం సాధ్యం కాదు"
+
+msgid "invalid_user_or_password"
+msgstr "చెల్లని వినియోగదారు మరియు/ లేదా పాస్‌వర్డ్"
+
+msgid "you_business_already_have_bought_package"
+msgstr "మీ వ్యాపారం ఇప్పటికే ఈ సభ్యత్వ ప్యాకేజీ కోసం నమోదు చేసిన"
+
+msgid "subscription_does_not_exist"
+msgstr "చందా ప్యాకేజీ ఉనికిలో లేదు!"
+
+msgid "more_than_one_subscriptions"
+msgstr "ఒకటి కంటే ఎక్కువ సబ్‌స్క్రిప్షన్"
+
+msgid "some_thing_went_wrong_with_subscription_params"
+msgstr "బ్రెయిన్‌ట్రీ సబ్‌స్క్రిప్షన్కోసం పారామీటర్‌లతో ఏదో తప్పు జరిగింది."
+
+msgid "error_while_retrying_charge_subscription"
+msgstr "లోపం"
+
+msgid "Service Provider_subscription_rule_does_not_exist"
+msgstr "ఈ సర్వీస్ ప్రొవైడర్ చందా నియమం లేదు!"
+
+msgid "Consumer_subscription_rule_does_not_exist"
+msgstr "ఈ వినియోగదారు చందా నియమం లేదు!"
+
+msgid "bt_subscription_status_does_not_exist"
+msgstr "ఈ బ్రెయిన్‌ట్రీ సబ్‌స్క్రిప్షన్ స్థితి లేదు!"
+
+msgid "user_does_not_exist"
+msgstr "ఈ వినియోగదారు ఉనికిలో లేరు!"
+
+msgid "business_does_not_exist"
+msgstr "ఈ వ్యాపారం ఉనికిలో లేదు!"
+
+msgid "no_need_to_get_wallet"
+msgstr "వాలెట్ పొందాల్సిన అవసరం లేదు!"
+
+msgid "please_select_a_payment_method"
+msgstr "దయచేసిచెల్లింపు పద్ధతిని ఎంచుకోండి"
+
+msgid "no_subscription_rule_against_plan_and_country"
+msgstr "ఈ దేశం కోసంచందా నియమం/ ప్లాన్ ఉనికిలో లేదు"
+
+msgid "no_available_promotion_is_to_be_created"
+msgstr "మీ సబ్‌స్క్రిప్షన్ ప్యాకేజీలో మీరు ప్రమోషన్ పరిమితిని మించిపోయారు,"
+
+msgid "more_than_one_rule_against_your_country_and_package"
+msgstr "మీ దేశం మరియు సబ్‌స్క్రిప్షన్ ప్యాకేజీకి వ్యతిరేకంగా బహుళ చందా నియమాలు"
+
+msgid "brain_tree_subscription_failed"
+msgstr "ఏదో తప్పు జరిగాయి, బ్రెంట్రీ చందా విఫలమైంది!"
+
+msgid "error_while_creating_bt_subscription"
+msgstr "బ్రేంట్రీ సభ్యత్వసృష్టించడం ఏదో తప్పు జరిగింది"
+
+msgid "no_record_against_plan_id_and_country"
+msgstr "ఈ దేశంకోసం ఉనికిలో లేనిచందా ప్రణాళికను"
+
+msgid "unable_to_create_local_subscription"
+msgstr "స్థానిక చందాసృష్టించడం సాధ్యం కాలేదు"
+
+msgid "unable_to_create_local_payment"
+msgstr "స్థానిక చెల్లింపుసృష్టించడం సాధ్యం కాలేదు"
+
+msgid "error_while_creating_balance"
+msgstr "సంతులనంసృష్టించేటప్పుడులోపం"
+
+msgid "error_while_updating_balance"
+msgstr "సంతులనంఅప్డేట్ చేస్తున్నప్పుడులోపం"
+
+msgid "error_while_getting_balance"
+msgstr "సంతులనంపొందడానికి అయితేలోపం"
+
+msgid "unable_to_fetch_bt_subscription"
+msgstr "పొందడంలోబ్రేంట్రీ సభ్యత్వకాలేదు"
+
+msgid "unable_to_update_bt_subscription"
+msgstr "అప్డేట్బ్రేంట్రీ చందాసాధ్యం కాలేదు"
+
+msgid "unable_to_cancel_bt_subscription"
+msgstr "రద్దుసాధ్యం కాలేదుబ్రెయిన్‌ట్రీ సబ్‌స్క్రిప్షన్"
+
+msgid "something_wrong_with_bt_transaction_parameters"
+msgstr "బ్రెయిన్‌ట్రీ లావాదేవీకి సంబంధించిన పారామీటర్‌లలో"
+
+msgid "unable_to_create_payment_method_nonce"
+msgstr "ఏదో తప్పు జరిగింది, ఏదో తప్పు జరిగింది,చెల్లింపు పద్ధతి నాన్స్సృష్టించలేకపోయింది"
+
+msgid "error_in_adding_donations_and_tips"
+msgstr "విరాళాలు మరియు గ్రాట్యుటీని జోడించడంలోలోపం!"
+
+msgid "can_not_add_donations_and_tips"
+msgstr "ఏదో తప్పు జరిగింది, విరాళాలు మరియు గ్రాట్యుటీని జోడించలేము!"
+
+msgid "brain_tree_transaction_failed"
+msgstr "ఏదో తప్పు జరిగింది, Braintree చెల్లింపు లావాదేవీ విఫలమైంది!"
+
+msgid "amount_is_missing_in_coming_params"
+msgstr "మొత్తం పారామ్‌లు లేవు!"
+
+msgid "unable_to_create_transaction"
+msgstr "ఏదో తప్పు జరిగింది, లావాదేవీని సృష్టించలేకపోయింది,"
+
+msgid "can_not_create_local_transaction"
+msgstr "ఏదో తప్పు జరిగింది, స్థానిక లావాదేవీని సృష్టించలేము"
+
+msgid "unable_to_create_local_transaction"
+msgstr "ఏదో తప్పు జరిగింది, స్థానిక లావాదేవీని సృష్టించలేకపోయింది"
+
+msgid "can_not_calculate_amount_shares"
+msgstr "ఏదో తప్పు జరిగింది, గ్రాట్యుటీ, విరాళాలు మరియు సర్వీస్ ప్రొవైడర్ మొత్తాన్ని లెక్కించలేరు!"
+
+msgid "error_while_creating_Consumer_spent_amount"
+msgstr "వినియోగదారుడు ఖర్చు చేసిన మొత్తాన్ని సృష్టించేటప్పుడు"
+
+msgid "error_while_updating_Consumer_spent_amount"
+msgstr "లోపం, వినియోగదారుడు ఖర్చు చేసిన మొత్తం"
+
+msgid "error_while_getting_Consumer_spent_amount"
+msgstr "లోపం వినియోగదారుడు ఖర్చు చేసిన మొత్తంపొందడంలో లోపం"
+
+msgid "transaction_does_not_exist"
+msgstr "లావాదేవీనిలేదు!"
+
+msgid "unable_to_fetch_bt_transaction"
+msgstr "ఏదో తప్పు జరిగింది, బ్రెంట్రీ లావాదేవీని పొందలేకపోయింది"
+
+msgid "failed_to_refund_transaction"
+msgstr "ఏదో తప్పు జరిగింది, లావాదేవీని తిరిగి చెల్లించడంలో విఫలమైంది!"
+
+msgid "bt_customer_already_exists"
+msgstr "బ్రెంట్రీ కస్టమర్ ఖాతా ఇప్పటికే ఉంది!"
+
+msgid "bt_customer_does_not_exist"
+msgstr "బ్రేంట్రీ కస్టమర్ ఖాతా ఉనికిలోలేదు"
+
+msgid "unable_to_fetch_customer"
+msgstr "కస్టమర్పొందడం సాధ్యం కాలేదు"
+
+msgid "unable_to_fetch_brain_tree_customer"
+msgstr "బ్రేంట్రీ కస్టమర్పొందడం సాధ్యం కాలేదు"
+
+msgid "unable_to_create_customer"
+msgstr "కస్టమర్సృష్టించడం సాధ్యం కాలేదు"
+
+msgid "unable_to_update_brain_tree_customer"
+msgstr "బ్రేంట్రీ కస్టమర్నవీకరించలేకపోతున్నారా"
+
+msgid "unable_to_delete_customer"
+msgstr "కస్టమర్తొలగించలేము"
+
+msgid "unable_to_delete_brain_tree_customer"
+msgstr "బ్రేంట్రీ కస్టమర్తొలగించలేము"
+
+msgid "hyper_wallet_user_does_not_exist"
+msgstr "HyperWallet వాడుకరికాదుఉనికిలో లేదు"
+
+msgid "more_than_one_hw_records_against_this_user"
+msgstr "ఈ వినియోగదారువ్యతిరేకంగాబహుళ Hyperwallet రికార్డులు"
+
+msgid "unable_to_fetch_local_hw_user"
+msgstr "స్థానిక పొందడం సాధ్యం కాలేదుహైపర్‌వాలెట్ వినియోగదారు"
+
+msgid "unable_to_list_transfer_methods_of_that_user"
+msgstr "వినియోగదారు కోసం బదిలీ పద్ధతులను జాబితా చేయడం సాధ్యపడలేదు!"
+
+msgid "hw_transfer_method_does_not_exist"
+msgstr "Hyperwallet బదిలీ పద్ధతి ఉనికిలోలేదు"
+
+msgid "unable_to_fetch_transfer_method"
+msgstr "ట్రాన్స్ఫర్ విధానంపొందడం సాధ్యం కాలేదు"
+
+msgid "no_hw_transfer_method_exist"
+msgstr "విధానంఉనికిలో లేదుHyperwallet ట్రాన్స్ఫర్"
+
+msgid "error_while_getting_branch"
+msgstr "బ్రాంచ్పొందడానికి అయితేలోప"
+
+msgid "unable_to_get_Service Provider_minimum_transfer_limit"
+msgstr "సర్వీస్ ప్రొవైడర్ కనీస ట్రాన్స్ఫర్ పరిమితిపొందలేకపోయినది"
+
+msgid "unable_to_get_Service Provider_maximum_transfer_limit"
+msgstr "సర్వీస్ ప్రొవైడర్ గరిష్ట ట్రాన్స్ఫర్ పరిమితిపొందడం సాధ్యపడలేదు"
+
+msgid "error_in_updating_available_balance"
+msgstr "అందుబాటులో సంతులనంనవీకరించుటకులోపం"
+
+msgid "insufficient_balance"
+msgstr "చాలని సంతులనం"
+
+msgid "error_in_getting_available_balance"
+msgstr "అందుబాటులో పొందడంలోలోపంబ్యాలెన్స్"
+
+msgid "unable_to_create_hw_payment"
+msgstr "హైపర్‌వాలెట్ చెల్లింపుని సృష్టించడం సాధ్యపడలేదు!"
+
+msgid "unable_to_get_hw_payment"
+msgstr "హైపర్‌వాలెట్ పేమెంట్ పొందడం సాధ్యపడలేదు!"
+
+msgid "unable_to_create_hw_transfer"
+msgstr "హైపర్‌వాలెట్ బదిలీని సృష్టించడం సాధ్యపడలేదు!"
+
+msgid "unable_to_create_hw_transfer_method"
+msgstr "హైపర్‌వాలెట్ బదిలీ పద్ధతిని సృష్టించడం సాధ్యపడలేదు!"
+
+msgid "unable_to_create_hw_local_transfer_method"
+msgstr "హైపర్‌వాలెట్ స్థానిక బదిలీ పద్ధతిని సృష్టించడం సాధ్యపడలేదు!"
+
+msgid "unable_to_update_hw_local_transfer_method"
+msgstr "అప్‌డేట్ చేస్తున్నప్పుడు స్థానిక బదిలీ పద్ధతిని అప్‌డేట్ చేయడం సాధ్యం కాలేదు"
+
+msgid "error_in_updating_local_hw_transfer_method"
+msgstr "స్థానిక హైపర్‌వాలెట్ బదిలీ పద్ధతిని"
+
+msgid "hyper_wallet_user_already_exists"
+msgstr "హైపర్‌వాలెట్ యూజర్ ఇప్పటికే ఉంది!"
+
+msgid "unable_to_create_hw_user"
+msgstr "హైపర్‌వాలెట్ వినియోగదారుని సృష్టించడం సాధ్యపడలేదు!"
+
+msgid "unable_to_create_hw_local_user"
+msgstr "హైపర్‌వాలెట్ స్థానిక వినియోగదారుని సృష్టించడం"
+
+msgid "unable_to_update_hw_user"
+msgstr "సాధ్యపడలేదు హైపర్‌వాలెట్ వినియోగదారుని అప్‌డేట్ చేయడం సాధ్యపడలేదు!"
+
+msgid "unable_to_get_hw_user"
+msgstr "హైపర్‌వాలెట్ వినియోగదారుని పొందడం సాధ్యపడలేదు!"
+
+msgid "amount_could_not_verified"
+msgstr "ఇన్‌వాయిస్ మొత్తంతో లావాదేవీ మొత్తం ధృవీకరించబడలేదు!"
+
+msgid "error_in_fetching_invoice_to_verify_amount"
+msgstr "లావాదేవీ మొత్తాన్ని ధృవీకరించడానికి ఇన్‌వాయిస్‌ని పొందడంలో లోపం,"
+
+msgid "no_record_for_promotion_price_verification"
+msgstr "ప్రమోషన్ ధర ధృవీకరణకు రికార్డ్ లేదు"
+
+msgid "could_not_verify_promotion_amount"
+msgstr ",సబ్‌స్క్రిప్షన్ ప్రమోషన్మొత్తాన్ని ధృవీకరిస్తున్నప్పుడు ఏదో తప్పు జరిగింది"
+
+msgid "no_subscription_Service Provider_rule"
+msgstr "సర్వీస్ ప్రొవైడర్ కోసంసబ్‌స్క్రిప్షన్ రూల్!"
+
+msgid "available_promotion_is_not_created"
+msgstr "అందుబాటులో ఉన్న ప్రమోషన్ సృష్టించబడలేదు"
+
+msgid "can_not_add_donation_and_tip_amounts"
+msgstr ", విరాళం మరియు గ్రాట్యుటీ మొత్తాలను జోడించలేరు!"
+
+msgid "can_not_get_Service Provider_subscription"
+msgstr "సర్వీస్ ప్రొవైడర్ సబ్‌స్క్రిప్షన్"
+
+msgid "params_for_calculating_shares_not_correct"
+msgstr "స్థానిక లావాదేవీ సరైనది కాదని లెక్కించడానికిపారామ్‌లను పొందడం అసాధ్యం"
+
+msgid "unauthorized"
+msgstr "అనధికార"
+
+msgid "user_status_is_not_confirmed"
+msgstr "వినియోగదారు స్థితి నిర్ధారించబడలేదు!"
+
+msgid "unable_to_convert_string_to_time"
+msgstr "స్ట్రింగ్‌ని టైమ్ ఫార్మాట్‌గా మార్చడం కుదరలేదు"
+
+msgid "device_not_correct"
+msgstr "పరికరం సరిగా లేదు లేదా సపోర్ట్"
+
+msgid "cannot_send_android_notification"
+msgstr "చేయబడదు Android నోటిఫికేషన్‌లను పంపలేరు!"
+
+msgid "cannot_send_ios_notification"
+msgstr "IOS నోటిఫికేషన్‌లను పంపలేరు!"
+
+msgid "dashboard_auto_refresh"
+msgstr "డాష్‌బోర్డ్ ఆటో రిఫ్రెష్"
+
+msgid "share_location_with_user"
+msgstr "మీ లొకేషన్షేర్"
+
+msgid "error_while_fetching_branch_availability"
+msgstr "బ్రాంచ్ లభ్యతపొందడంలో లోపం ఉంది."
+
+msgid "availability_settings_does_not_exist"
+msgstr "ఈ బ్రాంచ్ కోసంలభ్యత సెట్టింగ్‌లు"
+
+msgid "unable_to_create_bid"
+msgstr "ఏదో తప్పు జరిగింది, బిడ్‌ను సృష్టించలేకపోయింది, మళ్లీ ప్రయత్నించండి,"
+
+msgid "can_not_create_bid"
+msgstr "ఏదో తప్పు జరిగింది, బిడ్సృష్టించలేదు"
+
+msgid "unable_to_update_bid"
+msgstr "ఏదోతప్పు, బిడ్ అప్‌డేట్ చేయలేకపోయింది,"
+
+msgid "can_not_update_bid"
+msgstr "ఏదో తప్పు జరిగింది, బిడ్ అప్‌డేట్ చేయలేదు,"
+
+msgid "can_not_delete_bid"
+msgstr "ఏదో తప్పు జరిగింది, బిడ్‌ను తొలగించలేము"
+
+msgid "unable_to_create_bid_proposal"
+msgstr "ఏదో తప్పు జరిగింది, బిడ్ ప్రతిపాదనను సృష్టించలేకపోయింది"
+
+msgid "can_not_create_bid_proposal"
+msgstr "ఏదో తప్పు జరిగింది, బిడ్ ప్రతిపాదనను సృష్టించలేము బిడ్ ప్రతిపాదన"
+
+msgid "bid_proposal_does_not_exist"
+msgstr "ఉనికిలో లేదు!"
+
+msgid "service_type_does_not_exist"
+msgstr "సర్వీస్ రకం ఉనికిలో లేదు!"
+
+msgid "error_in_getting_availability_settings"
+msgstr "ఈ బ్రాంచ్ కోసం లభ్యత సెట్టింగ్‌లను తిరిగి పొందడంలో లోపం"
+
+msgid "can_not_delete_branch"
+msgstr "ఏదో తప్పు జరిగింది, బ్రాంచ్‌ను తొలగించడం సాధ్యపడలేదు. బ్రాంచ్సేవలు అనుబంధించబడ్డాయి,"
+
+msgid "business_does_not_exist_for_that_user"
+msgstr "బిజినెస్‌తోఆ యూజర్"
+
+msgid "access_denied"
+msgstr "యాక్సెస్ నిరాకరించబడింది"
+
+msgid "dynamic_field_does_not_exist"
+msgstr "డైనమిక్ ఫీల్డ్ ఉనికిలో"
+
+msgid "dynamic_group_already_attached_to_that_screen"
+msgstr "లేదు స్క్రీన్ఇప్పటికే జతచేయబడిన డైనమిక్ గ్రూప్"
+
+msgid "dynamic_field_tag_does_not_exist"
+msgstr "డైనమిక్ ఫీల్డ్ ట్యాగ్లేదు!"
+
+msgid "dynamic_field_type_does_not_exist"
+msgstr "డైనమిక్ ఫీల్డ్ రకం లేదు!"
+
+msgid "can_not_update"
+msgstr "ఏదో తప్పు జరిగింది, అప్‌డేట్ చేయలేము,"
+
+msgid "can_not_delete"
+msgstr "ఏదో తప్పు జరిగింది, తొలగించడం సాధ్యం కాలేదు,"
+
+msgid "can_not_insert"
+msgstr "ఏదో తప్పు జరిగింది, ఇన్‌సర్ట్ చేయలేము,"
+
+msgid "can_not_get"
+msgstr "ఏదో తప్పు జరిగింది,"
+
+msgid "error_in_deleting_employee_setting"
+msgstr "ఉద్యోగుల సెట్టింగ్"
+
+msgid "error_in_updating_employee_setting"
+msgstr "ఎర్రర్‌ను అప్‌డేట్ చేయడంలో"
+
+msgid "error_in_creating_employee_setting"
+msgstr "లోపం"
+
+msgid "employee_type_does_not_exist"
+msgstr "పొందలేము. ఉనికిలో లేదు!"
+
+msgid "employee_status_does_not_exist"
+msgstr "ఉద్యోగుల హోదా లేదు!"
+
+msgid "employee_role_does_not_exist"
+msgstr "ఉద్యోగి పాత్ర లేదు!"
+
+msgid "pay_rate_does_not_exist"
+msgstr "ఉద్యోగుల చెల్లింపు రేటు లేదు!"
+
+msgid "file_not_uploaded_successfully"
+msgstr "ఏదో తప్పు జరిగింది, ఫైల్ అప్‌లోడ్ విఫలమైంది"
+
+msgid "invalid_file"
+msgstr "చెల్లని ఫైల్ ఫార్మాట్, అప్‌లోడ్ బ్లాక్ చేయబడింది!"
+
+msgid "icon_not_uploaded_successfully"
+msgstr "ఐకాన్ విజయవంతంగా అప్‌లోడ్ చేయబడలేదు!"
+
+msgid "unable_to_fetch_geo_zones"
+msgstr "ఏదో తప్పు జరిగింది, జియో జోన్‌లను పొందలేకపోయింది!"
+
+msgid "unable_to_list_hw_payments"
+msgstr "ఏదో తప్పు జరిగింది, హైపర్‌వాలెట్ లావాదేవీలను జాబితా చేయలేకపోయింది!"
+
+msgid "unable_to_get_currencies_and_transfer_method_types"
+msgstr "ఏదో తప్పు జరిగింది, అభ్యర్థన కారణంగా కరెన్సీలు మరియు ట్రాన్స్‌ఫర్ మెథడ్ రకాలను"
+
+msgid "unable_to_get_currencies_and_transfer_method_types_si"
+msgstr "తిరిగి పొందలేకపోయాము, కరెన్సీలను తిరిగి పొందలేకపోయాము మరియు ట్రాన్స్‌ఫర్ పద్ధతి రకాలు"
+
+msgid "error_in_fetching_currencies_and_transfer_methods"
+msgstr "కరెన్సీలను పొందడంలో లోపం మరియు హైపర్‌వాలెట్ నుండి బదిలీ పద్ధతులుజరిగాయి"
+
+msgid "unable_to_list_transfer_method_fields"
+msgstr "ఏదో తప్పు, బదిలీ పద్ధతి ఫీల్డ్‌లను జాబితా చేయలేకపోయాము!"
+
+msgid "any_required_parameter_is_missing"
+msgstr "అవసరమైన కొన్ని పారామితులు లేవు!"
+
+msgid "invalid_transfer_method_type"
+msgstr "చెల్లని బదిలీ పద్ధతి రకం, మీ ఇన్‌పుట్‌ను తనిఖీ చేయండి!"
+
+msgid "unable_to_get_transfer_method_by_token"
+msgstr "ఏదో తప్పు జరిగింది,చేయడంలో ఈ టోకెన్ మరియు టైప్ ఎర్రర్‌కు వ్యతిరేకంగా బదిలీ పద్ధతిని తిరిగి పొందలేకపోయింది"
+
+msgid "error_in_reformatting_results_after_decoding"
+msgstr "డీకోడింగ్ తర్వాత ఫలితాలను రీఫార్మాట్!"
+
+msgid "_max_allowed_taxes_and_discounts_does_not_exit"
+msgstr "గరిష్టంగా అనుమతించబడిన పన్నులు మరియు డిస్కౌంట్ల కోసం బ్రాంచ్ సెట్టింగ్‌లు నిష్క్రమించవు!"
+
+msgid "error_while_getting_branch_settings"
+msgstr "బ్రాంచ్ సెట్టింగ్‌లను తిరిగి పొందడంలో"
+
+msgid "error_Service Provider_allowed_to_add_taxes_and_discounts"
+msgstr "లోపం సర్వీస్ ప్రొవైడర్ పన్నులు మరియు డిస్కౌంట్లను జోడించే సమయంలో"
+
+msgid "error_Service Provider_allowed_to_add_discounts"
+msgstr "ఊహించని లోపం సంభవించింది సర్వీస్ ప్రొవైడర్ డిస్కౌంట్లను జోడించే"
+
+msgid "error_Service Provider_allowed_to_add_taxes"
+msgstr "సమయంలో ఊహించని లోపం సంభవించింది సర్వీస్ ప్రొవైడర్ పన్నులను జోడించే సమయంలో సర్వీస్ ప్రొవైడర్ పన్నులను"
+
+msgid "Service Provider_not_allowed_to_add_taxes"
+msgstr "జోడించడానికి అనుమతించలేదు"
+
+msgid "Service Provider_not_allowed_to_add_discounts"
+msgstr "సర్వీస్ ప్రొవైడర్ డిస్కౌంట్లను జోడించడానికి అనుమతించబడలేదు"
+
+msgid "something_went_wrong_in_calculation"
+msgstr "ఇన్వాయిస్‌లో ఏదో తప్పు జరిగింది మొత్తం లెక్కింపు!"
+
+msgid "bidding_proposal_does_not_exist"
+msgstr "ఈ బిడ్డింగ్ ప్రతిపాదన ఉనికిలో లేదు!"
+
+msgid "job_category_does_not_exist"
+msgstr "ఈ ఉద్యోగ వర్గం లేదు!"
+
+msgid "job_status_does_not_exist"
+msgstr "మీరు ప్రయత్నిస్తున్న ఉద్యోగ స్థితి ఉనికిలో లేదు!"
+
+msgid "can_not_get_job"
+msgstr "సర్వీస్ ప్రొవైడర్ పన్నులు మరియు డిస్కౌంట్‌లను జోడించే సమయంలో ఊహించని లోపం సంభవించింది, ఉద్యోగాన్ని తిరిగి పొందలేరు!"
+
+msgid "holiday_already_exists"
+msgstr "మీ హాలిడే క్యాలెండర్‌లోసెలవు ఉంది"
+
+msgid "input_time_from_and_to_is_same"
+msgstr "అప్పటి నుండి మరియు ఇక్కడికి: సమయం ఒకే విధంగా ఉంది, మీ ఎంట్రీని సరిచేసి, మళ్లీ ప్రయత్నించండి."
+
+msgid "holiday_does_not_exist"
+msgstr "మీ హాలిడే క్యాలెండర్‌లో సెలవు లేదు,"
+
+msgid "free_Service Provider_rule_does_not_exist"
+msgstr "సర్వీస్ ప్రొవైడర్‌ల కోసం ఉచిత సబ్‌స్క్రిప్షన్ రూల్ ఉనికిలో లేదు!"
+
+msgid "more_than_one_subscription_Service Provider_rules"
+msgstr "ఈ ప్యాకేజీకి వ్యతిరేకంగా బహుళ సర్వీస్ ప్రొవైడర్ సబ్‌స్క్రిప్షన్ నియమాలు అందుబాటులో ఉన్నాయి మరియు దేశం"
+
+msgid "unable_to_create_subscription_Service Provider_rule"
+msgstr "ఏదో తప్పు జరిగింది, సర్వీస్ ప్రొవైడర్ సబ్‌స్క్రిప్షన్సృష్టించలేకపోయింది,"
+
+msgid "already_a_subscription_rule"
+msgstr "మీరు ఇప్పటికే అందించిన ప్యాకేజీ ఐడికి వ్యతిరేకంగా సబ్‌స్క్రిప్షన్ రూల్ కలిగి ఉన్నారు మరియు దేశం"
+
+msgid "unable_to_update_subscription_Service Provider_rule"
+msgstr "రూల్‌నిఏదో తప్పు జరిగింది, సర్వీస్ ప్రొఫెసర్ సబ్‌స్క్రిప్షన్ రూల్ అప్‌డేట్ చేయలేకపోయింది"
+
+msgid "unable_to_get_subscription_Service Provider_rule"
+msgstr "ఏదో తప్పు జరిగింది, చేయలేకపోయింది తిరిగి సర్వీస్ ప్రొవైడర్కోసం సభ్యత్వ పాలన"
+
+msgid "unable_to_delete_subscription_Service Provider_rule"
+msgstr "ఏదోతప్పు,చందా నియమం సర్వీస్ ప్రొవైడర్తొలగించలేక పోతున్నాము,వెళ్ళింది,"
+
+msgid "unable_to_update_pricing"
+msgstr "చందా ధరఅప్డేట్ ఏదో తప్పు జరిగిందిచేయలేక"
+
+msgid "unable_to_delete_pricing"
+msgstr "ఏదో తప్పు జరిగింది తొలగించలేక పోతున్నాము చందా ధర"
+
+msgid "unable_to_purchase_promotion"
+msgstr "అందుబాటులో ప్రమోషన్ లేవు అండ్కొనుగోలు ప్రమోషన్అనుమతి లేదు"
+
+msgid "error_in_creating_promotion_purchase_price"
+msgstr "ప్రమోషన్ సృష్టించడంలోలోపంకొనుగోలు ధర, మళ్లీ ప్రయత్నించండి"
+
+msgid "no_Service Provider_earnings"
+msgstr "సర్వీస్ ప్రొవైడర్ ఇప్పటివరకు సంపాదన లేదు!"
+
+msgid "dispute_category_does_not_exist"
+msgstr "వివాద వర్గం లేదు!"
+
+msgid "dispute_status_does_not_exist"
+msgstr "వివాద స్థితి ఉనికిలో లేదు!"
+
+msgid "input_parameters_not_correct_for_deals"
+msgstr "బహుళ సర్వీస్ ప్రొవైడర్ చందాలు ఈ ప్యాకేజీ మరియు దేశంవ్యతిరేకంగా అందుబాటులో నియమాలు"
+
+msgid "no_used_or_available_promotion"
+msgstr "మీరుమీ సభ్యత్వ ప్యాకేజీ ప్రమోషన్ వినియోగం లేదా అర్హతలేదు"
+
+msgid "no_used_promotion"
+msgstr "మీరు మీ సభ్యత్వ ప్యాకేజీ లో యూజ్డ్ ప్రమోషన్ లేదు"
+
+msgid "no_available_promotion"
+msgstr "మీరు మీ సభ్యత్వ ప్యాకేజీఅందుబాటులో ఏవైనా ప్రచారాలనులేదు"
+
+msgid "error_while_getting_user"
+msgstr "ఏదోవెళ్ళిందివినియోగదారుని తిరిగి పొందుతున్నప్పుడు తప్పు, ఊహించని లోపం సంభవించింది!"
+
+msgid "business_does_not_provide_that_service"
+msgstr "మీ వ్యాపారం అభ్యర్థించిన సేవాఅందించదు"
+
+msgid "already_exist"
+msgstr "డేటాను!"
+
+msgid "does_not_exist"
+msgstr "డేటా ఉనికిలో లేదు!"
+
+msgid "settings_does_not_exist"
+msgstr "సెట్టింగ్‌లు లేవు!"
+
+msgid "unable_to_create_user_installs"
+msgstr "ఏదో తప్పు జరిగిందని, యూజర్ ఇన్‌స్టాల్‌లను సృష్టించలేకపోయారు!"
+
+msgid "unable_to_update_user_installs"
+msgstr "ఏదో తప్పు జరిగింది, యూజర్ ఇన్‌స్టాల్‌లను అప్‌డేట్ చేయడం సాధ్యపడలేదు!"
+
+msgid "error_while_updating_user_installs"
+msgstr "యూజర్ ఇన్‌స్టాల్‌లను అప్‌డేట్ చేస్తున్నప్పుడు ఏదో తప్పు జరిగింది!"
+
+msgid "error_while_getting_user_installs"
+msgstr "వినియోగదారు ఇన్‌స్టాల్‌ను తిరిగి పొందుతున్నప్పుడు"
+
+msgid "probably_status_is_already_confirmed"
+msgstr "ఏదో తప్పు జరిగింది, ఏదో తప్పు జరిగింది, బహుశా స్థితి ఇప్పటికే నిర్ధారించబడింది!"
+
+msgid "invalid_token"
+msgstr "చెల్లని టోకెన్"
+
+msgid "hashing_problem"
+msgstr "హ్యాషింగ్ సమస్య"
+
+msgid "os_is_incorrect"
+msgstr "ఏదో తప్పు జరిగింది, తప్పు OS కనుగొనబడింది"
+
+msgid "invoice_does_not_belongs_to_this_job"
+msgstr "ఇన్వాయిస్ఈ జాబ్చెందినది కాదు"
+
+msgid "error_in_making_params_for_local_payment"
+msgstr "స్థానిక చెల్లింపు కోసం పారామ్‌లను తయారు చేయడంలోలోపానికి,మళ్లీ"
+
+msgid "error_in_making_schedule_for_calendar"
+msgstr "క్యాలెండర్ కోసం షెడ్యూల్ మార్కింగ్‌లోలోపం ప్రయత్నించండిమళ్లీ కేటాయించండి"
+
+msgid "reassign_scheduled_jobs_before_leaving"
+msgstr ", ఉద్యోగి స్థితిని యాక్టివేట్ చేయడానికి ముందు షెడ్యూల్ చేసిన ఉద్యోగాలను."
+
+msgid "error_in_fetching_calendar"
+msgstr "క్యాలెండర్ పొందడంలో లోపం, మళ్లీ ప్రయత్నించండి"
+
+msgid "register_on_tudo_using_email"
+msgstr "దయచేసి ఇమెయిల్ ఉపయోగించి TUDO లో మిమ్మల్ని మీరు నమోదు చేసుకోండి TUDO యాప్‌లో"
+
+msgid "already_registered_just_login"
+msgstr "మీకు ఇప్పటికే ఖాతా ఉందని మేము గమనించాము. ఇమెయిల్ఉపయోగించి లాగిన్"
+
+msgid "employee_status_is"
+msgstr "ఉద్యోగుల స్థితిని"
+
+msgid "can_not_update_job_status_after"
+msgstr "తర్వాత"
+
+msgid "can_not_update_job_Service Provider_status_after"
+msgstr "అవ్వండిసేవా ప్రదాత తర్వాత ఉద్యోగ స్థితిని అప్‌డేట్ చేయలేరుమీరు ఉద్యోగ స్థితిని"
+
+msgid "can_not_update_job_Consumer_status_after"
+msgstr "మీరుఅప్‌డేట్ చేయలేరు మీరు వినియోగదారుని తర్వాత ఉద్యోగ స్థితిని అప్‌డేట్ చేయలేరు"
+
+msgid "already_have_package"
+msgstr "మీ వ్యాపారం ఇప్పటికే ప్యాకేజీని కొనుగోలు చేసింది:"
+
+msgid "amount_should_at_least"
+msgstr "మొత్తం కనీసంఉండాలి"
+
+msgid "max_limit_is_today_remaining_limit_is"
+msgstr "MAX బదిలీ పరిమితి, నేటి మిగిలిన పరిమితి"
+
+msgid "error_while_creating_details"
+msgstr "వివరాలను సృష్టించేటప్పుడు"
+
+msgid "error_while_updating_details"
+msgstr "లోపం, వివరాలను అప్‌డేట్ చేసేటప్పుడు మళ్లీ ప్రయత్నించండి, మళ్లీ ప్రయత్నించండి"
+
+msgid "details_more_than_records_employee"
+msgstr "ఈ ఉద్యోగి కోసం బహుళ రికార్డులు కనుగొనబడ్డాయి!"
+
+msgid "create_job_pending_for_Consumer_notify"
+msgstr "!!ధన్యవాదాలు!! - మీ {service_type} అపాయింట్‌మెంట్ (ID: #{job_id}) సృష్టించబడింది మరియు సర్వీస్ ప్రొవైడర్ ({సర్వీస్ ప్రొవైడర్_ప్రొఫైల్_ పేరు}) ఆమోదం కోసం వేచి ఉంది."
+
+msgid "create_job_pending_for_Service Provider_emp_notify"
+msgstr "!! చర్య అవసరం !! అభినందనలు మీరు {Consumer_profile_name} తో {emp_profile_name} కి కేటాయించిన కొత్త {service_type} అపాయింట్‌మెంట్ #{job_id} కోసం షెడ్యూల్ చేయబడ్డారు"
+
+msgid "create_job_confirmed_for_Consumer_notify"
+msgstr "!! ధన్యవాదాలు !!- మీ {service_type} నియామకం #{job_id} సృష్టించబడింది, షెడ్యూల్ చేయబడింది మరియు సర్వీస్ ప్రొవైడర్‌కు కేటాయించబడింది {సర్వీస్ ప్రొవైడర్_ప్రొఫైల్_పేరు}."
+
+msgid "create_job_confirmed_for_Service Provider_emp_notify"
+msgstr "!! కొత్త అపాయింట్‌మెంట్ !!- అభినందనలు మీరు {Consumer_profile_name} తో {emp_profile_name} కి కేటాయించిన కొత్త {service_ty} నియామకం #{job_id} కోసం షెడ్యూల్ చేయబడ్డారు."
+
+msgid "accept_job_for_Consumer_notify"
+msgstr "!! అంగీకరించబడింది !!- మీ {service_type} నియామకం #{job_id} మార్పులు ఆమోదించబడ్డాయి, దయచేసి మార్పులను ధృవీకరించండి మరియు అంగీకరించండి."
+
+msgid "accept_job_for_Service Provider_emp_notify"
+msgstr "!! అంగీకరించబడింది !!- మీ {service_type} నియామకం #{job_id} మార్పులు ఆమోదించబడ్డాయి, దయచేసి మార్పులను ధృవీకరించండి మరియు అంగీకరించండి."
+
+msgid "reject_job_for_Consumer_notify"
+msgstr "!! తిరస్కరించబడింది !!- {service_type} నియామకం #{job_id} మార్పులు తిరస్కరించబడ్డాయి మరియు శుభవార్త మీ అసలు నియామకం చెక్కుచెదరకుండా ఉంది."
+
+msgid "reject_job_for_Service Provider_emp_notify"
+msgstr "!! తిరస్కరించబడింది !!- {service_type} నియామకం #{job_id} మార్పులు తిరస్కరించబడ్డాయి మరియు శుభవార్త మీ అసలు నియామకం చెక్కుచెదరకుండా ఉంది."
+
+msgid "cancel_job_for_Consumer_notify"
+msgstr "!! రద్దు చేయబడింది - మీ చర్య అవసరం !! {service_type} నియామకం #{job_id} రద్దు చేయబడింది, దయచేసి మార్పులను ధృవీకరించండి మరియు అంగీకరించండి."
+
+msgid "cancel_job_for_Service Provider_emp_notify"
+msgstr "!! రద్దు చేయబడింది - మీ చర్య అవసరం !! {service_type} నియామకం #{job_id} రద్దు చేయబడింది, దయచేసి మార్పులను ధృవీకరించండి మరియు అంగీకరించండి."
+
+msgid "reschedule_job_for_Service Provider_emp_notify"
+msgstr "!! రీషెడ్యూల్ - మీ చర్య అవసరం !! {service_type} అపాయింట్‌మెంట్ #{job_id} బిజినెస్ సర్వీస్ ప్రొవైడర్ {సర్వీస్ ప్రొవైడర్_బ్రాంచ్_ప్రొఫైల్_ పేరు} తో రీషెడ్యూల్ చేయబడింది, దయచేసి ధృవీకరించండి మరియు ఒప్పుకోండి లేదా మార్పులను తిరస్కరించండి."
+
+msgid "reschedule_job_for_Consumer_notify"
+msgstr "!! రీషెడ్యూల్ - మీ చర్య అవసరం !! {service_type} అపాయింట్‌మెంట్ #{job_id} బిజినెస్ సర్వీస్ ప్రొవైడర్ {{సర్వీస్ ప్రొవైడర్_బ్రాంచ్_ప్రొఫైల్_ పేరు}} తో రీషెడ్యూల్ చేయబడింది, దయచేసి ధృవీకరించండి మరియు ఒప్పుకోండి లేదా మార్పులను తిరస్కరించండి."
+
+msgid "agent_reassign_job_for_Consumer_notify"
+msgstr "!! మార్పులు - చర్య అవసరం లేదు !! FYI. {Service_type} అపాయింట్‌మెంట్ #{job_id} కోసం ఏజెంట్ అసైన్‌మెంట్ అప్‌డేట్ చేయబడింది."
+
+msgid "agent_reassign_job_for_Service Provider_emp_notify"
+msgstr "!! మార్పులు - మీ చర్య అవసరం !! {service_type} అపాయింట్‌మెంట్#{job_id} Emp#{current_employee_id} నుండి Emp#{current_employee_id} కి కేటాయించబడింది. దయచేసి గమనించండి మరియు ధృవీకరించండి మరియు ప్లాన్ చేయండి."
+
+msgid "invoice_ready_for_Consumer_notify"
+msgstr "!! ఇన్వాయిస్డ్ బిల్లు - మీ చర్య అవసరం !! - మీ {service_type} అపాయింట్‌మెంట్ #{job_id} పూర్తయింది మరియు {invoice_amount} యొక్క చెల్లింపు కోసం సిద్ధంగా ఉంది మరియు మీ శీఘ్ర చెల్లింపును అభినందిస్తున్నాము."
+
+msgid "adjust_invoice_for_Service Provider_emp_notify"
+msgstr "!! అడ్వెస్ట్ ఇన్వాయిస్ - మీ చర్య అవసరం !! - వినియోగదారుడు ఇన్‌వాయిస్# ఇన్‌వాయిస్_ఐడిలో సర్దుబాటును అభ్యర్థించారు. చెల్లింపు పొందడానికి వేగంగా వ్యవహరించండి."
+
+msgid "adjusted_invoice_for_Consumer_notify"
+msgstr "!! ఇన్వాయిస్ సర్దుబాటు - మీ చర్య అవసరం !! - మీ {service_type} అపాయింట్‌మెంట్# {job_id} పూర్తయింది మరియు {invoice_amount} యొక్క చెల్లింపు కోసం సిద్ధంగా ఉంది మరియు మీ శీఘ్ర చెల్లింపును అభినందిస్తున్నాము."
+
+msgid "raise_dispute_for_Service Provider_emp_notify"
+msgstr "!! పంపిణీ రైస్డ్ - మీ చర్య అవసరం !! - వినియోగదారుడు {service_type} అపాయింట్‌మెంట్ #{job_id} మరియు ఇన్‌వాయిస్ మొత్తంతో సమస్యను పరిష్కరించమని అభ్యర్థించారు: {invoice_amount}. వివాదాన్ని పరిష్కరించడానికి వేగంగా వ్యవహరించండి."
+
+msgid "manage_dispute_for_Consumer_notify"
+msgstr "తొలగించబడింది - మీ చర్య అవసరం !! - {service_type} అపాయింట్‌మెంట్ #{job_id} పై వివాదం పరిష్కరించబడింది మరియు ఇన్‌వాయిస్ మొత్తం సవరించబడింది: చెల్లింపు కోసం {invoice_amount} సిద్ధంగా ఉంది, మీ సత్వర చెల్లింపును అభినందించండి."
+
+msgid "on_board_walk_in_Consumer_near_appointment_notify"
+msgstr "!సమాచారం!! వినియోగదారుడు {service_type} అపాయింట్‌మెంట్ # {job_id} సమీపంలో ఉంది మరియు QuID # {quid} తో విజయవంతంగా ఆన్‌బోర్డ్ చేయబడింది"
+
+msgid "Service Provider_on_boards_appointment_notify"
+msgstr "! సమాచారం !! వినియోగదారుడు {service_type} అపాయింట్‌మెంట్ # {job_id} సమీపంలో ఉంది మరియు QuID # {quid} తో విజయవంతంగా ఆన్‌బోర్డ్ చేయబడింది"
+
+msgid "walk_in_Consumer_near_appointment_notify"
+msgstr "! సమాచారం !! వినియోగదారుడు {service_type} అపాయింట్‌మెంట్ # {job_id} సమీపంలో ఉంది మరియు QuID # {quid} తో విజయవంతంగా ఆన్‌బోర్డ్ చేయబడింది"
+
+msgid "in_home_on_demand_Service Provider_near_appointment_notify"
+msgstr "! సమాచారం !! బిజినెస్ ప్రొవైడర్ {service_type} అపాయింట్‌మెంట్ # {job_id} సమీపంలో ఉంది మరియు క్విడ్ # {quid} తో విజయవంతంగా ఆన్‌బోర్డ్ చేయబడింది"
+
+msgid "Consumer_Service Provider_initiates_on_board_action_notify"
+msgstr "! సమాచారం !! బిజినెస్ ప్రొవైడర్ {service_type} అపాయింట్‌మెంట్ # {job_id} సమీపంలో ఉంది మరియు క్విడ్ # {quid} తో విజయవంతంగా ఆన్‌బోర్డ్ చేయబడిందిఅలర్ట్"
+
+msgid "appointment_alert_12_hrs_earlier_notify"
+msgstr "!!!! మీ షెడ్యూల్ {service_type} నియామకం #{job_id} 12 గంటల్లో ప్రారంభం కానుంది."
+
+msgid "appointment_alert_2_hrs_earlier_notify"
+msgstr "!! హెచ్చరిక !! మీ షెడ్యూల్ {service_type} నియామకం #{job_id} 2 గంటల్లో ప్రారంభం కానుంది."
+
+msgid "appointment_alert_30_mins_earlier_notify"
+msgstr "!! హెచ్చరిక !! మీ షెడ్యూల్ {service_type} నియామకం #{job_id} 30 నిమిషాల్లో ప్రారంభమవుతుంది."
+
+msgid "appointment_alert_5_mins_earlier_notify"
+msgstr "!! హెచ్చరిక !! మీ షెడ్యూల్ {service_type} నియామకం #{job_id} 5 నిమిషాల్లో ప్రారంభమవుతుంది."
+
+msgid "payment_made_notify"
+msgstr "!! చెల్లింపు ప్రాసెస్ చేయబడింది !! - {service_type} అపాయింట్‌మెంట్ #{job_id} కోసం మీ చెల్లింపు {invoice_amount} విజయవంతంగా ప్రాసెస్ చేయబడింది, ధన్యవాదాలు మరియు మీతో మళ్లీ వ్యాపారం చేయడానికి ఎదురుచూస్తున్నాను."
+
+msgid "Service Provider_sends_employment_invitation_to_Consumer_notify"
+msgstr "!! కొత్త ఉద్యోగి - మీ చర్య అవసరం !! మీ సర్వీస్ ఆఫర్ కోసం {సర్వీస్ ప్రొవైడర్_ప్రొఫైల్_ పేరు} నుండి స్వాగతం. తదుపరి దశల కోసం ఇక్కడ క్లిక్ చేయండి."
+
+msgid "reset_password_for_Consumer_notify"
+msgstr "!! ఖాతా నవీకరణ - మీ చర్య అవసరం !! నవీకరణ సూచనలతో ఒక ఇమెయిల్ పంపబడింది."
+
+msgid "employee_enrollment_notify_title"
+msgstr "ఉద్యోగుల నమోదు"
+
+msgid "reset_password_notify_title"
+msgstr "పాస్‌వర్డ్ రీసెట్"
+
+msgid "can_not_get_push_notification_message"
+msgstr "పుష్ నోటిఫికేషన్ సందేశాన్ని పొందలేరు!"
+
+msgid "logout_successfully"
+msgstr "లాగ్ అవుట్ విజయవంతమైనవిజయవంతంగా"
+
+msgid "token_successfully_sent"
+msgstr "టోకెన్పంపబడింది!"
+
+msgid "unable_to_create_branch"
+msgstr "శాఖను సృష్టించడం సాధ్యపడలేదు!"
+
+msgid "unable_to_update_branch"
+msgstr "బ్రాంచ్‌ని అప్‌డేట్ చేయడం సాధ్యపడలేదు!"
+
+msgid "unable_to_create_business"
+msgstr "వ్యాపారాన్ని సృష్టించడం సాధ్యపడలేదు!"
+
+msgid "unable_to_update_business"
+msgstr "వ్యాపారాన్ని అప్‌డేట్ చేయడం సాధ్యపడలేదు!"
+
+msgid "dynamic_field_value_does_not_exist"
+msgstr "డైనమిక్ ఫీల్డ్ విలువ లేదు!"
+
+msgid "employee_setting_does_not_exist"
+msgstr "ఉద్యోగుల సెట్టింగ్ ఉనికిలో లేదు!"
+
+msgid "manage_employee_does_not_exist"
+msgstr "ఉద్యోగి ఉనికిలో లేనట్లు నిర్వహించండి!"
+
+msgid "shift_schedule_does_not_exist"
+msgstr "బిజినెస్ షిఫ్ట్ షెడ్యూల్ లేదు!"
+
+msgid "unable_to_invite_employee"
+msgstr "ఉపాధి ఆహ్వానాన్ని పంపడం సాధ్యపడలేదు"
+
+msgid "no_error_found"
+msgstr "లోపం కనుగొనబడలేదు"
+
+msgid "unable_to_list_hw_users"
+msgstr "హైపర్‌వాలెట్ వినియోగదారులను జాబితా"
+
+msgid "unable_to_get_invoice"
+msgstr "చేయలేకపోయాము ఇన్వాయిస్"
+
+msgid "unable_to_generate_invoice"
+msgstr "పొందలేకపోయాము ఇన్వాయిస్ని రూపొందించలేకపోయాము"
+
+msgid "invoice_id_or_job_id_missing_in_params"
+msgstr "IDలేదా జాబ్_ఐడ్ పారామితులలో లేదు!"
+
+msgid "this_invoice_is_locked"
+msgstr "ఇన్‌వాయిస్ లాక్ చేయబడింది, మీరు ఈ ఇన్‌వాయిస్‌ను అప్‌డేట్ చేయలేరు!"
+
+msgid "error_while_getting_invoice_by_job"
+msgstr "ఉద్యోగం ద్వారా ఇన్‌వాయిస్ పొందడంలో లోపం"
+
+msgid "unable_to_adjust_invoice"
+msgstr "ఇన్‌వాయిస్సర్దుబాటు చేయడం సాధ్యపడలేదు"
+
+msgid "employee_does_not_exists"
+msgstr "ఉద్యోగులను!"
+
+msgid "not_permitted_to_update_job"
+msgstr "ఈ ఉద్యోగాన్ని అప్‌డేట్"
+
+msgid "not_permitted_to_update_estimate"
+msgstr "చేయడానికి మీకు అనుమతి లేదు. అంచనా వ్యయాన్ని అప్‌డేట్ చేయడానికి మీకు అనుమతి లేదు."
+
+msgid "no_request_to_update_cost_estimates"
+msgstr "తీసుకునేటప్పుడు కాస్ట్ ఎస్టిమేట్స్అప్‌డేట్ చేయడానికి అభ్యర్థన"
+
+msgid "error_while_getting_job"
+msgstr "పొందుతున్నప్పుడు జాబ్ ఎర్రర్‌నుఎర్రర్‌ని"
+
+msgid "error_while_getting_branch_from_employee"
+msgstr "ఉద్యోగి_ఇడ్నుండి బ్రాంచ్‌ని తిరిగి"
+
+msgid "Service Provider_meta_does_not_exist"
+msgstr "సర్వీస్ ప్రొవైడర్ మెటాలేదు!"
+
+msgid "Consumer_meta_does_not_exist"
+msgstr "కన్స్యూమర్ మెటా ఉనికిలో లేదు!"
+
+msgid "can_not_create_promotion"
+msgstr "ఏదో తప్పు జరిగింది, ప్రమోషన్సృష్టించడం"
+
+msgid "country_service_does_not_exist"
+msgstr "కంట్రీ సర్వీస్సాధ్యం కాదు!"
+
+msgid "no_record_against_county_code"
+msgstr "మీ కౌంటీవ్యతిరేకంగా ఏ రికార్డ్ ఉనికిలో"
+
+msgid "error_while_getting_country_from_country_code"
+msgstr "దేశం కోడ్నుండిలోపందేశం తిరిగి పొందడంలో"
+
+msgid "service_not_available_in_this_country"
+msgstr "ఈ సేవఈ దేశంఅందుబాటులో లేదు"
+
+msgid "error_while_creating_lead"
+msgstr "లోపంసృష్టించడం లీడ్లేదు,అయితే"
+
+msgid "lead_not_created"
+msgstr "లీడ్ రూపొందించినవారు"
+
+msgid "not_permitted_to_create_this_setting"
+msgstr "మీరుఈసెట్టింగ్ సృష్టించడానికి అనుమతి లేదు"
+
+msgid "error_in_getting_setting"
+msgstr "పొందటం సెట్టింగులు లోపం"
+
+msgid "setting_does_not_exist"
+msgstr "నేపధ్యంలోలేదు ఉనికిలో"
+
+msgid "unable_to_upsert_employee_details"
+msgstr "ఉద్యోగి వివరాలు upsert సాధ్యం కాలేదు"
+
+msgid "Consumer_already_settings_with_this_slug"
+msgstr "ఈ వినియోగదారు ఈ స్లగ్ ఇప్పటికే సెట్టింగులను కలిగి"
+
+msgid "Consumer_already_more_than_one_settings"
+msgstr "ఈ కంజ్యూమర్ ఈ స్లగ్తో ఇప్పటికే 1 కంటే ఎక్కువ సెట్టింగులు"
+
+msgid "unable_to_create_settings"
+msgstr "సెట్టింగులుసృష్టించడం సాధ్యం కాలేదు"
+
+msgid "Consumer_settings_does_not_exist"
+msgstr "మీ వినియోగదారు ప్రొఫైల్ వరుసలకుకన్స్యూమర్ సెట్టింగులుఉంది!"
+
+msgid "error_in_fetching_Consumer_settings"
+msgstr "వినియోగదారు సెట్టింగ్‌లను పొందడంలో లోపం సెట్టింగ్‌లనువినియోగదారు సెట్టింగ్"
+
+msgid "unable_to_update_settings"
+msgstr "అప్‌డేట్ చేయడం సాధ్యపడలేదు"
+
+msgid "no_Consumer_setting_exist"
+msgstr "ఉనికిలో లేదు!"
+
+msgid "no_employee_details_exist"
+msgstr "ఉద్యోగుల వివరాలు లేవు!"
+
+msgid "unable_to_delete_settings"
+msgstr "ఏదో తప్పు జరిగింది, సెట్టింగ్‌లను తొలగించలేకపోయింది, మళ్లీ ప్రయత్నించండి"
+
+msgid "unable_to_logout"
+msgstr "లాగ్ అవుట్ చేయడం సాధ్యం"
+
+msgid "user_address_does_not_exist"
+msgstr "కాదు వినియోగదారు చిరునామా ఉనికిలో లేదు!"
+
+msgid "can_not_create_client_token"
+msgstr "క్లయింట్ టోకెన్‌ను సృష్టించడం సాధ్యం కాదు!"
+
+msgid "unable_to_get_donations"
+msgstr "ఏదో తప్పు జరిగింది, విరాళాల జాబితాను తిరిగి పొందలేకపోయాము"
+
+msgid "country_id_does_not_exist"
+msgstr "వినియోగదారుల దేశ ID ఉనికిలో లేదు వినియోగదారు దేశ ID"
+
+msgid "error_in_getting_country_id"
+msgstr "ని తిరిగి పొందడంలో లోపం!"
+
+msgid "branch_id_or_business_id_compulsory"
+msgstr "వ్యాపారం లేదా బ్రాంచ్ ఐడి తప్పనిసరిగా పారామ్స్తప్పక"
+
+msgid "promotion_purchase_price_not_exist"
+msgstr "ప్రమోషన్ కొనుగోలులోధర కనిపించదు, తర్వాత మళ్లీ ప్రయత్నించండి!"
+
+msgid "licensed"
+msgstr "లైసెన్స్ / రిజిస్టర్డ్"
+
+msgid "passport"
+msgstr "పాస్‌పోర్ట్"
+
+msgid "driving_license"
+msgstr "డ్రైవర్ లైసెన్స్ కార్డ్"
+
+msgid "ration_card"
+msgstr "రేషన్ కార్డ్"
+
+msgid "voter_iD_card"
+msgstr "ఓటర్ ఐడి కార్డ్"
+
+msgid "aadhar"
+msgstr "ఆధార్ కార్డ్"
+
+msgid "other_id"
+msgstr "ఇతర ప్రభుత్వం. జారీ ID కార్డ్"
+
+msgid "percentage"
+msgstr "శాతం"
+
+msgid "cash"
+msgstr "క్యాష్"
+
+msgid "national_business_tax"
+msgstr "ఫెడరల్ / జాతీయ / కేంద్ర వ్యాపారం పన్ను"
+
+msgid "regional_business_tax"
+msgstr "రాష్ట్రం / ప్రాంతీయ / ప్రాంతం వ్యాపారం పన్ను"
+
+msgid "donation_x%"
+msgstr "జాబితా అంశం 1 tudo పట్టిక నుండి x%"
+
+msgid "donation_$2.00"
+msgstr "జాబితా అంశం 1 tudo పట్టిక $ 2.00నుండి"
+
+msgid "donation_$1.50"
+msgstr "జాబితా అంశం 1tudo పట్టిక $ 1.50నుండి"
+
+msgid "donation_y%"
+msgstr "జాబితా అంశం 1 tudo పట్టిక y%"
+
+msgid "donation_2%"
+msgstr "జాబితా అంశం 1 TUDO పట్టిక 2%"
+
+msgid "promotion_radius_1"
+msgstr "1 x సర్వీస్ వ్యాసార్థం (50 మైళ్ళు/కిమీలు) (TUDO డిఫాల్ట్)"
+
+msgid "promotion_radius_2"
+msgstr "2 x సేవా వ్యాసార్థం"
+
+msgid "promotion_radius_3"
+msgstr "3 x సేవా వ్యాసార్థం"
+
+msgid "federal_authority"
+msgstr "సమాఖ్య/జాతీయ/కేంద్ర ప్రభుత్వం. అథారిటీ"
+
+msgid "regional_authority"
+msgstr "రాష్ట్రం/ప్రాంతం/ప్రావిన్స్ ప్రభుత్వం. అథారిటీ"
+
+msgid "county_authority"
+msgstr "కౌంటీ/ నగర ప్రభుత్వం. అథారిటీ"
+
+msgid "local_authority"
+msgstr "పట్టణం/గ్రామం/స్థానిక ప్రభుత్వం. అధికారం"
+
+msgid "service_duration_15m"
+msgstr "0:15:00"
+
+msgid "service_radius_50k"
+msgstr "50"
+
+msgid "service_duration_30m"
+msgstr "0:30:00"
+
+msgid "service_radius_75k"
+msgstr "75"
+
+msgid "service_radius_100k"
+msgstr "100"
+
+msgid "service_radius_150k"
+msgstr "150"
+
+msgid "service_duration_45m"
+msgstr "0:45:00"
+
+msgid "service_radius_200k"
+msgstr "200"
+
+msgid "service_duration_60m"
+msgstr "1:00:00"
+
+msgid "service_duration_90m"
+msgstr "1:30:00"
+
+msgid "service_radius_300k"
+msgstr "300"
+
+msgid "service_duration_120m"
+msgstr "2:00:00"
+
+msgid "service_radius_30k"
+msgstr "30"
+
+msgid "service_duration_150m"
+msgstr "2:30:00"
+
+msgid "service_duration_180m"
+msgstr "3:00:00"
+
+msgid "service_duration_210m"
+msgstr "3:30:00"
+
+msgid "service_duration_240m"
+msgstr "4:00:00"
+
+msgid "service_duration_300m"
+msgstr "5:00:00"
+
+msgid "service_duration_360m"
+msgstr "6:00:00"
+
+msgid "service_duration_420m"
+msgstr "7:00:00"
+
+msgid "service_duration_480m"
+msgstr "8:00:00"
+
+msgid "local_business_tax"
+msgstr "నగరం / పట్టణం / పల్లె / స్థానిక వ్యాపారం పన్ను"
+
+msgid "gst_business_tax"
+msgstr "జిఎస్టి"
+
+msgid "sgst_business_tax"
+msgstr "SGST (సర్వీస్ జిఎస్టి)"
+
+msgid "vat_business_tax"
+msgstr "వేట్"
+
+msgid "other_business_tax"
+msgstr "ఇతర వ్యాపార పన్ను"
+
+msgid "auto_insurance"
+msgstr "ఆటో / వెహికల్ భీమా"
+
+msgid "fire_insurance"
+msgstr "అగ్ని భీమా"
+
+msgid "heath_insurance"
+msgstr "ఆరోగ్య భీమా"
+
+msgid "dental_insurance"
+msgstr "దంత బీమా"
+
+msgid "vision_insurance"
+msgstr "విజన్ భీమా"
+
+msgid "home_insurance"
+msgstr "Home యజమానులు బీమా"
+
+msgid "renters_insurance"
+msgstr "అద్దెదారు ఇన్సూరెన్స్"
+
+msgid "general_insurance"
+msgstr "సాధారణ బీమా"
+
+msgid "life_insurance"
+msgstr "వ్యక్తిగత / లైఫ్ ఇన్సూరెన్స్"
+
+msgid "family_insurance"
+msgstr "గ్రూప్ ఇన్సూరెన్స్"
+
+msgid "property_insurance"
+msgstr "ఆస్తి భీమా"
+
+msgid "business_insurance"
+msgstr "వ్యాపారం బీమా"
+
+msgid "guarantee_insurance"
+msgstr "హామీ భీమా"
+
+msgid "liability_insurance"
+msgstr "బాధ్యత కవరేజ్ భీమా"
+
+msgid "marine_insurance"
+msgstr "సముద్ర భీమా"
+
+msgid "social_insurance"
+msgstr "సామాజిక భీమా"
+
+msgid "other_insurance"
+msgstr "ఇతర భీమా"
+
+msgid "male_gender"
+msgstr "మాలే"
+
+msgid "female_gender"
+msgstr "ఫీమేల్"
+
+msgid "other_gender"
+msgstr "ఇతర"
+
+msgid "super_admin_role"
+msgstr "సూపర్ అడ్మిన్ (= వ్యాపారం యజమాని)"
+
+msgid "admin_manager_role"
+msgstr "అడ్మిన్ మేనేజర్ ( బిజినెస్ మేనేజర్)"
+
+msgid "service_supervisor_role"
+msgstr "సర్వీస్ సూపర్‌వైజర్ (సర్వీస్ స్టాఫ్)"
+
+msgid "service_assiciate_role"
+msgstr "సర్వీస్ అసోసియేట్ (సర్వీస్ స్టాఫ్)"
+
+msgid "service_trainee_role"
+msgstr "సర్వీస్ ట్రైనీ (సర్వీస్ స్టాఫ్)"
+
+msgid "support_supervisor_role"
+msgstr "సపోర్ట్ సూపర్‌వైజర్ (సపోర్ట్ స్టాఫ్)"
+
+msgid "support_associate_role"
+msgstr "సపోర్ట్ అసోసియేట్ (సపోర్ట్ స్టాఫ్)"
+
+msgid "support_trainee_role"
+msgstr "సపోర్ట్ ట్రైనీ (సపోర్ట్ స్టాఫ్)"
+
+msgid "branch_super_admin_role"
+msgstr "బ్రాంచ్ సూపర్ అడ్మిన్ (= బ్రాంచ్ కోసం బిజినెస్ ఓనర్)"
+
+msgid "branch_admin_manager_role"
+msgstr "బ్రాంచ్ అడ్మిన్ మేనేజర్ (బ్రాంచ్ మేనేజర్)"
+
+msgid "fulltime_employment"
+msgstr "సాధారణ సమయం"
+
+msgid "partime_employment"
+msgstr "Parttime"
+
+msgid "temp_employment"
+msgstr "తాత్కాలిక"
+
+msgid "education_qualification_type"
+msgstr "విద్యా"
+
+msgid "certification_qualification_type"
+msgstr "సర్టిఫికేషన్"
+
+msgid "other_qualification_type"
+msgstr "ఇతర"
+
+msgid "less_than12th_qualification"
+msgstr "హై Sc ల బదులుగాతక్కువ hool (<12 వ గ్రేడ్)"
+
+msgid "high_school_equ_qualification"
+msgstr "హై స్కూల్ (12 వ గ్రేడ్) లేదా డిప్లొమా లేదా సమానమైన"
+
+msgid "certification_qualification"
+msgstr "సర్టిఫికేషన్"
+
+msgid "college_no_degree_qualification"
+msgstr "కొన్ని కాలేజ్, నో డిగ్రీ"
+
+msgid "associate_degree_qualification"
+msgstr "అసోసియేట్ డిగ్రీ"
+
+msgid "bachelors_degree_qualification"
+msgstr "బ్యాచిలర్ డిగ్రీ"
+
+msgid "masters_qualification"
+msgstr "మాస్టర్స్ డిగ్రీ"
+
+msgid "professional_qualification"
+msgstr "వృత్తి డిగ్రీ"
+
+msgid "doc_phd_qualification"
+msgstr "Doctorial లేదా PhD"
+
+msgid "other_qualification"
+msgstr "ఇతర"
+
+msgid "internship_experiance_type"
+msgstr "ఇంటర్న్"
+
+msgid "trainee_experiance_type"
+msgstr "ట్రైనీ"
+
+msgid "employment_experiance_type"
+msgstr "ఉపాధి"
+
+msgid "research_assistant_experiance_type"
+msgstr "రీసెర్చ్ Assistantship"
+
+msgid "other_experiance_type"
+msgstr "ఇతర"
+
+msgid "temporary_experiance"
+msgstr "తాత్కాలిక"
+
+msgid "parttime_experiance"
+msgstr "పార్ట్ టైమ్"
+
+msgid "fulltime_experiance"
+msgstr "ఫుల్ టైమ్"
+
+msgid "self_employed_experiance"
+msgstr "స్వయం ఉపాధి"
+
+msgid "freelancer_experiance"
+msgstr "ఫ్రీలాన్సర్గా"
+
+msgid "other_experiance"
+msgstr "ఇతర"
+
+msgid "2wheeler_vehicle_type_motorcycle"
+msgstr "2-వీలర్ (మోటార్ బైక్)"
+
+msgid "3wheeler_vehicle_type_motorcycle"
+msgstr "3-వీలర్ (ఆటో రక్షా / tuk-tuk)"
+
+msgid "sedan_vehicle_type_passenger"
+msgstr "సెడాన్ (ప్యాసింజర్ కారు)"
+
+msgid "suv_vehicle_type_multipurpose"
+msgstr "SUV"
+
+msgid "mini_truck_vehicle_type_truck"
+msgstr "మినీ ట్రక్"
+
+msgid "medium_vehicle_type_truck"
+msgstr "మీడియం ట్రక్"
+
+msgid "regular_truck_vehicle_type_truck"
+msgstr "రెగ్యులర్ ట్రక్"
+
+msgid "heavy_truck_vehicle_type_truck"
+msgstr "భారీ ట్రక్"
+
+msgid "trailer_vehicle_type_truck"
+msgstr "బహుళ ఆక్సిల్ ట్రైలర్ ట్రక్"
+
+msgid "activity_vehicle_type_low"
+msgstr "ATV"
+
+msgid "bus_vehicle_type_bus"
+msgstr "బస్"
+
+msgid "trailer_vehicle_type_trailer"
+msgstr "ట్రైలర్"
+
+msgid "special_equip_vehicle_type_truck"
+msgstr "ప్రత్యేక పరికరాలు"
+
+msgid "vessal_vehicle_type_truck"
+msgstr "వాసల్"
+
+msgid "other_vehicle_type"
+msgstr "ఇతర"
+
+msgid "other_authority"
+msgstr "ఇతర Govt. అధికారం"
+
+msgid "fiscal_january"
+msgstr "జనవరి - డిసెంబర్"
+
+msgid "fiscal_february"
+msgstr "ఫిబ్రవరి - జనవరి"
+
+msgid "fiscal_march"
+msgstr "మార్చి - ఫిబ్రవరి"
+
+msgid "fiscal_april"
+msgstr "ఏప్రిల్ - మార్చి"
+
+msgid "fiscal_may"
+msgstr "మే - ఏప్రిల్"
+
+msgid "fiscal_june"
+msgstr "జూన్ - మే"
+
+msgid "fiscal_july"
+msgstr "జూలై - జూన్"
+
+msgid "fiscal_august"
+msgstr "ఆగస్టు - జూలై"
+
+msgid "fiscal_september"
+msgstr "సెప్టెంబర్ - ఆగస్టు"
+
+msgid "fiscal_october"
+msgstr "అక్టోబర్ - సెప్టెంబర్"
+
+msgid "fiscal_november"
+msgstr "నవంబర్ - అక్టోబర్"
+
+msgid "fiscal_december"
+msgstr "డిసెంబర్ - నవంబర్"
+
+msgid "delete_branch"
+msgstr "వ్యాపార ప్రొఫైల్‌ను తొలగించండి"
+
+msgid "delete_branch_desc"
+msgstr "మీరు ఖచ్చితంగా మీ వ్యాపార ప్రొఫైల్‌ను తొలగించాలనుకుంటున్నారా? దయచేసి గమనించండి, మీరు కొనసాగించాలని ఎంచుకుంటే మీరు ఈ చర్యను రివర్స్ చేయలేరు."
+
+msgid "delete_branch_title"
+msgstr "మీరు ఖచ్చితంగా అనుకుంటున్నారా?"
+
+msgid "branch_success_title"
+msgstr "మీ వ్యాపార ప్రొఫైల్ విజయవంతంగా తొలగించబడింది."
+
+msgid "branch_success_desc"
+msgstr "దయచేసి లాగ్ అవుట్ చేసి, మళ్లీ లాగిన్ చేయండి"
+
+msgid "delete_account"
+msgstr "ఖాతాను తొలగించండి"
+
+msgid "delete_account_title"
+msgstr "మీరు ఖచ్చితంగా అనుకుంటున్నారా?"
+
+msgid "delete_account_desc"
+msgstr "మీరు ఖచ్చితంగా మీ ఖాతాను తొలగించాలనుకుంటున్నారా? దయచేసి గమనించండి, మీరు కొనసాగించాలని ఎంచుకుంటే మీరు ఈ చర్యను రివర్స్ చేయలేరు."
+
+msgid "account_success_title"
+msgstr "మీ ఖాతా విజయవంతంగా తొలగించబడింది."
+
+msgid "account_success_desc"
+msgstr "దయచేసి నిర్ధారించడానికి లాగ్ అవుట్ చేయండి."
+

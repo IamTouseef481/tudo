@@ -1,0 +1,83 @@
+<%= form_for @changeset, @action, fn f -> %>
+  <%= if @changeset.action do %>
+    <div class="alert alert-danger">
+      <p>Oops, something went wrong! Please check the errors below.</p>
+    </div>
+  <% end %>
+
+  <%= label f, :email %>
+  <%= text_input f, :email %>
+  <%= error_tag f, :email %>
+
+  <%= label f, :mobile %>
+  <%= text_input f, :mobile %>
+  <%= error_tag f, :mobile %>
+
+  <%= label f, :is_verified %>
+  <%= checkbox f, :is_verified %>
+  <%= error_tag f, :is_verified %>
+
+  <%= label f, :password_hash %>
+  <%= text_input f, :password_hash %>
+  <%= error_tag f, :password_hash %>
+
+  <%= label f, :profile %>
+  <%= text_input f, :profile %>
+  <%= error_tag f, :profile %>
+
+  <%= label f, :reset_password_token %>
+  <%= text_input f, :reset_password_token %>
+  <%= error_tag f, :reset_password_token %>
+
+  <%= label f, :reset_password_sent_at %>
+  <%= datetime_select f, :reset_password_sent_at %>
+  <%= error_tag f, :reset_password_sent_at %>
+
+  <%= label f, :failed_attempts %>
+  <%= number_input f, :failed_attempts %>
+  <%= error_tag f, :failed_attempts %>
+
+  <%= label f, :singn_in_count %>
+  <%= number_input f, :singn_in_count %>
+  <%= error_tag f, :singn_in_count %>
+
+  <%= label f, :current_sign_in_at %>
+  <%= datetime_select f, :current_sign_in_at %>
+  <%= error_tag f, :current_sign_in_at %>
+
+  <%= label f, :locked_at %>
+  <%= datetime_select f, :locked_at %>
+  <%= error_tag f, :locked_at %>
+
+  <%= label f, :unlock_token %>
+  <%= text_input f, :unlock_token %>
+  <%= error_tag f, :unlock_token %>
+
+  <%= label f, :confirmation_token %>
+  <%= text_input f, :confirmation_token %>
+  <%= error_tag f, :confirmation_token %>
+
+  <%= label f, :confirmed_at %>
+  <%= datetime_select f, :confirmed_at %>
+  <%= error_tag f, :confirmed_at %>
+
+  <%= label f, :confirmation_sent_at %>
+  <%= datetime_select f, :confirmation_sent_at %>
+  <%= error_tag f, :confirmation_sent_at %>
+
+  <%= label f, :platform_terms_and_condition_id %>
+  <%= number_input f, :platform_terms_and_condition_id %>
+  <%= error_tag f, :platform_terms_and_condition_id %>
+
+  <%= label f, :business_id %>
+  <%= number_input f, :business_id %>
+  <%= error_tag f, :business_id %>
+
+  <%= label f, :scopes %>
+  <%= text_input f, :scopes %>
+  <%= error_tag f, :scopes %>
+
+  <div>
+    <%= submit "Save" %>
+  </div>
+<% end %>

@@ -1,0 +1,4 @@
+name,slug,code,country_id,inserted_at,updated_at
+Miles,miles,mi,2,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+Miles,miles,mi,3,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+Kilometers,kilometers,km,4,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244

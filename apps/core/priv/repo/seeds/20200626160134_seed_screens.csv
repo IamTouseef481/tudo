@@ -1,0 +1,22 @@
+id,description
+login,Log In
+sign_up,Sign Up
+forgot,Forgot
+cmr_dashboard,CMR Dashboard
+floating_button,Floating Button
+bsp_floating_button,BSP Floating Button
+main_drawer,Main Drawer
+add_employee,Add Employee
+add_branch,Add Branch
+bsp_sign_up,BSP Sign Up
+bsp_licensed_sign_up_terms,BSP Licensed Sign Up Terms
+business_profile,Business Profile
+unlicensed_sign_up,Unlicensed Sign Up
+licensed_sign_up,Licensed Sign Up
+language,Language
+reset,Reset
+holidays,Holidays
+add_walk_in,Add Walk in
+button,Button
+shift_schedule,Shift Schedule
+bsp_job,BSP Job

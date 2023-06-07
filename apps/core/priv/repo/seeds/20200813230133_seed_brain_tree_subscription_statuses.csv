@@ -1,0 +1,7 @@
+id,description
+active,Active
+canceled,Canceled
+expired,Expired
+past_due,Past_due
+pending,Pending
+approval_pending,Approval Pending

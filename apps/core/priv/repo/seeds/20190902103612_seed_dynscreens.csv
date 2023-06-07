@@ -1,0 +1,5 @@
+dynamic_group_id,field_value_id,dynscr_field_name,dynscr_field_desc,dynscr_field_sequence,editable,mandatory,enabled,help_text,dyngroup_name
+1,8,Vehicle Make,Vehicle Manufacture name,1,false,true,true,"Pleae select your vehicle Mnufacture from the list, if NOT found select 'Other'", auto_repair
+1,9,Fuel type,Vehicle Fuel type,2,false,true,true,"Please select Fuel type of your vehicle, select 'Other' if not found",auto_repair
+1,6,Regn#,Vehicle Plate/ Registration number,4,true,true,true,Enter your Vehicle Plate/ Registration number,auto_repair
+1,7,Mileage,Vehicle Speedo meter reading,3,true,false,true,Type and enter your vehicle Mileage/ Speedometer reading,auto_repair

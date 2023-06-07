@@ -1,0 +1,5 @@
+<h1>New Holiday</h1>
+
+<%= render "form.html", Map.put(assigns, :action, Routes.holiday_path(@conn, :create)) %>
+
+<span><%= link "Back", to: Routes.holiday_path(@conn, :index) %></span>

@@ -1,0 +1,5757 @@
+msgid "Slug"
+msgstr "ES_translation"
+
+msgid "language"
+msgstr "Español"
+
+msgid "email"
+msgstr "Correo electrónico"
+
+msgid "password"
+msgstr "Contraseña"
+
+msgid "show_password"
+msgstr "Mostrar contraseña"
+
+msgid "hide_password"
+msgstr "Ocultar contraseña"
+
+msgid "login"
+msgstr "Iniciar sesión"
+
+msgid "signup"
+msgstr "Registrarse"
+
+msgid "info_text"
+msgstr "Información"
+
+msgid "not_registered_text"
+msgstr "Por favor, primero registre y luego inicie sesión."
+
+msgid "forgot_passowrd_text"
+msgstr "¿Has olvidado tu contraseña?"
+
+msgid "went_wrong_text"
+msgstr "¡Algo salió mal!"
+
+msgid "login_text"
+msgstr "Iniciar"
+
+msgid "signup_text"
+msgstr "sesión Registrarse"
+
+msgid "enter_email_text"
+msgstr "Ingrese Correo Correo"
+
+msgid "code"
+msgstr "Código"
+
+msgid "mobile"
+msgstr "Número Móvil"
+
+msgid "firstname"
+msgstr "Nombre"
+
+msgid "lastname"
+msgstr "Apellido"
+
+msgid "termsandcondition"
+msgstr "Estoy de acuerdo Términos y Condiciones"
+
+msgid "clear"
+msgstr "Despejado"
+
+msgid "backtologin"
+msgstr "Volver a Entrar en el"
+
+msgid "forgot"
+msgstr "Ha olvidado contraseña"
+
+msgid "deals"
+msgstr "ofertas"
+
+msgid "eventer"
+msgstr "eventer"
+
+msgid "hanging"
+msgstr "de RSVP"
+
+msgid "mynet"
+msgstr "MyNet"
+
+msgid "nter"
+msgstr "nter"
+
+msgid "payment"
+msgstr "Pagos"
+
+msgid "report"
+msgstr "Informes"
+
+msgid "schedule"
+msgstr "programados"
+
+msgid "addinhouse"
+msgstr "Agregar Servicio a domicilio"
+
+msgid "addevent"
+msgstr "Añadir Evento"
+
+msgid "addtask"
+msgstr "Añadir tarea"
+
+msgid "addondemand"
+msgstr "Añadir On-la demanda de servicio"
+
+msgid "addwalkin"
+msgstr "Añadir Walk-In Service"
+
+msgid "addbranch"
+msgstr "Añadir Branch"
+
+msgid "addemployee"
+msgstr "Añadir Empleado"
+
+msgid "addinvoice"
+msgstr "Añadir Factura"
+
+msgid "addfollowup"
+msgstr "Añadir Seguimiento cita"
+
+msgid "bsp_dashboard"
+msgstr "de negocios del tablero de instrumentos"
+
+msgid "cmr_dashboard"
+msgstr "del tablero"
+
+msgid "setting"
+msgstr "Configuraciones"
+
+msgid "BusinessServiceProvider"
+msgstr "Se en servicio Proveedor"
+
+msgid "switchtobsp"
+msgstr "Interruptor dede Servicio Proveedor"
+
+msgid "Notification"
+msgstr "Preferencias de notificación"
+
+msgid "TUDO"
+msgstr "Consulte TODO"
+
+msgid "contactus"
+msgstr "Contacto"
+
+msgid "signout"
+msgstr "cartel de fuera"
+
+msgid "tryagain_txt"
+msgstr "Try Again"
+
+msgid "coming_soon_txt"
+msgstr "¡Muy pronto!"
+
+msgid "branch"
+msgstr "Sucursal"
+
+msgid "dob"
+msgstr "Fecha de nacimiento"
+
+msgid "roleofmployee"
+msgstr "Función del empleado"
+
+msgid "rolename"
+msgstr "Nombre de la función"
+
+msgid "vehicleid"
+msgstr "Identificación de registro del vehículo"
+
+msgid "service"
+msgstr "Servicio"
+
+msgid "employeetype"
+msgstr "Tipo de empleado"
+
+msgid "workshift"
+msgstr "Horario de trabajo Turno"
+
+msgid "payscale"
+msgstr "Escala de pago"
+
+msgid "annulabsencehours"
+msgstr "Horas de ausencia anual"
+
+msgid "select_service_error"
+msgstr "Debe seleccionar al menos un servicio"
+
+msgid "legalbusinessname"
+msgstr "Nombre comercial legal"
+
+msgid "branchphone"
+msgstr "Número de teléfono de la sucursal Número"
+
+msgid "licenseno"
+msgstr "de licencia comercial"
+
+msgid "establishedyear"
+msgstr "Año establecido"
+
+msgid "expirydate"
+msgstr "Fecha de vencimiento de"
+
+msgid "profilepicture"
+msgstr "perfil Fotos de"
+
+msgid "licensepicture"
+msgstr "la licencia Fotos del comercialla licencia comercial"
+
+msgid "alternatephone"
+msgstr "empresa Número de teléfono de la"
+
+msgid "numberofemployees"
+msgstr "Número de empleados"
+
+msgid "businesslegaladdress"
+msgstr "Dirección legal de la empresa"
+
+msgid "legalbusinesscheck"
+msgstr "Debe aceptar que es mayor de 18 años para continuar"
+
+msgid "errortext"
+msgstr "Debe aceptar los términos y condiciones para continuar"
+
+msgid "title_business"
+msgstr "Registro de la"
+
+msgid "title_branch"
+msgstr "empresa sucursal de la empresa"
+
+msgid "update"
+msgstr "Actualización de la"
+
+msgid "next"
+msgstr "Siguiente"
+
+msgid "branch_legal_name"
+msgstr "sucursal nombre legal de la"
+
+msgid "branch_phone_number"
+msgstr "sucursal Número de teléfono de la"
+
+msgid "branch_established_year"
+msgstr "sucursal Sucursal Año de establecimiento"
+
+msgid "employee_in_branch"
+msgstr "Número de empleados en la sucursal"
+
+msgid "branch_legal_address"
+msgstr "Dirección legal de la sucursal"
+
+msgid "select_personal_identity_type"
+msgstr "Seleccione el tipo de identificación personal"
+
+msgid "select_branch_type"
+msgstr "Seleccione el tipo de negocio de la"
+
+msgid "branch_type"
+msgstr "sucursal Tipo de sucursal"
+
+msgid "business_type"
+msgstr "negocio de la"
+
+msgid "address_suggest_text"
+msgstr "Puede editar la dirección para incluir el número de piso, el número de traje, el número de, el número de parcela, etc. Los"
+
+msgid "branch_update_success"
+msgstr "apartamento detalles de la sucursal se actualizaron correctamente."
+
+msgid "branch_established_years"
+msgstr "Año de establecimiento de la sucursal"
+
+msgid "address_error_text_1"
+msgstr "La dirección del NO coincide con el país, la dirección de la sucursal o el país correctos."
+
+msgid "address_error_text_2"
+msgstr "Lo siento, algo salió mal. Vuelve a intentarlo."
+
+msgid "selectcheck"
+msgstr "Seleccione los servicios que se apliquen a su negocio. También puede buscar palabras clave."
+
+msgid "customervisitcheck"
+msgstr "(Servicios sin cita previa): el consumidor \"visita el lugar de su empresa\" para obtener los servicios que presta su empresa."
+
+msgid "customervisithelp"
+msgstr "Ayuda: haga clic en la pestaña \"Walk-In\", si el consumidor visita el lugar de su empresa para recibir los servicios que presta. Ejemplo: bufete de abogados, consultorio médico, peluquería, bar y restaurante, hoteles, taller de reparación de automóviles, etc."
+
+msgid "businesscheck"
+msgstr "(Servicios en el hogar): el personal de su empresa visita el lugar del consumidor para prestar servicios comerciales."
+
+msgid "businesscheckhelp"
+msgstr "Ayuda: haga clic en la pestaña \"En el hogar\", si el personal de su empresa visita el lugar del consumidor para prestar sus servicios comerciales. Ejemplo: limpieza del hogar, servicios de reparación, personal de mantenimiento, plomería, tutoría en el hogar, clases de música, niñera, atención médica, etc."
+
+msgid "businessprovidecheck"
+msgstr "(servicios a pedido): su empresa brinda servicios instantáneos basados ​​en la ubicación a los consumidores."
+
+msgid "businessprovidehelp"
+msgstr "Ayuda: haga clic en la pestaña \"On-Demand\", si su empresa ofrece servicios instantáneos basados ​​en la ubicación a los consumidores. Ejemplo: taxi, asistencia en la carretera, reparaciones de emergencia, servicios basados ​​en la ubicación, entrega de alimentos, ambulancia, servicios públicos, etc."
+
+msgid "CustomerWalkIn"
+msgstr "(servicios sin cita previa): el consumidor \"visita el lugar de su empresa\" para los servicios que presta su empresa."
+
+msgid "CustomerInHome"
+msgstr "(Servicios en el hogar): el personal de su empresa visita el lugar del consumidor para prestar servicios comerciales."
+
+msgid "BusinessOnDemand"
+msgstr "(Servicios a pedido): su empresa ofrece a los consumidores servicios instantáneos basados ​​en la ubicación."
+
+msgid "infromationislegitmate"
+msgstr "Los datos de identidad ingresados ​​anteriormente son legítimos, precisos y me pertenecen a mí."
+
+msgid "identificationtype1"
+msgstr "Seleccione el tipo de identificación personal 1"
+
+msgid "documentnumber1"
+msgstr "Número de"
+
+msgid "issuingauthority1"
+msgstr "identificación Autoridad emisora ​​de identificación con foto"
+
+msgid "identificationtype2"
+msgstr "personal Seleccione el tipo de identificación personal 2"
+
+msgid "documentnumber2"
+msgstr "Licencia comercial Sin"
+
+msgid "issuingauthority2"
+msgstr "identificación con foto Autoridad"
+
+msgid "informationislegitmate"
+msgstr "emisora ​​Los datos de identidad ingresados ​​anteriormente son legítimos, precisos y me pertenecen."
+
+msgid "business_title"
+msgstr "Detalles de identificación personal"
+
+msgid "identity_document_number"
+msgstr "Número de documento de identidad"
+
+msgid "identification_expiry_date"
+msgstr "Fecha de vencimiento de identificación"
+
+msgid "unlicensed_update_succ_text"
+msgstr "Sucursal Detalles sin licencia actualizados con éxito."
+
+msgid "licenseissuingauthoritytype"
+msgstr "Autoridad emisora ​​de"
+
+msgid "businesslicenseno"
+msgstr "licencias Número de"
+
+msgid "labeluploadlicenpicture"
+msgstr "Cargue fotos del anverso y el reverso de su licencia comercial"
+
+msgid "licenseissuingauthority"
+msgstr "Nombre de la autoridad emisora"
+
+msgid "branch_title"
+msgstr "Sucursal Detalles de"
+
+msgid "bsp_title"
+msgstr "la licencia Detalles de"
+
+msgid "document_required_text"
+msgstr "la licencia comercial Se requieren fotos de la licencia comercial"
+
+msgid "document_required_desc"
+msgstr "Debe cargar al menos dos fotos del documento de licencia para continuar."
+
+msgid "choose_an_image"
+msgstr "Elija una imágenes"
+
+msgid "gallery"
+msgstr "Galería de"
+
+msgid "camera"
+msgstr "cámara se"
+
+msgid "licensed_update_succ_text"
+msgstr "Los detalles de la licencia de la actualizaron correctamente."
+
+msgid "branchlicenseno"
+msgstr "Rama de Número"
+
+msgid "license_expiry_date"
+msgstr "licencia de negocios Fecha de caducidad"
+
+msgid "agreeandaccept"
+msgstr "acepto y estoy de acuerdo en pagar el costo de mi conocimiento de los negocios verificación"
+
+msgid "uploadprofilepicture"
+msgstr "dede subida de contacto Perfil Fotos:"
+
+msgid "accepttudo"
+msgstr "Acepto Términos TUDO y Condiciones"
+
+msgid "branch_is"
+msgstr "rama son los"
+
+msgid "business_is"
+msgstr "negocios es"
+
+msgid "write_branch_profile"
+msgstr "escribir su rama de visita del perfil"
+
+msgid "write_business_profile"
+msgstr "de escritura su perfil comercial"
+
+msgid "other"
+msgstr "Explique si no es asegurado y consolidado"
+
+msgid "explain_if_other_text"
+msgstr "Explique si no es asegurado y consolidado"
+
+msgid "please_enter_branch_details"
+msgstr "Ingrese los detalles del perfil de la sucursal detalles del perfil"
+
+msgid "please_enter_business_details"
+msgstr "Ingrese lo comercial"
+
+msgid "note"
+msgstr "PS: La información ingresada es visible públicamente para otros usuarios de TUDO vinculados se"
+
+msgid "insured_text"
+msgstr "Asegurado para responsabilidad general"
+
+msgid "surety_text"
+msgstr "Fianza Los"
+
+msgid "branch_update_succ_text"
+msgstr "detalles del perfil de la sucursal actualizaron correctamente."
+
+msgid "upload_upto_5_text"
+msgstr "Cargar hasta 5 fotos de perfil comercial"
+
+msgid "select_service_page_title"
+msgstr "Seleccionar servicios"
+
+msgid "no_service_type"
+msgstr "No hay servicios disponibles para este tipo"
+
+msgid "please_select_one_service_desc"
+msgstr "Seleccionar al menos un servicio para continuar"
+
+msgid "in_home_text"
+msgstr "Servicios en el hogar"
+
+msgid ""
+msgstr ""
+
+msgid "newpass"
+msgstr "Nueva contraseña"
+
+msgid "confirmpass"
+msgstr "Confirmar contraseña"
+
+msgid "module"
+msgstr "Vacaciones comerciales"
+
+msgid "createHoliday"
+msgstr "Crear vacaciones"
+
+msgid "updateHoliday"
+msgstr "Actualizar vacaciones"
+
+msgid "holidays_title"
+msgstr "Título"
+
+msgid "discrption"
+msgstr "Descripción"
+
+msgid "dishint"
+msgstr "Descripción de lade las vacaciones"
+
+msgid "duration"
+msgstr "duración"
+
+msgid "todate"
+msgstr "Hasta la fecha"
+
+msgid "fromdate"
+msgstr "Desde la fecha"
+
+msgid "totime"
+msgstr "hasta la hora"
+
+msgid "fromtime"
+msgstr "Desde la hora"
+
+msgid "ishalf"
+msgstr "¿Es medio día?"
+
+msgid "save"
+msgstr "Guardar"
+
+msgid "delete"
+msgstr "Eliminar"
+
+msgid "close"
+msgstr "Cerrar"
+
+msgid "confDelete"
+msgstr "¿Está seguro?"
+
+msgid "updateMessage"
+msgstr "Se actualizó"
+
+msgid "createMessage"
+msgstr "correctamente Se creó"
+
+msgid "deleteHoliday"
+msgstr "correctamente Se eliminó correctamente"
+
+msgid "hitToDate"
+msgstr "Hasta la fecha"
+
+msgid "hitfromdate"
+msgstr "Desde la fecha"
+
+msgid "hitToTime"
+msgstr "hasta la hora"
+
+msgid "hitFromTime"
+msgstr "Desde la hora El"
+
+msgid "errTitle"
+msgstr "título es obligatorio."
+
+msgid "errDis"
+msgstr "Se requiere una descripción."
+
+msgid "errToDate"
+msgstr "Hasta la fecha es obligatorio."
+
+msgid "errToDate1"
+msgstr "Intervalo de fechas no válido."
+
+msgid "errFromDate"
+msgstr "Desde la fecha es obligatorio."
+
+msgid "errToTime"
+msgstr "Se requiere tiempo."
+
+msgid "errFromTime"
+msgstr "Se requiere From Time."
+
+msgid "errToTime2"
+msgstr "Intervalo de tiempo no válido."
+
+msgid "allholi"
+msgstr "Todos los"
+
+msgid "noholi"
+msgstr "días festivos No hay días festivos en este mes"
+
+msgid "noholiist"
+msgstr "No hay días festivos disponibles"
+
+msgid "servicedate"
+msgstr "Fecha de servicio"
+
+msgid "flexibleme"
+msgstr "Flexible (+/- 2 horas)"
+
+msgid "selectaddress"
+msgstr "Seleccionar dirección"
+
+msgid "uploadpicture"
+msgstr "Cargar fotos"
+
+msgid "search"
+msgstr "búsqueda"
+
+msgid "begintime"
+msgstr "Hora de inicio Hora deInicio de"
+
+msgid "endtime"
+msgstr "finalización"
+
+msgid "shift_schedule_title"
+msgstr "Título"
+
+msgid "namedis"
+msgstr "nombre o descripción"
+
+msgid "offday"
+msgstr "Día libre"
+
+msgid "default"
+msgstr "predeterminado"
+
+msgid "nameORdis"
+msgstr "nombre o descripción"
+
+msgid "err1"
+msgstr "turno o la hora de finalización no es válida La hora deno"
+
+msgid "err2"
+msgstr "inicio o finalización de la pausas válida. El"
+
+msgid "err3"
+msgstr "nombre o la descripción deben ser obligatorios."
+
+msgid "err4"
+msgstr "Para la superposición del otro turno, se requieren al menos 2 horas de diferencia."
+
+msgid "err5"
+msgstr "El tiempo de descanso debe ser entre el horario de turno. El"
+
+msgid "err6"
+msgstr "horario se guardó"
+
+msgid "err7"
+msgstr "correctamente. ¡Algo salió mal!"
+
+msgid "err8"
+msgstr "Ingrese los datos de turno requeridos para continuar"
+
+msgid "err9"
+msgstr ". ¿Desea establecer un horario predeterminado para el negocio?"
+
+msgid "enter_shift_go_ahead"
+msgstr "Ingrese la hora del turno para seguir adelante"
+
+msgid "shift_time"
+msgstr "Turno de"
+
+msgid "shift_breaks"
+msgstr "turno Descansos del"
+
+msgid "shift_txt"
+msgstr "turno"
+
+msgid "business_hours_for"
+msgstr "Horas de trabajo para"
+
+msgid "filter_title"
+msgstr "Filtrar por estado"
+
+msgid "pending"
+msgstr "Pendiente En"
+
+msgid "waiting"
+msgstr "espera"
+
+msgid "ignored"
+msgstr "Ignorado"
+
+msgid "rejected"
+msgstr "Rechazado"
+
+msgid "confirmed"
+msgstr "Programado"
+
+msgid "started_heading"
+msgstr "En camino"
+
+msgid "started_working"
+msgstr "A bordo"
+
+msgid "completed"
+msgstr "Completado"
+
+msgid "invoiced"
+msgstr "Facturado"
+
+msgid "paid"
+msgstr "Cerrado"
+
+msgid "closed"
+msgstr "Cerrado"
+
+msgid "finalized"
+msgstr "Finalizado"
+
+msgid "cancelled"
+msgstr "Cancelado"
+
+msgid "scheduled"
+msgstr "Programado"
+
+msgid "onway"
+msgstr "En camino"
+
+msgid "onboard"
+msgstr "a bordo"
+
+msgid "invoice"
+msgstr "Factura"
+
+msgid "accept_reject"
+msgstr "Aceptar/Rechazar"
+
+msgid "bids"
+msgstr "Ofertas"
+
+msgid "disputes"
+msgstr "Disputas"
+
+msgid "overdues"
+msgstr "Atrasos"
+
+msgid "payments"
+msgstr "Pagos"
+
+msgid "jobs"
+msgstr "Trabajos"
+
+msgid "dues"
+msgstr "Cuotas"
+
+msgid "invoice_title"
+msgstr "Detalles de la factura"
+
+msgid "total_amt"
+msgstr "Monto total"
+
+msgid "send_invoice"
+msgstr "Enviar factura"
+
+msgid "add_tax"
+msgstr "Agregar impuesto El"
+
+msgid "add_tax_succ"
+msgstr "impuesto se agregó correctamente."
+
+msgid "add_chrg"
+msgstr "Agregar cargo"
+
+msgid "add_chrg_succ"
+msgstr "Cargo agregado exitosamente"
+
+msgid "add_discount"
+msgstr "Agregar descuento"
+
+msgid "add_discount_succ"
+msgstr "Descuento agregado exitosamente"
+
+msgid "add_comment"
+msgstr "Agregar comentarios"
+
+msgid "add_comment_succ"
+msgstr "Comentarios agregados exitosamente"
+
+msgid "send_conf"
+msgstr "¿Está seguro de enviar la factura al consumidor?"
+
+msgid "send_tax_conf"
+msgstr "NO está recaudando impuestos en esta factura, está obligado a recaudar impuestos en nombre del gobierno. ¿Estás seguro de continuar?"
+
+msgid "send_succ"
+msgstr "Factura generada con éxito"
+
+msgid "red_dis"
+msgstr "Solicitar ajuste"
+
+msgid "red_resone_title"
+msgstr "Ingrese los motivos de la Solicitud de ajuste Informe a"
+
+msgid "red_resone_label"
+msgstr "su proveedor de servicios el motivo del ajuste ..."
+
+msgid "red_resone_error"
+msgstr "Ingrese los motivos de la solicitud de disputa"
+
+msgid "pay"
+msgstr "Pagar"
+
+msgid "submit"
+msgstr "Enviar"
+
+msgid "cancel"
+msgstr "Cancelar"
+
+msgid "tax_title"
+msgstr "Ingresar título"
+
+msgid "tax_error"
+msgstr "Campo requerido"
+
+msgid "tax_select_amt"
+msgstr "Seleccione Monto"
+
+msgid "tax_in_per"
+msgstr "Monto:"
+
+msgid "tax_dis_title"
+msgstr "Ingrese descripción"
+
+msgid "tax_per"
+msgstr "Impuesto en%"
+
+msgid "disc_per"
+msgstr "Descuento en%"
+
+msgid "max_allow"
+msgstr "Máximo permitido es"
+
+msgid "dis_title"
+msgstr "Ingresar título"
+
+msgid "dis_error"
+msgstr "Campo requerido"
+
+msgid "dis_select_amt"
+msgstr "Seleccionar Monto"
+
+msgid "dis_in_per"
+msgstr "Monto:"
+
+msgid "dis_dis_title"
+msgstr "Ingrese Descripción"
+
+msgid "card_number"
+msgstr "Número de"
+
+msgid "card_holder_name"
+msgstr "Tarjeta Nombre del Titular de la Tarjeta"
+
+msgid "card_expiry_date"
+msgstr "Fecha de Vencimiento"
+
+msgid "card_cvv"
+msgstr "CVV"
+
+msgid "card_expiry_date_hint"
+msgstr "MM / YY"
+
+msgid "card_holder_name_hint"
+msgstr "Ingrese el Nombre del Titular de la"
+
+msgid "card_submit_button"
+msgstr "Tarjeta Tarjeta de Pago"
+
+msgid "add_card_details_title"
+msgstr "Agregar Agregar Detalles de la"
+
+msgid "add_card_success_dialog_desc"
+msgstr "Tarjeta de Pago La Tarjeta de Pago se agregó exitosamente"
+
+msgid "add_card_success_status"
+msgstr "Correcto"
+
+msgid "add_card_okay"
+msgstr "OK"
+
+msgid "select_payment_option_title"
+msgstr "Seleccione la Opción de Pago"
+
+msgid "payable_amount"
+msgstr "Monto Total a Pagar"
+
+msgid "choose_credit_card_title"
+msgstr "Seleccione una Tarjeta de Pago"
+
+msgid "add_new_debit_card_button_text"
+msgstr "#ERROR!"
+
+msgid "no_card_added"
+msgstr "Pago Tarjeta de Pago no añadido todavía!"
+
+msgid "transaction_success_title"
+msgstr "Transacción exitosa"
+
+msgid "transaction_sucssess_desc"
+msgstr "Muchas gracias por procesar Pago"
+
+msgid "tudo_pass_hint"
+msgstr "Ingrese su Contraseña de TUDO Contraseña de"
+
+msgid "tudo_pass_label"
+msgstr "TUDO"
+
+msgid "select_card_error_desc"
+msgstr "Por favor seleccione un método de Pago"
+
+msgid "enter_tudo_pass_title"
+msgstr "Ingrese su contraseña para continuar"
+
+msgid "delete_card_question"
+msgstr "¿Está seguro de eliminar esta Tarjeta de Pago?"
+
+msgid "credit_card_delete_success"
+msgstr "Tarjeta de pago eliminada correctamente."
+
+msgid "default_method_ques"
+msgstr "¿Está seguro de que esta tarjeta es el método de pago predeterminado?"
+
+msgid "default_success"
+msgstr "El método de pago predeterminado se creó correctamente."
+
+msgid "long_press_desc"
+msgstr "(* Nota: Mantenga presionada la tarjeta para establecer el método de pago predeterminado)"
+
+msgid "expired_text"
+msgstr "Tarjeta vencida"
+
+msgid "pay_text"
+msgstr "Pagar"
+
+msgid "my_wallet_text"
+msgstr "mi billetera"
+
+msgid "or_text"
+msgstr "O"
+
+msgid "alternative_payments"
+msgstr "métodos de pago alternativos"
+
+msgid "credt_card_number"
+msgstr "Número de tarjeta de crédito"
+
+msgid "valid_thru"
+msgstr "VÁLIDO HASTA"
+
+msgid "success_purchase"
+msgstr "Supago procesado correctamente"
+
+msgid "able_to_create_promotion"
+msgstr "plan de, ahora puede crear una promoción"
+
+msgid "amount_due"
+msgstr "Monto adeudado"
+
+msgid "cash_paid_in"
+msgstr "Efectivo pagado"
+
+msgid "enter_cash_amount"
+msgstr "Ingrese el monto en efectivo"
+
+msgid "please_enter_cash_amt"
+msgstr "Ingrese el valor en efectivo"
+
+msgid "amount_should_greater_payable"
+msgstr "El valor pagado debe ser mayor o igual al monto a pagar"
+
+msgid "collected_cash"
+msgstr "Efectivo cobrado"
+
+msgid "pay_proceed"
+msgstr "Pagar y proceder"
+
+msgid "payment_cash_request"
+msgstr "Su solicitud de pago se completó, espere hasta que el proveedor de servicios confirme el recibo"
+
+msgid "create_braintree_account_screen_title"
+msgstr "Crear cuenta de Braintree"
+
+msgid "company_name"
+msgstr "Nombre de la empresa"
+
+msgid "contact_number"
+msgstr "Número de contacto número de"
+
+msgid "contact_number_hint"
+msgstr "Ingrese el contacto Los"
+
+msgid "cmr_terms_condition_text"
+msgstr "datos de identidad ingresados ​​anteriormente son legítimos y precisos según mi conocimiento."
+
+msgid "success_dialog_title"
+msgstr "Éxito"
+
+msgid "success_desc"
+msgstr "Cuenta de Braintree creada con éxito"
+
+msgid "okay_text"
+msgstr "Está bien"
+
+msgid "paypal_seller_account_success"
+msgstr "Cuenta de vendedor de PayPal creada con éxito"
+
+msgid "paypal_method_success"
+msgstr "Método de pago agregado correctamente"
+
+msgid "payout_account_create_success"
+msgstr "Su cuenta de retiro de fondos se creó con éxito"
+
+msgid "tip_title"
+msgstr "Pagar factura"
+
+msgid "tip_to_bsp"
+msgstr "Propina su plataforma TUDO El"
+
+msgid "tip_to_bsp_desc"
+msgstr "100% de las propinas van a la plataforma TUDO"
+
+msgid "donate_desc"
+msgstr "Donar a organizaciones benéficas y sin fines de lucro"
+
+msgid "discount_per_label"
+msgstr "% de"
+
+msgid "discount_per_hint"
+msgstr "descuento Ingresar descuento%"
+
+msgid "invoiceAmt_text"
+msgstr "factura:"
+
+msgid "tipAmt_text"
+msgstr "propina:"
+
+msgid "pay_txt"
+msgstr "Pagar"
+
+msgid "tudo_garuntee"
+msgstr "Monto de Monto de* TUDO garantiza que el 100% de las donaciones van a Organizaciones sin fines de lucro"
+
+msgid "add_tudo_pro_plan"
+msgstr "Agregar plan de protección TUDO"
+
+msgid "invoice_amt"
+msgstr "Importe de la factura Importe de la"
+
+msgid "booking_fee_text"
+msgstr "Cuota de reserva de TUDO propina"
+
+msgid "gratutity_text"
+msgstr "/ propina ¡"
+
+msgid "payment_success_text"
+msgstr "Pago completado correctamente!"
+
+msgid "sent_to_text"
+msgstr "Enviado a"
+
+msgid "inovice_no_text"
+msgstr "número de factura."
+
+msgid "back_to_home_button"
+msgstr "Volver a Inicio"
+
+msgid "something_wrong_text"
+msgstr "Algo salió mal, inténtelo de nuevo."
+
+msgid "question_text"
+msgstr "Nos encanta saber de usted, calificar y brindar sus comentarios sobre este proveedor de servicios."
+
+msgid "yes_text"
+msgstr "Sí"
+
+msgid "no_text"
+msgstr "No"
+
+msgid "bsp_review_screen_title"
+msgstr "Calificar y revisar"
+
+msgid "rating_error"
+msgstr "Calificar y revisar el servicio"
+
+msgid "post_positive"
+msgstr "Revisar la experiencia positiva en este Servicio"
+
+msgid "post_improvements"
+msgstr "Sugerir mejoras en este Servicio"
+
+msgid "post_positive_desc"
+msgstr "Lo que más le gustó"
+
+msgid "post_improvements_desc"
+msgstr "Sugerir mejoras"
+
+msgid "submit_button"
+msgstr "Enviar"
+
+msgid "thanks_text"
+msgstr "Gracias por su revisión y comentarios"
+
+msgid "field_required_text"
+msgstr "Campo obligatorio"
+
+msgid "we_recommended_text_cmr"
+msgstr "(* Le recomendamos que califique a este consumidor de 5)"
+
+msgid "we_recommended_text_bsp"
+msgstr "(* Le recomendamos que le dé una calificación a este negocio de 5)"
+
+msgid "thanks_review_txt"
+msgstr "Gracias por la revisión y los comentarios."
+
+msgid "create_hyperwallet_user_title"
+msgstr "Crear cuenta de cuentas por cobrar"
+
+msgid "select_birth_country"
+msgstr "Seleccione su país de nacimiento"
+
+msgid "country_of_birth"
+msgstr "País de nacimiento"
+
+msgid "select_nationality"
+msgstr "Seleccione su nacionalidad"
+
+msgid "country_of_nationality"
+msgstr "País de nacionalidad"
+
+msgid "select_profile_type"
+msgstr "Seleccione el tipo de perfil Introduzca la"
+
+msgid "enter_valid_date"
+msgstr "fecha válida"
+
+msgid "date_of_birth"
+msgstr "Fecha de nacimiento"
+
+msgid "business_name"
+msgstr "Nombre de la empresa"
+
+msgid "select_gender"
+msgstr "Seleccione el sexo"
+
+msgid "select_business_type"
+msgstr "Seleccione Tipo de empresa"
+
+msgid "select_business_role"
+msgstr "Select de Contacto Papel Tipo"
+
+msgid "business_operating_name"
+msgstr "de empresa operativo Nombrela"
+
+msgid "business_registration_id"
+msgstr "de empresa ID de registro"
+
+msgid "choose_address_from_map"
+msgstr "Recogida de direcciones en un mapa"
+
+msgid "address_line1"
+msgstr "Dirección Línea 1 (House No, Localidad)"
+
+msgid "address_required"
+msgstr "Dirección"
+
+msgid "city"
+msgstr "Ciudad"
+
+msgid "city_required"
+msgstr "Nombre"
+
+msgid "state"
+msgstr "Estado"
+
+msgid "state_required"
+msgstr "Estado Nombre"
+
+msgid "country"
+msgstr "País"
+
+msgid "pincode"
+msgstr "postal / código Pin"
+
+msgid "business_Address_details"
+msgstr "negocio Dirección"
+
+msgid "business_address_line1"
+msgstr "Dirección Comercial Línea 1 (House No, Localidad)"
+
+msgid "business_address_required"
+msgstr "Dirección de la"
+
+msgid "business_city"
+msgstr "empresa Ciudad de la"
+
+msgid "business_city_required"
+msgstr "empresa Nombre de la ciudad de la"
+
+msgid "business_state"
+msgstr "empresa Estado de la"
+
+msgid "business_state_required"
+msgstr "empresa Nombre del estado de la"
+
+msgid "business_country"
+msgstr "empresa País de la"
+
+msgid "business_pincode"
+msgstr "empresa Código postal / PIN de la empresa"
+
+msgid "checkbox_text"
+msgstr "Copia arriba Dirección inf o a la dirección comercial"
+
+msgid "hyperwallet_success_text"
+msgstr "cuentas por cobrar Cuenta creada con éxito"
+
+msgid "paypal_email_id"
+msgstr "ID de cuenta comercial de PayPal ID de cuenta comercial de"
+
+msgid "paypal_email_id_hint"
+msgstr "Ingrese el PayPal"
+
+msgid "email_desc"
+msgstr "* Cree una cuenta comercial de PayPal en www.paypal.com y regrese aquí para ingresar"
+
+msgid "age_desc"
+msgstr "* Debe tener 18 años o más"
+
+msgid "contact_role_type"
+msgstr "Contacto Función Tipo"
+
+msgid "business_type_text"
+msgstr "comercial Tipo de comercial"
+
+msgid "birth_country_text"
+msgstr "País de nacimiento"
+
+msgid "nationality_country"
+msgstr "Nacionalidad País"
+
+msgid "address_type_text"
+msgstr "Dirección Tipo"
+
+msgid "gender_type_text"
+msgstr "Sexo Tipo"
+
+msgid "repeat_paypal_text"
+msgstr "Repita el ID de cuenta comercial de PayPal"
+
+msgid "repeat_paypal_validate_text"
+msgstr "La identificación de PayPal y la identificación repetida de PayPal deben coincidir"
+
+msgid "confirm_paypal_id"
+msgstr "Confirme el ID de correo electrónico de PayPal"
+
+msgid "confirm_paypal_validate"
+msgstr "El correo electrónico y el correo electrónico de confirmación deben ser iguales"
+
+msgid "hyperwallet_recievable_screen_title"
+msgstr "Métodos de"
+
+msgid "no_methods_text"
+msgstr "cobro Método de transferencia de pago por cobrar no agregado todavía."
+
+msgid "currency_type"
+msgstr "Tipo de moneda:"
+
+msgid "debit_cards"
+msgstr "Tarjetas de débito"
+
+msgid "bank_accounts"
+msgstr "Cuentas bancarias Cuentas"
+
+msgid "wire_accounts"
+msgstr "bancarias"
+
+msgid "default_question_text"
+msgstr "¿Está seguro de cambiar el método de transferencia predeterminado?"
+
+msgid "default_transfer_success"
+msgstr "El método de pago por transferencia predeterminado se actualizó correctamente."
+
+msgid "add_transfer_method_page_screen_title"
+msgstr "Agregar método de transferencia"
+
+msgid "loading"
+msgstr "Cargando ......."
+
+msgid "make_default"
+msgstr "Hacer el método de pago predeterminado"
+
+msgid "country_currency_code"
+msgstr "País Código de moneda código de"
+
+msgid "choose_currency_code"
+msgstr "Elija la moneda"
+
+msgid "select_country_currency"
+msgstr "Seleccione el país Código de moneda"
+
+msgid "transfer_method_type"
+msgstr "Tipo de"
+
+msgid "select_transfer_method_type"
+msgstr "método de transferencia Seleccione el tipo de"
+
+msgid "payment_method"
+msgstr "método de transferencia ¡Método de transferencia de pago agregado con éxito!"
+
+msgid "country_txt"
+msgstr "Country"
+
+msgid "choose_country_txt"
+msgstr "Choose Country"
+
+msgid "block_hold_success"
+msgstr "Bloquear / Mantener la configuración de citas futuras se actualizó correctamente."
+
+msgid "auto_schedule_success"
+msgstr "La configuración de programación automática se actualizó correctamente."
+
+msgid "bloc_hold_off_ques"
+msgstr "¿Está seguro de bloquear / retener citas futuras y continuar?"
+
+msgid "bloc_hold_on_ques"
+msgstr "Está a punto de habilitar futuras citas, ¿está seguro de continuar?"
+
+msgid "auto_schedule_off_ques"
+msgstr "Está a punto de deshabilitar la programación automática de citas, ¿está seguro de continuar?"
+
+msgid "auto_schedule_on_ques"
+msgstr "Está a punto de habilitar la programación automática de citas, ¿está seguro de continuar?"
+
+msgid "business_setting_screen_title"
+msgstr "configuración empresarial"
+
+msgid "business_profile_overview"
+msgstr "Bus de. Descripción general del perfil"
+
+msgid "business_country_specific"
+msgstr "Configuración específica del país"
+
+msgid "bloc_hold_future_appointments"
+msgstr "Bloquear / Retener cita futura"
+
+msgid "auto_schedule"
+msgstr "Programación automática"
+
+msgid "business_service_radius"
+msgstr "Radio de"
+
+msgid "business_service_duration"
+msgstr "servicio Duración del servicio"
+
+msgid "my_wallet"
+msgstr "Mi billetera"
+
+msgid "my_recievables"
+msgstr "Cuentas por cobrar y transferencias"
+
+msgid "business_sales_taxe_rate"
+msgstr "Tasa de impuestos"
+
+msgid "business_vehicles"
+msgstr "Bus.vehículos"
+
+msgid "business_insaurance"
+msgstr "Bus de.de seguro"
+
+msgid "employee_center"
+msgstr "empleado del centro"
+
+msgid "business_branches"
+msgstr "Ramas"
+
+msgid "license_and_usage_statistics"
+msgstr "de licencia y utilización"
+
+msgid "invoice_allowance_limits"
+msgstr "de facturas Asignación Límites"
+
+msgid "business_rate_card"
+msgstr "Rate Card"
+
+msgid "business_shift_schedule"
+msgstr "Shift Programación"
+
+msgid "business_holiday_calendar"
+msgstr "de vacaciones Calendarios"
+
+msgid "business_service_estimates"
+msgstr "Servicio Estimates"
+
+msgid "license_usage_statistics"
+msgstr "Licencia y utilización"
+
+msgid "subscription_text"
+msgstr "Suscripciones"
+
+msgid "skip_text"
+msgstr "Skip"
+
+msgid "skip_desc"
+msgstr "Vas a Skip, configuración guiada ayuda a personalizar su negocio en la plataforma TUDO. ¿Estás seguro de omitir?"
+
+msgid "business_setup"
+msgstr "Configuración de la"
+
+msgid "business_profile_overview_screen_title"
+msgstr "empresa Descripción general de la"
+
+msgid "business_owner_details"
+msgstr "empresa Detalles del propietario de la empresa:"
+
+msgid "user_name"
+msgstr "Nombre de usuario"
+
+msgid "phone"
+msgstr "Teléfono"
+
+msgid "business_details"
+msgstr "Detalles de la empresa:"
+
+msgid "business_phone"
+msgstr "empresa Teléfono de la"
+
+msgid "business_established_year"
+msgstr "empresa Año de establecimiento de la empresa"
+
+msgid "number_employees"
+msgstr "Número de empleados"
+
+msgid "business_license_details"
+msgstr "Detalles de:"
+
+msgid "business_license_number"
+msgstr "la licencia de la empresa Número de"
+
+msgid "license_issuing_authority"
+msgstr "licencia de la Autoridad emisora ​​de"
+
+msgid "uploaded_business_license_pictures"
+msgstr "empresa la licencia Fotos de la licencia de la"
+
+msgid "business_profile_details"
+msgstr "empresa Detalles del:"
+
+msgid "business_profile_text"
+msgstr "perfil de la empresa Información del"
+
+msgid "uploaded_business_profile_pictures"
+msgstr "perfil de las Fotos del perfil de la"
+
+msgid "business_Service_details"
+msgstr "empresa empresa Detalles del servicio:"
+
+msgid "selected_business_services"
+msgstr "Servicios seleccionados"
+
+msgid "business_profile_expiry_date"
+msgstr "Fecha de vencimiento de la licencia"
+
+msgid "branch_country"
+msgstr "empresa País de la"
+
+msgid "done"
+msgstr "Listo"
+
+msgid "thanks_text_desc"
+msgstr "Registro del proveedor de servicios con éxito, su perfil comercial está pendiente de verificación y le notificaremos nuestra decisión pronto. Ocasionalmente, TUDO puede solicitar información adicional y, mientras tanto, continuar con la Configuración comercial guiada."
+
+msgid "business_unlicense_details"
+msgstr "Detalles de la empresa sin licencia:"
+
+msgid "personal_identity_1"
+msgstr "Identidad"
+
+msgid "personal_id_number"
+msgstr "personal1 Número de"
+
+msgid "expiry_date"
+msgstr "Fecha de vencimiento"
+
+msgid "personal_identity_type_1"
+msgstr "identificación personal Identificación personal 1 Tipo Identificación"
+
+msgid "uploaded_identification_image_1"
+msgstr "personal1 Fotos"
+
+msgid "personal_identity_2"
+msgstr "Identidad"
+
+msgid "personal_identity_type_2"
+msgstr "personal2 Identificación personal 2 Tipo Identificación"
+
+msgid "uploaded_identification_image_2"
+msgstr "personal 2 Fotos"
+
+msgid "selected_consents"
+msgstr "Consentimientos seleccionados:emisora ​​de la"
+
+msgid "custom_issuing_authority_text"
+msgstr "Nombre de la autoridad licencia"
+
+msgid "selected_services"
+msgstr "Servicios seleccionados"
+
+msgid "invoice_allowance_limits_screen_title"
+msgstr "límites de la asignación de facturas"
+
+msgid "invoice_allowance_confirm"
+msgstr "¿Está seguro de cambiar los límites de asignación de facturas?"
+
+msgid "header_title"
+msgstr "Límites máximos permitidos al crear facturas comerciales Los"
+
+msgid "invoice_allowance_success"
+msgstr "límites de asignación de facturas se actualizaron correctamente."
+
+msgid "max_allowed_tax"
+msgstr "Máximo permitido de impuestos"
+
+msgid "Max_allowed_discount"
+msgstr "Máximo permitido de descuento descuento"
+
+msgid "max_invoice_adjust_count"
+msgstr "Máximo de Ajuste de la cuenta"
+
+msgid "allow_bsp_discount"
+msgstr "Permitir que el agente agregue el descuento"
+
+msgid "allow_bsp_tax"
+msgstr "Permitir que el agente agregue los impuestos"
+
+msgid "change_discount_ques"
+msgstr "¿Está seguro de cambiar la configuración de descuento?"
+
+msgid "change_tax_ques"
+msgstr "¿Está seguro de cambiar la configuración de impuestos?"
+
+msgid "discount_settings_success"
+msgstr "La configuración Permitir / Prevenir para descuento se actualizó correctamente."
+
+msgid "tax_settings_success"
+msgstr "La configuración Permitir / Prevenir para impuestos se actualizó correctamente."
+
+msgid "business_service_radius_screen_title"
+msgstr "Radio de servicio"
+
+msgid "update_confirm_text"
+msgstr "¿Está seguro de actualizar la configuración de Radio de servicio?"
+
+msgid "update_success_text"
+msgstr "La configuración del radio de servicio se actualizó correctamente."
+
+msgid "default_confirm_text"
+msgstr "¿Está seguro de revertir la configuración de Radio de servicio como anteriormente?"
+
+msgid "same_radius_question_text"
+msgstr "¿Mismo radio para todos los servicios?"
+
+msgid "no_service_available"
+msgstr "No hay servicio disponible para la configuración"
+
+msgid "branch_setup_success"
+msgstr "¡Enhorabuena! La configuración de su negocio se completó con éxito, manténgase conectado en TUDO para nuevas oportunidades comerciales"
+
+msgid "finish_text"
+msgstr "Finalizar la"
+
+msgid "business_expected_duration_screen_title"
+msgstr "duración del servicio ¿La"
+
+msgid "same_duration_question"
+msgstr "misma duración para todos los servicios?"
+
+msgid "home_service_label"
+msgstr "Servicios en el hogar Servicios sin"
+
+msgid "walk_in_label"
+msgstr "cita"
+
+msgid "on_demand_label"
+msgstr "previa Servicios a pedido ¿"
+
+msgid "include_travel_text"
+msgstr "Incluyen tiempo de viaje / viaje diario al trabajo?"
+
+msgid "schedule_update_success_text"
+msgstr "La configuración de Duración del servicio se actualizó correctamente."
+
+msgid "schedule_default_question_text"
+msgstr "¿Está seguro de revertir la configuración de Duración del servicio como anteriormente?"
+
+msgid "schedule_update_question_text"
+msgstr "¿Está seguro de actualizar la configuración de Duración del servicio?"
+
+msgid "something_wrong_server"
+msgstr "Algo salió mal, intenta de nuevo."
+
+msgid "business_rate_card_screen_title"
+msgstr "Hoja de tarifas"
+
+msgid "update_suceess_text"
+msgstr "La hoja de tarifas del servicio comercial se ha actualizado correctamente."
+
+msgid "fill_proper_text"
+msgstr "Por favor, complete todos los valores correctamente. ¿"
+
+msgid "common_price_text"
+msgstr "Igual precio para todos los servicios?"
+
+msgid "fixed_rate_label"
+msgstr "Tarifa fija Tarifa por"
+
+msgid "hourly_rate_label"
+msgstr "hora"
+
+msgid "price_in"
+msgstr "Precio"
+
+msgid "enter_price_in"
+msgstr "Ingrese el precio"
+
+msgid "business_sales_tax_rate_screen_title"
+msgstr "Impuesto comercial sobre las sobre las"
+
+msgid "sales_tax_rate_label"
+msgstr "ventas Impuesto Ventas"
+
+msgid "tax_line_description"
+msgstr "Factura Descripción de la línea del"
+
+msgid "tax_rate_text"
+msgstr "impuesto Tasa impositiva ¿Tasa"
+
+msgid "common_tax_rate_question"
+msgstr "impositiva igual para todos los servicios?"
+
+msgid "tax_before_discount"
+msgstr "¿Impuestos aplicados antes de los descuentos?"
+
+msgid "select_tax_authority"
+msgstr "Seleccione la autoridad"
+
+msgid "national_business_tax_text"
+msgstr "fiscal Número de identificación fiscal comercial nacional"
+
+msgid "regional_business_tax_text"
+msgstr "número de identificación fiscal comercial regional"
+
+msgid "please_fill_value_text"
+msgstr "Por favor ingrese todos los campos obligatorios"
+
+msgid "businesss_sales_tax_rate_update_confirm"
+msgstr "¿Está seguro de actualizar la tasa de impuesto sobre las ventas?"
+
+msgid "businesss_sales_tax_rate_success"
+msgstr "Tasa de impuesto sobre las ventas actualizada correctamente."
+
+msgid "businesss_sales_tax_rate_default_confirm"
+msgstr "¿Está seguro de revertir la configuración de la Tasa de impuesto sobre las ventas como anteriormente?"
+
+msgid "tax_rate"
+msgstr "Tasa de impuestos"
+
+msgid "should_be_in_range"
+msgstr "(* La tasa de impuestos debe estar entre 0 y 99)"
+
+msgid "fiscal_year_text"
+msgstr "año fiscal"
+
+msgid "business_fiscal_year_text"
+msgstr "Año fiscal comercial"
+
+msgid "tax_calculated_age"
+msgstr "¿Impuesto calculado en% de edad?"
+
+msgid "equal_tax_all_service"
+msgstr "¿Igual valor de impuestos para todos los servicios?"
+
+msgid "business_service_estimates_screen_title"
+msgstr "Estimaciones de servicio del"
+
+msgid "hrs_text"
+msgstr "(/ h)"
+
+msgid "save_confirm_text"
+msgstr "¿Desea guardar las estimaciones de servicio?"
+
+msgid "save_suceess_text"
+msgstr "Las estimaciones de servicio se guardaron correctamente."
+
+msgid "multiplier_factor_text"
+msgstr "Factor de multiplicación"
+
+msgid "note_text"
+msgstr "*Nota: Las estimaciones no incluyen impuestos"
+
+msgid "mins_text"
+msgstr "min."
+
+msgid "travel_communicate_text"
+msgstr "¿El tiempo de viaje / viaje diario está incluido en las estimaciones?"
+
+msgid "hr_text"
+msgstr "horas."
+
+msgid "personal_details_Screen_title"
+msgstr "Datos Personales"
+
+msgid "phone_no"
+msgstr "número teléfono"
+
+msgid "country_code"
+msgstr "de País Código"
+
+msgid "address_mandatory"
+msgstr "Seleccionar dirección de mapa"
+
+msgid "address"
+msgstr "Dirección"
+
+msgid "select_country"
+msgstr "Seleccione País"
+
+msgid "choose_country"
+msgstr "Elige País"
+
+msgid "gender"
+msgstr "Sexo"
+
+msgid "error"
+msgstr "error"
+
+msgid "select_field_error_text"
+msgstr "Todo Seleccione requieren los artículos con perfil de imagen es"
+
+msgid "okay"
+msgstr "labuena"
+
+msgid "personal_identification_screen_title"
+msgstr "identificación Detalle"
+
+msgid "no_idnetification_available"
+msgstr "detalles de identificación no se ha hecho."
+
+msgid "identification_type"
+msgstr "Tipo de"
+
+msgid "identification_name"
+msgstr "identificación Nombre de"
+
+msgid "identification_number"
+msgstr "identificación Número de identificación"
+
+msgid "exp_date"
+msgstr "Fecha de vencimiento"
+
+msgid "perosnal_identity_2"
+msgstr "Identidad personal Identidad"
+
+msgid "perosnal_identity_1"
+msgstr "personal1"
+
+msgid "add_personal_identification_screen_title"
+msgstr "Agregar identificación"
+
+msgid "update_identification"
+msgstr "personal Actualizar identificación"
+
+msgid "document_number_2"
+msgstr "personal Documento de identidad Número"
+
+msgid "update_success"
+msgstr "personal2 Identificación personal actualizada correctamente."
+
+msgid "create_success"
+msgstr "Identificación personal creada con éxito."
+
+msgid "document_number_1"
+msgstr "Documento de identidad personal1 número"
+
+msgid "photo_identity_1_exp_date"
+msgstr "Identificación con foto1 fecha de caducidad Identificación con foto2 fecha de"
+
+msgid "photo_identity_2_exp_date"
+msgstr "caducidad"
+
+msgid "perosnal_identity_1_pictures"
+msgstr "Cargar identidad personal1 Foto Identidad personal2 Fotos"
+
+msgid "perosnal_identity_2_pictures"
+msgstr "CargarCargue"
+
+msgid "please_select_2_document"
+msgstr "al menos 2 fotos (anverso y reverso de su tarjeta de identidad) Los"
+
+msgid "terms"
+msgstr "datos de identidad ingresados ​​anteriormente son legítimos, precisos y me pertenecen."
+
+msgid "education_and_qualification_title"
+msgstr "Educación y calificaciones"
+
+msgid "no_education_text"
+msgstr "Educación y calificaciones aún no agregadas."
+
+msgid "from"
+msgstr "De:"
+
+msgid "to"
+msgstr "A:"
+
+msgid "institution_country"
+msgstr "Institución, País"
+
+msgid "add_education_and_qualification_title"
+msgstr "Agregar Educación y calificación"
+
+msgid "add_success"
+msgstr "Educación y calificación agregadas con éxito."
+
+msgid "add_education_and_qualification_update_title"
+msgstr "Actualizar Educación y calificación"
+
+msgid "education_and_qualification_info_title"
+msgstr "Detalles de educación y calificación"
+
+msgid "qualification_type"
+msgstr "Tipo de"
+
+msgid "qualification"
+msgstr "calificación"
+
+msgid "qualification_number"
+msgstr "Calificación Número de"
+
+msgid "qualification_field"
+msgstr "calificación Campo de"
+
+msgid "qualification_exp_date"
+msgstr "calificación Fecha de calificación"
+
+msgid "from_date"
+msgstr "vencimiento de Desde la fecha"
+
+msgid "end_date"
+msgstr "Fecha de"
+
+msgid "institution_name"
+msgstr "finalización Nombre de la institución"
+
+msgid "additional_details"
+msgstr "Detalles adicionales"
+
+msgid "uploaded_images_certificates"
+msgstr "Fotos del certificado"
+
+msgid "delete_confirm"
+msgstr "¿Está seguro de eliminar esta educación y calificación?"
+
+msgid "delete_success"
+msgstr "Educación y calificaciones eliminadas correctamente."
+
+msgid "work_experience_list_title"
+msgstr "Experienciaexperiencia"
+
+msgid "no_exp_added_text"
+msgstr "laboral Aún no se han agregado los detalles de la laboral."
+
+msgid "exp_type"
+msgstr "Tipo de experiencia Tipo de"
+
+msgid "emp_type"
+msgstr "empleo"
+
+msgid "organization_name"
+msgstr "Nombre de la organización Nombre de la"
+
+msgid "job_role"
+msgstr "Rol de trabajo"
+
+msgid "contact_person_name"
+msgstr "persona de contacto"
+
+msgid "current"
+msgstr "actual"
+
+msgid "city_country"
+msgstr "Ciudad, país"
+
+msgid "add_work_experience_title"
+msgstr "Agregar experiencia"
+
+msgid "add_work_experience_update_title"
+msgstr "laboral Actualizar experiencia"
+
+msgid "exp_added_success"
+msgstr "laboral Experiencia laboral agregada correctamente."
+
+msgid "exp_update_success"
+msgstr "Experiencia laboral actualizada con éxito."
+
+msgid "work_experience_info_title"
+msgstr "Detalles de la laboral Experiencia"
+
+msgid "experience"
+msgstr "experiencia"
+
+msgid "refer_person_name"
+msgstr "Nombre de la persona de"
+
+msgid "refer_person_number"
+msgstr "referencia Número de la"
+
+msgid "refer_person_email"
+msgstr "persona de referencia Correo electrónico de la persona de referencia"
+
+msgid "exp_delete_que"
+msgstr "¿Estás segura de eliminar?"
+
+msgid "exp_delete_success"
+msgstr "Borrado exitosamente"
+
+msgid "insurance_list_title"
+msgstr "Mis seguros El"
+
+msgid "no_insurance_added_text"
+msgstr "seguro aún no se agregó."
+
+msgid "agent_name"
+msgstr "Nombre del agente"
+
+msgid "add_insurance_title"
+msgstr "Agregar seguro"
+
+msgid "add_insurance_update_title"
+msgstr "Actualizar seguro El"
+
+msgid "insurance_added_success"
+msgstr "seguro se agregó correctamente."
+
+msgid "insurance_update_success"
+msgstr "Seguro actualizado con éxito."
+
+msgid "insurance_info_title"
+msgstr "Detalles del"
+
+msgid "insurance_policy_type"
+msgstr "seguro Tipo"
+
+msgid "policy_name"
+msgstr "de póliza de Nombre de Nombre de"
+
+msgid "insurance_company"
+msgstr "seguro póliza la compañía de"
+
+msgid "insurance_policy_number"
+msgstr "seguros Número de"
+
+msgid "policy_value"
+msgstr "finalización Valor / límite de la"
+
+msgid "agent_mobile_number"
+msgstr "agente Número de móvil del"
+
+msgid "agent_email_id"
+msgstr "agente Identificación de correo electrónico del agente"
+
+msgid "additional_information"
+msgstr "Información adicional"
+
+msgid "uploaded_images_policies"
+msgstr "Fotos de la"
+
+msgid "delete_insurance_confirm"
+msgstr "póliza de seguro póliza de seguro ¿Está seguro de eliminar este seguro?"
+
+msgid "delete_inusrance_success_text"
+msgstr "Seguro eliminado correctamente."
+
+msgid "vehicle_list_title"
+msgstr "Mis vehículos"
+
+msgid "no_vehicles_added_text"
+msgstr "Aún no se han agregado los detalles del vehículo."
+
+msgid "add_vehicles_title"
+msgstr "Agregar vehículos"
+
+msgid "add_vehicles_update_title"
+msgstr "Actualizar vehículos Los"
+
+msgid "vehicles_added_success"
+msgstr "vehículos se agregaron correctamente."
+
+msgid "vehicles_update_success"
+msgstr "Los detalles del vehículo se actualizaron correctamente."
+
+msgid "vehicle_info_title"
+msgstr "Detalles del"
+
+msgid "vehicle_model"
+msgstr "vehículo Modelo del"
+
+msgid "vehicle_make"
+msgstr "vehículo Marca del"
+
+msgid "vehicle_type_name"
+msgstr "vehículo Tipo de vehículo Nombre"
+
+msgid "vehicle_type_id"
+msgstr "Identificación del tipo de"
+
+msgid "vehicle_identification_number"
+msgstr "vehículo Número de identificación del Número"
+
+msgid "vehicle_register_number"
+msgstr "vehículo de registro del"
+
+msgid "vehicle_paint_color"
+msgstr "vehículo Color de la pintura de la carrocería"
+
+msgid "vehicle_type"
+msgstr "Tipo de"
+
+msgid "vehicle_modal_year"
+msgstr "vehículo Año modal del vehículo"
+
+msgid "permit1"
+msgstr "Permiso 1"
+
+msgid "permit2"
+msgstr "vencimiento Permiso 3"
+
+msgid "permit3"
+msgstr "Permiso a2 Detalles"
+
+msgid "uploaded_images"
+msgstr "Fotos del vehículo"
+
+msgid "delete_success_text"
+msgstr "Vehículo eliminado correctamente."
+
+msgid "not_defined_txt"
+msgstr "No definido"
+
+msgid "logout_confirm"
+msgstr "¿Está seguro de que desea cerrar sesión?"
+
+msgid "yes"
+msgstr "Sí"
+
+msgid "no"
+msgstr "No"
+
+msgid "logout_failed"
+msgstr "Error en el cierre de sesión del usuario!"
+
+msgid "tudo_text"
+msgstr "TUDO"
+
+msgid "about_tudo"
+msgstr "Acerca de TUDO"
+
+msgid "contact_tudo"
+msgstr "Comuníquese con TUDO"
+
+msgid "refer_tudo"
+msgstr "Refiera TUDO"
+
+msgid "tudo_legal"
+msgstr "TUDO Términos y condiciones"
+
+msgid "tudo_help"
+msgstr "legales Ayuda para la aplicación TUDO"
+
+msgid "my_profile"
+msgstr "Mi perfil"
+
+msgid "my_indentification"
+msgstr "Mi identificación"
+
+msgid "education_quali"
+msgstr "Mi educación y calificación"
+
+msgid "work_experience"
+msgstr "Mi experiencia laboral"
+
+msgid "my_address"
+msgstr "Mi dirección"
+
+msgid "my_insurance"
+msgstr "Mi seguro"
+
+msgid "my_vehicles"
+msgstr "Mis vehículos"
+
+msgid "my_family"
+msgstr "Mi familia"
+
+msgid "themes"
+msgstr "Temas"
+
+msgid "my_prefernces"
+msgstr "Mis preferencias"
+
+msgid "logout_text"
+msgstr "Cerrar sesión"
+
+msgid "provide_feedback"
+msgstr "Proporcionar comentarios sobre TUDO"
+
+msgid "terms_of_use"
+msgstr "TUDO Términos de uso"
+
+msgid "privacy_notice"
+msgstr "TUDO Aviso de"
+
+msgid "mail_subject"
+msgstr "privacidad Usuario de TUDO"
+
+msgid "mail_body"
+msgstr "Hola, equipo de soporte de TUDO."
+
+msgid "demo_txt"
+msgstr "demostración"
+
+msgid "are_you_sure_to_delete"
+msgstr "¿Estás segura de eliminar?"
+
+msgid "identity_number"
+msgstr "Número de documento de identidad de"
+
+msgid "identity_name"
+msgstr "Nombre de la autoridad emisora"
+
+msgid "identity_exp_Date"
+msgstr "Fecha de"
+
+msgid "select_identity_type"
+msgstr "identificación Ingrese Seleccione el tipo de identificación personal"
+
+msgid "knodledge_desc"
+msgstr "He verificado la información de identidad y acepto su exactitud y legitimidad, según mi conocimiento."
+
+msgid "at_least_2_docs"
+msgstr "Por favor, seleccione al menos 2 documentos"
+
+msgid "upload_pictures"
+msgstr "Cargar documento Fotos"
+
+msgid "work_exp_type"
+msgstr "Tipo de trabajo Experiencia"
+
+msgid "work_exp"
+msgstr "laboral Experiencia"
+
+msgid "enter_name"
+msgstr "Introducir nombre de la organización (si procede)"
+
+msgid "name_of_oraga"
+msgstr "Nombre de la organización (si procede)"
+
+msgid "enter_city"
+msgstr "Introducir ciudad de los anteriores Organización Situado"
+
+msgid "city_of_organization"
+msgstr "Ciudad Organización"
+
+msgid "enter_role_with_organization"
+msgstr "Introduzca su rol con lo anterior Organización"
+
+msgid "role_with_organization"
+msgstr "Rolde empleo en la Organización"
+
+msgid "currently_question"
+msgstr "Actualmente estoy empleado en esta organización"
+
+msgid "begin_date"
+msgstr "Fecha Inicio del Fecha de finalización del"
+
+msgid "person_name"
+msgstr "Nombre de la persona de contacto de esta Organización Nombre de la persona de contacto"
+
+msgid "reference_person_name"
+msgstr "Referencia /Referencia / Persona de"
+
+msgid "contact_per_email"
+msgstr "contacto de esta organización"
+
+msgid "elaborate_job"
+msgstr "Elaborar sus responsabilidades laborales"
+
+msgid "additional_info"
+msgstr "Información adicional sobre un Historia de éxito o fracaso"
+
+msgid "country_is_required"
+msgstr "Se requiere"
+
+msgid "contact_person_number"
+msgstr "Número de teléfono de la persona de contacto de esta organización Número de teléfono de"
+
+msgid "refer_person_phone_number"
+msgstr "referencia / persona de contacto"
+
+msgid "i_have_read"
+msgstr "He leído y acepto los"
+
+msgid "tudo_terms_use"
+msgstr "Términos de uso"
+
+msgid "and_text"
+msgstr "y el"
+
+msgid "privacy_policies"
+msgstr "Aviso de privacidad de"
+
+msgid "must_accept_terms_to_continue"
+msgstr "TUDO Debe aceptar los Términos y condiciones de TUDO para continuar"
+
+msgid "brainree_terms_of_use"
+msgstr "Términos de uso de Braintree"
+
+msgid "agree_back_verification"
+msgstr "Acepto y estoy de acuerdo en pagar el costo de mi negocio backgrou nd verificación"
+
+msgid "hyperwallet_terms"
+msgstr "Condiciones de uso de Hyperwallet"
+
+msgid "licensed_terms_text"
+msgstr "Certifico que la información ingresada es legítima y válida según mi conocimiento Los"
+
+msgid "unlicensed_terms_text"
+msgstr "detalles de identidad ingresados ​​anteriormente son legítimos, precisos y me pertenecen."
+
+msgid "owner_business_text"
+msgstr "Soy el dueño legal de este negocio y tengo más de 18 años."
+
+msgid "enter_first_name"
+msgstr "Ingrese su nombre"
+
+msgid "first_name"
+msgstr "Nombre"
+
+msgid "enter_last_name"
+msgstr "Ingrese su apellido"
+
+msgid "last_name"
+msgstr "Apellido"
+
+msgid "enter_your_password"
+msgstr "Ingrese su contraseña"
+
+msgid "error_text"
+msgstr "Error"
+
+msgid "signup_failed"
+msgstr "Falló el"
+
+msgid "tudo_sign_up"
+msgstr "registro TUDO Registrarse ¿iniciar"
+
+msgid "back_to_login"
+msgstr "Volver a la sesión?"
+
+msgid "time_is_expired"
+msgstr "OTP"
+
+msgid "your_time_desc"
+msgstr "caducó OTP caducó, presione el botón de reinicio para recibir uno nuevo"
+
+msgid "resend_the_otp"
+msgstr "Vuelva a enviar el OTP"
+
+msgid "wait_text"
+msgstr "Espere"
+
+msgid "enter_otp"
+msgstr "Ingrese OTP"
+
+msgid "emailed_otp_text"
+msgstr "Hemos enviado OTP (One Time Pin) a su cuenta de correo electrónico, ingrese OTP para activar su cuenta TUDO. (NOTA: espere hasta 5 minutos para recibir correo electrónico, también verifique su carpeta de SPAM)"
+
+msgid "success_text"
+msgstr "¡Éxito!"
+
+msgid "pass_change_success_text"
+msgstr "¡Contraseña actualizada exitosamente!"
+
+msgid "fill_cell_text"
+msgstr "* Por favor, complete todas las celdas correctamente."
+
+msgid "didnt_get_code_text"
+msgstr "¿No ha recibido OTP? Reenviar"
+
+msgid "aye_text"
+msgstr "Aye !!"
+
+msgid "verify_text"
+msgstr "validación de"
+
+msgid "clear_text"
+msgstr "borrar el"
+
+msgid "select_language"
+msgstr "Seleccione Idioma"
+
+msgid "next_text"
+msgstr "Next"
+
+msgid "select_calendar"
+msgstr "Seleccionar Calendario"
+
+msgid "policy_periods"
+msgstr "Política Períodos de validez"
+
+msgid "atleast_2_document"
+msgstr "Por favor seleccione al menos 2 documentos"
+
+msgid "upload_doc_text"
+msgstr "Cargar documento Fotos de"
+
+msgid "insurance_policy_cat_text"
+msgstr "Categoría La póliza de seguro"
+
+msgid "valid_date_txt"
+msgstr "Por favor, introduzca fecha válida"
+
+msgid "start_date_text"
+msgstr "Política de Fecha de Inicio"
+
+msgid "end_date_text"
+msgstr "Política End Fecha"
+
+msgid "name_of_policy_text"
+msgstr "Nombre de su póliza de seguro"
+
+msgid "additional_info_text"
+msgstr "adicional Información"
+
+msgid "policy_value_limit_text"
+msgstr "Política de/ El valor límite"
+
+msgid "agent_email_id_text"
+msgstr "de agente del seguro Identificación del email"
+
+msgid "insurance_company_name_text"
+msgstr "Insurance Company Nombre"
+
+msgid "agent_name_text"
+msgstr "SegurosNombre del agente"
+
+msgid "policy_number_text"
+msgstr "Número de póliza de seguros"
+
+msgid "code_text"
+msgstr "Código"
+
+msgid "country_code_text"
+msgstr "País Código"
+
+msgid "agent_phone_number_text"
+msgstr "de Seguros agente Número de teléfono"
+
+msgid "please_select_image"
+msgstr "Por favor, seleccione una imagen"
+
+msgid "error_while_pick_image_txt"
+msgstr "de error mientras se recolectan imagen"
+
+msgid "please_choose_image_txt"
+msgstr "Por favor, seleccione una imágenes"
+
+msgid "gallery_txt"
+msgstr "galería"
+
+msgid "camera_txt"
+msgstr "de la cámara"
+
+msgid "please_select_gender"
+msgstr "Por favor seleccione Género"
+
+msgid "gender_txt"
+msgstr "Género"
+
+msgid "additional_activites"
+msgstr "Actividades adicionales o participación"
+
+msgid "additional_during_study_text"
+msgstr "Actividades adicionales o participación, etc., durante lade Estudio"
+
+msgid "qualification_field_study"
+msgstr "calificación Campoo Estudio de"
+
+msgid "highest_degree_qualification"
+msgstr "Grado más alto o calificación?"
+
+msgid "enter_instituation_name"
+msgstr "Ingrese el"
+
+msgid "name_of_institution"
+msgstr "nombre de la institución Nombre de la institución"
+
+msgid "qualification_certificate_number"
+msgstr "Ingrese el número de calificación o certificación Número de"
+
+msgid "certificate_number"
+msgstr "calificación o certificado"
+
+msgid "qualification_required_txt"
+msgstr "calificación Se requiere"
+
+msgid "qualification_txt"
+msgstr "calificación Calificación"
+
+msgid "select_qualification"
+msgstr "Seleccione calificación"
+
+msgid "body_paint_color"
+msgstr "Color de la pintura de la carrocería del"
+
+msgid "registration_plate_number"
+msgstr "vehículo Número de matrícula / matrícula del"
+
+msgid "vehicle_identity_number"
+msgstr "Número de identificación del"
+
+msgid "vehicle_type_text"
+msgstr "Tipo de"
+
+msgid "model_year_text"
+msgstr "vehículo Año del modelo del"
+
+msgid "vehicle_permit_1"
+msgstr "vehículo Permiso del"
+
+msgid "vehicle_permit_2"
+msgstr "vehículo 1 Permiso del"
+
+msgid "vehicle_permit_3"
+msgstr "vehículo 2 Vehículo Permit3"
+
+msgid "additional_info_txt"
+msgstr "Información adicional"
+
+msgid "select_calendar_text"
+msgstr "Seleccione su calendario"
+
+msgid "tudo_appointment"
+msgstr "TUDO Cita"
+
+msgid "for_text"
+msgstr "para el"
+
+msgid "service_text"
+msgstr "servicio"
+
+msgid "add_charge"
+msgstr "Agregar cargo"
+
+msgid "enter_title"
+msgstr "Ingrese el título"
+
+msgid "field_should_required"
+msgstr "Ingrese el campo requerido"
+
+msgid "enter_quantity"
+msgstr "Ingrese la cantidad La"
+
+msgid "should_be_decimal"
+msgstr "cantidad debe ser un valor numérico La"
+
+msgid "quan_greater_text"
+msgstr "cantidad debe ser mayor que 0"
+
+msgid "unit_price_text"
+msgstr "Ingrese el precio unitario"
+
+msgid "charge_in_number"
+msgstr "Los cargos deben estar en valor numérico"
+
+msgid "charge_greater_text"
+msgstr "Los cargos deben ser mayores y luego 0"
+
+msgid "enter_desc_text"
+msgstr "Ingresar Descripción"
+
+msgid "applicable_tax"
+msgstr "Aplicable para Impuestos"
+
+msgid "applicable_discount"
+msgstr "aplicables a los descuentos"
+
+msgid "add_comment_text"
+msgstr "Agregar comentario comentarios de"
+
+msgid "write_billing_text"
+msgstr "Escriba Facturación / facturación"
+
+msgid "reason_Additional_charge"
+msgstr "Escriba los motivos de los cargos adicionales o detalles del servicio, etc."
+
+msgid "type_comments"
+msgstr "Escriba sus comentarios"
+
+msgid "invoice_details"
+msgstr "Detalles de la"
+
+msgid "invoice_generated_success_text"
+msgstr "factura Factura generada con éxito"
+
+msgid "please_give_rating_text"
+msgstr "Califique a este consumidor"
+
+msgid "post_positive_text"
+msgstr "Comparta su experiencia positiva al servir a este consumidor"
+
+msgid "what_you_like_most_text"
+msgstr "Wr ite lo que más le gustó"
+
+msgid "invoice_txt"
+msgstr "Factura #"
+
+msgid "charges_text"
+msgstr "Cargos"
+
+msgid "discounts"
+msgstr "Descuentos"
+
+msgid "taxes"
+msgstr "Impuestos"
+
+msgid "total"
+msgstr "Total"
+
+msgid "do_you_remove"
+msgstr "¿Está seguro de eliminar la línea?"
+
+msgid "qty_txt"
+msgstr "Cant."
+
+msgid "unit_price"
+msgstr "Precio unitario:"
+
+msgid "app_title"
+msgstr "Appt. Título"
+
+msgid "app_date"
+msgstr "Cita. Fecha"
+
+msgid "payment_type_text"
+msgstr "Tipo de pago"
+
+msgid "from_txt"
+msgstr "Desde la"
+
+msgid "invoice_date"
+msgstr "fecha de la factura Fecha de Facturación"
+
+msgid "agent_txt"
+msgstr "agente"
+
+msgid "bill_to_text"
+msgstr "hasta"
+
+msgid "comments_txt"
+msgstr "Comentarios"
+
+msgid "unplesant_text"
+msgstr "Comparta una experiencia desagradable al atender esto Consumir"
+
+msgid "elidigble_discount"
+msgstr "Elegible para descuento"
+
+msgid "leads_text"
+msgstr "Leads"
+
+msgid "prospects_text"
+msgstr "Prospectos"
+
+msgid "branch_list_screen_title"
+msgstr "Lista de sucursales"
+
+msgid "inactive_text"
+msgstr "Desactivar"
+
+msgid "active_text"
+msgstr "activos"
+
+msgid "employees_text"
+msgstr "Empleados"
+
+msgid "address_text"
+msgstr "Dirección"
+
+msgid "delete_text"
+msgstr "Eliminar"
+
+msgid "bsp_signup_licensed_terms_page_title"
+msgstr "Seleccionar servicios"
+
+msgid "atleast_one_service_text"
+msgstr "Seleccione al menos un Servicio para continuar a continuación"
+
+msgid "deactive_confirm_text"
+msgstr "¿Está seguro de desactivar este servicio de su sucursal?"
+
+msgid "deactive_success_text"
+msgstr "Rama desactivada con éxito."
+
+msgid "add_service_confirm_text"
+msgstr "¿Está seguro de agregar este servicio a su sucursal?"
+
+msgid "service_added_success_text"
+msgstr "Servicio agregado exitosamente a su sucursal."
+
+msgid "error_while_picking_text"
+msgstr "Error al seleccionar la imagen"
+
+msgid "please_choose_img_text"
+msgstr "Elija una imagen"
+
+msgid "enter_first_name_text"
+msgstr "Ingrese el nombre del"
+
+msgid "employee_first_name"
+msgstr "empleado Nombre del Nombre del"
+
+msgid "employee_last_name"
+msgstr "empleado empleado Apellido del"
+
+msgid "employee_address_mandatory"
+msgstr "empleado Dirección del"
+
+msgid "employee_address_text"
+msgstr "empleado Dirección del"
+
+msgid "employee_demographic_text"
+msgstr "empleado Información demográfica del empleado"
+
+msgid "please_select_all_required_fields"
+msgstr "Ingrese la información requerida junto con la imagen del perfil"
+
+msgid "employee_identification_title"
+msgstr "Identificación del"
+
+msgid "employee_list_title"
+msgstr "empleado Lista de empleados"
+
+msgid "hey_there_text"
+msgstr "¡Hola!"
+
+msgid "scan_tudo_text"
+msgstr "Escanee desde el código QR de TUDO"
+
+msgid "take_new_employee"
+msgstr "Entrada manual"
+
+msgid "employee_idnetity"
+msgstr "Identificación del empleado"
+
+msgid "spend_100_text"
+msgstr "Gaste $ 100 y obtenga un 20% de descuento en su total"
+
+msgid "review_pay_text"
+msgstr "Revise y pague el"
+
+msgid "estimated_cost"
+msgstr "costo estimado:"
+
+msgid "excluding_text"
+msgstr "(sin incluir complementos e impuestos)"
+
+msgid "search_by_job_name"
+msgstr "Buscar por nombre de trabajo"
+
+msgid "promotion_module_title"
+msgstr "Crear Promoción"
+
+msgid "title_text"
+msgstr "título de"
+
+msgid "image_upload_error"
+msgstr "Error de carga de imagen, intente nuevamente por favor La"
+
+msgid "combined_promotion_ques"
+msgstr "promoción puede ser combinado con otras promociones?"
+
+msgid "promotion_title"
+msgstr "Título"
+
+msgid "describe_promotion"
+msgstr "de la promoción Describa sobre la promoción"
+
+msgid "enter_promotion_details"
+msgstr "Ingrese los detalles de la"
+
+msgid "promotion_type"
+msgstr "promoción Tipo de"
+
+msgid "promotion_begin_date"
+msgstr "promoción Fecha de inicio de la"
+
+msgid "promotion_end_date"
+msgstr "promoción Fecha de"
+
+msgid "promotion_brodcast_range"
+msgstr "promoción Rango de transmisión de la promoción"
+
+msgid "upload_promotion_pictures"
+msgstr "Cargar fotos"
+
+msgid "promotion_exp_values"
+msgstr "promocionales Valor deLa"
+
+msgid "reaching_sum_discount"
+msgstr "finalización del vencimiento de la promoción promoción vence después de alcanzar esta suma Valor de descuento La"
+
+msgid "usage_max_limit"
+msgstr "promoción vence después de alcanzar esta suma Valor total"
+
+msgid "per_user_limit_promotion"
+msgstr "Límite por usuario en la promoción"
+
+msgid "promotional_camping_desc"
+msgstr "* Nota : Seleccionar fija en efectivo descuento usted quisiera en esta oferta promocional"
+
+msgid "disc_amount"
+msgstr "Cantidad de Descuento"
+
+msgid "disc_amount_mandatory"
+msgstr "Descuento Cantidad"
+
+msgid "amount_text"
+msgstr "Cantidad"
+
+msgid "this_promotional_offer"
+msgstr "* Nota: Seleccionar fijo edad% de descuento que le gustaría en esta oferta promocional"
+
+msgid "discount_age"
+msgstr "Descuento en%"
+
+msgid "percentage_between"
+msgstr "Descuento% debe estar entre Resultados (1 - 100)"
+
+msgid "percentage_required"
+msgstr "se requiere valor del descuento"
+
+msgid "must_between_100"
+msgstr "el descuento% debe estar entre 1 y 100"
+
+msgid "no_service_combination"
+msgstr "No hay servicios disponibles para esta combinación ¿"
+
+msgid "apply_promotion_ques"
+msgstr "Aplicar la promoción a todos sus servicios?"
+
+msgid "walk_in_lable"
+msgstr "Walk-In"
+
+msgid "in_house_label"
+msgstr "en el Hogar"
+
+msgid "on_Demand_label"
+msgstr "On-Demand"
+
+msgid "promotion_details"
+msgstr "Detalles de la promoción"
+
+msgid "promotion_terms"
+msgstr "Promoción Términos y Condiciones página Web (si necesario)"
+
+msgid "type_web_page_url"
+msgstr "es URL tipo de página web (asegúrese de que la URL está trabajando)"
+
+msgid "promotion_terms_conditions"
+msgstr "Promoción Términos y"
+
+msgid "business_prof_details"
+msgstr "Condiciones:Introduzca los datos del perfil del negocio"
+
+msgid "promotion_terms_mandatory"
+msgstr "Términos de la Promoción y Condiciones"
+
+msgid "have_agree_text"
+msgstr "He leído y acepto to"
+
+msgid "tudo_promotions_terms"
+msgstr "TUDO Promotions Términos y condiciones"
+
+msgid "must_check_text"
+msgstr "Debe aceptar los términos y condiciones para continuar"
+
+msgid "create_txt"
+msgstr "Crear"
+
+msgid "invoice_pay"
+msgstr "Pay"
+
+msgid "succ_text"
+msgstr "Success"
+
+msgid "promotion_create_success"
+msgstr "Promoción creada con éxito"
+
+msgid "promotion_cost"
+msgstr "Detalles del pago:"
+
+msgid "share_text"
+msgstr "Compartir"
+
+msgid "promotion_applied"
+msgstr "promoción aplicada a los servicios"
+
+msgid "promotion_images"
+msgstr "Fotos promocionales"
+
+msgid "description_text"
+msgstr "Descripción"
+
+msgid "broad_range"
+msgstr "Rango de transmisión"
+
+msgid "promotion_pricing_text"
+msgstr "Promoción Precio"
+
+msgid "base_unit_price"
+msgstr "base de la promoción Precio unitario Precio"
+
+msgid "promotion_cost_text"
+msgstr "ajustado basado en el rango de"
+
+msgid "tudo_disc"
+msgstr "transmisión Descuento de TUDO"
+
+msgid "estimates_tax_txt"
+msgstr "impuestos"
+
+msgid "estimate_total_cost"
+msgstr "Promoción de Compra Precio"
+
+msgid "promotion_disc_details"
+msgstr "Detalles del promocional Detalles del"
+
+msgid "disc_details"
+msgstr "descuento del descuento La"
+
+msgid "promotion_usage_max_limit"
+msgstr "promoción vence después de la suma Valor total"
+
+msgid "per_user_limit"
+msgstr "Límite por usuario en la promoción"
+
+msgid "share_text_label"
+msgstr "acción"
+
+msgid "status_text"
+msgstr "Estado de la:"
+
+msgid "utilization_text"
+msgstr "Utilización"
+
+msgid "business_promotion"
+msgstr "Promociones comerciales ¡"
+
+msgid "payment_process_like_to_Do"
+msgstr "Pago procesado y Promoción creada correctamente! \n Puede compartir este enlace de promoción con otros a través de las redes sociales."
+
+msgid "share_with_social_media"
+msgstr "Compartir con las redes sociales"
+
+msgid "search_text"
+msgstr "Buscar"
+
+msgid "dont_avail_promotion"
+msgstr "promociones no disponibles en este momento"
+
+msgid "please_purchase_seprate"
+msgstr "Actualice su plan de suscripción o compre promoción individual para continuar"
+
+msgid "purchase_text"
+msgstr "Comprar"
+
+msgid "any_available_promotion"
+msgstr "promociones no disponibles en este momento"
+
+msgid "not_now_text"
+msgstr "No ahora El"
+
+msgid "cutomer_not_exist"
+msgstr "negocio no existe"
+
+msgid "select_subscription"
+msgstr "Seleccione un plan de suscripción Seleccione un plan de"
+
+msgid "select_plan_desc"
+msgstr "suscripción para crear la promoción"
+
+msgid "paid_service_desc"
+msgstr "El precio de la promoción varía según en el área de rango de transmisión"
+
+msgid "selected_plan"
+msgstr "Plan seleccionado Plan"
+
+msgid "monthly_plan"
+msgstr "mensual"
+
+msgid "deal_details_title"
+msgstr "Detalles de la oferta"
+
+msgid "exact_one_service_to_next"
+msgstr "Seleccione al menos un servicio para continuar a continuación"
+
+msgid "please_enter_valid_time"
+msgstr "Ingrese la fecha y hora válidas Fecha y hora del"
+
+msgid "service_date_time"
+msgstr "servicio"
+
+msgid "job_title"
+msgstr "Título de la cita del servicio"
+
+msgid "upload_picture"
+msgstr "Cargar fotos (si las hay)"
+
+msgid "error_in_finding_bsp"
+msgstr "Lo sentimos, los proveedores de servicios no están disponibles en este momento, intente con una fecha diferente y el tiempo ¡"
+
+msgid "something_went_wrong"
+msgstr "Algo salió mal!"
+
+msgid "you_can_edit_address"
+msgstr "Puede editar la dirección para incluir el número de apartamento, el número de parcela, el número de piso, el número de traje, etc."
+
+msgid "please_enter_address"
+msgstr "Seleccione la dirección de servicio"
+
+msgid "please_select_valid_time"
+msgstr "Seleccione la hora válida"
+
+msgid "service_type_text"
+msgstr "Tipo de servicio"
+
+msgid "create_walk_in"
+msgstr "Crear"
+
+msgid "walk_in_create_success"
+msgstr "cita de servicio sin cita previa creada con éxito"
+
+msgid "in_home_create_success"
+msgstr "Cita de servicio a domicilio creada con éxito"
+
+msgid "on_demand_create_success"
+msgstr "Bajo demanda Cita de servicio creada con éxito"
+
+msgid "questionaries_response"
+msgstr "Respuesta al cuestionario:"
+
+msgid "select_terms_conditions"
+msgstr "Acepte los términos y condiciones de TUDO"
+
+msgid "job_details"
+msgstr "Detalle de la cita"
+
+msgid "service_information"
+msgstr "Información del servicio"
+
+msgid "select_from_address_book"
+msgstr "Seleccione de la libreta de direcciones"
+
+msgid "current_location"
+msgstr "Ubicación actual"
+
+msgid "appointment"
+msgstr "cita de"
+
+msgid "date_and_time"
+msgstr "Fecha y hora de la"
+
+msgid "request_type"
+msgstr "Tipo de solicitud"
+
+msgid "bsp_listview"
+msgstr "Lista deVer"
+
+msgid "sort"
+msgstr "Ordenar"
+
+msgid "add_address_txt"
+msgstr "Añadir dirección"
+
+msgid "save_address_txt"
+msgstr "Guardar dirección"
+
+msgid "selected_address_txt"
+msgstr "Dirección seleccionada"
+
+msgid "custom_address_type"
+msgstr "Tipo de dirección personalizada"
+
+msgid "custom_address_txt"
+msgstr "Dirección personalizada"
+
+msgid "select_address_type"
+msgstr "Seleccione el tipo de dirección"
+
+msgid "mark_default_address"
+msgstr "Marcar como dirección predeterminada"
+
+msgid "no_bsp_found"
+msgstr "Lo sentimos, los proveedores de servicios no están disponibles en este momento, intente con diferentes Fecha y hora"
+
+msgid "distance_text"
+msgstr "Distancia"
+
+msgid "service_providers"
+msgstr "Proveedores de servicios"
+
+msgid "app_id"
+msgstr "#:"
+
+msgid "appt_type"
+msgstr "CitaCitaTipo:"
+
+msgid "spend_txt"
+msgstr "Gastar"
+
+msgid "get_off_desc"
+msgstr "y obtener% de descuento en su total"
+
+msgid "cost_estimates"
+msgstr "costo estimado:"
+
+msgid "plus_taxes"
+msgstr "(más los complementos y los impuestos aplicables)"
+
+msgid "enter_re_schedule_reason"
+msgstr "Ingrese el motivo de la"
+
+msgid "re_schedule_reason"
+msgstr "reprogramación Escriba el motivo de la"
+
+msgid "re_schedule_text"
+msgstr "reprogramación Reprogramación de la cita"
+
+msgid "service_provider_must_accept"
+msgstr "Nota: la otra parte debe acepte su solicitud de reprogramación, mientras tanto, la cita estará en la etapa de espera"
+
+msgid "re_schedule"
+msgstr "Reprogramar"
+
+msgid "select_new_time"
+msgstr "Por favor seleccione una nueva fecha y hora"
+
+msgid "rescheduled_success"
+msgstr "Res solicitud de cédula enviada al proveedor de servicios para su aprobación."
+
+msgid "reschedule_title"
+msgstr "Motivo de la reprogramación"
+
+msgid "enter_cancellation_text"
+msgstr "Por favor ingrese el motivo de la"
+
+msgid "write_cancellation_reason"
+msgstr "cancelación Escriba el motivo de la cancelación"
+
+msgid "cancel_appointment"
+msgstr "Cancelar cita"
+
+msgid "cancellation_fees_text"
+msgstr "¿Está seguro de cancelar esta cita de servicio? TUDO puede imponer una tarifa de cancelación de hasta $ 0.00"
+
+msgid "confirmation"
+msgstr "Confirmación"
+
+msgid "deals_offers"
+msgstr "Ofertas y ofertas ofertas"
+
+msgid "deal_schedule"
+msgstr "Programación de"
+
+msgid "job_title_required"
+msgstr "cita de cita es un campo obligatorio"
+
+msgid "please_select_date_time"
+msgstr "Seleccione la fecha y la hora ¡"
+
+msgid "no_deals_found"
+msgstr "No se encontraron ofertas!"
+
+msgid "select_address"
+msgstr "Seleccione la dirección"
+
+msgid "your_time_exp_text"
+msgstr "OTP caducada, presione reenviar para una nueva OTP"
+
+msgid "success_password_change"
+msgstr "contraseña actualizada correctamente"
+
+msgid "fill_all_cell_text"
+msgstr "* Vuelva a ingresar la OTP y presione Validar nuevamente"
+
+msgid "verify_txt"
+msgstr "Validar"
+
+msgid "resend_otp_text"
+msgstr "¿No ha recibido la OTP? Reenviar"
+
+msgid "wait"
+msgstr "Espere"
+
+msgid "enter_password_text"
+msgstr "Ingrese su Contraseña"
+
+msgid "new_pass_text"
+msgstr "Nueva Contraseña"
+
+msgid "update_pass_text"
+msgstr "Actualizar Contraseña"
+
+msgid "forgot_pass_text"
+msgstr "Olvidé la Contraseña"
+
+msgid "job_address_not_found"
+msgstr "No se puede ubicar la dirección del Servicio"
+
+msgid "change_details"
+msgstr "Nota: Solicitud de enmienda enviada para la aprobación del Proveedor de Servicios, mientras tanto la Cita estará en estado de Espera."
+
+msgid "new_schedule"
+msgstr "Calendario revisado:"
+
+msgid "change_reason"
+msgstr "Motivo de la enmienda:"
+
+msgid "appt_txt"
+msgstr "N.º de:"
+
+msgid "app_type_text"
+msgstr "cita Tipo de cita:"
+
+msgid "token_text"
+msgstr "N.º de token"
+
+msgid "employee_enrollment"
+msgstr "Inscripción del empleado Inscripción"
+
+msgid "previous_text"
+msgstr "anterior"
+
+msgid "enrollment_completed"
+msgstr "completada con éxito"
+
+msgid "hey_text"
+msgstr "Hola,"
+
+msgid "recived_invitations"
+msgstr "Felicitaciones por su nueva oferta de empleo. Acepte / rechace la oferta para continuar."
+
+msgid "accept_text"
+msgstr "Aceptar"
+
+msgid "accept_invitation_ques"
+msgstr "¿Está seguro de aceptar la invitación?"
+
+msgid "reject_text"
+msgstr "Rechazar"
+
+msgid "reject_invitations_ques"
+msgstr "¿Está seguro de rechazar la invitación?"
+
+msgid "self_invite"
+msgstr "Invitación auto empleo no está permitido"
+
+msgid "sort_by"
+msgstr "Clasificar por"
+
+msgid "unselected_sort"
+msgstr "Clasificar no seleccionada"
+
+msgid "are_you_running_business"
+msgstr "¿Está ejecutando un negocio?"
+
+msgid "consumer_success_popup_text1"
+msgstr "Felicitaciones, su cuenta de consumidor de TUDO se creó con éxito."
+
+msgid "consumer_success_popup_text2"
+msgstr "Si tiene un negocio, haga crecer su negocio en la plataforma TUDO. TUDO lleva la tecnología moderna y en tiempo real a su alcance, lleno de potentes herramientas de productividad de negocios y ayudar a administrar su negocio de manera eficiente desde la palma de las manos"
+
+msgid "consumer_success_popup_text3"
+msgstr "Para preguntas por correo electrónico a nosotros help@tudo.app"
+
+msgid "service_details"
+msgstr "servicio Detalles"
+
+msgid "services_help_screen_title"
+msgstr "Servicio Ayuda"
+
+msgid "main_header_text"
+msgstr "Envía TUDO acerca de la naturaleza de su Negocio seleccionando todos los servicios aplicables que su negocio ofrece a sus Consumidores."
+
+msgid "walk_in_desc"
+msgstr "El consumidor camina / visita / ingresa a la ubicación / oficina / escaparate de su empresa para aprovechar los servicios que su empresa ofrece en el mercado. Ejemplo: salón, hospital, contabilidad, tintorería, etc."
+
+msgid "in_house_desc"
+msgstr "Usted o el representante de su empresa visitan la dirección de servicio del Consumidor, como casa / oficina / negocio, etc. Para prestar sus servicios. Ejemplo: limpieza del hogar, personal de mantenimiento, plomero, electricista, cuidador, etc."
+
+msgid "on_demand_desc"
+msgstr "Usted o su representante comercial se comunican con la geolocalización actual del consumidor en 5 a 10 minutos para prestar sus servicios. Ejemplo: taxi, asistencia en carretera, reparaciones de emergencia, cualquier servicio basado en la ubicación, ambulancia, servicios públicos, etc."
+
+msgid "my_preference_screen_title"
+msgstr "mis preferencias"
+
+msgid "auto_refresh_mode"
+msgstr "Panel de Modo de actualización automática"
+
+msgid "share_my_location_text"
+msgstr "Compartir mi ubicación con otros usuarios de TUDO Visibilidad de"
+
+msgid "profile_visibility"
+msgstr "mi perfil para otros usuarios de TUDO"
+
+msgid "notifications_settings"
+msgstr "Configuración de"
+
+msgid "send_notifications"
+msgstr "notificaciones notificaciones"
+
+msgid "send_emails"
+msgstr "Enviar Enviar correos electrónicos"
+
+msgid "dashboard_success"
+msgstr "El modo de actualización automática del panel se actualizó correctamente."
+
+msgid "locatioon_success"
+msgstr "Comparta sus ubicaciones con otros usuarios de TUDO. La configuración se actualizó correctamente. La"
+
+msgid "visibility_success"
+msgstr "configuración de visibilidad del perfil se actualizó correctamente."
+
+msgid "notification_success"
+msgstr "Envíe notificaciones, la configuración se actualizó correctamente."
+
+msgid "emails_success"
+msgstr "Envíe la configuración de correos electrónicos"
+
+msgid "auto_refresh_true_question"
+msgstr ". ¿Estás seguro de continuar?"
+
+msgid "auto_refresh_false_question"
+msgstr "Las actualizaciones automáticas se desactivarán y se necesitará una actualización manual para las actualizaciones del tablero. ¿Estás seguro de continuar?"
+
+msgid "share_location_true_question"
+msgstr "Su ubicación se compartirá con otros usuarios de TUDO. ¿Estás seguro de continuar?"
+
+msgid "share_location_false_question"
+msgstr "Su ubicación NO se compartirá con otros usuarios de TUDO, puede afectar las actualizaciones de la aplicación en tiempo real. ¿Estás seguro de continuar?"
+
+msgid "profile_visibility_true_question"
+msgstr "Su perfil de TUDO será visible para otros usuarios de TUDO. ¿Estás seguro de continuar?"
+
+msgid "profile_visibility_false_question"
+msgstr "Su perfil de TUDO será privado y NO será visible para otros usuarios de TUDO. ¿Estás seguro de continuar?"
+
+msgid "notification_true_question"
+msgstr "Tanto las notificaciones como los correos electrónicos no se pueden desactivar. Al menos uno debe estar ENCENDIDO."
+
+msgid "notification_false_question"
+msgstr "Las actualizaciones automáticas se desactivarán y se requerirá una acción manual para las actualizaciones. ¿Estás seguro de continuar?"
+
+msgid "emails_true_question"
+msgstr "Recibirás correos electrónicos de la aplicación TUDO. ¿Estás seguro de continuar?"
+
+msgid "emails_false_question"
+msgstr "NO recibirá correos electrónicos, pero seguirá recibiendo correos electrónicos importantes de TUDO. ¿Estás seguro de continuar?"
+
+msgid "on_board"
+msgstr "On Board"
+
+msgid "active"
+msgstr "Activo"
+
+msgid "terminated"
+msgstr "Terminado"
+
+msgid "long_leave"
+msgstr "Licencia prolongada"
+
+msgid "retired"
+msgstr "Retirado"
+
+msgid "pending_enrollment"
+msgstr "Pendiente Inscripción"
+
+msgid "pending_approval"
+msgstr "Pendiente Aprobación"
+
+msgid "bsp_earnings_module_title"
+msgstr "Ingresos Y transferencias ¡"
+
+msgid "sry_text"
+msgstr "Lo sentimos .....!"
+
+msgid "no_earnings_yet"
+msgstr "Aún no hay ganancias"
+
+msgid "annual_earnings"
+msgstr "Ganancias"
+
+msgid "annual_transfer"
+msgstr "anuales Transferencias anuales"
+
+msgid "available_funds"
+msgstr "Fondos disponibles"
+
+msgid "ready_to_transfer"
+msgstr "Listo para transferir"
+
+msgid "tudo_reserve"
+msgstr "TUDO reserva"
+
+msgid "date_txt"
+msgstr "Fecha de"
+
+msgid "transaction_id"
+msgstr "Identificación de la transacción"
+
+msgid "amount_txt"
+msgstr "Monto"
+
+msgid "transfer_now_txt"
+msgstr "Transferir ahora"
+
+msgid "transaction_details"
+msgstr "Detalles de la"
+
+msgid "transaction_time"
+msgstr "transacción Hora de la transacción:"
+
+msgid "appt_id_text"
+msgstr "Cita. Id:"
+
+msgid "appt_date_txt"
+msgstr "Cita. Fecha:"
+
+msgid "appt_title_text"
+msgstr "Cita. Título:"
+
+msgid "bill_to_txt"
+msgstr "Facturar a:"
+
+msgid "agent_text"
+msgstr "Agente:"
+
+msgid "total_transaction_amt_text"
+msgstr "Monto total de la transacción Monto de la"
+
+msgid "invoice_amount"
+msgstr "factura"
+
+msgid "deduction_details"
+msgstr "Detalles de las deducciones"
+
+msgid "charges_total"
+msgstr "Cargos"
+
+msgid "discount_total"
+msgstr "Descuentos totales Total de"
+
+msgid "tax_total"
+msgstr "impuestos total"
+
+msgid "gratutity_collected"
+msgstr "Propinacobrada"
+
+msgid "sub_total_invoice"
+msgstr "Sub total de la factura"
+
+msgid "sub_total_deduction"
+msgstr "Sub total Deducciones"
+
+msgid "transfer_text"
+msgstr "Transferencia"
+
+msgid "note_msg_desc"
+msgstr "(* Nota: cargos financieros aplicados en cada transacción de transferencia)"
+
+msgid "available_transfer_methods"
+msgstr "Métodos de transferencia disponibles"
+
+msgid "amount_ready_transfer"
+msgstr "Monto listo para Transferencia"
+
+msgid "amount_required"
+msgstr "Se requiere el monto de la transferencia"
+
+msgid "govt_imposed_fee"
+msgstr "Gbno. Tarifa impuesta"
+
+msgid "financial_chargebacks"
+msgstr "financieros"
+
+msgid "tudo_Cancellation_fee"
+msgstr "Recargos TUDO Tarifas de cancelación"
+
+msgid "tudo_portion"
+msgstr "Parte de TUDO de la"
+
+msgid "tudo_commission"
+msgstr "propina TUDO Comisión"
+
+msgid "payment_processing_fee"
+msgstr "Pago por procesamiento Tarifa"
+
+msgid "service_earning_amount"
+msgstr "Servicio Ganancias Monto"
+
+msgid "amount_transfer_success"
+msgstr "Monto transferido a su cuenta correctamente"
+
+msgid "my_earing_transfer"
+msgstr "Mis ganancias y transferencias"
+
+msgid "transfer_txt"
+msgstr "Fondos transferidos"
+
+msgid "earning_txt"
+msgstr "Ingresos"
+
+msgid "transfered_id_txt"
+msgstr "Id de transferencia"
+
+msgid "no_payments_done"
+msgstr "Aún Hay ganancias"
+
+msgid "no_transaction_done"
+msgstr "noSin transferencias aún"
+
+msgid "service_paid_amount"
+msgstr "Monto pagado por el servicio"
+
+msgid "consumer_add_ons"
+msgstr "Complementos del consumidor"
+
+msgid "tudo_protection"
+msgstr "TUDO Protección"
+
+msgid "of_invoice"
+msgstr "de la factura"
+
+msgid "tudo_booking"
+msgstr "TUDO Cuota de reserva"
+
+msgid "charitable_contribution"
+msgstr "Contribuciones de caridad"
+
+msgid "sub_total_add_ons"
+msgstr "Subtotal complementos"
+
+msgid "owen_tudo"
+msgstr "queden al TUDO"
+
+msgid "check_amount_consumer"
+msgstr "Monto del cheque del consumidor"
+
+msgid "reports_screen_title"
+msgstr "Informes"
+
+msgid "select_duration"
+msgstr "Seleccione Duración"
+
+msgid "last_month"
+msgstr "Último mes"
+
+msgid "last_3_month"
+msgstr "Últimos 3 meses"
+
+msgid "last_6_month"
+msgstr "Últimos 6 meses"
+
+msgid "no_reports_text"
+msgstr "hay informes disponibles todavía"
+
+msgid "service_provider_info"
+msgstr "Proveedor de Servicios de Información de"
+
+msgid "business_profile"
+msgstr "Negocios Perfil:"
+
+msgid "buss_license"
+msgstr "Licencia Comercial"
+
+msgid "exp_date_text"
+msgstr "de expiración"
+
+msgid "authority_text"
+msgstr "Autoridad"
+
+msgid "uploaded_pic"
+msgstr "subidos Licencia Fotos:"
+
+msgid "business_est_year"
+msgstr "empresa Año de establecimiento de la empresa"
+
+msgid "bounded"
+msgstr "limitado"
+
+msgid "insured"
+msgstr "Asegurado"
+
+msgid "other_details"
+msgstr "Otros detalles:"
+
+msgid "background_verifed"
+msgstr "Antecedentes Verificado"
+
+msgid "unregistered"
+msgstr "No registrado"
+
+msgid "verified_business"
+msgstr "Empresa verificada"
+
+msgid "business_contact"
+msgstr "contacto de la empresa"
+
+msgid "name_text"
+msgstr "Nombre de"
+
+msgid "email_text"
+msgstr "Correo electrónico"
+
+msgid "phone_text"
+msgstr "Núm. De teléfono"
+
+msgid "country_text"
+msgstr "País"
+
+msgid "service_offered"
+msgstr "Servicios ofrecidos"
+
+msgid "reviews_text"
+msgstr "Evaluación y reseñas del consumidor"
+
+msgid "what_good_text"
+msgstr "Pros"
+
+msgid "what_bad_text"
+msgstr "Sugiere ns"
+
+msgid "no_reviews_text"
+msgstr "Sea el primero en escribir una reseña"
+
+msgid "consumer_info"
+msgstr "Información del consumidor"
+
+msgid "no_reviews_user_text"
+msgstr "Aún no hay reseñas"
+
+msgid "deal_filter_screen_title"
+msgstr "Filtros"
+
+msgid "reset_txt"
+msgstr "Restablecer"
+
+msgid "apply_txt"
+msgstr "Aplicar"
+
+msgid "select_rating_count"
+msgstr "Seleccionar calificación De"
+
+msgid "high_to_low"
+msgstr "alta a baja De"
+
+msgid "low_to_high"
+msgstr "baja a alta"
+
+msgid "expires_in"
+msgstr "Vence en"
+
+msgid "select_expires_in"
+msgstr "Seleccione Vence en"
+
+msgid "ascending_txt"
+msgstr "ascendente"
+
+msgid "descending_txt"
+msgstr "descendente"
+
+msgid "distance"
+msgstr "Distancia"
+
+msgid "near_to_far"
+msgstr "Cerca a Lejos"
+
+msgid "far_to_near"
+msgstr "Lejos a Cerca"
+
+msgid "service_type"
+msgstr "Tipo de servicio"
+
+msgid "please_select_more_filters"
+msgstr "(seleccione el tipo para ver más filtros)"
+
+msgid "apply_to_all"
+msgstr "Aplicar filtros a todos sus servicios?"
+
+msgid "no_deals_found_filter"
+msgstr "No se han encontrado para su selección Ofertas"
+
+msgid "select_filter_to_apply"
+msgstr "Seleccionar filtro para aplicar"
+
+msgid "enter_filter_name_to_proceed"
+msgstr "Ingrese el nombre del filtro para continuar"
+
+msgid "update_filter_txt"
+msgstr "Actualizar filtro"
+
+msgid "save_filter_txt"
+msgstr "Guardar filtro"
+
+msgid "filter_name_txt"
+msgstr "Nombre del filtro"
+
+msgid "enter_filter_name_txt"
+msgstr "Ingrese el nombre del filtro"
+
+msgid "all_txt"
+msgstr "Todos"
+
+msgid "appointment_duration"
+msgstr "Duración de la cita"
+
+msgid "short_to_long"
+msgstr "Corto a largo"
+
+msgid "long_to_short"
+msgstr "mayor distancia a corta distancia"
+
+msgid "theme_screen_title"
+msgstr "tema"
+
+msgid "selected_color"
+msgstr "seleccionado color"
+
+msgid "complimentory_color"
+msgstr "complementario del color"
+
+msgid "chat_module_title"
+msgstr "Añadir Usuario"
+
+msgid "group_admin"
+msgstr "del grupo de administración"
+
+msgid "group_name"
+msgstr "Nombre de grupo"
+
+msgid "enter_group_name"
+msgstr "Introduzca Nombre del grupo"
+
+msgid "my_net"
+msgstr "MyNet"
+
+msgid "bus_net"
+msgstr "BusNet"
+
+msgid "paypal_payout_screen_title"
+msgstr "Mis Transferencias"
+
+msgid "transfer_now"
+msgstr "Transferencia Ahora"
+
+msgid "available_amt"
+msgstr "Disponible Cantidad:"
+
+msgid "paypal_account_id"
+msgstr "Retirada de PayPal ID de cuenta:"
+
+msgid "update_txt"
+msgstr "Actualización"
+
+msgid "transfers_in"
+msgstr "de transferencia"
+
+msgid "enter_payout_amount"
+msgstr "Introducir Retiro Cantidad"
+
+msgid "please_enter_amount"
+msgstr "Por favor, introduzca cantidad"
+
+msgid "value_should_be_proper"
+msgstr "la cantidad de transferencia de debe ser menor o igual a fondos disponibles"
+
+msgid "transfer_success"
+msgstr "Transferencia de fondos procesada a su cuenta PayPal con éxito."
+
+msgid "contract_begin"
+msgstr "Fecha de inicio del Fecha de finalización del"
+
+msgid "contract_end"
+msgstr "contrato contrato fecha"
+
+msgid "please_valid_Date"
+msgstr "Ingrese la válida"
+
+msgid "select_emp_type"
+msgstr "Seleccione el tipo de empleado Tipo de"
+
+msgid "select_manager"
+msgstr "Seleccione Gerente"
+
+msgid "manager"
+msgstr "Gerente"
+
+msgid "select_org_role"
+msgstr "Seleccione el rol de la"
+
+msgid "org_role"
+msgstr "organización Rol de la organización"
+
+msgid "emp_payrate"
+msgstr "Seleccione la tasa de empleo Tasa de"
+
+msgid "payrate"
+msgstr "pago del pago"
+
+msgid "invite_emp"
+msgstr "Invite al empleado"
+
+msgid "select_shift_schedule"
+msgstr "Seleccione el horario de"
+
+msgid "shift_schedule"
+msgstr "turno Horario de turno"
+
+msgid "buss_legal_address"
+msgstr "Dirección comercial"
+
+msgid "invite"
+msgstr "Invitar"
+
+msgid "emp_invitation"
+msgstr "¡Invitación del empleado!"
+
+msgid "emp_invite_success"
+msgstr "Invitación de empleo enviada con éxito!"
+
+msgid "erro_emp_invite"
+msgstr "Error al enviar el empleo Invitación"
+
+msgid "invite_emp_2"
+msgstr "Invitar al empleado paso 2"
+
+msgid "select_detail_require"
+msgstr "Seleccione los detalles requeridos para el empleado"
+
+msgid "vehicle"
+msgstr "vehículo"
+
+msgid "insurance"
+msgstr "Seguro del"
+
+msgid "exp_text"
+msgstr "Experiencia"
+
+msgid "emp_role_org"
+msgstr "Ingrese el rol del empleado en la organización"
+
+msgid "select_one_service"
+msgstr "Debe seleccionar un servicio para continuar Siguiente"
+
+msgid "no_service"
+msgstr "No hay servicios disponibles para el servicio a domicilio"
+
+msgid "service_detail_title"
+msgstr "Detalles del"
+
+msgid "job_description"
+msgstr "servicio Descripción del servicio"
+
+msgid "bid_option"
+msgstr "Opción de oferta"
+
+msgid "upload_image"
+msgstr "Cargar imágenes (si corresponde)"
+
+msgid "date_time"
+msgstr "Fecha y hora"
+
+msgid "job_date"
+msgstr "Fecha del servicio"
+
+msgid "your_proposal_title"
+msgstr "Propuestas de"
+
+msgid "bid_job_title"
+msgstr "oferta Solicitudes de oferta"
+
+msgid "date_time_error"
+msgstr "Seleccione la fecha y hora del calendario"
+
+msgid "proposal_detail_title"
+msgstr "Detalle de la propuesta"
+
+msgid "remark"
+msgstr "Observación"
+
+msgid "bidding_cost"
+msgstr "Precio de la oferta"
+
+msgid "create_proposal_title"
+msgstr "Crear propuesta"
+
+msgid "cost_method"
+msgstr "Método de costo"
+
+msgid "consumer_questions"
+msgstr "Preguntas de las del consumidor"
+
+msgid "bid_requests_title"
+msgstr "solicitudes de"
+
+msgid "bid_details_title"
+msgstr "oferta Detalles de la oferta"
+
+msgid "proposal"
+msgstr "Propuesta"
+
+msgid "bid_proposal"
+msgstr "Propuesta de oferta"
+
+msgid "pay_before_request_text"
+msgstr "Pague y responda a las solicitudes de licitación. Alternativamente, puede actualizar su plan de suscripción"
+
+msgid "send_proposal"
+msgstr "Envíe su propuesta"
+
+msgid "warning_txt"
+msgstr "Advertencia"
+
+msgid "paypal_txt"
+msgstr "PayPal"
+
+msgid "cash_txt"
+msgstr "efectivo"
+
+msgid "check_txt"
+msgstr "Cheque en"
+
+msgid "cash_confirm_question"
+msgstr "Ha aceptado ¿Efectivo del consumidor y confirmación del recibo de efectivo?"
+
+msgid "cash_payment_success"
+msgstr "Gracias, Transacción en efectivo confirmada con éxito"
+
+msgid "confirm_settle"
+msgstr "Confirmar y liquidar"
+
+msgid "cash_collected_consumer"
+msgstr "Efectivo cobrado de del consumidor"
+
+msgid "amount_due_consumer"
+msgstr "Montoadeudado deldel consumidor"
+
+msgid "returned_cash"
+msgstr "Saldo Efectivo devuelto"
+
+msgid "tudo_payment_slip"
+msgstr "Monto adeudado a TUDO"
+
+msgid "amount_be_settled"
+msgstr "Monto del comprobante del Monto a liquidar en el monto de la TUDO"
+
+msgid "invoice_include_tax"
+msgstr "factura de(incluidos los impuestos)"
+
+msgid "tudo_platform_deduction"
+msgstr "consumidor Deducciones de la plataforma TUDO"
+
+msgid "govt_charge_etc"
+msgstr "(tarifas gubernamentales, devoluciones de cargo, Otras tarifas, etc.)"
+
+msgid "check_confirm_question"
+msgstr "¿Ha aceptado el cheque del consumidor y confirma el recibo del cheque?"
+
+msgid "check_payment_success"
+msgstr "Gracias, Verificar la transacción confirmada con éxito"
+
+msgid "check_payment_split"
+msgstr "cheque pago"
+
+msgid "total_check_amt"
+msgstr "Monto total del cheque"
+
+msgid "bank_name"
+msgstr "Nombre del banco"
+
+msgid "check_number"
+msgstr "Número del"
+
+msgid "check_date"
+msgstr "cheque Fecha del cheque"
+
+msgid "infavor_of_name"
+msgstr "A favor del nombre Nombre del"
+
+msgid "signatory_name"
+msgstr "firmante"
+
+msgid "amount_due_from_consumer"
+msgstr "Cantidad de cheque"
+
+msgid "add_check_detail"
+msgstr "Agregar detalles del"
+
+msgid "please_upload_atleast_2_images"
+msgstr "cheque Cargue el frente y el reverso del cheque Fotos"
+
+msgid "you_need_to_add_2_image"
+msgstr "Debe cargar el frente y el reverso del cheque Fotos para proceder al lado"
+
+msgid "upload_check_img"
+msgstr "Subir Comprobar frontal y posterior fotos"
+
+msgid "please_enter_check_proper"
+msgstr "por favor correcta entrada de número de Registro"
+
+msgid "select_check_date"
+msgstr "Seleccione Comprobar Fecha"
+
+msgid "enter_bank_name"
+msgstr "Introducir nombre bancario"
+
+msgid "check_amt"
+msgstr "cheque monto"
+
+msgid "check_rcv_name"
+msgstr "emitido en favor de"
+
+msgid "enter_check_rcv_name"
+msgstr "Enter libradas a favor de"
+
+msgid "check_rcv_name_error"
+msgstr "libradas a favor de"
+
+msgid "enter_check_amt"
+msgstr "Enter cantidad del cheque"
+
+msgid "name_of_sign"
+msgstr "nombre del firmante"
+
+msgid "enter_name_of_signatory"
+msgstr "Introduzca el nombre del signatario"
+
+msgid "check_accepted_wait"
+msgstr "su cheque de pago solicitud procesada, esperando la confirmación del proveedor de servicios"
+
+msgid "subscription_screen_title"
+msgstr "Suscripciones"
+
+msgid "plan_name"
+msgstr "Nombre del plan:"
+
+msgid "plan_cycle"
+msgstr "Ciclo del plan:"
+
+msgid "paid_amount"
+msgstr "Monto pagado:"
+
+msgid "start_date"
+msgstr "Fecha de inicio Fecha de"
+
+msgid "plan_usage"
+msgstr "plan"
+
+msgid "balance"
+msgstr "Saldo"
+
+msgid "entitlement"
+msgstr "Derecho"
+
+msgid "no_limit"
+msgstr "Sin límite"
+
+msgid "qr_code_text"
+msgstr "Código QR para compartir su perfil TUDO"
+
+msgid "notification_center"
+msgstr "Centro de notificaciones"
+
+msgid "accept_schedule"
+msgstr "Aceptar y programar"
+
+msgid "send"
+msgstr "Enviar"
+
+msgid "service_info_text"
+msgstr "información del servicio"
+
+msgid "cancle_txt"
+msgstr "Cancelar"
+
+msgid "purchase_txt"
+msgstr "compra"
+
+msgid "branch_purchased_info"
+msgstr "Debe estar en un plan de suscripción para agregar una sucursal a su cuenta, actualizar su plan de suscripción"
+
+msgid "employee_purchased_info"
+msgstr "Debe b e en un plan de suscripción para añadir Empleado a su cuenta de negocios, actualizar elplan suscripción"
+
+msgid "text_txt"
+msgstr "texto del"
+
+msgid "enter_text_txt"
+msgstr "d'indique texto"
+
+msgid "address_denided_question"
+msgstr "Permita que TUDO acceda a los servicios de ubicación en su dispositivo, presione OK para continuar."
+
+msgid "estimate"
+msgstr "Estimar"
+
+msgid "calendar_txt"
+msgstr "Calendario"
+
+msgid "ask_question_screen_title"
+msgstr "Hacer Pregunta"
+
+msgid "ask_question_seeker"
+msgstr "Escriba sus preguntas a los Oferentes"
+
+msgid "prev_text"
+msgstr "Anterior"
+
+msgid "question_txt"
+msgstr "pregunta"
+
+msgid "ask_question_txt"
+msgstr "Hacer Pregunta"
+
+msgid "paid_total_amt_txt"
+msgstr "pagada, Monto Total"
+
+msgid "fail_job_history"
+msgstr "error al recuperar la historia nombramiento"
+
+msgid "job_history"
+msgstr "nombramiento Historia"
+
+msgid "by_txt"
+msgstr "Por"
+
+msgid "confirm_accepting_changes"
+msgstr "Confirmar que usted está de acuerdo y acepta las enmiendas de la cita de servicio"
+
+msgid "confirm_rejecting_desc"
+msgstr "Confirme que está rechazando las enmiendas de la cita de servicio"
+
+msgid "begin_service_que"
+msgstr "Está a punto de comenzar a atender a su consumidor en esta cita de servicio"
+
+msgid "onboard_process_desc"
+msgstr "¿Está seguro de que el consumidor está cerca / con usted y listo para aceptar sus servicios?"
+
+msgid "plan_appoint_date"
+msgstr "Fecha de la cita de servicio planificada:"
+
+msgid "reason_dispute"
+msgstr "motivos de la disputa"
+
+msgid "enter_reason_txt"
+msgstr "Ingrese una razón válida"
+
+msgid "uodate_forward_dispute"
+msgstr "."
+
+msgid "dispute_que"
+msgstr "¿Está seguro de que la disputa se resolvió?"
+
+msgid "are_you_appoint"
+msgstr "Confirme que ha cumplido con las necesidades de la cita de servicio"
+
+msgid "completed_generated_que"
+msgstr "y que está listo para generar la factura."
+
+msgid "confirmation_text"
+msgstr "Confirmación"
+
+msgid "email_has_been_already_taken"
+msgstr ""
+
+msgid "error_while_creating_user_install"
+msgstr ""
+
+msgid "error_while_updating_user_install"
+msgstr "¡Error al actualizar la instalación del usuario!"
+
+msgid "something_went_wrong_while_getting_user_install"
+msgstr "Se produjo un error al recuperar la instalación del usuario. ¡"
+
+msgid "unable_to_create_or_update_user_install"
+msgstr "No se puede crear o actualizar la instalación del usuario!"
+
+msgid "device_token_is_missing_in_install_params"
+msgstr "Falta el token del dispositivo en los parámetros de instalación."
+
+msgid "more_than_one_results_against_user_and_fcm_token"
+msgstr "Más de un resultado contra el usuario y el token FCM ¡"
+
+msgid "invalid_email_or_some_internet_issue"
+msgstr "Correo electrónico / contraseña no válidos o problema de Internet!"
+
+msgid "user_is_blocked"
+msgstr "El perfil de usuario está bloqueado."
+
+msgid "user_is_rejected"
+msgstr "El perfil de usuario está rechazado."
+
+msgid "confirmation_pending"
+msgstr "Confirmación de su cuenta pendiente."
+
+msgid "bid_does_not_exist"
+msgstr "¡La oferta no existe!"
+
+msgid "unexpected_error_occurred"
+msgstr "Se produjo un error inesperado, inténtelo de nuevo."
+
+msgid "branch_does_not_exist"
+msgstr "¡La rama comercial no existe!"
+
+msgid "this_business_does_not_belongs_to_you"
+msgstr "Este negocio no le pertenece"
+
+msgid "enable_to_fetch_business"
+msgstr "Habilite para buscar Negocio"
+
+msgid "this_branch_does_not_belongs_to_you"
+msgstr "Este negocio no le pertenece"
+
+msgid "enable_to_check_business_for_this_branch"
+msgstr "Habilite para verificar el negocio de esta sucursal"
+
+msgid "already_have_a_branch_for_this_business"
+msgstr "Ya existe una sucursal con el mismo nombre para su negocio"
+
+msgid "enable_to_fetch_branch"
+msgstr "Habilite para buscar Sucursal"
+
+msgid "enable_to_fetch_geo_zones"
+msgstr "Habilite para buscar zonas geográficas"
+
+msgid "enable_to_fetch_country_services"
+msgstr "Habilite para buscar País Servicios"
+
+msgid "enable_to_fetch_service_types"
+msgstr "Habilitar para obtener tipos de servicio"
+
+msgid "enable_to_upsert_branch_services"
+msgstr "Habilitar para actualizar Servicios de sucursal"
+
+msgid "this_user_have_a_business_with_same_name"
+msgstr "Este usuario tiene una empresa con el mismo nombre"
+
+msgid "enable_to_fetch_user"
+msgstr "Habilitar para buscar Usuario"
+
+msgid "enable_to_create_branch"
+msgstr "Habilitar para crear sucursal"
+
+msgid "invalid_business_id_or_country_service_id"
+msgstr "Business_id o Country_Service_id no válidos"
+
+msgid "dynamic_screen_exists_for_this_business_and_cs"
+msgstr "La pantalla dinámica ya existe para esta empresa y el servicio de país"
+
+msgid "dynamic_screen_exists_for_this_country_service"
+msgstr "La pantalla dinámica ya existe para estaservicio de país"
+
+msgid "dynamic_screen_does_not_exist"
+msgstr "dinámica deLa pantalla no existe"
+
+msgid "business_or_dynamic_screen_is_not_correct"
+msgstr "La pantalla empresarial y / o dinámica es incorrecta."
+
+msgid "dynamic_screen_is_not_correct"
+msgstr "¡La pantalla dinámica es correcta!"
+
+msgid "dynamic_group_already_exists"
+msgstr "El grupo dinámico ya existe ¡"
+
+msgid "dynamic_group_or_screen_does_not_exist"
+msgstr "El grupo dinámico o la pantalla no existe!"
+
+msgid "dynamic_group_does_not_exist"
+msgstr "¡El grupo dinámico no existe!"
+
+msgid "dynamic_group_screen_relation_does_not_exist"
+msgstr "La relación entre la pantalla dinámica y el grupo no existe ¡"
+
+msgid "notification_can_not_send"
+msgstr "No se puede enviar la notificación!"
+
+msgid "token_already_sent"
+msgstr "¡Token ya enviado!"
+
+msgid "employee_already_exist"
+msgstr "¡El registro de empleado ya existe!"
+
+msgid "enable_to_fetch_employee"
+msgstr "Habilitar para buscar Empleado"
+
+msgid "enable_to_create_user"
+msgstr "Habilitar para crear el usuario"
+
+msgid "manager_does_not_exist"
+msgstr "Administrador de usuarios no existe."
+
+msgid "manager_do_not_exist_under_that_business"
+msgstr "¡El usuario administrador no existe en este negocio!"
+
+msgid "manager_invalid"
+msgstr "¡Usuario de Manager no válido!"
+
+msgid "invalid_branch"
+msgstr "¡ElBranchválido"
+
+msgid "manager_does_not_belong_to_given_branch"
+msgstr "usuario deManager nono pertenece a la sucursal!"
+
+msgid "unable_to_validate_manager"
+msgstr "¡No se puede validar el usuario de Manager!"
+
+msgid "invoice_does_not_exist"
+msgstr "¡La factura no existe!"
+
+msgid "sales_tax_settings_not_found"
+msgstr "No se encontró la configuración del impuesto sobre las ventas para empresas"
+
+msgid "error_in_getting_sales_tax_settings"
+msgstr "Error al obtener la configuración del impuesto sobre las ventas. ¡"
+
+msgid "unable_to_make_estimated_job_cost"
+msgstr "No se puede calcular el costo estimado del trabajo!"
+
+msgid "settings_fields_does_not_have_valid_keys"
+msgstr "Los campos de la tabla de configuración no tienen claves válidas"
+
+msgid "invoice_not_created_successfully"
+msgstr "No se pudo generar la factura, ¡inténtelo de nuevo!"
+
+msgid "you_are_not_permitted"
+msgstr "¡No está permitido realizar esta acción!"
+
+msgid "invalid_invoice_or_job"
+msgstr "Trabajo o factura no válidos, inténtelo de nuevo."
+
+msgid "max_change_invoice_limit_reached"
+msgstr "¡Se alcanzó el límite máximo permitido de ajustes de factura / día!"
+
+msgid "unable_to_check_adjust_count"
+msgstr "No se pueden verificar los ajustes de la factura / recuento de días."
+
+msgid "can_not_update_job_status"
+msgstr "No se puede actualizar el estado del trabajo."
+
+msgid "job_does_not_exist"
+msgstr "¡El trabajo no existe!"
+
+msgid "unexpected_error_occurred_while_updating_group_status"
+msgstr "Se produjo un error inesperado al actualizar el estado del grupo."
+
+msgid "unable_to_update_Service Provider_meta"
+msgstr "No se puede actualizar el meta del proveedor de servicios"
+
+msgid "unable_to_update_Consumer_meta"
+msgstr "No se puede actualizar el meta del consumidor El"
+
+msgid "new_employee_does_not_exist"
+msgstr "registro de nuevo empleado no existe"
+
+msgid "error_in_verifying_job_status"
+msgstr "Error al verificar el estado del trabajo"
+
+msgid "unable_to_verify_job_status"
+msgstr "No se puede verificar el estado del trabajo"
+
+msgid "unable_to_verify_job_updating_timing"
+msgstr "No se puede verificar el tiempo de actualización del trabajo"
+
+msgid "can_not_start_work_outside_request_time"
+msgstr "No se puede comenzar a trabajar fuera de la hora de solicitud del consumidor"
+
+msgid "error_in_verifying_provider_for_rescheduling"
+msgstr "Error al verificar el proveedor de servicios para reprogramar"
+
+msgid "unable_verify_provider_for_rescheduling"
+msgstr "No se puede verificar el proveedor de servicios para reprogramar"
+
+msgid "some_compulsory_parameter_is_missing"
+msgstr "Algo incorrecto en la clave externa O falta el parámetro obligatorio Los parámetros de"
+
+msgid "job_params_are_not_correct"
+msgstr "trabajo no son correctos"
+
+msgid "something_went_wrong_in_schedule"
+msgstr "Algo salió mal en la programación"
+
+msgid "can_not_delete_leads"
+msgstr "No se pueden eliminar los clientes potenciales, algo salió mal El"
+
+msgid "employee_service_does_not_exist"
+msgstr "servicio del empleado no existe"
+
+msgid "error_in_validate_employee"
+msgstr "Error en la validación del empleado El"
+
+msgid "employee_does_not_available"
+msgstr "empleado no existe , estado inválido o contrato vencido!"
+
+msgid "self_job_posting_is_not_allowed"
+msgstr "No se permite la publicación de trabajo para Self"
+
+msgid "unable_to_verify_self_job_posting"
+msgstr "No se puede verificar la publicación de Self Job"
+
+msgid "no_need_to_check_availability_now"
+msgstr "No es necesario verificar la disponibilidad ahora"
+
+msgid "provider_is_not_available_now"
+msgstr "El proveedor de servicios seleccionado no está disponible en este momento, ¡busque nuevamente!"
+
+msgid "something_went_wrong_while_searching_Service Provider"
+msgstr "Se produjo un error durante la búsqueda del proveedor de servicios. Vuelva a intentarlo."
+
+msgid "unable_to_check_provider_availability"
+msgstr "No se puede determinar la disponibilidad del proveedor de servicios. El"
+
+msgid "employee_contract_expired"
+msgstr "contrato del empleado expiró. ¡"
+
+msgid "notification_sent"
+msgstr "Notificación enviada!"
+
+msgid "can_not_send_notification"
+msgstr "Algo salió mal, no se puede enviar la notificación"
+
+msgid "error_in_fetching_branch_service"
+msgstr "Error al obtener elservicio de sucursal"
+
+msgid "error_while_adding_ewd_in_params"
+msgstr "error delal agregar la duración de trabajo esperada de la configuración en los parámetros"
+
+msgid "error_in_fetching_ewd_settings"
+msgstr "Error al obtener la configuración de la duración del trabajo esperada"
+
+msgid "branch_service_id_missing_to_get_ewd"
+msgstr "Falta la identificación del servicio de sucursal para leer la duración del servicio de la configuración"
+
+msgid "cost_missing_in_params_and_error_in_fetching_proposal"
+msgstr "Falta el costo estimado en los parámetros y el error en obteniendo la propuesta de oferta para determinar el costo estimado"
+
+msgid "unable_to_make_job_cost"
+msgstr "No se puede determinar el costo estimado, inténtelo de nuevo."
+
+msgid "no_price_settings_for_type_and_cs"
+msgstr "El costo estimado no se encuentra en la configuración con el servicio."
+
+msgid "more_than_one_records_in_settings"
+msgstr "Se encontraron varios registros en la configuración con los datos proporcionados"
+
+msgid "invalid_service_type"
+msgstr ". Tipo deno válido. ¡"
+
+msgid "settings_service_rates_does_not_exist"
+msgstr "servicioLa configuración de la tarifa de servicio no existe!"
+
+msgid "promotion_already_exist"
+msgstr "¡La promoción ya existe!"
+
+msgid "enable_to_fetch_promotion"
+msgstr "Habilitar para recuperar promociones"
+
+msgid "promotion_status_is_invalid"
+msgstr "Estado deválido La"
+
+msgid "promotion_does_not_exist"
+msgstr "promoción nopromoción no existe"
+
+msgid "you_do_not_have_valid_available_promotion"
+msgstr "No hay promoción válida disponible con estos datos"
+
+msgid "error_while_making_promotion_used"
+msgstr "Se ha producido un error al calcular el uso de la promoción"
+
+msgid "enable_to_validate_promotion"
+msgstr "Habilitar para validar la promoción"
+
+msgid "missing_params_for_promotion_validation"
+msgstr "Falta algo en los parámetros para la validación de la promoción El"
+
+msgid "country_does_not_exist"
+msgstr "país no existe"
+
+msgid "enable_to_fetch_country"
+msgstr "Habilitar para recuperar el país El"
+
+msgid "service_does_not_exist"
+msgstr "servicio no existe"
+
+msgid "enable_to_fetch_service"
+msgstr "Habilitar para recuperar el servicio"
+
+msgid "enable_to_fetch_employee_service"
+msgstr "Habilitar para recuperar el servicio del empleado"
+
+msgid "enable_to_fetch_country_service"
+msgstr "Habilitar para recuperar el servicio de país El servicio de país"
+
+msgid "active_country_service_does_not_exist"
+msgstr "activo no existe El"
+
+msgid "branch_service_already_exist"
+msgstr "servicio de sucursal ya existe para los parámetros dados El"
+
+msgid "branch_service_does_not_exist"
+msgstr "servicio de sucursal no existe"
+
+msgid "error_in_getting_branch_service"
+msgstr "Error al obtener el servicio de sucursal"
+
+msgid "error_in_branch_service_creation"
+msgstr "Error al crear el servicio de sucursal"
+
+msgid "error_while_updating_settings"
+msgstr "Error al actualizar la configuración Configuración de"
+
+msgid "unable_to_update_settings_on_bs_creation"
+msgstr "sucursal en la creación de servicio no pudo, inténtelo de nuevo"
+
+msgid "error_in_update_setting"
+msgstr "Algo salió mal en la actualización deconfiguración del"
+
+msgid "no_service_radius_setting"
+msgstr "la configuraciónservicio Radius que faltan para la Oficina esta"
+
+msgid "no_services_expected_work_duration_setting"
+msgstr "deServicios paraconfiguración de trabajo duración prevista faltantes para estaEsfera"
+
+msgid "no_services_rates_setting"
+msgstr "configuración de serviciosdetarifa que falta para estala rama"
+
+msgid "no_service_sales_tax_setting"
+msgstr "configuración dede servicio de impuestos de ventas que faltan para esta rama de"
+
+msgid "error_in_updating_branch_service"
+msgstr "error al actualizar Branch servicio"
+
+msgid "merchant_account_does_not_exist"
+msgstr "cuenta mercantil no existe"
+
+msgid "unable_to_fetch_merchant_account"
+msgstr "Entonces Algo salió mal, no se pudo recuperar la cuenta del comerciante"
+
+msgid "something_went_wrong_bt_parameters"
+msgstr "Algo salió mal con los parámetros de Braintree Payment Gateway"
+
+msgid "merchant_not_created_successfully"
+msgstr "Algo salió mal, la creación de la cuenta del comerciante falló La"
+
+msgid "bt_account_does_not_exist"
+msgstr "cuenta de Braintree no existe"
+
+msgid "unable_to_fetch_bt_account"
+msgstr "No se puede recuperar la cuenta de Braintree Payment Gateway"
+
+msgid "payment_method_does_not_exist"
+msgstr "El método de pago no existe"
+
+msgid "unable_to_fetch_payment_method"
+msgstr "No se puede recuperar el método de pago"
+
+msgid "unable_to_create_bt_payment_method"
+msgstr "No se puede crear el método de pago de Braintree"
+
+msgid "unable_to_update_bt_payment_method"
+msgstr "No se puede actualizar el método de pago de Braintree"
+
+msgid "unable_to_update_local_payment_method"
+msgstr "No se puede actualizar el método de pago local"
+
+msgid "unable_to_delete_payment_method"
+msgstr "No se puede eliminar el método de pago"
+
+msgid "unable_to_delete_bt_payment_method"
+msgstr "No se puede eliminar el método de pago de Braintree"
+
+msgid "invalid_user_or_password"
+msgstr "Usuario y / o contraseña no válidos"
+
+msgid "you_business_already_have_bought_package"
+msgstr "Su empresa ya está inscrita en este paquete de"
+
+msgid "subscription_does_not_exist"
+msgstr "suscripción ¡El paquete de suscripción no existe!"
+
+msgid "more_than_one_subscriptions"
+msgstr "Más de una suscripción ¡"
+
+msgid "some_thing_went_wrong_with_subscription_params"
+msgstr "Se produjo un error con los parámetros delsuscripción de Braintree"
+
+msgid "error_while_retrying_charge_subscription"
+msgstr "error deal volver a intentar cargar la suscripción de Braintree!"
+
+msgid "Service Provider_subscription_rule_does_not_exist"
+msgstr "¡Esta regla de suscripción de proveedor de servicios no existe!"
+
+msgid "Consumer_subscription_rule_does_not_exist"
+msgstr "¡Esta regla de suscripción al consumidor no existe!"
+
+msgid "bt_subscription_status_does_not_exist"
+msgstr "¡Este estado de suscripción a Braintree no existe!"
+
+msgid "user_does_not_exist"
+msgstr "¡Este usuario no existe!"
+
+msgid "business_does_not_exist"
+msgstr "¡Este negocio no existe!"
+
+msgid "no_need_to_get_wallet"
+msgstr "¡No es necesario tener billetera!"
+
+msgid "please_select_a_payment_method"
+msgstr "Seleccione un método de pago."
+
+msgid "no_subscription_rule_against_plan_and_country"
+msgstr "La regla / plan de suscripción no existe para este país"
+
+msgid "no_available_promotion_is_to_be_created"
+msgstr ". Excedió el límite de la promoción en su paquete de suscripción."
+
+msgid "more_than_one_rule_against_your_country_and_package"
+msgstr "Varias reglas de suscripción para su país y paquete de suscripción."
+
+msgid "brain_tree_subscription_failed"
+msgstr "Algo salió mal. ¡La suscripción a Braintree falló!"
+
+msgid "error_while_creating_bt_subscription"
+msgstr "Produjo un error al crearde Braintree suscripción"
+
+msgid "no_record_against_plan_id_and_country"
+msgstr "el plansuscripción no existe para este país"
+
+msgid "unable_to_create_local_subscription"
+msgstr "no se puede crear suscripción local,"
+
+msgid "unable_to_create_local_payment"
+msgstr "no se puede crearde pago"
+
+msgid "error_while_creating_balance"
+msgstr "errorlocal,mientras que la creación de Equilibrio"
+
+msgid "error_while_updating_balance"
+msgstr "de error durante la actualización del balance"
+
+msgid "error_while_getting_balance"
+msgstr "de error al obtener Equilibrio"
+
+msgid "unable_to_fetch_bt_subscription"
+msgstr "Imposible obtener Braintree suscripción"
+
+msgid "unable_to_update_bt_subscription"
+msgstr "No se puede actualizar Braintree suscripción"
+
+msgid "unable_to_cancel_bt_subscription"
+msgstr "No es posible cancelar Suscripción Braintree"
+
+msgid "something_wrong_with_bt_transaction_parameters"
+msgstr "Algo salió mal con los parámetros para la transacción Braintree"
+
+msgid "unable_to_create_payment_method_nonce"
+msgstr "Algo salió mal, no se pudo crear el Método de Pago Nonce"
+
+msgid "error_in_adding_donations_and_tips"
+msgstr "Error al agregar Donaciones y Propinas!"
+
+msgid "can_not_add_donations_and_tips"
+msgstr "Algo salió mal, no se pueden agregar donaciones y propinas."
+
+msgid "brain_tree_transaction_failed"
+msgstr "Algo salió mal, la transacción de Braintree Payment falló."
+
+msgid "amount_is_missing_in_coming_params"
+msgstr "¡Faltan parámetros de cantidad!"
+
+msgid "unable_to_create_transaction"
+msgstr "Algo salió mal, no se pudo crear la transacción"
+
+msgid "can_not_create_local_transaction"
+msgstr "Algo salió mal, no se puede crear la transacción local"
+
+msgid "unable_to_create_local_transaction"
+msgstr "Algo salió mal, no se pudo crear la transacción local"
+
+msgid "can_not_calculate_amount_shares"
+msgstr "Algo salió mal, no se puede calcular la propina, las donaciones y el monto del proveedor de servicios."
+
+msgid "error_while_creating_Consumer_spent_amount"
+msgstr "Error al crear la cantidad gastada por el consumidor"
+
+msgid "error_while_updating_Consumer_spent_amount"
+msgstr "Error al actualizar la cantidad gastada por el consumidor"
+
+msgid "error_while_getting_Consumer_spent_amount"
+msgstr "Error al obtener la cantidad gastada por el consumidor ¡La"
+
+msgid "transaction_does_not_exist"
+msgstr "transacción no existe!"
+
+msgid "unable_to_fetch_bt_transaction"
+msgstr "Algo salió mal, no se pudo recuperar la transacción de Braintree."
+
+msgid "failed_to_refund_transaction"
+msgstr "Algo salió mal, no se pudo reembolsar la transacción."
+
+msgid "bt_customer_already_exists"
+msgstr "¡La cuenta de cliente de Braintree ya existe!"
+
+msgid "bt_customer_does_not_exist"
+msgstr "La cuenta de cliente de Braintree no existe"
+
+msgid "unable_to_fetch_customer"
+msgstr "No se puede recuperar Cliente"
+
+msgid "unable_to_fetch_brain_tree_customer"
+msgstr "No se puede recuperar Cliente de Braintree"
+
+msgid "unable_to_create_customer"
+msgstr "No se puede crear Cliente"
+
+msgid "unable_to_update_brain_tree_customer"
+msgstr "No se puede actualizar Cliente de Braintree"
+
+msgid "unable_to_delete_customer"
+msgstr "No se puede borrar Cliente"
+
+msgid "unable_to_delete_brain_tree_customer"
+msgstr "No se puede borrar Cliente de Braintree"
+
+msgid "hyper_wallet_user_does_not_exist"
+msgstr "HyperWallet El usuario no existe"
+
+msgid "more_than_one_hw_records_against_this_user"
+msgstr "Múltiples registros de Hyperwallet contra este Usuario"
+
+msgid "unable_to_fetch_local_hw_user"
+msgstr "No se puede recuperar local El usuario de Hyperwallet"
+
+msgid "unable_to_list_transfer_methods_of_that_user"
+msgstr "no puede enumerar los métodos de transferencia para el usuario."
+
+msgid "hw_transfer_method_does_not_exist"
+msgstr "El método de transferencia de Hyperwallet no existe"
+
+msgid "unable_to_fetch_transfer_method"
+msgstr "No se puede recuperar el método de transferencia El método de transferencia de"
+
+msgid "no_hw_transfer_method_exist"
+msgstr "Hyperwallet no existe"
+
+msgid "error_while_getting_branch"
+msgstr "Error al obtener la sucursal"
+
+msgid "unable_to_get_Service Provider_minimum_transfer_limit"
+msgstr "No se puede obtener el límite de transferencia mínimo del proveedor de servicios"
+
+msgid "unable_to_get_Service Provider_maximum_transfer_limit"
+msgstr "No se puede obtener el límite de transferencia máximo del proveedor de servicios"
+
+msgid "error_in_updating_available_balance"
+msgstr "Error al actualizar Saldo disponible Saldo"
+
+msgid "insufficient_balance"
+msgstr "insuficiente"
+
+msgid "error_in_getting_available_balance"
+msgstr "Error al buscar Disponible Saldo"
+
+msgid "unable_to_create_hw_payment"
+msgstr "No se puede crear el pago de Hyperwallet."
+
+msgid "unable_to_get_hw_payment"
+msgstr "¡No se puede obtener el pago de Hyperwallet!"
+
+msgid "unable_to_create_hw_transfer"
+msgstr "¡No se puede crear la transferencia de Hyperwallet!"
+
+msgid "unable_to_create_hw_transfer_method"
+msgstr "¡No se puede crear el método de transferencia Hyperwallet!"
+
+msgid "unable_to_create_hw_local_transfer_method"
+msgstr "¡No se puede crear el método de transferencia local de Hyperwallet!"
+
+msgid "unable_to_update_hw_local_transfer_method"
+msgstr "No se puede actualizar el método de transferencia local"
+
+msgid "error_in_updating_local_hw_transfer_method"
+msgstr "Error al actualizar el método de transferencia local de Hyperwallet"
+
+msgid "hyper_wallet_user_already_exists"
+msgstr "¡El usuario de Hyperwallet ya existe!"
+
+msgid "unable_to_create_hw_user"
+msgstr "¡No se puede crear un usuario de Hyperwallet!"
+
+msgid "unable_to_create_hw_local_user"
+msgstr "No se puede crear el usuario local de Hyperwallet. ¡"
+
+msgid "unable_to_update_hw_user"
+msgstr "No se puede actualizar el usuario de Hyperwallet!"
+
+msgid "unable_to_get_hw_user"
+msgstr "¡No se pudo obtener el usuario de Hyperwallet!"
+
+msgid "amount_could_not_verified"
+msgstr "¡El monto de la transacción no se pudo verificar con el monto de la factura!"
+
+msgid "error_in_fetching_invoice_to_verify_amount"
+msgstr "Error al obtener la factura para verificar el monto de la transacción."
+
+msgid "no_record_for_promotion_price_verification"
+msgstr "No existe ningún registro para la verificación del precio de la promoción."
+
+msgid "could_not_verify_promotion_amount"
+msgstr "Se produjo un error al verificar el monto de la promoción de"
+
+msgid "no_subscription_Service Provider_rule"
+msgstr "suscripción. ¡La regla de suscripción para el proveedor de servicios no existe!"
+
+msgid "available_promotion_is_not_created"
+msgstr "La promoción disponible no se crea ¡"
+
+msgid "can_not_add_donation_and_tip_amounts"
+msgstr "No se pueden agregar montos de donaciones y propinas!"
+
+msgid "can_not_get_Service Provider_subscription"
+msgstr "No se pueden obtener las suscripciones del proveedor de servicios. Los"
+
+msgid "params_for_calculating_shares_not_correct"
+msgstr "parámetros para calcular la transacción local no son correctos. ¡no"
+
+msgid "unauthorized"
+msgstr "Elautorizado"
+
+msgid "user_status_is_not_confirmed"
+msgstr "estado de usuariono está confirmado!"
+
+msgid "unable_to_convert_string_to_time"
+msgstr "No se puede convertir la cadena a formato de hora. El"
+
+msgid "device_not_correct"
+msgstr "dispositivo no es correcto o no es compatible. ¡"
+
+msgid "cannot_send_android_notification"
+msgstr "No se pueden enviar notificaciones de Android!"
+
+msgid "cannot_send_ios_notification"
+msgstr "¡No se pueden enviar notificaciones de IOS!"
+
+msgid "dashboard_auto_refresh"
+msgstr "Actualización automática del panel"
+
+msgid "share_location_with_user"
+msgstr "Comparta su ubicación"
+
+msgid "error_while_fetching_branch_availability"
+msgstr "Error al obtener la disponibilidad de la sucursal La"
+
+msgid "availability_settings_does_not_exist"
+msgstr "configuración de disponibilidad para esta sucursal no existe"
+
+msgid "unable_to_create_bid"
+msgstr "Algo salió mal, no se pudo crear la Oferta, vuelva a intentarlo"
+
+msgid "can_not_create_bid"
+msgstr "Algo salió mal, no se puede crear la Oferta"
+
+msgid "unable_to_update_bid"
+msgstr "Algo salió incorrecto, no se puede actualizar la oferta"
+
+msgid "can_not_update_bid"
+msgstr "Algo salió mal, no se puede actualizar la oferta"
+
+msgid "can_not_delete_bid"
+msgstr "Algo salió mal, no se puede eliminar la oferta"
+
+msgid "unable_to_create_bid_proposal"
+msgstr "Algo salió mal, no se pudo crear la propuesta de oferta"
+
+msgid "can_not_create_bid_proposal"
+msgstr "Algo salió mal, no se puede crear la propuesta de"
+
+msgid "bid_proposal_does_not_exist"
+msgstr "oferta ¡La propuesta de oferta no existe!"
+
+msgid "service_type_does_not_exist"
+msgstr "¡El tipo de servicio no existe!"
+
+msgid "error_in_getting_availability_settings"
+msgstr "Error al recuperar la configuración de disponibilidad para esta sucursal"
+
+msgid "can_not_delete_branch"
+msgstr "Algo salió mal, no se puede eliminar la sucursal. Los servicios están asociados con la sucursal. El"
+
+msgid "business_does_not_exist_for_that_user"
+msgstr "negocio no existe para ese usuario."
+
+msgid "access_denied"
+msgstr "Acceso denegado."
+
+msgid "dynamic_field_does_not_exist"
+msgstr "El campo dinámico no existe. ¡"
+
+msgid "dynamic_group_already_attached_to_that_screen"
+msgstr "El grupo dinámico ya adjunto a lapantalla"
+
+msgid "dynamic_field_tag_does_not_exist"
+msgstr "etiqueta de campo dinámico deno existe!"
+
+msgid "dynamic_field_type_does_not_exist"
+msgstr "¡El tipo de campo dinámico no existe!"
+
+msgid "can_not_update"
+msgstr "Algo salió mal, no se puede actualizar"
+
+msgid "can_not_delete"
+msgstr "Algo salió mal, no se puede borrar"
+
+msgid "can_not_insert"
+msgstr "Algo salió mal, no se puede insertar"
+
+msgid "can_not_get"
+msgstr "Algo salió mal, no se puede recuperar"
+
+msgid "error_in_deleting_employee_setting"
+msgstr "Error al eliminar Configuración del empleado"
+
+msgid "error_in_updating_employee_setting"
+msgstr "Error al actualizar la configuración del empleado"
+
+msgid "error_in_creating_employee_setting"
+msgstr "Error al crear la configuración del"
+
+msgid "employee_type_does_not_exist"
+msgstr "empleado El tipo de empleado no ¡No existe!"
+
+msgid "employee_status_does_not_exist"
+msgstr "¡El estado de empleado no existe!"
+
+msgid "employee_role_does_not_exist"
+msgstr "¡El rol de empleado no existe!"
+
+msgid "pay_rate_does_not_exist"
+msgstr "¡La tarifa de pago del empleado no existe!"
+
+msgid "file_not_uploaded_successfully"
+msgstr "Algo salió mal, la carga del archivo fallóno"
+
+msgid "invalid_file"
+msgstr ". Formato de archivoválido, carga bloqueada."
+
+msgid "icon_not_uploaded_successfully"
+msgstr "¡El icono no se ha subido correctamente!"
+
+msgid "unable_to_fetch_geo_zones"
+msgstr "Se produjo un error, no se pudieron recuperar las zonas geográficas."
+
+msgid "unable_to_list_hw_payments"
+msgstr "¡Algo salió mal, no se pueden enumerar las transacciones de Hyperwallet!"
+
+msgid "unable_to_get_currencies_and_transfer_method_types"
+msgstr "Algo salió mal, no se pudieron recuperar las monedas y los tipos de métodos de transferencia debido a una solicitud de"
+
+msgid "unable_to_get_currencies_and_transfer_method_types_si"
+msgstr "interrupción de la conexión, no se pudieron recuperar las monedas y los tipos de métodos de transferencia"
+
+msgid "error_in_fetching_currencies_and_transfer_methods"
+msgstr "Error al obtener las monedas y los métodos de transferencia de Hyperwallet"
+
+msgid "unable_to_list_transfer_method_fields"
+msgstr "Algo salió mal, ¡no se pueden enumerar los campos del método de transferencia!"
+
+msgid "any_required_parameter_is_missing"
+msgstr "¡Faltan algunos de los parámetros obligatorios!"
+
+msgid "invalid_transfer_method_type"
+msgstr "Tipo de método de transferencia no válido, verifique su entrada."
+
+msgid "unable_to_get_transfer_method_by_token"
+msgstr "Se produjo un error, no se pudo recuperar el método de transferencia con este token y se produjo untipo"
+
+msgid "error_in_reformatting_results_after_decoding"
+msgstr "error deal reformatear los resultados después de la decodificación."
+
+msgid "_max_allowed_taxes_and_discounts_does_not_exit"
+msgstr "¡La configuración de la sucursal para los impuestos y descuentos máximos permitidos no sale!"
+
+msgid "error_while_getting_branch_settings"
+msgstr "Error mientrasla recuperación deBranch Ajustes"
+
+msgid "error_Service Provider_allowed_to_add_taxes_and_discounts"
+msgstr "se produjoerror inesperadodurante proveedor de servicios de la adición de impuestos y descuentos"
+
+msgid "error_Service Provider_allowed_to_add_discounts"
+msgstr "producido un error inesperado durante el Proveedor de Servicios de la adición de Descuentos"
+
+msgid "error_Service Provider_allowed_to_add_taxes"
+msgstr "producido un error inesperado durante el Proveedor de Servicios de la adición de Impuestos"
+
+msgid "Service Provider_not_allowed_to_add_taxes"
+msgstr "proveedor de servicios no pueden Anadir Impuestos"
+
+msgid "Service Provider_not_allowed_to_add_discounts"
+msgstr "proveedor de servicios no pueden Anadir Descuentos"
+
+msgid "something_went_wrong_in_calculation"
+msgstr "algo salió mal en la factura cálculo de la cantidad!"
+
+msgid "bidding_proposal_does_not_exist"
+msgstr "¡Esta propuesta de licitación no existe!"
+
+msgid "job_category_does_not_exist"
+msgstr "¡Esta categoría de trabajo no existe!"
+
+msgid "job_status_does_not_exist"
+msgstr "¡El estado del trabajo que estás intentando no existe!"
+
+msgid "can_not_get_job"
+msgstr "Se produjo un error inesperado mientras el proveedor de servicios agregaba los impuestos y los descuentos no pueden recuperar el trabajo."
+
+msgid "holiday_already_exists"
+msgstr "Las vacaciones ya existen en su calendario de vacaciones"
+
+msgid "input_time_from_and_to_is_same"
+msgstr "Desde y Hasta: la hora es la misma, corrija su entrada y vuelva a intentarlo."
+
+msgid "holiday_does_not_exist"
+msgstr "Las vacaciones no existen en su calendario de vacaciones ¡"
+
+msgid "free_Service Provider_rule_does_not_exist"
+msgstr "La regla de suscripción gratuita para proveedores de servicios no existe!"
+
+msgid "more_than_one_subscription_Service Provider_rules"
+msgstr "Varias reglas de suscripción de proveedores de servicios disponibles para este paquete y país"
+
+msgid "unable_to_create_subscription_Service Provider_rule"
+msgstr "Algo salió mal, no se pudo crear la regla de suscripción de proveedor de servicios"
+
+msgid "already_a_subscription_rule"
+msgstr "Ya tiene una regla de suscripción contra el ID de paquete y el país proporcionados"
+
+msgid "unable_to_update_subscription_Service Provider_rule"
+msgstr "Algo salió mal, no se puede actualizar la regla de suscripción de Service Proficer"
+
+msgid "unable_to_get_subscription_Service Provider_rule"
+msgstr "Algo salió mal, no puede para recuperar la regla de suscripción para el proveedor de servicios"
+
+msgid "unable_to_delete_subscription_Service Provider_rule"
+msgstr "Algo salió mal, no se pudo eliminar la regla de suscripción para el proveedor de servicios"
+
+msgid "unable_to_update_pricing"
+msgstr "Algo salió mal, no se pudo actualizar el precio de la suscripción"
+
+msgid "unable_to_delete_pricing"
+msgstr "Algo salió mal, no se pudo eliminar el precio de la suscripción"
+
+msgid "unable_to_purchase_promotion"
+msgstr "No hay promoción disponible y no se puede comprar la promoción"
+
+msgid "error_in_creating_promotion_purchase_price"
+msgstr "Error al crear la promoción precio de compra, inténtelo de nuevo ¡"
+
+msgid "no_Service Provider_earnings"
+msgstr "El proveedor de servicios no tiene ganancias hasta ahora!"
+
+msgid "dispute_category_does_not_exist"
+msgstr "¡La categoría de disputa no existe!"
+
+msgid "dispute_status_does_not_exist"
+msgstr "¡El estado de disputa no existe!"
+
+msgid "input_parameters_not_correct_for_deals"
+msgstr "Reglas de suscripción de múltiples proveedores de servicios disponibles para este paquete y país"
+
+msgid "no_used_or_available_promotion"
+msgstr "No tiene uso de la promoción o elegibilidad en su paquete de suscripción"
+
+msgid "no_used_promotion"
+msgstr "No tiene ninguna promoción usada en su paquete de suscripción"
+
+msgid "no_available_promotion"
+msgstr "No tiene promociones disponibles en su paquete de suscripción"
+
+msgid "error_while_getting_user"
+msgstr "Algo salió ¡Se produjo un error incorrecto e inesperado al recuperar el usuario!"
+
+msgid "business_does_not_provide_that_service"
+msgstr "Su empresa no proporciona losservicio solicitados"
+
+msgid "already_exist"
+msgstr "datos de."
+
+msgid "does_not_exist"
+msgstr "¡Los datos no existen!"
+
+msgid "settings_does_not_exist"
+msgstr "¡La configuración no existe!"
+
+msgid "unable_to_create_user_installs"
+msgstr "Algo salió mal, no se pudieron crear instalaciones de usuario."
+
+msgid "unable_to_update_user_installs"
+msgstr "Se produjo un error, no se pudieron actualizar las instalaciones del usuario."
+
+msgid "error_while_updating_user_installs"
+msgstr "Se produjo un error al actualizar las instalaciones del usuario."
+
+msgid "error_while_getting_user_installs"
+msgstr "Se produjo un error al recuperar la instalación del usuario."
+
+msgid "probably_status_is_already_confirmed"
+msgstr "Se produjo un error, ¡probablemente el estado ya está confirmado!"
+
+msgid "invalid_token"
+msgstr "Token no válido"
+
+msgid "hashing_problem"
+msgstr "Problema de hash"
+
+msgid "os_is_incorrect"
+msgstr "Algo salió mal, se detectó un SO incorrecto La"
+
+msgid "invoice_does_not_belongs_to_this_job"
+msgstr "factura no pertenece a este trabajo"
+
+msgid "error_in_making_params_for_local_payment"
+msgstr "Error al realizar los parámetros para el pago local, inténtelo de nuevo"
+
+msgid "error_in_making_schedule_for_calendar"
+msgstr "Error al marcar el horario para el calendario, intente nuevamente"
+
+msgid "reassign_scheduled_jobs_before_leaving"
+msgstr "Reasignar los trabajos programados antes de In-activar el estado de Empleado."
+
+msgid "error_in_fetching_calendar"
+msgstr "Error al obtener el calendario. Vuelva a intentarlo."
+
+msgid "register_on_tudo_using_email"
+msgstr "Regístrese en TUDO usando el correo electrónico."
+
+msgid "already_registered_just_login"
+msgstr "Notamos que ya tiene una cuenta en la aplicación TUDO. solo inicie sesión usando el correo electrónico El"
+
+msgid "employee_status_is"
+msgstr "estado del empleado es"
+
+msgid "can_not_update_job_status_after"
+msgstr "No puede actualizar el estado del trabajo después de"
+
+msgid "can_not_update_job_Service Provider_status_after"
+msgstr "No puede actualizar el estado del trabajo después del Proveedor de servicios"
+
+msgid "can_not_update_job_Consumer_status_after"
+msgstr "No puede actualizar el estado del trabajo después de Consumidor"
+
+msgid "already_have_package"
+msgstr "Su empresa ya compró el Paquete: la"
+
+msgid "amount_should_at_least"
+msgstr "cantidad debe ser al menos el"
+
+msgid "max_limit_is_today_remaining_limit_is"
+msgstr "límite de transferencia MÁX. , El límite restante de hoy es"
+
+msgid "error_while_creating_details"
+msgstr "Error al crear los detalles. Vuelva a intentarlo."
+
+msgid "error_while_updating_details"
+msgstr "Error al actualizar los detalles. Vuelva a intentarlo."
+
+msgid "details_more_than_records_employee"
+msgstr "Se encontraron varios registros para este empleado."
+
+msgid "create_job_pending_for_Consumer_notify"
+msgstr "!!¡¡GRACIAS!! - Se ha creado su cita de {service_type} (ID: # {job_id}) y está esperando la aprobación del proveedor de servicios ({Service Provider_profile_name})."
+
+msgid "create_job_pending_for_Service Provider_emp_notify"
+msgstr "!!¡¡ACCIÓN REQUERIDA!! ¡Felicitaciones, está programado para una nueva cita de {service_type} # {job_id} asignada a {emp_profile_name} con {Consumer_profile_name}"
+
+msgid "create_job_confirmed_for_Consumer_notify"
+msgstr "! ¡GRACIAS! - Su {service_type} cita # {job_id} ha sido creada, programada y asignada al proveedor de servicios. {Service Provider_profile_name}."
+
+msgid "create_job_confirmed_for_Service Provider_emp_notify"
+msgstr "!! NUEVA CITA !! - Felicitaciones, está programado para una nueva cita de {service_type} # {job_id} asignada a {emp_profile_name} con {Consumer_profile_name}."
+
+msgid "accept_job_for_Consumer_notify"
+msgstr "!! ACEPTADO !! - Se aceptaron los cambios de su {service_type} Cita # {job_id}, verifique y reconozca los cambios."
+
+msgid "accept_job_for_Service Provider_emp_notify"
+msgstr "!! ACEPTADO !! - Se aceptaron los cambios de su {service_type} Cita # {job_id}, verifique y reconozca los cambios."
+
+msgid "reject_job_for_Consumer_notify"
+msgstr "!! REJECTED !! - Se rechazaron los cambios de {service_type} Cita # {job_id} y la buena noticia es que su cita original está intacta."
+
+msgid "reject_job_for_Service Provider_emp_notify"
+msgstr "!! REJECTED !! - Se rechazaron los cambios de {service_type} Cita # {job_id} y la buena noticia es que su cita original está intacta."
+
+msgid "cancel_job_for_Consumer_notify"
+msgstr "!! CANCELADO - Se requiere su acción !! {service_type} La cita n.º {job_id} ha sido CANCELADA, verifique y reconozca los cambios."
+
+msgid "cancel_job_for_Service Provider_emp_notify"
+msgstr "!! CANCELADO - Se requiere su acción !! {service_type} La cita n.º {job_id} ha sido CANCELADA, verifique y reconozca los cambios."
+
+msgid "reschedule_job_for_Service Provider_emp_notify"
+msgstr "!! REPROGRAMACIÓN - Tu acción REQUERIDA !! {service_type} La cita n.º {job_id} ha sido reprogramada con el proveedor de servicios comerciales {Service Provider_branch_profile_name}, verifique y acepte O rechace los cambios."
+
+msgid "reschedule_job_for_Consumer_notify"
+msgstr "!! REPROGRAMACIÓN - Tu acción REQUERIDA !! {service_type} La cita n.º {job_id} se ha reprogramado con el proveedor de servicios comerciales {{Service Provider_branch_profile_name}}, verifique y acepte O rechace los cambios."
+
+msgid "agent_reassign_job_for_Consumer_notify"
+msgstr "!! CAMBIOS - No es necesario realizar ninguna acción !! FYI. Se actualizó la asignación de agente para la cita de {service_type} n.º {job_id}."
+
+msgid "agent_reassign_job_for_Service Provider_emp_notify"
+msgstr "!! CAMBIOS - Tu acción REQUERIDA !! {service_type} Se asignó la cita # {job_id} a Emp # {current_employee_id} de Emp # {previous_employee_id}. Tenga en cuenta y verifique y planifique."
+
+msgid "invoice_ready_for_Consumer_notify"
+msgstr "!! FACTURADO FACTURADO - Tu acción REQUERIDA !! - Su {service_type} Cita # {job_id} se completó y está lista para el PAGO de {invoice_amount} y agradecemos su pago rápido."
+
+msgid "adjust_invoice_for_Service Provider_emp_notify"
+msgstr "!! AJUSTE LA FACTURA - ¡¡Su acción REQUERIDA !! - El consumidor solicitó un ajuste en la factura # invoice_id. Actúe rápido para que le paguen."
+
+msgid "adjusted_invoice_for_Consumer_notify"
+msgstr "!! FACTURA AJUSTADA - Tu acción REQUERIDA !! - Su {service_type} Cita # {job_id} se completó y está lista para el PAGO de {invoice_amount} y agradecemos su pago rápido."
+
+msgid "raise_dispute_for_Service Provider_emp_notify"
+msgstr "!! DISPUTA LEVANTADA - Su acción REQUERIDA !! - El consumidor solicitó resolver el problema con {service_type} Cita # {job_id} y el monto de la factura: {invoice_amount}. Actúe rápido para resolver la disputa."
+
+msgid "manage_dispute_for_Consumer_notify"
+msgstr "!! DISPUTA RESUELTA - Su acción REQUERIDA !! - Se resolvió la disputa sobre {service_type} Cita # {job_id} y se revisó el monto de la factura: {invoice_amount} listo para el pago, agradecemos su puntual pago."
+
+msgid "on_board_walk_in_Consumer_near_appointment_notify"
+msgstr "!¡¡INFORMACIÓN!! ¡El consumidor de {service_type} cita # {job_id} está cerca y se incorporó exitosamente con QuID # {quid}"
+
+msgid "Service Provider_on_boards_appointment_notify"
+msgstr "! ¡INFORMACIÓN! ¡El consumidor de {service_type} cita # {job_id} está cerca y se incorporó exitosamente con QuID # {quid}"
+
+msgid "walk_in_Consumer_near_appointment_notify"
+msgstr "! ¡INFORMACIÓN! ¡El consumidor de {service_type} cita # {job_id} está cerca y se incorporó exitosamente con QuID # {quid}"
+
+msgid "in_home_on_demand_Service Provider_near_appointment_notify"
+msgstr "! ¡INFORMACIÓN! ¡El proveedor comercial para {service_type} Cita # {job_id} está cerca y se incorporó exitosamente con QuID # {quid}"
+
+msgid "Consumer_Service Provider_initiates_on_board_action_notify"
+msgstr "! ¡INFORMACIÓN! ¡¡El proveedor comercial para {service_type} cita # {job_id} está cerca y se incorporó exitosamente con QuID # {quid}"
+
+msgid "appointment_alert_12_hrs_earlier_notify"
+msgstr "!! ¡¡ALERTA !! Su agenda {service_type} cita n.º {job_id} está a punto de comenzar en 12 horas."
+
+msgid "appointment_alert_2_hrs_earlier_notify"
+msgstr "!!¡¡ALERTA!! Su agenda {service_type} cita n.º {job_id} está a punto de comenzar en 2 horas."
+
+msgid "appointment_alert_30_mins_earlier_notify"
+msgstr "!!¡¡ALERTA!! Su agenda {service_type} cita n.º {job_id} está a punto de comenzar en 30 minutos."
+
+msgid "appointment_alert_5_mins_earlier_notify"
+msgstr "!!¡¡ALERTA!! Su programación {service_type} cita n.º {job_id} está a punto de comenzar en 5 minutos."
+
+msgid "payment_made_notify"
+msgstr "!! PAGO PROCESADO !! - Su pago {invoice_amount} para {service_type} Appointment # {job_id} se procesó correctamente. Gracias y esperamos volver a hacer negocios con usted."
+
+msgid "Service Provider_sends_employment_invitation_to_Consumer_notify"
+msgstr "!! NUEVO EMPLEO - Su acción REQUERIDA !! Bienvenido a bordo para su oferta de empleo de {Service Provider_profile_name}. Haga clic aquí para ver los siguientes pasos."
+
+msgid "reset_password_for_Consumer_notify"
+msgstr "!! ACTUALIZACIÓN DE LA CUENTA - Su acción REQUERIDA !! Un correo electrónico enviado con instrucciones de actualización."
+
+msgid "employee_enrollment_notify_title"
+msgstr "inscripción de empleados ¡"
+
+msgid "reset_password_notify_title"
+msgstr "Contraseña de restablecimiento de"
+
+msgid "can_not_get_push_notification_message"
+msgstr "No se puede recibir el mensaje de notificación automática!"
+
+msgid "logout_successfully"
+msgstr "Cierre de sesión exitoso ¡"
+
+msgid "token_successfully_sent"
+msgstr "Token enviado con éxito!"
+
+msgid "unable_to_create_branch"
+msgstr "¡No se puede crear la rama!"
+
+msgid "unable_to_update_branch"
+msgstr "¡No se puede actualizar Branch!"
+
+msgid "unable_to_create_business"
+msgstr "¡No se puede crear negocio!"
+
+msgid "unable_to_update_business"
+msgstr "¡No se puede actualizar la empresa!"
+
+msgid "dynamic_field_value_does_not_exist"
+msgstr "¡El valor del campo dinámico no existe!"
+
+msgid "employee_setting_does_not_exist"
+msgstr "¡La configuración del empleado no existe!"
+
+msgid "manage_employee_does_not_exist"
+msgstr "¡Administrar empleado no existe!"
+
+msgid "shift_schedule_does_not_exist"
+msgstr "¡El horario de turnos de negocios no existe!"
+
+msgid "unable_to_invite_employee"
+msgstr "No se pudo enviar la invitación de empleo"
+
+msgid "no_error_found"
+msgstr "No se encontró ningún error"
+
+msgid "unable_to_list_hw_users"
+msgstr "No se pudo enumerar los usuarios de Hyperwallet"
+
+msgid "unable_to_get_invoice"
+msgstr "No se pudo recuperar la factura"
+
+msgid "unable_to_generate_invoice"
+msgstr "No se pudo generar elfactura"
+
+msgid "invoice_id_or_job_id_missing_in_params"
+msgstr "ID deo Falta el ID de trabajo en los parámetros."
+
+msgid "this_invoice_is_locked"
+msgstr "Factura bloqueada, no puede actualizar esta factura."
+
+msgid "error_while_getting_invoice_by_job"
+msgstr "Error al obtener la factura por trabajo."
+
+msgid "unable_to_adjust_invoice"
+msgstr "No se puede ajustar la factura. ¡El"
+
+msgid "employee_does_not_exists"
+msgstr "empleado no existe!"
+
+msgid "not_permitted_to_update_job"
+msgstr "No tiene permiso para actualizar este trabajo"
+
+msgid "not_permitted_to_update_estimate"
+msgstr ". No tiene permiso para actualizar el costo estimado."
+
+msgid "no_request_to_update_cost_estimates"
+msgstr "No hay solicitud para actualizar elestimaciones de costos"
+
+msgid "error_while_getting_job"
+msgstr "error deal obtener eltrabajo"
+
+msgid "error_while_getting_branch_from_employee"
+msgstr "error demientras se recupera la sucursal de Employee_id"
+
+msgid "Service Provider_meta_does_not_exist"
+msgstr ". ¡El meta del proveedor de servicios no existe!"
+
+msgid "Consumer_meta_does_not_exist"
+msgstr "¡El meta del consumidor no existe!"
+
+msgid "can_not_create_promotion"
+msgstr "Se produjo un error, no se puede crear la promoción. ¡"
+
+msgid "country_service_does_not_exist"
+msgstr "El servicio de país no existe!"
+
+msgid "no_record_against_county_code"
+msgstr "Ningún registro existen en contra de suel condado"
+
+msgid "error_while_getting_country_from_country_code"
+msgstr "error al recuperarde País Código de país"
+
+msgid "service_not_available_in_this_country"
+msgstr "Este servicio no está disponible en estePaís,"
+
+msgid "error_while_creating_lead"
+msgstr "error mientras que la creación deplomo"
+
+msgid "lead_not_created"
+msgstr "Plomo Elno se ha creado"
+
+msgid "not_permitted_to_create_this_setting"
+msgstr "Usted no tiene permiso para crear estedeselección"
+
+msgid "error_in_getting_setting"
+msgstr "error en la recuperación de configuración"
+
+msgid "setting_does_not_exist"
+msgstr "Valor no existe"
+
+msgid "unable_to_upsert_employee_details"
+msgstr "Incapaz de upsert detalles de los empleados"
+
+msgid "Consumer_already_settings_with_this_slug"
+msgstr "Este consumidor ya tiene configuraciones con esta slug."
+
+msgid "Consumer_already_more_than_one_settings"
+msgstr "Este consumidor ya tiene más de 1 configuración con esta slug."
+
+msgid "unable_to_create_settings"
+msgstr "No se puede crearconfiguraciones de"
+
+msgid "Consumer_settings_does_not_exist"
+msgstr "configuraciones. ¡Faltanconsumidor para su perfil de usuario!"
+
+msgid "error_in_fetching_Consumer_settings"
+msgstr "Error al obtener la configuración del consumidor."
+
+msgid "unable_to_update_settings"
+msgstr "No se puede actualizar la configuración. ¡configuración del"
+
+msgid "no_Consumer_setting_exist"
+msgstr "Laconsumidor no existe!"
+
+msgid "no_employee_details_exist"
+msgstr "¡Los detalles del empleado no existen!"
+
+msgid "unable_to_delete_settings"
+msgstr "Algo salió mal, no se puede eliminar la configuración, inténtelo de nuevo."
+
+msgid "unable_to_logout"
+msgstr "No se puede cerrar la sesión. ¡"
+
+msgid "user_address_does_not_exist"
+msgstr "La dirección de usuario no existe!"
+
+msgid "can_not_create_client_token"
+msgstr "¡No se puede crear el token de cliente!"
+
+msgid "unable_to_get_donations"
+msgstr "Algo salió mal, no se pudo recuperar la lista de donaciones"
+
+msgid "country_id_does_not_exist"
+msgstr ". El ID de país del usuario no existe."
+
+msgid "error_in_getting_country_id"
+msgstr "Error al recuperar el ID de país del usuario."
+
+msgid "branch_id_or_business_id_compulsory"
+msgstr "La identificación de la empresa o sucursal debe aparecer en los parámetros."
+
+msgid "promotion_purchase_price_not_exist"
+msgstr "Compra de la promoción. Falta el precio, ¡inténtelo de nuevo más tarde!"
+
+msgid "licensed"
+msgstr "Licenciado / registrado"
+
+msgid "passport"
+msgstr "pasaporte"
+
+msgid "driving_license"
+msgstr "Licencia controlador de la tarjeta"
+
+msgid "ration_card"
+msgstr "Tarjeta de ración"
+
+msgid "voter_iD_card"
+msgstr "de identificación de votantes tarjeta"
+
+msgid "aadhar"
+msgstr "de felicitaciónAadhar"
+
+msgid "other_id"
+msgstr "OtrosGobierno. Tarjeta de identificación emitida"
+
+msgid "percentage"
+msgstr "Porcentaje"
+
+msgid "cash"
+msgstr "Efectivo"
+
+msgid "national_business_tax"
+msgstr "Impuesto comercial federal / nacional / central Impuesto comercial"
+
+msgid "regional_business_tax"
+msgstr "estatal / regional / provincial"
+
+msgid "donation_x%"
+msgstr "Listar elemento 1 de la tabla TUDO x%"
+
+msgid "donation_$2.00"
+msgstr "Listar elemento 1 de la tabla TUDO $ 2.00"
+
+msgid "donation_$1.50"
+msgstr "Listar elemento 1 de la tabla TUDO $ 1.50"
+
+msgid "donation_y%"
+msgstr "Listar elemento 1 de la tabla TUDO y%"
+
+msgid "donation_2%"
+msgstr "Lista elemento 1 de la tabla TUDO 2%"
+
+msgid "promotion_radius_1"
+msgstr "1 x Radio de servicio (50 millas / Kms) (TUDO predeterminado)"
+
+msgid "promotion_radius_2"
+msgstr "2 x Radio de servicio"
+
+msgid "promotion_radius_3"
+msgstr "3 x Radio de servicio"
+
+msgid "federal_authority"
+msgstr "Federal / Nacional / Central Govt. Autoridad"
+
+msgid "regional_authority"
+msgstr "Estado / Región / Provincia Gob. Autoridad"
+
+msgid "county_authority"
+msgstr "Condado / Ciudad Govt. Autoridad"
+
+msgid "local_authority"
+msgstr "Ciudad / Pueblo / Gobierno local. Autoridad"
+
+msgid "service_duration_15m"
+msgstr "0:15:00"
+
+msgid "service_radius_50k"
+msgstr "50"
+
+msgid "service_duration_30m"
+msgstr "0:30:00"
+
+msgid "service_radius_75k"
+msgstr "75"
+
+msgid "service_radius_100k"
+msgstr "100"
+
+msgid "service_radius_150k"
+msgstr "150"
+
+msgid "service_duration_45m"
+msgstr "0:45:00"
+
+msgid "service_radius_200k"
+msgstr "200"
+
+msgid "service_duration_60m"
+msgstr "1:00:00"
+
+msgid "service_duration_90m"
+msgstr "1:30:00"
+
+msgid "service_radius_300k"
+msgstr "300"
+
+msgid "service_duration_120m"
+msgstr "2:00:00"
+
+msgid "service_radius_30k"
+msgstr "30"
+
+msgid "service_duration_150m"
+msgstr "2:30:00"
+
+msgid "service_duration_180m"
+msgstr "3:00:00"
+
+msgid "service_duration_210m"
+msgstr "3:30:00"
+
+msgid "service_duration_240m"
+msgstr "4:00:00"
+
+msgid "service_duration_300m"
+msgstr "5:00:00"
+
+msgid "service_duration_360m"
+msgstr "6:00:00"
+
+msgid "service_duration_420m"
+msgstr "7:00:00"
+
+msgid "service_duration_480m"
+msgstr "8:00:00"
+
+msgid "local_business_tax"
+msgstr "City / Ciudad del Impuesto Empresarial / pueblo / local"
+
+msgid "gst_business_tax"
+msgstr "GST"
+
+msgid "sgst_business_tax"
+msgstr "SGST (Servicio GST)"
+
+msgid "vat_business_tax"
+msgstr "IVA"
+
+msgid "other_business_tax"
+msgstr "Otras Impuesto de Negocios"
+
+msgid "auto_insurance"
+msgstr "Auto / Vehículo Seguro Seguro"
+
+msgid "fire_insurance"
+msgstr "contra incendios Seguro de"
+
+msgid "heath_insurance"
+msgstr "salud Seguro"
+
+msgid "dental_insurance"
+msgstr "dental Seguro de"
+
+msgid "vision_insurance"
+msgstr "visión Seguro"
+
+msgid "home_insurance"
+msgstr "para propietarios de vivienda Seguro para"
+
+msgid "renters_insurance"
+msgstr "inquilinos Seguro"
+
+msgid "general_insurance"
+msgstr "general Seguro"
+
+msgid "life_insurance"
+msgstr "personal / seguro de vida Seguro de"
+
+msgid "family_insurance"
+msgstr "grupo Seguro de"
+
+msgid "property_insurance"
+msgstr "propiedad"
+
+msgid "business_insurance"
+msgstr "comercial Seguro de"
+
+msgid "guarantee_insurance"
+msgstr "Garantía de seguro"
+
+msgid "liability_insurance"
+msgstr "cobertura de responsabilidad Seguro Seguro"
+
+msgid "marine_insurance"
+msgstr "marítimo Seguro"
+
+msgid "social_insurance"
+msgstr "social"
+
+msgid "other_insurance"
+msgstr "Otro seguro"
+
+msgid "male_gender"
+msgstr "Hombre"
+
+msgid "female_gender"
+msgstr "Mujer"
+
+msgid "other_gender"
+msgstr "Otro"
+
+msgid "super_admin_role"
+msgstr "Superadministrador (= Propietario de negocio)"
+
+msgid "admin_manager_role"
+msgstr "Administrador administrador ( Gerente comercial)"
+
+msgid "service_supervisor_role"
+msgstr "Supervisor de servicio (Personal de servicio)"
+
+msgid "service_assiciate_role"
+msgstr "Asociado de servicio (Personal de servicio)"
+
+msgid "service_trainee_role"
+msgstr "Aprendiz de servicio (Personal de servicio)"
+
+msgid "support_supervisor_role"
+msgstr "Supervisor de apoyo (Personal de)"
+
+msgid "support_associate_role"
+msgstr "apoyoAsociado de apoyo (Personal de)"
+
+msgid "support_trainee_role"
+msgstr "apoyoAprendiz de apoyo (Personal de apoyo)"
+
+msgid "branch_super_admin_role"
+msgstr "Superadministrador de sucursal (= Propietario de negocio para la sucursal)"
+
+msgid "branch_admin_manager_role"
+msgstr "Sucursal Gerente de administración (Gerente de sucursal)"
+
+msgid "fulltime_employment"
+msgstr "completo a tiempo"
+
+msgid "partime_employment"
+msgstr "tiempocompleto"
+
+msgid "temp_employment"
+msgstr "temporal a"
+
+msgid "education_qualification_type"
+msgstr "educación"
+
+msgid "certification_qualification_type"
+msgstr "Certificación de"
+
+msgid "other_qualification_type"
+msgstr "Otro"
+
+msgid "less_than12th_qualification"
+msgstr "menos que alto Hool (<12 ° Grado)"
+
+msgid "high_school_equ_qualification"
+msgstr "escuela secundaria (grado 12) o Diploma oequivalente"
+
+msgid "certification_qualification"
+msgstr "certificación"
+
+msgid "college_no_degree_qualification"
+msgstr "Algo de universidad,n-Grado"
+
+msgid "associate_degree_qualification"
+msgstr "laAsociado"
+
+msgid "bachelors_degree_qualification"
+msgstr "DegreedeLicenciatura"
+
+msgid "masters_qualification"
+msgstr "de Masters"
+
+msgid "professional_qualification"
+msgstr "Profesional Grado"
+
+msgid "doc_phd_qualification"
+msgstr "DoctoraloporPhD"
+
+msgid "other_qualification"
+msgstr "Otras"
+
+msgid "internship_experiance_type"
+msgstr "prácticas"
+
+msgid "trainee_experiance_type"
+msgstr "de capacitación"
+
+msgid "employment_experiance_type"
+msgstr "Empleo"
+
+msgid "research_assistant_experiance_type"
+msgstr "Asistentes de Investigación"
+
+msgid "other_experiance_type"
+msgstr "Otro"
+
+msgid "temporary_experiance"
+msgstr "Temporal"
+
+msgid "parttime_experiance"
+msgstr "Tiempo parcial"
+
+msgid "fulltime_experiance"
+msgstr "Tiempo completo"
+
+msgid "self_employed_experiance"
+msgstr "cuenta propia"
+
+msgid "freelancer_experiance"
+msgstr "Freelancer"
+
+msgid "other_experiance"
+msgstr "otro"
+
+msgid "2wheeler_vehicle_type_motorcycle"
+msgstr "2-Wheeler (bici del motor)"
+
+msgid "3wheeler_vehicle_type_motorcycle"
+msgstr "3-Wheeler (auto Riksha / tuk-tuk)"
+
+msgid "sedan_vehicle_type_passenger"
+msgstr "Sedan (Autos)"
+
+msgid "suv_vehicle_type_multipurpose"
+msgstr "SUV"
+
+msgid "mini_truck_vehicle_type_truck"
+msgstr "Minicamión"
+
+msgid "medium_vehicle_type_truck"
+msgstr "carro medio"
+
+msgid "regular_truck_vehicle_type_truck"
+msgstr "regular de camiones"
+
+msgid "heavy_truck_vehicle_type_truck"
+msgstr "pesados camiones"
+
+msgid "trailer_vehicle_type_truck"
+msgstr "multi-eje del remolque de camión"
+
+msgid "activity_vehicle_type_low"
+msgstr "ATV"
+
+msgid "bus_vehicle_type_bus"
+msgstr "autobús"
+
+msgid "trailer_vehicle_type_trailer"
+msgstr "de remolque"
+
+msgid "special_equip_vehicle_type_truck"
+msgstr "equipamiento especial"
+
+msgid "vessal_vehicle_type_truck"
+msgstr "Vassal"
+
+msgid "other_vehicle_type"
+msgstr "otro"
+
+msgid "other_authority"
+msgstr "otro Gobierno. Autoridad"
+
+msgid "fiscal_january"
+msgstr "enero - diciembre"
+
+msgid "fiscal_february"
+msgstr "febrero - enero"
+
+msgid "fiscal_march"
+msgstr "marzo - febrero"
+
+msgid "fiscal_april"
+msgstr "abril - marzo"
+
+msgid "fiscal_may"
+msgstr "mayo - abril"
+
+msgid "fiscal_june"
+msgstr "junio - mayo"
+
+msgid "fiscal_july"
+msgstr "julio - junio"
+
+msgid "fiscal_august"
+msgstr "agosto - julio"
+
+msgid "fiscal_september"
+msgstr "septiembre - agosto"
+
+msgid "fiscal_october"
+msgstr "octubre - septiembre"
+
+msgid "fiscal_november"
+msgstr "noviembre - octubre"
+
+msgid "fiscal_december"
+msgstr "diciembre - noviembre"
+
+msgid "delete_branch"
+msgstr "Eliminar perfil comercial"
+
+msgid "delete_branch_desc"
+msgstr "¿Está seguro de que desea \"Eliminar\" su perfil comercial? Tenga en cuenta que no puede revertir esta acción si decide continuar."
+
+msgid "delete_branch_title"
+msgstr "¿Está seguro?"
+
+msgid "branch_success_title"
+msgstr "Tu perfil de empresa se eliminó correctamente."
+
+msgid "branch_success_desc"
+msgstr "Por favor, cierre sesión y vuelva a iniciar sesión"
+
+msgid "delete_account"
+msgstr "Eliminar cuenta"
+
+msgid "delete_account_title"
+msgstr "¿Está seguro?"
+
+msgid "delete_account_desc"
+msgstr "¿Está seguro de que desea eliminar su cuenta? Tenga en cuenta que no puede revertir esta acción si decide continuar."
+
+msgid "account_success_title"
+msgstr "Su cuenta se eliminó con éxito."
+
+msgid "account_success_desc"
+msgstr "Cierra la sesión para confirmar."
+

@@ -1,0 +1,5 @@
+<h1>Edit Platform terms and conditions</h1>
+
+<%= render "form.html", Map.put(assigns, :action, Routes.platform_terms_and_conditions_path(@conn, :update, @platform_terms_and_conditions)) %>
+
+<span><%= link "Back", to: Routes.platform_terms_and_conditions_path(@conn, :index) %></span>

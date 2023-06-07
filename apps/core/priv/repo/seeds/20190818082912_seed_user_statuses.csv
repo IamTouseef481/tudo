@@ -1,0 +1,9 @@
+id,title,description
+confirmed,Confirmed,""
+admin_confirmation_pending,Admin Confirmation Pending,""
+confirmation_pending,Confirmation Pending,""
+registration_pending,Pending Registration,""
+blocked,Blocked,""
+rejected,Rejected,""
+web_registered,Registered through web flow,""
+deleted,Deleted,""

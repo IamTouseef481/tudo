@@ -1,0 +1,4 @@
+id,description
+walk_in,cmr visit bsp. e.g doctor patient
+on_demand,bsp comes to cmr. e.g taxi service like uber
+home_service,bsp visit cmr. home workers

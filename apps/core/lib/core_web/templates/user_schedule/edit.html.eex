@@ -1,0 +1,5 @@
+<h1>Edit User schedule</h1>
+
+<%= render "form.html", Map.put(assigns, :action, Routes.user_schedule_path(@conn, :update, @user_schedule)) %>
+
+<span><%= link "Back", to: Routes.user_schedule_path(@conn, :index) %></span>

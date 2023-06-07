@@ -1,0 +1,24 @@
+"id","description"
+pending,Pending
+waiting,Waiting
+ignored,Ignored
+reject,Reject
+accept,Accept
+accept_reject,Accept Or Reject
+cancelled,Cancelled
+rejected,Rejected
+confirmed,Confirmed
+started_heading,Started Heading
+on_way,On way
+started_working,Started Working
+on_board,On board
+completed,Completed
+invoiced,Invoiced
+payment_confirmation_pending,Payment Confirmation Pending
+paid,Paid
+adjust_invoice,Adjust invoice
+adjusted,Adjusted
+dispute,Dispute
+closed,Closed
+finalized,Finalized
+picked,Picked

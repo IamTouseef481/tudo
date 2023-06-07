@@ -1,0 +1,50 @@
+<h1>Listing Calendars</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Calendar title</th>
+      <th>Calendar desc</th>
+      <th>All day</th>
+      <th>Start date</th>
+      <th>Duration</th>
+      <th>Recurring</th>
+      <th>Recurring interval</th>
+      <th>Number of occurances</th>
+      <th>End date</th>
+      <th>Reminders</th>
+      <th>Alarm sound</th>
+      <th>Snooz</th>
+      <th>Show us</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for calendar <- @calendars do %>
+    <tr>
+      <td><%= calendar.calendar_title %></td>
+      <td><%= calendar.calendar_desc %></td>
+      <td><%= calendar.all_day %></td>
+      <td><%= calendar.start_date %></td>
+      <td><%= calendar.duration %></td>
+      <td><%= calendar.recurring %></td>
+      <td><%= calendar.recurring_interval %></td>
+      <td><%= calendar.number_of_occurances %></td>
+      <td><%= calendar.end_date %></td>
+      <td><%= calendar.reminders %></td>
+      <td><%= calendar.alarm_sound %></td>
+      <td><%= calendar.snooz %></td>
+      <td><%= calendar.show_us %></td>
+
+      <td>
+        <%= link "Show", to: Routes.calendar_path(@conn, :show, calendar) %>
+        <%= link "Edit", to: Routes.calendar_path(@conn, :edit, calendar) %>
+        <%= link "Delete", to: Routes.calendar_path(@conn, :delete, calendar), method: :delete, data: [confirm: "Are you sure?"] %>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Calendar", to: Routes.calendar_path(@conn, :new) %></span>

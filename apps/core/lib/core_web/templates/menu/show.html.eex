@@ -1,0 +1,38 @@
+<h1>Show Menu</h1>
+
+<ul>
+
+  <li>
+    <strong>Slug:</strong>
+    <%= @menu.slug %>
+  </li>
+
+  <li>
+    <strong>Images:</strong>
+    <%= @menu.images %>
+  </li>
+
+  <li>
+    <strong>Doc order:</strong>
+    <%= @menu.doc_order %>
+  </li>
+
+  <li>
+    <strong>Menu order:</strong>
+    <%= @menu.menu_order %>
+  </li>
+
+  <li>
+    <strong>Description:</strong>
+    <%= @menu.description %>
+  </li>
+
+  <li>
+    <strong>Is active:</strong>
+    <%= @menu.is_active %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.menu_path(@conn, :edit, @menu) %></span>
+<span><%= link "Back", to: Routes.menu_path(@conn, :index) %></span>

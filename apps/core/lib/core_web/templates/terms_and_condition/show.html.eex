@@ -1,0 +1,23 @@
+<h1>Show Terms and condition</h1>
+
+<ul>
+
+  <li>
+    <strong>Text:</strong>
+    <%= @terms_and_condition.text %>
+  </li>
+
+  <li>
+    <strong>Start date:</strong>
+    <%= @terms_and_condition.start_date %>
+  </li>
+
+  <li>
+    <strong>End date:</strong>
+    <%= @terms_and_condition.end_date %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.terms_and_condition_path(@conn, :edit, @terms_and_condition) %></span>
+<span><%= link "Back", to: Routes.terms_and_condition_path(@conn, :index) %></span>

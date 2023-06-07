@@ -1,0 +1,28 @@
+<h1>Listing Licence issuing authorities</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Is active</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for licence_issuing_authorities <- @licence_issuing_authorities do %>
+    <tr>
+      <td><%= licence_issuing_authorities.name %></td>
+      <td><%= licence_issuing_authorities.is_active %></td>
+
+      <td>
+        <%= link "Show", to: Routes.licence_issuing_authorities_path(@conn, :show, licence_issuing_authorities) %>
+        <%= link "Edit", to: Routes.licence_issuing_authorities_path(@conn, :edit, licence_issuing_authorities) %>
+        <%= link "Delete", to: Routes.licence_issuing_authorities_path(@conn, :delete, licence_issuing_authorities), method: :delete, data: [confirm: "Are you sure?"] %>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Licence issuing authorities", to: Routes.licence_issuing_authorities_path(@conn, :new) %></span>

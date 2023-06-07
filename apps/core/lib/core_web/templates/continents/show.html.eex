@@ -1,0 +1,18 @@
+<h1>Show Continents</h1>
+
+<ul>
+
+  <li>
+    <strong>Code:</strong>
+    <%= @continents.code %>
+  </li>
+
+  <li>
+    <strong>Name:</strong>
+    <%= @continents.name %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.continents_path(@conn, :edit, @continents) %></span>
+<span><%= link "Back", to: Routes.continents_path(@conn, :index) %></span>

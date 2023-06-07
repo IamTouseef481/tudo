@@ -1,0 +1,28 @@
+<h1>Listing Continents</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Code</th>
+      <th>Name</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for continents <- @continents do %>
+    <tr>
+      <td><%= continents.code %></td>
+      <td><%= continents.name %></td>
+
+      <td>
+        <%= link "Show", to: Routes.continents_path(@conn, :show, continents) %>
+        <%= link "Edit", to: Routes.continents_path(@conn, :edit, continents) %>
+        <%= link "Delete", to: Routes.continents_path(@conn, :delete, continents), method: :delete, data: [confirm: "Are you sure?"] %>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Continents", to: Routes.continents_path(@conn, :new) %></span>

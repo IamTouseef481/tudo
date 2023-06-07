@@ -1,0 +1,5 @@
+<h1>Edit Licence issuing authorities</h1>
+
+<%= render "form.html", Map.put(assigns, :action, Routes.licence_issuing_authorities_path(@conn, :update, @licence_issuing_authorities)) %>
+
+<span><%= link "Back", to: Routes.licence_issuing_authorities_path(@conn, :index) %></span>

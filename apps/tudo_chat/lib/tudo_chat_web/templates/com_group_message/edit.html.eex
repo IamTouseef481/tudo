@@ -1,0 +1,5 @@
+<h1>Edit Com group message</h1>
+
+<%= render "form.html", Map.put(assigns, :action, Routes.com_group_message_path(@conn, :update, @com_group_message)) %>
+
+<span><%= link "Back", to: Routes.com_group_message_path(@conn, :index) %></span>

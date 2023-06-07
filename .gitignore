@@ -1,0 +1,51 @@
+# App artifacts
+/_build
+/db
+/deps
+/*.ez
+*.DS_Store
+/doc
+/priv/repo/structure.sql
+#Generated Keys and other sensitive info
+/aws_credentials.csv
+/CertificateSigningRequest.*
+/*.p12
+/*.pem
+/gen.sh
+/*.sh
+/*.certSigningRequest
+/*.deliver/config
+# Environment Variables
+/.env
+.idea/
+/config/*.secret.exs
+apps/tudo_chat/tudo_chat.iml
+apps/core/core.iml
+tudo-dev.iml
+# Generated on crash by the VM
+erl_crash.dump
+# Generated on crash by NPM
+npm-debug.log
+# Static artifacts
+/assets/node_modules
+/lib/code_test
+
+#ENV FILES 
+.env.*.local
+
+#VS CODE FILES 
+/.vscode/
+# Since we are building assets from assets/,
+# we ignore priv/static. You may want to comment
+# this depending on your deployment strategy.
+# /priv/static/
+# Files matching config/*.secret.exs pattern contain sensitive
+# data and you should not commit them into version control.
+#
+# Alternatively, you may comment the line below and commit the
+# secrets files as long as you replace their contents by environment
+# variables.
+/config/*.secret.exs.deliver/releases/
+
+# apps/core/priv/repo/seeds/20210903070502_seed_raw_businesses.csv
+/apps/core/priv/repo/seeds/raw-business-seeds/

@@ -1,0 +1,5757 @@
+msgid "Slug"
+msgstr "UR_translation"
+
+msgid "language"
+msgstr "اردو"
+
+msgid "email"
+msgstr "ای میل"
+
+msgid "password"
+msgstr "پاس ورڈ پاس ورڈ"
+
+msgid "show_password"
+msgstr "دکھائیں پاس ورڈ"
+
+msgid "hide_password"
+msgstr "چھپائیں"
+
+msgid "login"
+msgstr "لاگ ان"
+
+msgid "signup"
+msgstr "سائن اپ"
+
+msgid "info_text"
+msgstr "معلومات"
+
+msgid "not_registered_text"
+msgstr "برائے مہربانی پہلے سائن اپ کریں اور پھر لاگ ان کریں۔"
+
+msgid "forgot_passowrd_text"
+msgstr "پاسورڈ بھول گے؟"
+
+msgid "went_wrong_text"
+msgstr "کچھ غلط ہو گیا!"
+
+msgid "login_text"
+msgstr "لاگ"
+
+msgid "signup_text"
+msgstr "سائناپ"
+
+msgid "enter_email_text"
+msgstr "کریں دوستوں کوارسال کریں"
+
+msgid "code"
+msgstr "کوڈ"
+
+msgid "mobile"
+msgstr "موبائل نمبر"
+
+msgid "firstname"
+msgstr "پہلا نام"
+
+msgid "lastname"
+msgstr "آخری نام"
+
+msgid "termsandcondition"
+msgstr "مجھے اتفاق کرتا شرائط و ضوابط"
+
+msgid "clear"
+msgstr "واضح"
+
+msgid "backtologin"
+msgstr "لاگ انکرنےکے پیچھے"
+
+msgid "forgot"
+msgstr "پاس ورڈ بھول گیا"
+
+msgid "deals"
+msgstr "ڈیلز"
+
+msgid "eventer"
+msgstr "EvenTer"
+
+msgid "hanging"
+msgstr "RSVP"
+
+msgid "mynet"
+msgstr "MyNet"
+
+msgid "nter"
+msgstr "Nter کی"
+
+msgid "payment"
+msgstr "ادائیگیاں"
+
+msgid "report"
+msgstr "رپورٹیں"
+
+msgid "schedule"
+msgstr "تخسوچت"
+
+msgid "addinhouse"
+msgstr "میں شامل کریں ہوم سروس"
+
+msgid "addevent"
+msgstr "میں شامل اہم واقعہ"
+
+msgid "addtask"
+msgstr "شامل کریں ٹاسک"
+
+msgid "addondemand"
+msgstr "چالو شامل کریں مانگ سروس"
+
+msgid "addwalkin"
+msgstr "میں شامل واک میں سروس"
+
+msgid "addbranch"
+msgstr "میں شامل برانچ"
+
+msgid "addemployee"
+msgstr "میں شامل ملازم"
+
+msgid "addinvoice"
+msgstr "شامل کریں انوائس"
+
+msgid "addfollowup"
+msgstr "شامل کریں فالو اپ تقرری"
+
+msgid "bsp_dashboard"
+msgstr "بزنس ڈیش بورڈ"
+
+msgid "cmr_dashboard"
+msgstr "ڈیش بورڈ"
+
+msgid "setting"
+msgstr "ترتیبات"
+
+msgid "BusinessServiceProvider"
+msgstr "سروس فراہمبنیں"
+
+msgid "switchtobsp"
+msgstr "سروس فراہمکوجوڑئیے"
+
+msgid "Notification"
+msgstr "نوٹس کی ترجیحات"
+
+msgid "TUDO"
+msgstr "کا حوالہ سے TUDO"
+
+msgid "contactus"
+msgstr "ہم سے رابطہ کریں"
+
+msgid "signout"
+msgstr "سے باہر ہے"
+
+msgid "tryagain_txt"
+msgstr "پھرکی کوشش"
+
+msgid "coming_soon_txt"
+msgstr "جلد آ رہا ہےکریں!"
+
+msgid "branch"
+msgstr "برانچ"
+
+msgid "dob"
+msgstr "کی تاریخ پیدائش"
+
+msgid "roleofmployee"
+msgstr "ملازم کا"
+
+msgid "rolename"
+msgstr "کردار نام"
+
+msgid "vehicleid"
+msgstr "گاڑی کی رجسٹریشن ID"
+
+msgid "service"
+msgstr "سروس"
+
+msgid "employeetype"
+msgstr "ملازم کی قسم"
+
+msgid "workshift"
+msgstr "کام کا شیڈول شفٹ"
+
+msgid "payscale"
+msgstr "پے اسکیل"
+
+msgid "annulabsencehours"
+msgstr "سالانہ غیر حاضری کے اوقات"
+
+msgid "select_service_error"
+msgstr "آپ کو کم از کم ایک سروس کا انتخاب کرنا ہوگا"
+
+msgid "legalbusinessname"
+msgstr "قانونی کاروبار کا نام"
+
+msgid "branchphone"
+msgstr "برانچ فون نمبر"
+
+msgid "licenseno"
+msgstr "بزنس لائسنس نمبر"
+
+msgid "establishedyear"
+msgstr "سال قائم"
+
+msgid "expirydate"
+msgstr "لائسنس ختم ہونے کی تاریخ"
+
+msgid "profilepicture"
+msgstr "کاروباری پروفائل فوٹو"
+
+msgid "licensepicture"
+msgstr "بزنس لائسنس فوٹو"
+
+msgid "alternatephone"
+msgstr "کاروباری فون نمبر"
+
+msgid "numberofemployees"
+msgstr "ملازمینکینمبر"
+
+msgid "businesslegaladdress"
+msgstr "بزنس قانونی ایڈریس"
+
+msgid "legalbusinesscheck"
+msgstr "آپ آپ کی عمر سے زیادہ 18 سال جاری رکھنے کے لئےہیں قبول کرنا لازمی ہے"
+
+msgid "errortext"
+msgstr "آپجاری رکھنے کے لئے شرائط و ضوابط کو قبول کرنا ضروری"
+
+msgid "title_business"
+msgstr "کے کاروبار سائن اپ"
+
+msgid "title_branch"
+msgstr "بزنس برانچ"
+
+msgid "update"
+msgstr "اپ ڈیٹ"
+
+msgid "next"
+msgstr "اگلا"
+
+msgid "branch_legal_name"
+msgstr "برانچ لیگل نام"
+
+msgid "branch_phone_number"
+msgstr "برانچ فون نمبر"
+
+msgid "branch_established_year"
+msgstr "برانچقیام کا سال"
+
+msgid "employee_in_branch"
+msgstr "برانچمیں ملازمین کے"
+
+msgid "branch_legal_address"
+msgstr "برانچقانونی پتہ"
+
+msgid "select_personal_identity_type"
+msgstr "منتخب کریں ذاتی شناخت کی قسم"
+
+msgid "select_branch_type"
+msgstr "منتخب کریں برانچ بزنس کی قسم"
+
+msgid "branch_type"
+msgstr "برانچ کی قسم"
+
+msgid "business_type"
+msgstr "بزنس کی قسم"
+
+msgid "address_suggest_text"
+msgstr "آپ ایڈریس میں ترمیم کر سکتے ہیں جس میں فلور#، سوٹ#، اپٹ#، پلاٹ#وغیرہ شامل ہیں"
+
+msgid "branch_update_success"
+msgstr "۔"
+
+msgid "branch_established_years"
+msgstr "برانچ اسٹیبلشمنٹ سال کا"
+
+msgid "address_error_text_1"
+msgstr "پتہ ملک ، صحیح برانچ ایڈریس یا ملک سے مماثل نہیں ہے۔"
+
+msgid "address_error_text_2"
+msgstr "معذرت کچھ غلط ہو گیا ، براہ کرم دوبارہ کوشش کریں۔"
+
+msgid "selectcheck"
+msgstr "ایسی خدمات منتخب کریں جو آپ کے کاروبار پر لاگو ہوں۔ آپ کلیدی الفاظ بھی تلاش کر سکتے ہیں۔"
+
+msgid "customervisitcheck"
+msgstr "(واک ان سروسز) - آپ کے کاروبار کی خدمات کے لیے صارف \"آپ کے کاروباری مقام کا دورہ کرتا ہے\"۔"
+
+msgid "customervisithelp"
+msgstr "مدد - \"واک ان\" ٹیب پر کلک کریں ، اگر صارف آپ کے کاروبار کی خدمات کے لیے آپ کے کاروباری مقام کا دورہ کرتا ہے۔ مثال: قانون فرم ، ڈاکٹر آفس ، حجام کی دکان ، بار اینڈ ریسٹورنٹ ، ہوٹل ، آٹو مرمت کی دکان وغیرہ"
+
+msgid "businesscheck"
+msgstr "۔"
+
+msgid "businesscheckhelp"
+msgstr "مدد - \"گھر میں\" ٹیب پر کلک کریں ، اگر آپ کا کاروباری ذاتی آپ کی کاروباری خدمات پیش کرنے کے لیے صارفین کی جگہ پر جاتا ہے۔ مثال: گھر کی صفائی ، مرمت کی خدمات ، ہینڈ مین ، پلمبنگ ، ہوم ٹیوٹرنگ ، میوزک کلاسز ، نینی ، ہیلتھ کیئر وغیرہ"
+
+msgid "businessprovidecheck"
+msgstr "(آن ڈیمانڈ سروسز) - آپ کا کاروبار صارفین کو مقام پر مبنی ، فوری خدمات فراہم کرتا ہے۔"
+
+msgid "businessprovidehelp"
+msgstr "مدد - اگر آپ کا کاروبار صارفین کو مقام پر مبنی ، فوری خدمات فراہم کرتا ہے تو \"آن ڈیمانڈ\" ٹیب پر کلک کریں۔ مثال: ٹیکسی، سڑک کے کنارے مدد، ہنگامی مرمت، مقام کی بنیاد پر خدمات، خوراک کی ترسیل، ایمبولینس، عوامی خدمات، وغیرہ"
+
+msgid "CustomerWalkIn"
+msgstr "(واک میں خدمات) - خدمات کو آپ کے کاروبار دیتا لئے کنزیومر \"دوروں کو آپ کے کاروبار کی جگہ\"."
+
+msgid "CustomerInHome"
+msgstr "(اندرون ملک خدمات) - آپ کا کاروباری ذاتی کاروباری خدمات پیش کرنے کے لیے صارفین کی جگہ پر جاتا ہے۔"
+
+msgid "BusinessOnDemand"
+msgstr "(آن ڈیمانڈ سروسز) - آپ کا کاروبار صارفین کو مقام پر مبنی ، فوری خدمات فراہم کرتا ہے۔"
+
+msgid "infromationislegitmate"
+msgstr "اوپر درج کردہ شناخت کی تفصیلات جائز ، درست اور میری ہیں۔"
+
+msgid "identificationtype1"
+msgstr "ذاتی شناخت کی قسم منتخب کریں 1"
+
+msgid "documentnumber1"
+msgstr "ذاتی شناختی نمبر"
+
+msgid "issuingauthority1"
+msgstr "تصویر کی شناخت جاری کرنے والی اتھارٹی"
+
+msgid "identificationtype2"
+msgstr "منتخب کریں ذاتی شناخت کی قسم 2"
+
+msgid "documentnumber2"
+msgstr "کاروباری لائسنس نہیں"
+
+msgid "issuingauthority2"
+msgstr "تصویر کی شناخت جاری کرنے والی اتھارٹی"
+
+msgid "informationislegitmate"
+msgstr "اوپر درج شناختی تفصیلات درست ، درست اور خود سے تعلق رکھتی ہیں۔"
+
+msgid "business_title"
+msgstr "ذاتی شناخت کی تفصیلات"
+
+msgid "identity_document_number"
+msgstr "شناختی دستاویز نمبر"
+
+msgid "identification_expiry_date"
+msgstr "شناخت کی میعاد ختم ہونے کی تاریخ"
+
+msgid "unlicensed_update_succ_text"
+msgstr "برانچ غیر لائسنس شدہ تفصیلات کامیابی کے ساتھ اپ ڈیٹ ہو گئیں۔"
+
+msgid "licenseissuingauthoritytype"
+msgstr "لائسنس جاری کرنے والی اتھارٹی"
+
+msgid "businesslicenseno"
+msgstr "بزنس لائسنس نمبر"
+
+msgid "labeluploadlicenpicture"
+msgstr "اپنے کاروباری لائسنس کی اگلی اور پچھلی تصاویر اپ لوڈ کریں"
+
+msgid "licenseissuingauthority"
+msgstr "جاری کرنے والے اتھارٹی کا نام"
+
+msgid "branch_title"
+msgstr "برانچ لائسنس کی تفصیلاتلائسنس کی تفصیلات"
+
+msgid "bsp_title"
+msgstr "کاروباریکاروباری لائسنس کی تفصیلات"
+
+msgid "document_required_text"
+msgstr "درکار ہیں"
+
+msgid "document_required_desc"
+msgstr "آگے بڑھنے کے لیے آپ کو کم از کم دو لائسنس دستاویزی تصاویر اپ لوڈ کرنا ہوں گی اگلی"
+
+msgid "choose_an_image"
+msgstr "تصویرکا انتخاب کریں"
+
+msgid "gallery"
+msgstr "گیلری"
+
+msgid "camera"
+msgstr "کیمرہ"
+
+msgid "licensed_update_succ_text"
+msgstr "لائسنس شدہ تفصیلات کامیابی سے اپ ڈیٹ ہوئیں۔"
+
+msgid "branchlicenseno"
+msgstr "برانچ لائسنس نمبر"
+
+msgid "license_expiry_date"
+msgstr "کاروباری لائسنس کیختم ہونے کی تاریخ"
+
+msgid "agreeandaccept"
+msgstr "میں قبول کرتا ہوں اور اپنے کاروباری پس منظر کی توثیق کے لیے اخراجات کو"
+
+msgid "uploadprofilepicture"
+msgstr "کاروباری پروفائل فوٹو اپ لوڈ کریں:"
+
+msgid "accepttudo"
+msgstr "میعادقبول کرتا ہوںمیں قبول کرتا ہوں TUDO شرائط و ضوابط"
+
+msgid "branch_is"
+msgstr "برانچ ہے"
+
+msgid "business_is"
+msgstr "بزنس ہے"
+
+msgid "write_branch_profile"
+msgstr "اپنی برانچ بزنس پروفائل"
+
+msgid "write_business_profile"
+msgstr "لکھیں آپ کے کاروبار کے پروفائل"
+
+msgid "other"
+msgstr "کی وضاحت بیمہ اور بندواکے علاوہ کسی اور"
+
+msgid "explain_if_other_text"
+msgstr "بیمہ اور بندواعلاوہ کسی اور اگر اس بات کی وضاحت"
+
+msgid "please_enter_branch_details"
+msgstr "درج کریں برانچ پروفائل تفصیلات"
+
+msgid "please_enter_business_details"
+msgstr "درج کریں کاروبار کی پروفائل کی تفصیلات"
+
+msgid "note"
+msgstr "PSاگر:معلومات درجدوسرے سے TUDO صارفین تک عوامی طور پر مرئی"
+
+msgid "insured_text"
+msgstr "عام ذمےواری کیکے لئے بیمہ"
+
+msgid "surety_text"
+msgstr "زامن بانڈڈ"
+
+msgid "branch_update_succ_text"
+msgstr "کامیابی سے حالیہبرانچ پروفائل کی تفصیلاتہیں."
+
+msgid "upload_upto_5_text"
+msgstr "اپ لوڈ 5 بزنس پروفائل فوٹو"
+
+msgid "select_service_page_title"
+msgstr "سروسز منتخب کریں سروسز"
+
+msgid "no_service_type"
+msgstr "اس قسم کے لیے دستیاب نہیںکے لیے"
+
+msgid "please_select_one_service_desc"
+msgstr "کم از کم ایک سروس کو آگے بڑھانےمنتخب کریں"
+
+msgid "in_home_text"
+msgstr "اندرونی سروسز"
+
+msgid ""
+msgstr ""
+
+msgid "newpass"
+msgstr "نیا پاس ورڈ"
+
+msgid "confirmpass"
+msgstr "کنفرم پاس ورڈ"
+
+msgid "module"
+msgstr "بزنس ہالیڈے"
+
+msgid "createHoliday"
+msgstr "چھٹیبنائیں"
+
+msgid "updateHoliday"
+msgstr "اپ ڈیٹ چھٹی"
+
+msgid "holidays_title"
+msgstr "عنوان"
+
+msgid "discrption"
+msgstr "کی تفصیل"
+
+msgid "dishint"
+msgstr "چھٹیوں کاکی تفصیل"
+
+msgid "duration"
+msgstr "دورانیہ"
+
+msgid "todate"
+msgstr "تاریخ کرنے کے لئے"
+
+msgid "fromdate"
+msgstr "تاریخ"
+
+msgid "totime"
+msgstr "فوقتا"
+
+msgid "fromtime"
+msgstr "وقتسے؟"
+
+msgid "ishalf"
+msgstr "ہے آدھے دن"
+
+msgid "save"
+msgstr "محفوظ کریں"
+
+msgid "delete"
+msgstr "کریں حذف"
+
+msgid "close"
+msgstr "کریں"
+
+msgid "confDelete"
+msgstr "کیا آپ کو یقین ہے؟"
+
+msgid "updateMessage"
+msgstr "کامیابی سے حالیہ"
+
+msgid "createMessage"
+msgstr "کامیابی کےکی"
+
+msgid "deleteHoliday"
+msgstr "کامیابی سے خارج"
+
+msgid "hitToDate"
+msgstr "کرنے تاریخ"
+
+msgid "hitfromdate"
+msgstr "تاریخ سے"
+
+msgid "hitToTime"
+msgstr ""
+
+msgid "hitFromTime"
+msgstr "وقتفوقتا"
+
+msgid "errTitle"
+msgstr "عنوانضرورت ہے."
+
+msgid "errDis"
+msgstr "تفصیل درکار ہے۔"
+
+msgid "errToDate"
+msgstr "تاریخ درکار ہے۔"
+
+msgid "errToDate1"
+msgstr "غلط تاریخ کی حد۔"
+
+msgid "errFromDate"
+msgstr "سے تاریخ درکار ہے۔"
+
+msgid "errToTime"
+msgstr "وقت کی ضرورت ہے۔"
+
+msgid "errFromTime"
+msgstr "وقت کی ضرورت ہے۔"
+
+msgid "errToTime2"
+msgstr "غلط وقت کی حد۔"
+
+msgid "allholi"
+msgstr "تمام چھٹیاں"
+
+msgid "noholi"
+msgstr "اس مہینے میں"
+
+msgid "noholiist"
+msgstr "کوئی تعطیلات دستیاب نہیں"
+
+msgid "servicedate"
+msgstr "سروس کی تاریخ"
+
+msgid "flexibleme"
+msgstr "لچکدار (+/- 2 گھنٹے)"
+
+msgid "selectaddress"
+msgstr "ایڈریس"
+
+msgid "uploadpicture"
+msgstr "اپلوڈ فوٹو"
+
+msgid "search"
+msgstr "تلاش"
+
+msgid "begintime"
+msgstr "شروع وقت"
+
+msgid "endtime"
+msgstr "اختتام وقت"
+
+msgid "shift_schedule_title"
+msgstr "عنوان"
+
+msgid "namedis"
+msgstr "نام یا تفصیل"
+
+msgid "offday"
+msgstr "ڈے آف"
+
+msgid "default"
+msgstr "ڈیفالٹ"
+
+msgid "nameORdis"
+msgstr "نام یا تفصیل"
+
+msgid "err1"
+msgstr "شفٹ شروع کریں یا اختتامی وقت غلط ہے"
+
+msgid "err2"
+msgstr "وقفے کا آغاز یا اختتام کا وقت غلط ہے"
+
+msgid "err3"
+msgstr "نام یا تفصیل درکار ہے"
+
+msgid "err4"
+msgstr "دوسری شفٹ کو اوور لیپ کرنے کے لیے کم از کم 2 گھنٹے کا فرق درکار ہے۔"
+
+msgid "err5"
+msgstr "وقفے کا وقت شفٹ وقت کے درمیان ہونا چاہیے"
+
+msgid "err6"
+msgstr "شیڈول کامیابی سے محفوظ"
+
+msgid "err7"
+msgstr "ہو گیا کچھ غلط ہو گیا!"
+
+msgid "err8"
+msgstr "براہ کرم آگے بڑھنے کے لیے مطلوبہ شفٹ ڈیٹا درج کریں"
+
+msgid "err9"
+msgstr "کیا آپ کاروبار کے لیے ڈیفالٹ شیڈول سیٹ کرنا چاہتے ہیں؟"
+
+msgid "enter_shift_go_ahead"
+msgstr "آگے بڑھنے کے لیےدرج کریں"
+
+msgid "shift_time"
+msgstr "شفٹ ٹائمشفٹ ٹائم"
+
+msgid "shift_breaks"
+msgstr "شفٹ بریکس"
+
+msgid "shift_txt"
+msgstr "شفٹ"
+
+msgid "business_hours_for"
+msgstr "کاروباری اوقات"
+
+msgid "filter_title"
+msgstr "فلٹر کے لیے اسٹیٹس کے"
+
+msgid "pending"
+msgstr "زیر التوا"
+
+msgid "waiting"
+msgstr "انتظار کو"
+
+msgid "ignored"
+msgstr "نظر انداز کر دیا گیا"
+
+msgid "rejected"
+msgstr "مسترد"
+
+msgid "confirmed"
+msgstr "شیڈول"
+
+msgid "started_heading"
+msgstr "آن"
+
+msgid "started_working"
+msgstr "بورڈ"
+
+msgid "completed"
+msgstr "مکمل"
+
+msgid "invoiced"
+msgstr "انوائس"
+
+msgid "paid"
+msgstr "بند"
+
+msgid "closed"
+msgstr "بند"
+
+msgid "finalized"
+msgstr "حتمی"
+
+msgid "cancelled"
+msgstr "منسوخ"
+
+msgid "scheduled"
+msgstr "شیڈول"
+
+msgid "onway"
+msgstr "آن"
+
+msgid "onboard"
+msgstr "بورڈ"
+
+msgid "invoice"
+msgstr "انوائس"
+
+msgid "accept_reject"
+msgstr "مستردقبول"
+
+msgid "bids"
+msgstr "بولیوں"
+
+msgid "disputes"
+msgstr "تنازعات"
+
+msgid "overdues"
+msgstr "Overdues"
+
+msgid "payments"
+msgstr "ادائیگیاں"
+
+msgid "jobs"
+msgstr "نوکریاں"
+
+msgid "dues"
+msgstr "واجبات"
+
+msgid "invoice_title"
+msgstr "انوائس تفصیلات"
+
+msgid "total_amt"
+msgstr "کل رقم"
+
+msgid "send_invoice"
+msgstr "بھیجیں انوائس"
+
+msgid "add_tax"
+msgstr "ٹیکس شامل کریں ٹیکس"
+
+msgid "add_tax_succ"
+msgstr "کامیابی کے ساتھ شامل کیا گیا۔"
+
+msgid "add_chrg"
+msgstr "کے لئے شامل کریں"
+
+msgid "add_chrg_succ"
+msgstr "چارجکامیابی سےشامل"
+
+msgid "add_discount"
+msgstr "ڈسکاؤنٹشامل"
+
+msgid "add_discount_succ"
+msgstr "ڈسکاؤنٹکامیابی سے"
+
+msgid "add_comment"
+msgstr "تبصرےمیں شامل"
+
+msgid "add_comment_succ"
+msgstr "تبصرے کامیابی سے شامل کر"
+
+msgid "send_conf"
+msgstr "کیا آپ واقعی صارفین کو انوائس بھیجنے کے لئے ہیںشامل؟"
+
+msgid "send_tax_conf"
+msgstr "آپ اس انوائس پر ٹیکس جمع نہیں کر رہے ، آپ حکومت کی جانب سے ٹیکس وصول کرنے کے پابند ہیں۔ کیا آپ آگے بڑھنے کا یقین رکھتے ہیں؟"
+
+msgid "send_succ"
+msgstr "انوائس کو کامیابی سے پیدا"
+
+msgid "red_dis"
+msgstr "ایڈجسٹمنٹکی درخواست کریں"
+
+msgid "red_resone_title"
+msgstr "ایڈجسٹمنٹ کی درخواست کے لئے وجوہات درج"
+
+msgid "red_resone_label"
+msgstr "آپ کے سروس فراہم جانتے ایڈجسٹمنٹ وجہ دو..."
+
+msgid "red_resone_error"
+msgstr "تنازعہ کی درخواستکی وجوہات درج"
+
+msgid "pay"
+msgstr "پے"
+
+msgid "submit"
+msgstr "جمع"
+
+msgid "cancel"
+msgstr "منسوخ"
+
+msgid "tax_title"
+msgstr "درج عنوان"
+
+msgid "tax_error"
+msgstr "مطلوبمیدان"
+
+msgid "tax_select_amt"
+msgstr "منتخبرقم"
+
+msgid "tax_in_per"
+msgstr "رقمکرائیں:"
+
+msgid "tax_dis_title"
+msgstr "درج"
+
+msgid "tax_per"
+msgstr "تفصیل٪میں"
+
+msgid "disc_per"
+msgstr "ڈسکاؤنٹٹیکس٪میں"
+
+msgid "max_allow"
+msgstr "زیادہ سے زیادہ کی اجازتکیا جاتا ہے"
+
+msgid "dis_title"
+msgstr "عنواندرج"
+
+msgid "dis_error"
+msgstr "مطلوبمیدان"
+
+msgid "dis_select_amt"
+msgstr "منتخبرقم"
+
+msgid "dis_in_per"
+msgstr "رقم:"
+
+msgid "dis_dis_title"
+msgstr "تفصیلدرج"
+
+msgid "card_number"
+msgstr "کارڈ تعداد میں"
+
+msgid "card_holder_name"
+msgstr "کارڈ ہولڈر کا نام"
+
+msgid "card_expiry_date"
+msgstr "ختم ہونے کی تاریخ"
+
+msgid "card_cvv"
+msgstr "CVV"
+
+msgid "card_expiry_date_hint"
+msgstr "MM/ YY"
+
+msgid "card_holder_name_hint"
+msgstr "کارڈ ہولڈر کا نامدرج"
+
+msgid "card_submit_button"
+msgstr "شامل ادائیگی کارڈ"
+
+msgid "add_card_details_title"
+msgstr "شامل ادائیگی کارڈ کی تفصیلات"
+
+msgid "add_card_success_dialog_desc"
+msgstr "ادائیگی کارڈ شامل کرکامیابی سے"
+
+msgid "add_card_success_status"
+msgstr "کامیابی"
+
+msgid "add_card_okay"
+msgstr "ٹھیک"
+
+msgid "select_payment_option_title"
+msgstr "منتخب ادائیگی کی سہولت"
+
+msgid "payable_amount"
+msgstr "کل قابل ادائیگی رقم کو"
+
+msgid "choose_credit_card_title"
+msgstr "منتخب کریں ایک ادائیگی کارڈ"
+
+msgid "add_new_debit_card_button_text"
+msgstr "#ERROR!"
+
+msgid "no_card_added"
+msgstr "کی ادائیگی کارڈ ابھی تک شامل نہیں!"
+
+msgid "transaction_success_title"
+msgstr "ٹرانزیکشن کامیاب"
+
+msgid "transaction_sucssess_desc"
+msgstr "پروسیسنگ کے لیے بہت بہت شکریہ ادائیگی"
+
+msgid "tudo_pass_hint"
+msgstr "کروائیں اپنادرج کریں TUDO پاس"
+
+msgid "tudo_pass_label"
+msgstr "TUDO پاس ورڈورڈ"
+
+msgid "select_card_error_desc"
+msgstr "براہ کرم ادائیگی کا طریقہ منتخب کریں"
+
+msgid "enter_tudo_pass_title"
+msgstr "آگے بڑھنے کے لیے اپنا پاس ورڈ درج کریں"
+
+msgid "delete_card_question"
+msgstr "کیا آپ کو یہ ادائیگی کارڈ حذف کرنے کا یقین ہے؟"
+
+msgid "credit_card_delete_success"
+msgstr "ادائیگی کارڈ کامیابی سے خارج"
+
+msgid "default_method_ques"
+msgstr "آپ کے طور پر پہلے سے طے شدہ ادائیگی کا طریقہ اس کارڈ کو بنانے کے لئے ہیں؟"
+
+msgid "default_success"
+msgstr "ڈیفالٹ ادائیگی کا طریقہ کامیابی سے بنایا گیا۔"
+
+msgid "long_press_desc"
+msgstr "(*نوٹ: ڈیفالٹ ادائیگی کا طریقہ بنانے کے لیے کارڈ پر لمبا دبائیں)"
+
+msgid "expired_text"
+msgstr "کارڈ کی میعاد ختم ہو گئی"
+
+msgid "pay_text"
+msgstr "ادا کریں"
+
+msgid "my_wallet_text"
+msgstr "میرا والٹ"
+
+msgid "or_text"
+msgstr "یا"
+
+msgid "alternative_payments"
+msgstr "ادائیگی کے متبادل طریقے"
+
+msgid "credt_card_number"
+msgstr "کریڈٹ کارڈ نمبر"
+
+msgid "valid_thru"
+msgstr "درست ہے"
+
+msgid "success_purchase"
+msgstr "آپ کی ادائیگی پر عملدرآمد کامیابی سے"
+
+msgid "able_to_create_promotion"
+msgstr "ہو گیا ہے ، اب آپ ایک پروموشن بنانے کے قابل ہو گئے ہیں"
+
+msgid "amount_due"
+msgstr "واجب الادا رقم"
+
+msgid "cash_paid_in"
+msgstr "کیش ادائیگی کی گئی۔"
+
+msgid "enter_cash_amount"
+msgstr "نقد رقم درج کریں۔"
+
+msgid "please_enter_cash_amt"
+msgstr "براہ کرم نقد قیمت درج کریں۔"
+
+msgid "amount_should_greater_payable"
+msgstr "ادا شدہ قیمت قابل ادائیگی رقم سے زیادہ یا اس کے برابر ہونی چاہیے۔"
+
+msgid "collected_cash"
+msgstr "جمع کیش۔"
+
+msgid "pay_proceed"
+msgstr "ادائیگی کریں اور آگے بڑھیں۔"
+
+msgid "payment_cash_request"
+msgstr "آپ کی ادائیگی کی درخواست مکمل ہو گئی ، براہ کرم انتظار کریں جب تک سروس فراہم کرنے والا رسید کی تصدیق نہ کر لے۔"
+
+msgid "create_braintree_account_screen_title"
+msgstr "برائنٹری اکاؤنٹ بنائیں"
+
+msgid "company_name"
+msgstr "کمپنی کا نام"
+
+msgid "contact_number"
+msgstr "رابطہ نمبررابطہ نمبر"
+
+msgid "contact_number_hint"
+msgstr "درج کریںدرج کریں"
+
+msgid "cmr_terms_condition_text"
+msgstr "اوپر شناخت کی تفصیلات میرے علم کے مطابق جائز اور درست ہیں۔"
+
+msgid "success_dialog_title"
+msgstr "کامیابی"
+
+msgid "success_desc"
+msgstr "braintree کی کامیابیپیدا اکاؤنٹ"
+
+msgid "okay_text"
+msgstr "ٹھیک"
+
+msgid "paypal_seller_account_success"
+msgstr "پے پال سیلر اکاؤنٹ کامیابی کے ساتھ بنایا گیا۔"
+
+msgid "paypal_method_success"
+msgstr "ادائیگی کا طریقہ کامیابی کے ساتھ شامل کیا گیا۔"
+
+msgid "payout_account_create_success"
+msgstr "آپ کے فنڈز سے نکالے گئے اکاؤنٹ کو کامیابی سے بنایا گیا۔"
+
+msgid "tip_title"
+msgstr "پے انوائس"
+
+msgid "tip_to_bsp"
+msgstr "ٹپآپ سے TUDO پلیٹ فارم"
+
+msgid "tip_to_bsp_desc"
+msgstr "تجاویز کی100٪سے TUDO پلیٹ فارم پرجاتا"
+
+msgid "donate_desc"
+msgstr "خیراتی اور غیر منافع بخش تنظیمکرنے کے لئے عطیہ"
+
+msgid "discount_per_label"
+msgstr "ڈسکاؤنٹ٪"
+
+msgid "discount_per_hint"
+msgstr "رعایت٪ درج"
+
+msgid "invoiceAmt_text"
+msgstr "انوائس AMT .:"
+
+msgid "tipAmt_text"
+msgstr "ٹپ AMT .:"
+
+msgid "pay_txt"
+msgstr "پے"
+
+msgid "tudo_garuntee"
+msgstr "* سے TUDO کی ضمانت دیتا ہے 100٪ عطیات کو جاتاغیر منافع بخش تنظیمیں"
+
+msgid "add_tudo_pro_plan"
+msgstr "شامل کریں TUDO پروٹیکشن پلان"
+
+msgid "invoice_amt"
+msgstr "انوائس رقم"
+
+msgid "booking_fee_text"
+msgstr "TUDO بکنگ فیس"
+
+msgid "gratutity_text"
+msgstr "گریچیوٹی/ ٹپ رقم"
+
+msgid "payment_success_text"
+msgstr "ادائیگی کامیابی سے مکمل!"
+
+msgid "sent_to_text"
+msgstr "بھیجا گیا"
+
+msgid "inovice_no_text"
+msgstr "انوائس نمبر پر۔ گھر"
+
+msgid "back_to_home_button"
+msgstr "واپس"
+
+msgid "something_wrong_text"
+msgstr "کچھ غلط ہو گیا ، دوبارہ کوشش کریں"
+
+msgid "question_text"
+msgstr "ہمیں آپ سے سننا ، شرح دینا اور اس سروس فراہم کنندہ پر اپنی رائے دینا پسند ہے؟"
+
+msgid "yes_text"
+msgstr "ہاں"
+
+msgid "no_text"
+msgstr "نہیں"
+
+msgid "bsp_review_screen_title"
+msgstr "کی شرح اورریویو"
+
+msgid "rating_error"
+msgstr "سروسپرکی شرح اور جائزہ"
+
+msgid "post_positive"
+msgstr "اس کی خدمت پرجائزہ مثبت تجربے"
+
+msgid "post_improvements"
+msgstr "اس کی خدمت پر بہتری کی تجویز"
+
+msgid "post_positive_desc"
+msgstr "آپ کو پسند کیا سب سے زیادہ"
+
+msgid "post_improvements_desc"
+msgstr "تجویز بہتری"
+
+msgid "submit_button"
+msgstr "جمع"
+
+msgid "thanks_text"
+msgstr "آپ کے جائزے اور رائےکے لئے شکریہ"
+
+msgid "field_required_text"
+msgstr "مطلوبہ فیلڈ"
+
+msgid "we_recommended_text_cmr"
+msgstr "(* ہم آپ کو اس صارفی باہر کرنے کی ریٹنگ دینے کے لئے مشورہ دیتے ہیں 5)کی"
+
+msgid "we_recommended_text_bsp"
+msgstr "(* ہم 5 میں سے اس کاروبار کو درجہ بندی دینے کے لئے آپ کی سفارش)"
+
+msgid "thanks_review_txt"
+msgstr "جائزے اور تبصرے کے لیے شکریہ۔"
+
+msgid "create_hyperwallet_user_title"
+msgstr "بنائیں وصولی اکاؤنٹ"
+
+msgid "select_birth_country"
+msgstr "پیدائش کےکے آپ کے ملکمنتخب"
+
+msgid "country_of_birth"
+msgstr "پیدائشملک"
+
+msgid "select_nationality"
+msgstr "آپ کی قومیتمنتخب کریں"
+
+msgid "country_of_nationality"
+msgstr "کی قومیتملک"
+
+msgid "select_profile_type"
+msgstr "منتخب پروفائل قسم"
+
+msgid "enter_valid_date"
+msgstr "درست تاریخداخل کریں."
+
+msgid "date_of_birth"
+msgstr "پیدائشیکیکوڈ"
+
+msgid "business_name"
+msgstr "بزنس نام"
+
+msgid "select_gender"
+msgstr "منتخب صنف"
+
+msgid "select_business_type"
+msgstr "سلیکٹبزنس کی قسم"
+
+msgid "select_business_role"
+msgstr "منتخب کریں بزنس رابطہ رول ٹائپ"
+
+msgid "business_operating_name"
+msgstr "بزنس آپریٹنگ نام"
+
+msgid "business_registration_id"
+msgstr "بزنس رجسٹریشن آئی ڈی"
+
+msgid "choose_address_from_map"
+msgstr "نقشہ سے ایڈریس منتخب کریں ایڈریس"
+
+msgid "address_line1"
+msgstr "لائن 1 (ہاؤس نمبر ، علاقہ)"
+
+msgid "address_required"
+msgstr "ایڈریس"
+
+msgid "city"
+msgstr "سٹی"
+
+msgid "city_required"
+msgstr "سٹی نام"
+
+msgid "state"
+msgstr "اسٹیٹ"
+
+msgid "state_required"
+msgstr "سٹیٹ کا نام"
+
+msgid "country"
+msgstr "ملک کا"
+
+msgid "pincode"
+msgstr "زپ/ پن کوڈ"
+
+msgid "business_Address_details"
+msgstr "بزنس ایڈریس"
+
+msgid "business_address_line1"
+msgstr "بزنس ایڈریس لائن 1 (ہاؤس نمبر ، علاقہ)"
+
+msgid "business_address_required"
+msgstr "بزنس ایڈریس"
+
+msgid "business_city"
+msgstr "بزنس سٹی"
+
+msgid "business_city_required"
+msgstr "بزنس سٹی کا نام"
+
+msgid "business_state"
+msgstr "بزنس سٹیٹ"
+
+msgid "business_state_required"
+msgstr "بزنس اسٹیٹ کا نام"
+
+msgid "business_country"
+msgstr "بزنس کنٹری"
+
+msgid "business_pincode"
+msgstr "بزنس زپ/ پن کوڈ"
+
+msgid "checkbox_text"
+msgstr "کاپی اوپر ایڈریس انف۔ کاروباری پتہکرنے O"
+
+msgid "hyperwallet_success_text"
+msgstr "وصولی اکاؤنٹکامیابیپیدا"
+
+msgid "paypal_email_id"
+msgstr "پے پال بزنس اکاؤنٹ ID"
+
+msgid "paypal_email_id_hint"
+msgstr "درج کریں پے پال بزنس اکاؤنٹ کی شناخت"
+
+msgid "email_desc"
+msgstr "* www.paypal.com پر پے پال بزنس اکاؤنٹ بنائیں اور یہاں واپسی درج کرنے کی"
+
+msgid "age_desc"
+msgstr "* آپ 18 سال یا زیادہکا ہونا لازمی ہے"
+
+msgid "contact_role_type"
+msgstr "کاروباری رابطہ کردار قسم"
+
+msgid "business_type_text"
+msgstr "کاروبار کی قسم"
+
+msgid "birth_country_text"
+msgstr "پیدائش ملک"
+
+msgid "nationality_country"
+msgstr "قومیتملک کے"
+
+msgid "address_type_text"
+msgstr "پتے کی قسم"
+
+msgid "gender_type_text"
+msgstr "صنف کی قسم"
+
+msgid "repeat_paypal_text"
+msgstr "پے پال بزنس اکاؤنٹ آئی ڈی کو دہرائیں۔"
+
+msgid "repeat_paypal_validate_text"
+msgstr "پے پال کی شناخت اور دہرائیں پے پال کی شناخت لازمی ہے۔"
+
+msgid "confirm_paypal_id"
+msgstr "پے پال ای میل آئی ڈی کی تصدیق کریں۔"
+
+msgid "confirm_paypal_validate"
+msgstr "ای میل اور تصدیق ای میل ایک جیسی ہونی چاہیے۔"
+
+msgid "hyperwallet_recievable_screen_title"
+msgstr "وصول کرنے کے طریقےکرنے کے"
+
+msgid "no_methods_text"
+msgstr "وصولقابل ادائیگی کی منتقلی کا طریقہ ابھی شامل نہیں کیا گیا!"
+
+msgid "currency_type"
+msgstr "کرنسی کی قسم:"
+
+msgid "debit_cards"
+msgstr "ڈیبٹ کارڈز"
+
+msgid "bank_accounts"
+msgstr "بینک اکاؤنٹس"
+
+msgid "wire_accounts"
+msgstr "وائر اکاؤنٹس"
+
+msgid "default_question_text"
+msgstr "کیا آپ ڈیفالٹ ٹرانسفر طریقہ تبدیل کرنے کا یقین رکھتے ہیں؟"
+
+msgid "default_transfer_success"
+msgstr "ڈیفالٹ ٹرانسفر ادائیگی کا طریقہ کامیابی سے اپ ڈیٹ ہوا۔"
+
+msgid "add_transfer_method_page_screen_title"
+msgstr "ٹرانسفر کا طریقہ شامل کریں"
+
+msgid "loading"
+msgstr "لوڈنگ......."
+
+msgid "make_default"
+msgstr "ڈیفالٹ ادائیگی کا طریقہ بنائیں"
+
+msgid "country_currency_code"
+msgstr "ملک کرنسی کوڈ"
+
+msgid "choose_currency_code"
+msgstr "منتخب کریں کرنسی کوڈ"
+
+msgid "select_country_currency"
+msgstr "منتخب کریں ملک کرنسی کوڈ"
+
+msgid "transfer_method_type"
+msgstr "ٹرانسفر طریقہ کار کی قسم"
+
+msgid "select_transfer_method_type"
+msgstr "منتخب کریں ٹرانسفر طریقہ کار کی قسم"
+
+msgid "payment_method"
+msgstr "ادائیگی کی منتقلی کا طریقہ کامیابی کے ساتھ شامل کیا گیا!"
+
+msgid "country_txt"
+msgstr "ملک"
+
+msgid "choose_country_txt"
+msgstr "کنٹریمنتخب کریں"
+
+msgid "block_hold_success"
+msgstr "بلاک کو/مستقبل کی تقرریوں کی ترتیبات کو کامیابی سے اپ ڈیٹ کریں۔"
+
+msgid "auto_schedule_success"
+msgstr "آٹو شیڈول کی ترتیب کامیابی سے اپ ڈیٹ ہو گئی۔"
+
+msgid "bloc_hold_off_ques"
+msgstr "کیا آپ مستقبل کی ملاقاتوں کو روکنے/روکنے اور آگے بڑھنے کا یقین رکھتے ہیں؟"
+
+msgid "bloc_hold_on_ques"
+msgstr "آپ مستقبل کی تقرریوں کو چالو کرنے والے ہیں ، کیا آپ آگے بڑھنے کا یقین رکھتے ہیں؟"
+
+msgid "auto_schedule_off_ques"
+msgstr "آپ تقرریوں کے آٹو شیڈولنگ کو غیر فعال کرنے والے ہیں ، کیا آپ آگے بڑھنے کا یقین رکھتے ہیں؟"
+
+msgid "auto_schedule_on_ques"
+msgstr "آپ تقرریوں کے آٹو شیڈولنگ کو فعال کرنے والے ہیں ، کیا آپ آگے بڑھنے کا یقین رکھتے ہیں؟"
+
+msgid "business_setting_screen_title"
+msgstr "کاروباری ترتیبات"
+
+msgid "business_profile_overview"
+msgstr "بس۔ پروفائل کا جائزہ"
+
+msgid "business_country_specific"
+msgstr "ملک کی مخصوص ترتیبات"
+
+msgid "bloc_hold_future_appointments"
+msgstr "بلاک/ہولڈ فیوچر اپائنٹمنٹ"
+
+msgid "auto_schedule"
+msgstr "آٹو شیڈول"
+
+msgid "business_service_radius"
+msgstr "سروس ریڈیئس"
+
+msgid "business_service_duration"
+msgstr "سروس کا دورانیہ"
+
+msgid "my_wallet"
+msgstr "میرا پرس"
+
+msgid "my_recievables"
+msgstr "وصول اور ٹرانسفر"
+
+msgid "business_sales_taxe_rate"
+msgstr "ٹیکس ریٹ"
+
+msgid "business_vehicles"
+msgstr "بس۔ گاڑیاں"
+
+msgid "business_insaurance"
+msgstr "بس۔ انشورنس"
+
+msgid "employee_center"
+msgstr "ملازم سینٹر"
+
+msgid "business_branches"
+msgstr "شاخیں"
+
+msgid "license_and_usage_statistics"
+msgstr "لائسنس اور استعمال"
+
+msgid "invoice_allowance_limits"
+msgstr "انوائس الاؤنسکی"
+
+msgid "business_rate_card"
+msgstr "کی شرح کارڈ"
+
+msgid "business_shift_schedule"
+msgstr "شفٹ شیڈول"
+
+msgid "business_holiday_calendar"
+msgstr "چھٹیوں کیلنڈرز"
+
+msgid "business_service_estimates"
+msgstr "سروس اندازوں کا"
+
+msgid "license_usage_statistics"
+msgstr "لائسنس اور استعمال"
+
+msgid "subscription_text"
+msgstr "سبسکرپشنز"
+
+msgid "skip_text"
+msgstr "جائیں"
+
+msgid "skip_desc"
+msgstr "تم جائیں کرنے کے بارے میں ہیںحد،ہدایت یافتہ سیٹ اپ سے TUDO پلیٹ فارم پر آپ کے کاروبار کو اپنی مرضی مدد ملتی ہے. کیا آپ کو چھوڑنا یقینی ہے؟"
+
+msgid "business_setup"
+msgstr "کاروباری سیٹ اپ"
+
+msgid "business_profile_overview_screen_title"
+msgstr "کاروباری جائزہ"
+
+msgid "business_owner_details"
+msgstr "کاروبار کے مالک کی تفصیلات:"
+
+msgid "user_name"
+msgstr "صارف کا نام"
+
+msgid "phone"
+msgstr "فون"
+
+msgid "business_details"
+msgstr "کاروبار کی تفصیلات:"
+
+msgid "business_phone"
+msgstr "بزنس فون"
+
+msgid "business_established_year"
+msgstr "کاروبار قائم سال"
+
+msgid "number_employees"
+msgstr "ملازمین کی تعداد"
+
+msgid "business_license_details"
+msgstr "کاروباری لائسنس کی تفصیلات:"
+
+msgid "business_license_number"
+msgstr "کاروباری لائسنس نمبر"
+
+msgid "license_issuing_authority"
+msgstr "لائسنس جاری کرنے والے اتھارٹی"
+
+msgid "uploaded_business_license_pictures"
+msgstr "کاروباری لائسنس فوٹو"
+
+msgid "business_profile_details"
+msgstr "کاروباری پروفائل تفصیلات:"
+
+msgid "business_profile_text"
+msgstr "کاروباری پروفائل معلومات"
+
+msgid "uploaded_business_profile_pictures"
+msgstr "کاروباری پروفائل فوٹو"
+
+msgid "business_Service_details"
+msgstr "کاروبار سروس کی تفصیلات:"
+
+msgid "selected_business_services"
+msgstr "منتخب سروسز"
+
+msgid "business_profile_expiry_date"
+msgstr "لائسنس کی میعاد ختم ہونے کی تاریخ"
+
+msgid "branch_country"
+msgstr "بزنس کنٹری"
+
+msgid "done"
+msgstr "مکمل ہو گیاہو گیا"
+
+msgid "thanks_text_desc"
+msgstr "سروس پرووائڈر سائن اپ کامیاب، آپ کے بزنس پروفائل کی توثیق زیر التوا ہے اور ہم اپنے فیصلے کو جلد مطلع کریں گے۔ کبھی کبھار TUDO اضافی معلومات مانگ سکتا ہے اور اس دوران بزنس سیٹ اپ کی رہنمائی کے لیے آگے بڑھ سکتا ہے۔"
+
+msgid "business_unlicense_details"
+msgstr "غیر لائسنس شدہ کاروباری تفصیلات:"
+
+msgid "personal_identity_1"
+msgstr "ذاتی شناخت 1"
+
+msgid "personal_id_number"
+msgstr "ذاتی شناختی نمبر"
+
+msgid "expiry_date"
+msgstr "ختم ہونے کی تاریخ"
+
+msgid "personal_identity_type_1"
+msgstr "ذاتی شناخت 1 قسم"
+
+msgid "uploaded_identification_image_1"
+msgstr "ذاتی شناخت 1 تصاویر"
+
+msgid "personal_identity_2"
+msgstr "ذاتی شناخت 2"
+
+msgid "personal_identity_type_2"
+msgstr "ذاتی شناخت 2 قسم"
+
+msgid "uploaded_identification_image_2"
+msgstr "ذاتی شناخت 2 تصاویر"
+
+msgid "selected_consents"
+msgstr "منتخب کردہ رضامندی:"
+
+msgid "custom_issuing_authority_text"
+msgstr "لائسنس جاری کرنے والے اتھارٹی کا نام"
+
+msgid "selected_services"
+msgstr "منتخب کردہ خدمات"
+
+msgid "invoice_allowance_limits_screen_title"
+msgstr "انوائس الاؤنس کی حدیں"
+
+msgid "invoice_allowance_confirm"
+msgstr "کیا آپ انوائس الاؤنس کی حدیں تبدیل کرنے کا یقین رکھتے ہیں؟"
+
+msgid "header_title"
+msgstr "کاروباری انوائسبنانے کے دوران زیادہ سے زیادہ اجازت دی گئی حدیں"
+
+msgid "invoice_allowance_success"
+msgstr "انوائس الاؤنس کی حدیںکامیابی کے ساتھ اپ ڈیٹ ہوئیں۔"
+
+msgid "max_allowed_tax"
+msgstr "میکس اجازت ٹیکس"
+
+msgid "Max_allowed_discount"
+msgstr "زیادہ سے زیادہ اجازت ڈسکاؤنٹ"
+
+msgid "max_invoice_adjust_count"
+msgstr "زیادہ سے زیادہ انوائس ایڈجسٹ شمار"
+
+msgid "allow_bsp_discount"
+msgstr "ایجنٹ کو ڈسکاؤنٹ شامل کرنے کی"
+
+msgid "allow_bsp_tax"
+msgstr "اجازت دیں ایجنٹ کو ٹیکس شامل کرنے کی اجازت دیں"
+
+msgid "change_discount_ques"
+msgstr "کیا آپ ڈسکاؤنٹ سیٹنگ کو تبدیل کرنے کا یقین رکھتے ہیں؟"
+
+msgid "change_tax_ques"
+msgstr "کیا آپ ٹیکس کی ترتیب کو تبدیل کرنے کا یقین رکھتے ہیں؟"
+
+msgid "discount_settings_success"
+msgstr "اجازت دیں/روکیں ڈسکاؤنٹ کی ترتیب کامیابی کے ساتھ اپ ڈیٹ ہوئی۔"
+
+msgid "tax_settings_success"
+msgstr "اجازت دیں/روکیں ٹیکس کی ترتیب کو کامیابی سے اپ ڈیٹ کیا گیا۔"
+
+msgid "business_service_radius_screen_title"
+msgstr "سروس ریڈیئس"
+
+msgid "update_confirm_text"
+msgstr "کیا آپ سروس ریڈیئس سیٹنگ کو اپ ڈیٹ کرنے کا یقین رکھتے ہیں؟"
+
+msgid "update_success_text"
+msgstr "سروس ریڈیئس کی ترتیبات کامیابی سے اپ ڈیٹ ہو گئیں۔"
+
+msgid "default_confirm_text"
+msgstr "کیا آپ کو یقین ہے کہ سروس ریڈیئس کی ترتیبات کو پہلے کی طرح لوٹانا ہے؟"
+
+msgid "same_radius_question_text"
+msgstr "تمام خدمات کے لیے ایک ہی ریڈیئس؟"
+
+msgid "no_service_available"
+msgstr "ترتیبات کے لیے کوئی سروس دستیاب نہیں"
+
+msgid "branch_setup_success"
+msgstr "مبارکباد! آپ کا بزنس سیٹ اپ کامیابی سے مکمل ہو گیا ، نئے کاروباری مواقع کے لیے TUDO سے منسلک رہیں"
+
+msgid "finish_text"
+msgstr "ختم کریں"
+
+msgid "business_expected_duration_screen_title"
+msgstr "سروس کی مدت"
+
+msgid "same_duration_question"
+msgstr "تمام سروسز کے لیے ایک ہی مدت؟"
+
+msgid "home_service_label"
+msgstr "گھر میں خدمات"
+
+msgid "walk_in_label"
+msgstr "واک ان سروسز"
+
+msgid "on_demand_label"
+msgstr "آن ڈیمانڈ خدمات میں"
+
+msgid "include_travel_text"
+msgstr "سفر / سفر کا وقت شامل ہے؟"
+
+msgid "schedule_update_success_text"
+msgstr "سروس کی مدت کی ترتیبات کامیابی سے اپ ڈیٹ ہو گئیں۔"
+
+msgid "schedule_default_question_text"
+msgstr "کیا آپ کو یقین ہے کہ سروس کے دورانیے کی ترتیبات کو پچھلے کی طرح لوٹانا ہے؟"
+
+msgid "schedule_update_question_text"
+msgstr "کیا آپ یقینی طور پر سروس کی مدت کی ترتیبات کو اپ ڈیٹ کرتے ہیں؟"
+
+msgid "something_wrong_server"
+msgstr "کچھ غلط ہو گیا ، دوبارہ کوشش کریں۔"
+
+msgid "business_rate_card_screen_title"
+msgstr "ریٹ کارڈ"
+
+msgid "update_suceess_text"
+msgstr "بزنس سروس ریٹ کارڈ کامیابی سے اپ ڈیٹ ہو گیا۔"
+
+msgid "fill_proper_text"
+msgstr "براہ کرم تمام اقدار کو مناسب طریقے سے پُر کریں"
+
+msgid "common_price_text"
+msgstr "تمام خدمات کے لیے یکساں قیمت؟"
+
+msgid "fixed_rate_label"
+msgstr "فکسڈ ریٹ فی"
+
+msgid "hourly_rate_label"
+msgstr "گھنٹہ ریٹ"
+
+msgid "price_in"
+msgstr "پرائس"
+
+msgid "enter_price_in"
+msgstr "درج کریں"
+
+msgid "business_sales_tax_rate_screen_title"
+msgstr "بزنس سیلز ٹیکس"
+
+msgid "sales_tax_rate_label"
+msgstr "سیلز ٹیکس"
+
+msgid "tax_line_description"
+msgstr "انوائس ٹیکس لائن تفصیل"
+
+msgid "tax_rate_text"
+msgstr "ٹیکس کی شرحشرح"
+
+msgid "common_tax_rate_question"
+msgstr "تمام خدمات کے لیے برابر ٹیکس کی؟"
+
+msgid "tax_before_discount"
+msgstr "ڈسکاؤنٹ سے پہلے ٹیکس لاگو کیا گیا؟"
+
+msgid "select_tax_authority"
+msgstr "منتخب کریں ٹیکس اتھارٹی"
+
+msgid "national_business_tax_text"
+msgstr "نیشنل بزنس ٹیکس شناختی نمبر"
+
+msgid "regional_business_tax_text"
+msgstr "علاقائی بزنس ٹیکس شناختی نمبر"
+
+msgid "please_fill_value_text"
+msgstr "براہ کرم تمام مطلوبہ فیلڈز درج کریں"
+
+msgid "businesss_sales_tax_rate_update_confirm"
+msgstr "کیا آپ سیلز ٹیکس کی شرح کو اپ ڈیٹ کرنے کا یقین رکھتے ہیں؟"
+
+msgid "businesss_sales_tax_rate_success"
+msgstr "سیلز ٹیکس کی شرح کامیابی سے اپ ڈیٹ ہو گئی۔"
+
+msgid "businesss_sales_tax_rate_default_confirm"
+msgstr "کیا آپ سیلز ٹیکس ریٹ کی ترتیبات کو پہلے کی طرح لوٹانا چاہتے ہیں؟"
+
+msgid "tax_rate"
+msgstr "ٹیکس کی شرح"
+
+msgid "should_be_in_range"
+msgstr "(*ٹیکس کی شرح 0 سے 99 کے درمیان ہونی چاہیے)"
+
+msgid "fiscal_year_text"
+msgstr "مالی سال"
+
+msgid "business_fiscal_year_text"
+msgstr "کاروباری مالی سال۔"
+
+msgid "tax_calculated_age"
+msgstr "ٹیکس کا حساب٪ عمر میں ہے؟"
+
+msgid "equal_tax_all_service"
+msgstr "تمام خدمات کے لیے یکساں ٹیکس کی قیمت؟"
+
+msgid "business_service_estimates_screen_title"
+msgstr "سروس کے تخمینے"
+
+msgid "hrs_text"
+msgstr "(/گھنٹے)"
+
+msgid "save_confirm_text"
+msgstr "کیا آپ سروس کے تخمینے کو بچانا چاہتے ہیں؟"
+
+msgid "save_suceess_text"
+msgstr "سروس کا تخمینہ کامیابی سے محفوظ ہو گیا۔"
+
+msgid "multiplier_factor_text"
+msgstr "ضرب لگانے والے فیکٹر"
+
+msgid "note_text"
+msgstr "*نوٹ: تخمینے ٹیکسکو چھوڑ کر ہیں"
+
+msgid "mins_text"
+msgstr "منٹس۔"
+
+msgid "travel_communicate_text"
+msgstr "سفر/ سفر کا وقت تخمینہ میں شامل ہے؟"
+
+msgid "hr_text"
+msgstr "گھنٹوں۔"
+
+msgid "personal_details_Screen_title"
+msgstr "ذاتی ڈیٹا"
+
+msgid "phone_no"
+msgstr "فون نمبر"
+
+msgid "country_code"
+msgstr "کنٹری کوڈ"
+
+msgid "address_mandatory"
+msgstr "نقشے سے"
+
+msgid "address"
+msgstr "پتہپتہ"
+
+msgid "select_country"
+msgstr "منتخب کریںمنتخب کریں ملک"
+
+msgid "choose_country"
+msgstr "منتخب کریں ملک"
+
+msgid "gender"
+msgstr "صنف"
+
+msgid "error"
+msgstr "خرابی"
+
+msgid "select_field_error_text"
+msgstr "برائے مہربانی تمام مطلوبہ اشیاء کو پروفائل تصویر کے ساتھ منتخب کریں"
+
+msgid "okay"
+msgstr "ٹھیک ہے"
+
+msgid "personal_identification_screen_title"
+msgstr "شناخت کی تفصیل"
+
+msgid "no_idnetification_available"
+msgstr "شناخت کی تفصیلات ابھی تک شامل نہیں کی گئیں۔"
+
+msgid "identification_type"
+msgstr "شناخت کی قسم"
+
+msgid "identification_name"
+msgstr "شناخت کا نام"
+
+msgid "identification_number"
+msgstr "شناختی نمبر"
+
+msgid "exp_date"
+msgstr "ختم ہونے کی تاریخ"
+
+msgid "perosnal_identity_2"
+msgstr "ذاتی شناخت 2"
+
+msgid "perosnal_identity_1"
+msgstr "ذاتی شناخت 1"
+
+msgid "add_personal_identification_screen_title"
+msgstr "ذاتی شناختشامل کریں"
+
+msgid "update_identification"
+msgstr "اپ ڈیٹذاتی شناخت"
+
+msgid "document_number_2"
+msgstr "ذاتی شناخت دستاویز 2 نمبر"
+
+msgid "update_success"
+msgstr "ذاتی شناخت کامیابی کے ساتھ اپ ڈیٹ ہو گئی۔"
+
+msgid "create_success"
+msgstr "ذاتی شناخت کامیابی سے بن گئی۔"
+
+msgid "document_number_1"
+msgstr "ذاتی شناختی دستاویز 1 نمبر"
+
+msgid "photo_identity_1_exp_date"
+msgstr "تصویر کی شناخت 1 میعاد ختم ہونے کی تاریخ"
+
+msgid "photo_identity_2_exp_date"
+msgstr "تصویر کی شناخت 2 میعاد ختم ہونے کی تاریخ"
+
+msgid "perosnal_identity_1_pictures"
+msgstr "اپ لوڈ کریں ذاتی شناخت 1 فوٹو"
+
+msgid "perosnal_identity_2_pictures"
+msgstr "اپ لوڈ کریں ذاتی شناخت 2 تصاویر"
+
+msgid "please_select_2_document"
+msgstr "برائے مہربانی کم از کم 2 تصاویر اپ لوڈ کریں (آپ کے شناختی کارڈ کے سامنے اور پیچھے)"
+
+msgid "terms"
+msgstr "اوپر درج شناختی تفصیلات درست ، درست اور خود سے تعلق رکھتی ہیں۔"
+
+msgid "education_and_qualification_title"
+msgstr "تعلیم اور قابلیت"
+
+msgid "no_education_text"
+msgstr "تعلیم اور قابلیت ابھی شامل نہیں کی گئی۔"
+
+msgid "from"
+msgstr "سے:"
+
+msgid "to"
+msgstr "تک:"
+
+msgid "institution_country"
+msgstr "انسٹی، ملک"
+
+msgid "add_education_and_qualification_title"
+msgstr "تعلیم اور اہلیتمیں شامل"
+
+msgid "add_success"
+msgstr "تعلیماور قابلیت کامیابی سے شامل."
+
+msgid "add_education_and_qualification_update_title"
+msgstr "اپڈیٹ ایجوکیشن اینڈ کوالیفیکیشن"
+
+msgid "education_and_qualification_info_title"
+msgstr "ایجوکیشن اینڈ کوالیفیکیشن تفصیلات"
+
+msgid "qualification_type"
+msgstr "کوالیفیکیشن ٹائپ"
+
+msgid "qualification"
+msgstr "کوالیفیکیشن"
+
+msgid "qualification_number"
+msgstr "کوالیفیکیشن نمبر"
+
+msgid "qualification_field"
+msgstr "کوالیفیکیشن فیلڈ"
+
+msgid "qualification_exp_date"
+msgstr "کوالیفیکیشن تاریخ ختم ہونے کی تاریخ"
+
+msgid "from_date"
+msgstr "سے"
+
+msgid "end_date"
+msgstr "آخری تاریخ"
+
+msgid "institution_name"
+msgstr "ادارے کا نام"
+
+msgid "additional_details"
+msgstr "اضافی تفصیلات"
+
+msgid "uploaded_images_certificates"
+msgstr "سرٹیفکیٹ فوٹو"
+
+msgid "delete_confirm"
+msgstr "کیا آپ اس تعلیم اور قابلیت کو حذف کرنے کا یقین رکھتے ہیں؟"
+
+msgid "delete_success"
+msgstr "تعلیم اور قابلیت کامیابی سے حذف ہو گئی۔"
+
+msgid "work_experience_list_title"
+msgstr "کام کا تجربہ"
+
+msgid "no_exp_added_text"
+msgstr "کام کے تجربے کی تفصیلات ابھی تک شامل نہیں کی گئیں۔"
+
+msgid "exp_type"
+msgstr "تجربے کی قسم"
+
+msgid "emp_type"
+msgstr "روزگار کی قسم"
+
+msgid "organization_name"
+msgstr "تنظیم کا نام"
+
+msgid "job_role"
+msgstr "جاب کردار"
+
+msgid "contact_person_name"
+msgstr "رابطہ شخص کا نام"
+
+msgid "current"
+msgstr "موجودہ"
+
+msgid "city_country"
+msgstr "شہر ، ملک"
+
+msgid "add_work_experience_title"
+msgstr "شامل کریں کام کا تجربہ"
+
+msgid "add_work_experience_update_title"
+msgstr "اپ ڈیٹ کام کا تجربہ"
+
+msgid "exp_added_success"
+msgstr "کام کا تجربہ کامیابی سے شامل کیا گیا۔"
+
+msgid "exp_update_success"
+msgstr "کام کا تجربہ کامیابی سے اپ ڈیٹ ہوا۔"
+
+msgid "work_experience_info_title"
+msgstr "کام کے تجربے کی تفصیلات"
+
+msgid "experience"
+msgstr "تجربہ"
+
+msgid "refer_person_name"
+msgstr "حوالہ شخص کا نام"
+
+msgid "refer_person_number"
+msgstr "حوالہ شخص نمبر"
+
+msgid "refer_person_email"
+msgstr "حوالہ شخص ای میل"
+
+msgid "exp_delete_que"
+msgstr "کیا آپ کو حذف کرنے کا یقین ہے؟"
+
+msgid "exp_delete_success"
+msgstr "کامیابی سے حذف کر دیا گیا۔"
+
+msgid "insurance_list_title"
+msgstr "میری انشورنس"
+
+msgid "no_insurance_added_text"
+msgstr "انشورنس ابھی شامل نہیں کی گئی۔"
+
+msgid "agent_name"
+msgstr "ایجنٹ کا نام"
+
+msgid "add_insurance_title"
+msgstr "انشورنسشامل کریں انشورنس انشورنس"
+
+msgid "add_insurance_update_title"
+msgstr "اپ ڈیٹ"
+
+msgid "insurance_added_success"
+msgstr "کامیابی کے ساتھ شامل کیا گیا۔"
+
+msgid "insurance_update_success"
+msgstr "انشورنس کو کامیابی سے اپ ڈیٹ کیا گیا۔"
+
+msgid "insurance_info_title"
+msgstr "انشورنس کی تفصیلات"
+
+msgid "insurance_policy_type"
+msgstr "انشورنس پالیسی کی قسم"
+
+msgid "policy_name"
+msgstr "پالیسی نام"
+
+msgid "insurance_company"
+msgstr "کی انشورنس کمپنی کا نام"
+
+msgid "insurance_policy_number"
+msgstr "کی انشورنس پالیسی نمبر"
+
+msgid "policy_value"
+msgstr "پالیسی کی قدر / حد"
+
+msgid "agent_mobile_number"
+msgstr "ایجنٹ موبائل نمبر"
+
+msgid "agent_email_id"
+msgstr "ایجنٹ ای میل کی شناخت"
+
+msgid "additional_information"
+msgstr "اضافی معلومات"
+
+msgid "uploaded_images_policies"
+msgstr "انشورنس پالیسی فوٹو"
+
+msgid "delete_insurance_confirm"
+msgstr "تمہیں یقین اس انشورنس کو حذف کرنا ہیں؟"
+
+msgid "delete_inusrance_success_text"
+msgstr "انشورنس کامیابی کے ساتھ حذف ہو گیا۔"
+
+msgid "vehicle_list_title"
+msgstr "میری گاڑیوں کی"
+
+msgid "no_vehicles_added_text"
+msgstr "گاڑیوں کی تفصیلات ابھی تک شامل نہیں کی گئیں۔"
+
+msgid "add_vehicles_title"
+msgstr "گاڑیاںشامل کریں گاڑیاں"
+
+msgid "add_vehicles_update_title"
+msgstr "اپ ڈیٹ گاڑیاں"
+
+msgid "vehicles_added_success"
+msgstr "کامیابی سے شامل کی گئیں۔"
+
+msgid "vehicles_update_success"
+msgstr "گاڑیوں کی تفصیلات کامیابی سے اپ ڈیٹ ہو گئیں۔"
+
+msgid "vehicle_info_title"
+msgstr "گاڑیوں کی تفصیلات"
+
+msgid "vehicle_model"
+msgstr "گاڑی کے ماڈل کی"
+
+msgid "vehicle_make"
+msgstr "گاڑی"
+
+msgid "vehicle_type_name"
+msgstr "گاڑی کی قسم کا نام"
+
+msgid "vehicle_type_id"
+msgstr "گاڑی کی قسم شناختی"
+
+msgid "vehicle_identification_number"
+msgstr "گاڑی کی شناختی نمبر"
+
+msgid "vehicle_register_number"
+msgstr "گاڑی کا رجسٹریشن نمبر"
+
+msgid "vehicle_paint_color"
+msgstr "گاڑی کا جسم پینٹ رنگین"
+
+msgid "vehicle_type"
+msgstr "گاڑی کی قسم"
+
+msgid "vehicle_modal_year"
+msgstr "گاڑی کا موڈل سال"
+
+msgid "permit1"
+msgstr "پرمٹ 1"
+
+msgid "permit2"
+msgstr "پرمٹ 2"
+
+msgid "permit3"
+msgstr "پرمٹ 3"
+
+msgid "uploaded_images"
+msgstr "گاڑیوں کی تصاویر"
+
+msgid "delete_success_text"
+msgstr "گاڑی کامیابی سے حذف ہو گئی۔"
+
+msgid "not_defined_txt"
+msgstr "وضاحت نہیں کی گئی"
+
+msgid "logout_confirm"
+msgstr "کیا آپ واقعی لاگ آؤٹ کرنا چاہتے ہیں؟"
+
+msgid "yes"
+msgstr "ہاں"
+
+msgid "no"
+msgstr "نہیں"
+
+msgid "logout_failed"
+msgstr "صارف لاگ آؤٹ ناکام!"
+
+msgid "tudo_text"
+msgstr "سے TUDO"
+
+msgid "about_tudo"
+msgstr "بارے سے TUDO"
+
+msgid "contact_tudo"
+msgstr "رابطہ سے TUDO"
+
+msgid "refer_tudo"
+msgstr "کا حوالہ سے TUDO"
+
+msgid "tudo_legal"
+msgstr "سے TUDO قانونی شرائط وضوابط"
+
+msgid "tudo_help"
+msgstr "سے TUDO درخواست کی مدد"
+
+msgid "my_profile"
+msgstr "میرا کوائف"
+
+msgid "my_indentification"
+msgstr "میری شناخت"
+
+msgid "education_quali"
+msgstr "میری تعلیم اور اہلیت"
+
+msgid "work_experience"
+msgstr "میرے کام کے تجربے"
+
+msgid "my_address"
+msgstr "میرا پتہ"
+
+msgid "my_insurance"
+msgstr "میری انشورنس"
+
+msgid "my_vehicles"
+msgstr "میرا گاڑیاں"
+
+msgid "my_family"
+msgstr "میرے خاندان"
+
+msgid "themes"
+msgstr "موضوعات"
+
+msgid "my_prefernces"
+msgstr "میری ترجیحات"
+
+msgid "logout_text"
+msgstr "لاگ آؤٹ"
+
+msgid "provide_feedback"
+msgstr "پر سے TUDOتاثرات"
+
+msgid "terms_of_use"
+msgstr "سے TUDO استعمالکی شرائط"
+
+msgid "privacy_notice"
+msgstr "سے TUDOرازداری کا نوٹس"
+
+msgid "mail_subject"
+msgstr "TUDO یوزر"
+
+msgid "mail_body"
+msgstr "ہیلو TUDO سپورٹ ٹیم۔"
+
+msgid "demo_txt"
+msgstr "ڈیمو"
+
+msgid "are_you_sure_to_delete"
+msgstr "کیا آپ کو حذف کرنے کا یقین ہے؟"
+
+msgid "identity_number"
+msgstr "شناختی دستاویز نمبر"
+
+msgid "identity_name"
+msgstr "جاری کرنے والے اتھارٹی"
+
+msgid "identity_exp_Date"
+msgstr "شناخت کا نام ختم ہونے کی تاریخ"
+
+msgid "select_identity_type"
+msgstr "کریں ذاتی شناخت کی قسم منتخب کریں"
+
+msgid "knodledge_desc"
+msgstr "میں نے شناختی معلومات کی تصدیق کی ہے اور اس کی درستگی اور میرے علم کے مطابق قانونی حیثیت کو قبول کیا ہے۔"
+
+msgid "at_least_2_docs"
+msgstr "براہ کرم کم از کم 2 دستاویزات منتخب کریں دستاویزات"
+
+msgid "upload_pictures"
+msgstr "اپ لوڈ کریں فوٹو"
+
+msgid "work_exp_type"
+msgstr "کام کے تجربے کی قسم"
+
+msgid "work_exp"
+msgstr "کام کا تجربہ"
+
+msgid "enter_name"
+msgstr "درج کریں تنظیم کا نام (اگر قابل اطلاق ہو)"
+
+msgid "name_of_oraga"
+msgstr "تنظیم کا نام(اگر قابل اطلاق ہو)"
+
+msgid "enter_city"
+msgstr "درج کریںاوپر کی"
+
+msgid "city_of_organization"
+msgstr "تنظیم کا شہرتنظیم کا شہر"
+
+msgid "enter_role_with_organization"
+msgstr "درج کریںاوپر کی تنظیم کے ساتھ اپنا کردار درج کریں تنظیم میں"
+
+msgid "role_with_organization"
+msgstr "ملازمت کا کردار"
+
+msgid "currently_question"
+msgstr "میں فی الوقت اس تنظیم میں ملازم ہوں"
+
+msgid "begin_date"
+msgstr "ملازمت شروع ہونے کی تاریخ"
+
+msgid "person_name"
+msgstr "اس تنظیم کا"
+
+msgid "reference_person_name"
+msgstr "رابطہ فرد کا نامحوالہ/ رابطہ فرد کا نام"
+
+msgid "contact_per_email"
+msgstr "سے رابطہ کریں شخص کی ای میل آئی ڈی اس تنظیم سے"
+
+msgid "elaborate_job"
+msgstr "اپنی ملازمت کے فرائض کی وضاحت کریں"
+
+msgid "additional_info"
+msgstr "ایک کے بارے میں اضافی معلومات کامیابی یا ناکامی کی کہانی"
+
+msgid "country_is_required"
+msgstr "ملککی ضرورت ہے"
+
+msgid "contact_person_number"
+msgstr "اس تنظیمسےرابطہ شخص کا فون نمبر"
+
+msgid "refer_person_phone_number"
+msgstr "حوالہ / رابطہ شخص کا فون نمبر"
+
+msgid "i_have_read"
+msgstr "میںکو پڑھنے اورسے اتفاق کرتا ہوں"
+
+msgid "tudo_terms_use"
+msgstr "سے TUDO استعمال کی شرائط"
+
+msgid "and_text"
+msgstr "اور"
+
+msgid "privacy_policies"
+msgstr "پرائیویسی نوٹس"
+
+msgid "must_accept_terms_to_continue"
+msgstr "آپکو جاری رکھنے سے TUDO شرائط و ضوابط کو قبول کرنا ضروری"
+
+msgid "brainree_terms_of_use"
+msgstr "braintree کی استعمال کی شرائط"
+
+msgid "agree_back_verification"
+msgstr "میں قبول کرتا ہوں اور اپنے کاروباری پس منظر کی قیمت ادا کرنے پر راضی ہوں۔ nd تصدیق"
+
+msgid "hyperwallet_terms"
+msgstr "ہائپر والٹ استعمال کی شرائط"
+
+msgid "licensed_terms_text"
+msgstr "میں تصدیق کرتا ہوں کہ درج کردہ معلومات جائز اور میرے علم کے لیے درست ہیں"
+
+msgid "unlicensed_terms_text"
+msgstr "اوپر درج شناخت کی تفصیلات جائز ، درست اور خود سے تعلق رکھتی ہیں۔"
+
+msgid "owner_business_text"
+msgstr "میں اس کاروبار کے قانونی مالک ہوں اور میری عمر 18 سال سے زیادہ ہوں"
+
+msgid "enter_first_name"
+msgstr "آپ کا پہلا نام"
+
+msgid "first_name"
+msgstr "پہلا نام"
+
+msgid "enter_last_name"
+msgstr "آپ کا آخری نامدرج"
+
+msgid "last_name"
+msgstr "آخری نام"
+
+msgid "enter_your_password"
+msgstr "آپ کا پاس ورڈدرج"
+
+msgid "error_text"
+msgstr "خرابی"
+
+msgid "signup_failed"
+msgstr "سائن اپناکام"
+
+msgid "tudo_sign_up"
+msgstr "سے TUDOسائن اپ"
+
+msgid "back_to_login"
+msgstr "واپس لاگ ان کرناکریں؟"
+
+msgid "time_is_expired"
+msgstr "OTP ختم ہو چکا ہےختم ہو گیا"
+
+msgid "your_time_desc"
+msgstr "OTPہے براہ کرم ایک نیا وصول کرنے کے لیے ری سیٹ کا بٹن دبائیں"
+
+msgid "resend_the_otp"
+msgstr "OTP دوبارہ بھیجیں"
+
+msgid "wait_text"
+msgstr "انتظار"
+
+msgid "enter_otp"
+msgstr "کریں داخل کریں OTP"
+
+msgid "emailed_otp_text"
+msgstr "ہم نے آپ کے ای میل اکاؤنٹ میں او ٹی پی (ون ٹائم پن) بھیجا ہے ، اپنا ٹی ڈی او اکاؤنٹ فعال کرنے کے لیے او ٹی پی درج کریں۔ (نوٹ: براہ کرم 5 منٹ تک ای میل وصول کرنے کی اجازت دیں ، اپنے سپیم فولڈر کو بھی چیک کریں)"
+
+msgid "success_text"
+msgstr "کامیابی!"
+
+msgid "pass_change_success_text"
+msgstr "پاس ورڈ کامیابی سے اپ ڈیٹ ہو گیا!"
+
+msgid "fill_cell_text"
+msgstr "*براہ کرم تمام سیلز کو مناسب طریقے سے پُر"
+
+msgid "didnt_get_code_text"
+msgstr "کریں OTP موصول نہیں ہوا؟ دوبارہ بھیجیں"
+
+msgid "aye_text"
+msgstr "!!"
+
+msgid "verify_text"
+msgstr "توثیق"
+
+msgid "clear_text"
+msgstr "واضح"
+
+msgid "select_language"
+msgstr "زبان منتخب"
+
+msgid "next_text"
+msgstr "اگلا"
+
+msgid "select_calendar"
+msgstr "منتخب کیلنڈر"
+
+msgid "policy_periods"
+msgstr "پالیسی درست مدت"
+
+msgid "atleast_2_document"
+msgstr "میں کم از کم 2 دستاویزاتمنتخب کیجیے"
+
+msgid "upload_doc_text"
+msgstr "اپ لوڈ دستاویز فوٹو"
+
+msgid "insurance_policy_cat_text"
+msgstr "انشورنس پالیسی زمرہ"
+
+msgid "valid_date_txt"
+msgstr "درست تاریخدرج کریں"
+
+msgid "start_date_text"
+msgstr "کی پالیسی شروعتاریخ"
+
+msgid "end_date_text"
+msgstr "پالیسی تاریخ اختتام"
+
+msgid "name_of_policy_text"
+msgstr "سے آپ کی انشورنس کی پالیسیکینام"
+
+msgid "additional_info_text"
+msgstr "اضافی معلومات"
+
+msgid "policy_value_limit_text"
+msgstr "پالیسی کی قدر / حد"
+
+msgid "agent_email_id_text"
+msgstr "انشورنس ایجنٹ ای میل کی شناخت"
+
+msgid "insurance_company_name_text"
+msgstr "انشورنس کمپنی کا نام"
+
+msgid "agent_name_text"
+msgstr "بیمہایجنٹ کا نام"
+
+msgid "policy_number_text"
+msgstr "انشورنس پالیسی نمبر"
+
+msgid "code_text"
+msgstr "کوڈ"
+
+msgid "country_code_text"
+msgstr "کنٹری کوڈ"
+
+msgid "agent_phone_number_text"
+msgstr "انشورنس ایجنٹ فون نمبر"
+
+msgid "please_select_image"
+msgstr "برائے مہربانی ایک تصویر"
+
+msgid "error_while_pick_image_txt"
+msgstr "چنتے وقت ایک امیج"
+
+msgid "please_choose_image_txt"
+msgstr "ایرر منتخب کریں برائے مہربانی ایک امیج"
+
+msgid "gallery_txt"
+msgstr "گیلری"
+
+msgid "camera_txt"
+msgstr "کیمرہ"
+
+msgid "please_select_gender"
+msgstr "منتخب کریں برائے مہربانیصنفمنتخب کریں"
+
+msgid "gender_txt"
+msgstr "صنف"
+
+msgid "additional_activites"
+msgstr "اضافی سرگرمیاں یا شرکت"
+
+msgid "additional_during_study_text"
+msgstr "سٹینڈرڈدوراناضافی سرگرمیاں یا شرکت وغیرہ۔"
+
+msgid "qualification_field_study"
+msgstr "کوالیفیکیشن فیلڈ یا سٹڈی"
+
+msgid "highest_degree_qualification"
+msgstr "ہائیسٹ ڈگری کےیا اہلیت؟"
+
+msgid "enter_instituation_name"
+msgstr "ادارے کا نامکریں"
+
+msgid "name_of_institution"
+msgstr "نام انسٹیٹیوشن کی"
+
+msgid "qualification_certificate_number"
+msgstr "اہلیت یا سرٹیفیکیشن نمبردرج"
+
+msgid "certificate_number"
+msgstr "اہلیت یا سرٹیفکیٹ نمبر"
+
+msgid "qualification_required_txt"
+msgstr "اہلیتکی ضرورت ہے"
+
+msgid "qualification_txt"
+msgstr "اہلیت"
+
+msgid "select_qualification"
+msgstr "منتخب اہلیت"
+
+msgid "body_paint_color"
+msgstr "گاڑی کے جسم پینٹ رنگ"
+
+msgid "registration_plate_number"
+msgstr "وہیکل رجسٹریشن / پلیٹ نمبر"
+
+msgid "vehicle_identity_number"
+msgstr "گاڑیوں کے شناختی نمبر"
+
+msgid "vehicle_type_text"
+msgstr "وہیکل قسم"
+
+msgid "model_year_text"
+msgstr "وہیکل ماڈل سال"
+
+msgid "vehicle_permit_1"
+msgstr "وہیکل Permit1"
+
+msgid "vehicle_permit_2"
+msgstr "وہیکل Permit2"
+
+msgid "vehicle_permit_3"
+msgstr "گاڑیPermit3"
+
+msgid "additional_info_txt"
+msgstr "اضافی معلومات"
+
+msgid "select_calendar_text"
+msgstr "کےاپنے کیلنڈرمنتخب کریں"
+
+msgid "tudo_appointment"
+msgstr "سے TUDO تقرری"
+
+msgid "for_text"
+msgstr "لئے"
+
+msgid "service_text"
+msgstr "سروس"
+
+msgid "add_charge"
+msgstr "شامل چارج"
+
+msgid "enter_title"
+msgstr "درج عنوان"
+
+msgid "field_should_required"
+msgstr "درج مطلوبہ فیلڈ"
+
+msgid "enter_quantity"
+msgstr "درج مقدار"
+
+msgid "should_be_decimal"
+msgstr "مقدار ہونا ضروری تعداد کو قدر"
+
+msgid "quan_greater_text"
+msgstr "مقدار تو کدو کش ہونا ضروری ہے 0"
+
+msgid "unit_price_text"
+msgstr "درج یونٹ قیمت"
+
+msgid "charge_in_number"
+msgstr "چارجز تعداد میں قدرمیں ہونا ضروری"
+
+msgid "charge_greater_text"
+msgstr "چارجزکدو کش ہونا ضروری ہے اس کے بعد 0"
+
+msgid "enter_desc_text"
+msgstr "کی تفصیل درج کریں"
+
+msgid "applicable_tax"
+msgstr "لئے اطلاقٹیکس"
+
+msgid "applicable_discount"
+msgstr "چھوٹ کے لئے لاگو"
+
+msgid "add_comment_text"
+msgstr "تبصرےشامل کریں"
+
+msgid "write_billing_text"
+msgstr "لکھیں بلنگ/ رسیدتبصرے"
+
+msgid "reason_Additional_charge"
+msgstr "اضافی چارجز کے لئے لکھنے وجوہاتیا سروس تفصیلات وغیرہ"
+
+msgid "type_comments"
+msgstr "آپ کے تبصرےدرای"
+
+msgid "invoice_details"
+msgstr "انوائس کی تفصیلات دیکھیں"
+
+msgid "invoice_generated_success_text"
+msgstr "انوائس کامیابی سے پیدا"
+
+msgid "please_give_rating_text"
+msgstr "کریں شرح اس کنزیومر"
+
+msgid "post_positive_text"
+msgstr "اس کا اشتراک صارفینکی خدمت آپ کے مثبت تجربہ"
+
+msgid "what_you_like_most_text"
+msgstr "WRITE آپ سب سے زیادہنے پسند کیا"
+
+msgid "invoice_txt"
+msgstr "انوائس #"
+
+msgid "charges_text"
+msgstr "چارجز"
+
+msgid "discounts"
+msgstr "ڈسکاؤنٹس"
+
+msgid "taxes"
+msgstr "ٹیکسز"
+
+msgid "total"
+msgstr "کل"
+
+msgid "do_you_remove"
+msgstr "آپ کو یقین لائن کو دور کرنے کر رہے ہیں؟"
+
+msgid "qty_txt"
+msgstr "مقدار"
+
+msgid "unit_price"
+msgstr "یونٹ قیمت:"
+
+msgid "app_title"
+msgstr "اپٹ عنوان"
+
+msgid "app_date"
+msgstr "اپٹتاریخ کی"
+
+msgid "payment_type_text"
+msgstr "ادائیگی کی قسم"
+
+msgid "from_txt"
+msgstr "سے"
+
+msgid "invoice_date"
+msgstr "انوائس تاریخ"
+
+msgid "agent_txt"
+msgstr "ایجنٹ"
+
+msgid "bill_to_text"
+msgstr "بل"
+
+msgid "comments_txt"
+msgstr "تبصرے"
+
+msgid "unplesant_text"
+msgstr "اس بسمکی خدمت سیکنڈ اور ناخوشگوار"
+
+msgid "elidigble_discount"
+msgstr "ڈسکاؤنٹ کے لیے اہل"
+
+msgid "leads_text"
+msgstr "لیڈز"
+
+msgid "prospects_text"
+msgstr "امکانات"
+
+msgid "branch_list_screen_title"
+msgstr "برانچ کی فہرست"
+
+msgid "inactive_text"
+msgstr "inactivate کے"
+
+msgid "active_text"
+msgstr "فعال"
+
+msgid "employees_text"
+msgstr "ملازمین"
+
+msgid "address_text"
+msgstr "پتہ"
+
+msgid "delete_text"
+msgstr "حذف"
+
+msgid "bsp_signup_licensed_terms_page_title"
+msgstr "منتخب سروسز"
+
+msgid "atleast_one_service_text"
+msgstr "کم از کم ایک سروس کے اگلے آگے بڑھنےکربراہ مہربانی منتخب کریں"
+
+msgid "deactive_confirm_text"
+msgstr "آپ واقعی آپ کی برانچ کی جانب سے اس سروس کو غیر فعال کرنے کے لئے رہے ہیںتجربہ؟"
+
+msgid "deactive_success_text"
+msgstr "برانچ کامیابی سے غیر فعال"
+
+msgid "add_service_confirm_text"
+msgstr "کیا آپ اس سروس کو اپنی برانچ میں شامل کرنے کا یقین رکھتے ہیں؟"
+
+msgid "service_added_success_text"
+msgstr "سروس کو آپ کی برانچ میں کامیابی کے ساتھ شامل کیا گیا۔"
+
+msgid "error_while_picking_text"
+msgstr "تصویر چنتے وقت خرابی"
+
+msgid "please_choose_img_text"
+msgstr "برائے مہربانی ایک تصویرایک تصویر"
+
+msgid "enter_first_name_text"
+msgstr "کریں ملازم کا پہلا نام"
+
+msgid "employee_first_name"
+msgstr "ملازم کا پہلا نام"
+
+msgid "employee_last_name"
+msgstr "ملازم کا آخری نام"
+
+msgid "employee_address_mandatory"
+msgstr "ملازم کا پتہ"
+
+msgid "employee_address_text"
+msgstr "ملازم کا پتہ"
+
+msgid "employee_demographic_text"
+msgstr "ملازم کی آبادیاتی معلومات"
+
+msgid "please_select_all_required_fields"
+msgstr "برائے مہربانی پروفائل تصویرکے ساتھ مطلوبہ معلومات درج کریں"
+
+msgid "employee_identification_title"
+msgstr "ملازم شناختی"
+
+msgid "employee_list_title"
+msgstr "ملازم کی فہرست"
+
+msgid "hey_there_text"
+msgstr "!"
+
+msgid "scan_tudo_text"
+msgstr "TUDO QR کوڈ سے اسکین کریںچھوٹ"
+
+msgid "take_new_employee"
+msgstr "دستی اندراج"
+
+msgid "employee_idnetity"
+msgstr "ملازم کی شناخت"
+
+msgid "spend_100_text"
+msgstr "$ 100 خرچ کریں اور اپنی کلپر 20٪ کیحاصل کریں"
+
+msgid "review_pay_text"
+msgstr "جائزہ اور ادائیگی کی"
+
+msgid "estimated_cost"
+msgstr "تخمینی لاگت:"
+
+msgid "excluding_text"
+msgstr "(ایڈونس اور ٹیکس کو چھوڑ کر)"
+
+msgid "search_by_job_name"
+msgstr "جاب کے نام سے تلاش کریں"
+
+msgid "promotion_module_title"
+msgstr "پروموشن"
+
+msgid "title_text"
+msgstr "ٹائٹل"
+
+msgid "image_upload_error"
+msgstr "امیج اپ لوڈ کی خرابی ، دوبارہ کوشش کریں برائے مہربانی"
+
+msgid "combined_promotion_ques"
+msgstr "پروموشن ہو سکتا ہے دیگر پروموشنز کے ساتھ مل کر؟"
+
+msgid "promotion_title"
+msgstr "پروموشن ٹائٹل پروموشن کے"
+
+msgid "describe_promotion"
+msgstr "بارے میں بیان"
+
+msgid "enter_promotion_details"
+msgstr "کریں براہ کرم پروموشن کی تفصیلات درج کریں"
+
+msgid "promotion_type"
+msgstr "پروموشن ٹائپ"
+
+msgid "promotion_begin_date"
+msgstr "پروموشن شروع تاریخ"
+
+msgid "promotion_end_date"
+msgstr "پروموشن اختتامی تاریخ"
+
+msgid "promotion_brodcast_range"
+msgstr "پروموشن براڈکاسٹ رینج"
+
+msgid "upload_promotion_pictures"
+msgstr "اپ لوڈ پروموشنل فوٹو"
+
+msgid "promotion_exp_values"
+msgstr "پروموشن ایکسپرٹی ویلیو"
+
+msgid "reaching_sum_discount"
+msgstr "پروموشن اس رقم تک پہنچنے کے بعد ختم ہو جاتی ہے ڈسکاؤنٹ ویلیو"
+
+msgid "usage_max_limit"
+msgstr "پروموشن اس رقم تک پہنچنے کے بعد ختم ہو جاتی ہے کل قیمت"
+
+msgid "per_user_limit_promotion"
+msgstr "پروموشن پر صارف کی حد"
+
+msgid "promotional_camping_desc"
+msgstr "*نوٹ : منتخب کیش ڈسکاؤنٹ مقررہ آپ کو اس پروموشنل پیشکشپر چاہوں"
+
+msgid "disc_amount"
+msgstr "ڈسکاؤنٹ رقم"
+
+msgid "disc_amount_mandatory"
+msgstr "ڈسکاؤنٹ رقم"
+
+msgid "amount_text"
+msgstr "رقم"
+
+msgid "this_promotional_offer"
+msgstr "* نوٹگا:منتخب مقررہ آپاس پروموشنل پیشکشپر چاہوں گاڈسکاؤنٹ٪ عمر"
+
+msgid "discount_age"
+msgstr "میں٪ڈسکاؤنٹ"
+
+msgid "percentage_between"
+msgstr "ڈسکاؤنٹ٪(1 - 100) کے درمیان ہونا چاہیے"
+
+msgid "percentage_required"
+msgstr "ڈسکاؤنٹ قدر درکار ہے"
+
+msgid "must_between_100"
+msgstr "ڈسکاؤنٹ1 سے 100 کے درمیانہونا چاہیے"
+
+msgid "no_service_combination"
+msgstr "اس مجموعہ کے لیےکوئی سروس دستیاب نہیں"
+
+msgid "apply_promotion_ques"
+msgstr "اپنی تمام خدمات پر پروموشن لگائیں؟"
+
+msgid "walk_in_lable"
+msgstr "واک ان"
+
+msgid "in_house_label"
+msgstr "ان ہوم"
+
+msgid "on_Demand_label"
+msgstr "آن ڈیمانڈ"
+
+msgid "promotion_details"
+msgstr "پروموشن کی تفصیلات"
+
+msgid "promotion_terms"
+msgstr "پروموشن کی شرائط و ضوابط ویب پیج (اگر کوئی ہے)"
+
+msgid "type_web_page_url"
+msgstr "ٹائپ کریں ویب پیج یو آر ایل (یقینی بنائیں کہ یو آر ایل کام کر رہا ہے)"
+
+msgid "promotion_terms_conditions"
+msgstr "پروموشن کی شرائط و ضوابط"
+
+msgid "business_prof_details"
+msgstr "برائے مہربانی بزنس پروفائل کی تفصیلات درج کریں"
+
+msgid "promotion_terms_mandatory"
+msgstr "پروموشن کی شرائط و ضوابط"
+
+msgid "have_agree_text"
+msgstr "میں نے پڑھی ہیں اور ان سے اتفاق کرتا ہوںکو"
+
+msgid "tudo_promotions_terms"
+msgstr "سے TUDO پروموشنز شرائط و ضوابط"
+
+msgid "must_check_text"
+msgstr "آپجاری رکھنے کے لئے شرائط و ضوابط کو قبول کرنا ضروری"
+
+msgid "create_txt"
+msgstr "بنائیں"
+
+msgid "invoice_pay"
+msgstr "کے ذریعے ادا"
+
+msgid "succ_text"
+msgstr "کی کامیابی"
+
+msgid "promotion_create_success"
+msgstr "پروموشن کامیابی کے ساتھ"
+
+msgid "promotion_cost"
+msgstr "دی:ادائیگی کی تفصیلات"
+
+msgid "share_text"
+msgstr "سیکنڈ اور"
+
+msgid "promotion_applied"
+msgstr "پروموشنپر خدماتدرخواست"
+
+msgid "promotion_images"
+msgstr "پروموشنل فوٹو"
+
+msgid "description_text"
+msgstr "تفصیل"
+
+msgid "broad_range"
+msgstr "براڈ حد"
+
+msgid "promotion_pricing_text"
+msgstr "قیمتوں کا تعینپروموشن"
+
+msgid "base_unit_price"
+msgstr "پروموشن بیس یونٹ قیمت"
+
+msgid "promotion_cost_text"
+msgstr "براڈ حدکی بنیاد پرایڈجسٹ قیمت"
+
+msgid "tudo_disc"
+msgstr "سے TUDO ڈسکاؤنٹ"
+
+msgid "estimates_tax_txt"
+msgstr "ٹیکس"
+
+msgid "estimate_total_cost"
+msgstr "پروموشن خریداریقیمت"
+
+msgid "promotion_disc_details"
+msgstr "پروموشن ڈسکاؤنٹ کی تفصیلات"
+
+msgid "disc_details"
+msgstr "ڈسکاؤنٹ کی تفصیلات"
+
+msgid "promotion_usage_max_limit"
+msgstr "پروموشن ختم ہونے کے بعد کل قیمت"
+
+msgid "per_user_limit"
+msgstr "پروموشن پر صارف کی حد"
+
+msgid "share_text_label"
+msgstr "شیئر"
+
+msgid "status_text"
+msgstr "اسٹیٹس:"
+
+msgid "utilization_text"
+msgstr "یوٹیلائزیشن"
+
+msgid "business_promotion"
+msgstr "بزنس پروموشنز"
+
+msgid "payment_process_like_to_Do"
+msgstr "ادائیگی پر عملدرآمد اور پروموشن کامیابی کے ساتھ تخلیق کیا گیا !!"
+
+msgid "share_with_social_media"
+msgstr "سوشل میڈیاساتھ شیئر"
+
+msgid "search_text"
+msgstr "سرچ"
+
+msgid "dont_avail_promotion"
+msgstr "اس وقتپروموشنز کے"
+
+msgid "please_purchase_seprate"
+msgstr "کریں اپنے سبسکرپشن پلان کو اپ گریڈ کریں یا آگے بڑھنے کے لیے انفرادی پروموشن"
+
+msgid "purchase_text"
+msgstr "خریدیں"
+
+msgid "any_available_promotion"
+msgstr "پروموشنز اس وقت دستیاب"
+
+msgid "not_now_text"
+msgstr "نہیں ہیںنہیں اب"
+
+msgid "cutomer_not_exist"
+msgstr "بزنس موجود نہیں ہے"
+
+msgid "select_subscription"
+msgstr "ایک سبسکرپشن پلان"
+
+msgid "select_plan_desc"
+msgstr "منتخب کریں پروموشنپرائس پرائس پرائس"
+
+msgid "paid_service_desc"
+msgstr "پروموشن پروموشنمختلف ہوتی ہے براڈکاسٹ رینج ایریا پر"
+
+msgid "selected_plan"
+msgstr "منتخب کردہ منصوبہ"
+
+msgid "monthly_plan"
+msgstr "ماہانہ پلان"
+
+msgid "deal_details_title"
+msgstr "ڈیل کی تفصیلات"
+
+msgid "exact_one_service_to_next"
+msgstr "کریںآگے بڑھنے کے لیے کم از کم ایک سروس منتخب کریں"
+
+msgid "please_enter_valid_time"
+msgstr "براہ مہربانی درست تاریخ اور وقت کی"
+
+msgid "service_date_time"
+msgstr "خدمت کی تاریخ اور وقت کی"
+
+msgid "job_title"
+msgstr "خدمت کا تقرری عنوان"
+
+msgid "upload_picture"
+msgstr "اپ لوڈ کریں فوٹو (اگر کوئی ہو)"
+
+msgid "error_in_finding_bsp"
+msgstr "معذرت ، سروس فراہم کرنے والے اس وقت دستیاب نہیں ہیں ، براہ کرم مختلف تاریخ کے ساتھ کوشش کریں اور وقت"
+
+msgid "something_went_wrong"
+msgstr "کچھ غلط ہو گیا!"
+
+msgid "you_can_edit_address"
+msgstr "آپ اپٹ#، پلاٹ#، فلور#، سوٹ#، وغیرہ شامل کرنے کے لیے ایڈریس میں ترمیم کر سکتے ہیں"
+
+msgid "please_enter_address"
+msgstr "سروس ایڈریس"
+
+msgid "please_select_valid_time"
+msgstr "منتخب کریں براہ کرم درست وقتمنتخب"
+
+msgid "service_type_text"
+msgstr "سروس کی قسم"
+
+msgid "create_walk_in"
+msgstr "کریں واک ان"
+
+msgid "walk_in_create_success"
+msgstr "واک ان سروس اپائنٹمنٹ کامیابی سے بنائی گئی"
+
+msgid "in_home_create_success"
+msgstr "گھر میں سروس اپائنٹمنٹ کامیابی سےبنائی گئی۔"
+
+msgid "on_demand_create_success"
+msgstr "آن ڈیمانڈسروس اپائنٹمنٹ کامیابی کے ساتھ بنایا گیا"
+
+msgid "questionaries_response"
+msgstr "سوالنامہ کا جواب:"
+
+msgid "select_terms_conditions"
+msgstr "براہ کرم TUDO کی شرائط و ضوابط کو قبول کریں"
+
+msgid "job_details"
+msgstr "تقرری کی تفصیل"
+
+msgid "service_information"
+msgstr "سروس کی معلومات"
+
+msgid "select_from_address_book"
+msgstr "ایڈریس بک سے منتخب کریں"
+
+msgid "current_location"
+msgstr "موجودہ مقام"
+
+msgid "appointment"
+msgstr "اپائنٹمنٹ"
+
+msgid "date_and_time"
+msgstr "کی تاریخ اور وقت کی"
+
+msgid "request_type"
+msgstr "درخواست کی قسم"
+
+msgid "bsp_listview"
+msgstr "لسٹ دیکھیں"
+
+msgid "sort"
+msgstr "ترتیب دیں"
+
+msgid "add_address_txt"
+msgstr "ایڈریس شامل کریں۔"
+
+msgid "save_address_txt"
+msgstr "ایڈریس محفوظ کریں۔"
+
+msgid "selected_address_txt"
+msgstr "منتخب کردہ پتہ۔"
+
+msgid "custom_address_type"
+msgstr "اپنی مرضی کے ایڈریس کی قسم۔"
+
+msgid "custom_address_txt"
+msgstr "اپنی مرضی کا پتہ۔"
+
+msgid "select_address_type"
+msgstr "ایڈریس کی قسم منتخب کریں۔"
+
+msgid "mark_default_address"
+msgstr "بطور ڈیفالٹ ایڈریس نشان زد کریں۔"
+
+msgid "no_bsp_found"
+msgstr "معذرت ، سروس فراہم کرنے والے اس وقت دستیاب نہیں ہیں ، براہ کرم مختلف کے ساتھ کوشش کریں تاریخ اور وقت"
+
+msgid "distance_text"
+msgstr "فاصلہ"
+
+msgid "service_providers"
+msgstr "سروس فراہم"
+
+msgid "app_id"
+msgstr "Appt کے #:"
+
+msgid "appt_type"
+msgstr "Appt.Type:"
+
+msgid "spend_txt"
+msgstr "خرچ کرتے"
+
+msgid "get_off_desc"
+msgstr "ہیں اور آپ کی کلپر حاصل کرنے٪"
+
+msgid "cost_estimates"
+msgstr "متوقع قیمتڈسکاؤنٹ:"
+
+msgid "plus_taxes"
+msgstr "(علاوہ شامل کریں ons اور لاگو ٹیکس)"
+
+msgid "enter_re_schedule_reason"
+msgstr "درج کریں نظام الاوقات تبدیل وجہ"
+
+msgid "re_schedule_reason"
+msgstr "لکھنا نظام الاوقات تبدیل وجہ"
+
+msgid "re_schedule_text"
+msgstr "تقرری نظام الاوقات تبدیل"
+
+msgid "service_provider_must_accept"
+msgstr "نوٹ: دیگر پارٹی ضروری انتظار مرحلےمیں ہو گا اس دوران تقرری میں، آپ کے نظام الاوقات تبدیل درخواست قبول"
+
+msgid "re_schedule"
+msgstr "نظام الاوقات تبدیل"
+
+msgid "select_new_time"
+msgstr "ایک نئی تاریخ اور وقتبراہ مہربانی منتخب کریں"
+
+msgid "rescheduled_success"
+msgstr "لوڈشیڈول کی درخواست سروس پرووائڈر کو منظوری کے لیے بھیجی گئی۔"
+
+msgid "reschedule_title"
+msgstr "ری شیڈول وجہ"
+
+msgid "enter_cancellation_text"
+msgstr "براہ کرمدرج کریںوجہ"
+
+msgid "write_cancellation_reason"
+msgstr "منسوخی کی وجہمنسوخی کیلکھیں منسوخی"
+
+msgid "cancel_appointment"
+msgstr "اپائنٹمنٹ"
+
+msgid "cancellation_fees_text"
+msgstr "کیا آپ کو یقین ہے کہ یہ سروس اپائنٹمنٹ منسوخ ہے؟ TUDO $ 0.00 تک منسوخی فیس عائد کر سکتا ہے"
+
+msgid "confirmation"
+msgstr "کنفرمیشن"
+
+msgid "deals_offers"
+msgstr "ڈیلز اور آفرز"
+
+msgid "deal_schedule"
+msgstr "ڈیل شیڈول"
+
+msgid "job_title_required"
+msgstr "اپائنٹمنٹ ٹائٹل درکار ہے"
+
+msgid "please_select_date_time"
+msgstr "براہ کرم تاریخ اور وقت منتخب کریں"
+
+msgid "no_deals_found"
+msgstr "کوئی ڈیل نہیں ملی!"
+
+msgid "select_address"
+msgstr "منتخب ایڈریس"
+
+msgid "your_time_exp_text"
+msgstr "OTP نئے OTPکے لئے، براہ مہربانی دبائیں دوبارہ بھیجیں کی میعاد ختم"
+
+msgid "success_password_change"
+msgstr "پاس ورڈ کامیابی سے اپ ڈیٹ"
+
+msgid "fill_all_cell_text"
+msgstr "* دوبارہ درج OTP اور پریس کی توثیق دوبارہمہربانی"
+
+msgid "verify_txt"
+msgstr "توثیق"
+
+msgid "resend_otp_text"
+msgstr "ہے OTP موصول نہیں ہواہوگئی؟دوبارہ بھیجیں"
+
+msgid "wait"
+msgstr "انتظار"
+
+msgid "enter_password_text"
+msgstr "کریں اپنا پاس ورڈ داخل کریں"
+
+msgid "new_pass_text"
+msgstr "نیا پاس ورڈ"
+
+msgid "update_pass_text"
+msgstr "اپ ڈیٹ پاس ورڈ"
+
+msgid "forgot_pass_text"
+msgstr "بھول گیا پاس ورڈ"
+
+msgid "job_address_not_found"
+msgstr "سروس ایڈریس تلاش کرنے سے قاصر"
+
+msgid "change_details"
+msgstr "نوٹ: سروس پرووائڈر کی منظوری کے لیے ترمیم کی درخواست بھیجی گئی ، اس دوران ملاقات انتظار کی حالت میں ہوگی۔"
+
+msgid "new_schedule"
+msgstr "نظر ثانی شدہ شیڈول:"
+
+msgid "change_reason"
+msgstr "ترمیم کی"
+
+msgid "appt_txt"
+msgstr "وجہ:.Appt کے #:"
+
+msgid "app_type_text"
+msgstr "Appt.Type:"
+
+msgid "token_text"
+msgstr "ٹوکن #"
+
+msgid "employee_enrollment"
+msgstr "ملازم اندراج"
+
+msgid "previous_text"
+msgstr "پچھلا"
+
+msgid "enrollment_completed"
+msgstr "اندراج کامیابی سے مکمل"
+
+msgid "hey_text"
+msgstr "ارے،"
+
+msgid "recived_invitations"
+msgstr "آپ کی نئی ملازمت کی پیشکش پر مبارک ہو. جاری رکھنے کے لیے پیشکش کو قبول/ مسترد کریں۔"
+
+msgid "accept_text"
+msgstr "قبول کریں"
+
+msgid "accept_invitation_ques"
+msgstr "کیا آپ کو دعوت قبول کرنے کا یقین ہے؟"
+
+msgid "reject_text"
+msgstr "مسترد کریں"
+
+msgid "reject_invitations_ques"
+msgstr "کیا آپ دعوت کو مسترد کرنے کا یقین رکھتے ہیں؟"
+
+msgid "self_invite"
+msgstr "سیلف ایمپلائمنٹ دعوت کو اجازت نہیں ہے"
+
+msgid "sort_by"
+msgstr "چھانٹیںکے مطابق"
+
+msgid "unselected_sort"
+msgstr "غیر منتخب کردہترتیب"
+
+msgid "are_you_running_business"
+msgstr "آپ کو ایک کاروبار چلا رہے ہیں؟"
+
+msgid "consumer_success_popup_text1"
+msgstr "مبارک ہو ، آپ کا TUDO کنزیومر اکاؤنٹ کامیابی سے بن گیا"
+
+msgid "consumer_success_popup_text2"
+msgstr "اگر آپ کاروبار چلا رہے ہیں تو TUDO پلیٹ فارم پر اپنا کاروبار بڑھائیں۔ سے TUDO آپ کی انگلی، طاقتور کاروباری اور پروڈکٹیوٹی ٹولز کے ساتھ پیک میں جدید اور اصل وقت کی ٹیکنالوجی لاتاآپ کے ہاتھ کی کھجور کے سے مؤثر طریقے سے آپ کے کاروبار کو چلانے میں مدد"
+
+msgid "consumer_success_popup_text3"
+msgstr "سوالات کے لئےہمیں help@tudo.app"
+
+msgid "service_details"
+msgstr "سروس تفصیلات دیکھیں"
+
+msgid "services_help_screen_title"
+msgstr "سروس مدد"
+
+msgid "main_header_text"
+msgstr "کی نوعیت کے بارے میں سے TUDO بتائیںآپ تمام قابل اطلاق خدمات کو منتخب کرکے کاروبار کریں جو آپ کا کاروبار آپ کے صارفین کو پیش کرتا ہے۔"
+
+msgid "walk_in_desc"
+msgstr "آپ کے کاروبار کو مارکیٹ میں پیش کی جانے والی خدمات سے فائدہ اٹھانے کے لیے صارفین آپ کے کاروباری مقام/دفتر/اسٹور فرنٹ میں داخل ہوتے ہیں۔ مثال: سیلون ، ہسپتال ، اکاؤنٹنگ ، ڈرائی کلینر وغیرہ۔"
+
+msgid "in_house_desc"
+msgstr "آپ یا آپ کے کاروباری نمائندے آپ کی خدمات پیش کرنے کے لیے صارفین کے سروس ایڈریس جیسے گھر/ دفتر/ کاروبار وغیرہ کا دورہ کرتے ہیں۔ مثال: ہوم کلیننگ ، ہینڈ مین ، پلمبر ، الیکٹریشن ، کیئر ٹیکر وغیرہ"
+
+msgid "on_demand_desc"
+msgstr "آپ یا آپ کا کاروباری نمائندہ 5-10 منٹ میں صارفین کی موجودہ جغرافیائی جگہ پر پہنچ جاتا ہے تاکہ آپ اپنی خدمات پیش کرسکیں۔ مثال: ٹیکسی ، سڑک کے کنارے امداد ، ایمرجنسی مرمت ، مقام پر مبنی خدمات ، ایمبولینس ، پبلک سروسز وغیرہ"
+
+msgid "my_preference_screen_title"
+msgstr "میری ترجیحات"
+
+msgid "auto_refresh_mode"
+msgstr "ڈیش بورڈ آٹو ریفریش موڈ"
+
+msgid "share_my_location_text"
+msgstr "میرا مقام دوسرے TUDO صارفین کے ساتھ شیئر کریں"
+
+msgid "profile_visibility"
+msgstr "میرا پروفائل دیگر TUDO صارفین کو"
+
+msgid "notifications_settings"
+msgstr "نوٹیفیکیشن سیٹنگ"
+
+msgid "send_notifications"
+msgstr "نوٹیفکیشننوٹیفیکیشن"
+
+msgid "send_emails"
+msgstr "بھیجیںبھیجیں ای میلز بھیجیں"
+
+msgid "dashboard_success"
+msgstr "ڈیش بورڈ آٹو ریفریش موڈ کامیابی کے ساتھ اپ ڈیٹ ہواکامیابی کے"
+
+msgid "locatioon_success"
+msgstr "دیگر مقامات کے ساتھ اپنے مقامات کا اشتراک کریںساتھ اپ ڈیٹ کیا گیا"
+
+msgid "visibility_success"
+msgstr "پروفائل کی نمائش کی ترتیبات کامیابی سے اپ ڈیٹ ہوئیں"
+
+msgid "notification_success"
+msgstr "اطلاعات کی ترتیبات کو اپ ڈیٹ کریں"
+
+msgid "emails_success"
+msgstr "بھیجیں ای میلز کی ترتیبات کو کامیابی کے ساتھ اپ ڈیٹ بھیجیں"
+
+msgid "auto_refresh_true_question"
+msgstr "آٹو ریفریش آن ہو جائے گا ، زیادہ بیٹری اور نیٹ ورک ڈیٹا استعمال کر سکتا ہے۔ کیا آپ آگے بڑھنے کا یقین رکھتے ہیں؟"
+
+msgid "auto_refresh_false_question"
+msgstr "آٹو اپ ڈیٹس کو بند کر دیا جائے گا اور ڈیش بورڈ اپ ڈیٹس کے لیے دستی ریفریش درکار ہے۔ کیا آپ آگے بڑھنے کا یقین رکھتے ہیں؟"
+
+msgid "share_location_true_question"
+msgstr "آپ کا مقام دوسرے TUDO صارفین کے ساتھ شیئر کیا جائے گا۔ کیا آپ آگے بڑھنے کا یقین رکھتے ہیں؟"
+
+msgid "share_location_false_question"
+msgstr "آپ کا مقام دوسرے TUDO صارفین کے ساتھ شیئر نہیں کیا جائے گا ، ایپلیکیشن ریئل ٹائم اپ ڈیٹس کو متاثر کر سکتا ہے۔ کیا آپ آگے بڑھنے کا یقین رکھتے ہیں؟"
+
+msgid "profile_visibility_true_question"
+msgstr "آپ کا TUDO پروفائل دوسرے TUDO صارفین کو نظر آئے گا۔ کیا آپ آگے بڑھنے کا یقین رکھتے ہیں؟"
+
+msgid "profile_visibility_false_question"
+msgstr "آپ کا TUDO پروفائل نجی ہوگا اور دوسرے TUDO صارفین کو نظر نہیں آئے گا۔ کیا آپ آگے بڑھنے کا یقین رکھتے ہیں؟"
+
+msgid "notification_true_question"
+msgstr "نوٹیفیکیشن اور ای میل دونوں بند نہیں ہو سکتے۔ کم از کم ایک آن ہونا ضروری ہے۔"
+
+msgid "notification_false_question"
+msgstr "آٹو اپ ڈیٹس کو آف کر دیا جائے گا اور اپ ڈیٹس کے لیے دستی کارروائی درکار ہے۔ کیا آپ آگے بڑھنے کا یقین رکھتے ہیں؟"
+
+msgid "emails_true_question"
+msgstr "آپ کو TUDO ایپلیکیشن سے ای میلز موصول ہوں گی۔ کیا آپ آگے بڑھنے کا یقین رکھتے ہیں؟"
+
+msgid "emails_false_question"
+msgstr "آپ کو ای میلز موصول نہیں ہوں گی ، لیکن پھر بھی آپ کو TUDO سے اہم ای میلز موصول ہوتی ہیں۔ کیا آپ آگے بڑھنے کا یقین رکھتے ہیں؟"
+
+msgid "on_board"
+msgstr "بورڈ پر"
+
+msgid "active"
+msgstr "ایکٹو"
+
+msgid "terminated"
+msgstr "ٹرمنیٹڈ"
+
+msgid "long_leave"
+msgstr "لمبی چھٹی"
+
+msgid "retired"
+msgstr "ریٹائرڈ"
+
+msgid "pending_enrollment"
+msgstr "زیر التواء اندراج"
+
+msgid "pending_approval"
+msgstr "زیر التواء منظوری"
+
+msgid "bsp_earnings_module_title"
+msgstr "آمدنی اور ٹرانسفر"
+
+msgid "sry_text"
+msgstr "معذرت .....!"
+
+msgid "no_earnings_yet"
+msgstr "نہیں کمائی ابھی تک"
+
+msgid "annual_earnings"
+msgstr "سالانہ آمدنی"
+
+msgid "annual_transfer"
+msgstr "سالانہکی"
+
+msgid "available_funds"
+msgstr "دستیاب فنڈز"
+
+msgid "ready_to_transfer"
+msgstr "کی منتقلی کے لیےتیار"
+
+msgid "tudo_reserve"
+msgstr "سے TUDO ریزرو"
+
+msgid "date_txt"
+msgstr "تاریخ"
+
+msgid "transaction_id"
+msgstr "ٹرانزیکشن کی شناخت"
+
+msgid "amount_txt"
+msgstr "رقم"
+
+msgid "transfer_now_txt"
+msgstr "ٹرانسفر اب"
+
+msgid "transaction_details"
+msgstr "لین دین کی تفصیلات"
+
+msgid "transaction_time"
+msgstr "کے:ٹرانزیکشن وقت"
+
+msgid "appt_id_text"
+msgstr "Appt منتقلی.شناخت:"
+
+msgid "appt_date_txt"
+msgstr "اپٹ تاریخ:"
+
+msgid "appt_title_text"
+msgstr "اپٹ عنوان:"
+
+msgid "bill_to_txt"
+msgstr "بل کو:"
+
+msgid "agent_text"
+msgstr "ایجنٹ:"
+
+msgid "total_transaction_amt_text"
+msgstr "کل لین دین کی رقم"
+
+msgid "invoice_amount"
+msgstr "انوائس رقم کی"
+
+msgid "deduction_details"
+msgstr "کٹوتیوں کی تفصیلات"
+
+msgid "charges_total"
+msgstr "چارجز کل"
+
+msgid "discount_total"
+msgstr "چھوٹ کل"
+
+msgid "tax_total"
+msgstr "ٹیکس مجموعی"
+
+msgid "gratutity_collected"
+msgstr "گریجویٹی جمع"
+
+msgid "sub_total_invoice"
+msgstr "سب کل انوائس"
+
+msgid "sub_total_deduction"
+msgstr "ذیلی کل کٹوتی"
+
+msgid "transfer_text"
+msgstr "ٹرانسفر"
+
+msgid "note_msg_desc"
+msgstr "(* نوٹ: ہر ٹرانسفر ٹرانزیکشن پر لاگو مالی چارجز)"
+
+msgid "available_transfer_methods"
+msgstr "دستیاب ٹرانسفر کے طریقے"
+
+msgid "amount_ready_transfer"
+msgstr "تیار ہیں منتقلی کی"
+
+msgid "amount_required"
+msgstr "منتقلی کی رقمکو درکار"
+
+msgid "govt_imposed_fee"
+msgstr "حکومت۔ لگائی گئی فیس"
+
+msgid "financial_chargebacks"
+msgstr "مالی"
+
+msgid "tudo_Cancellation_fee"
+msgstr "چارجز TUDO منسوخی فیس"
+
+msgid "tudo_portion"
+msgstr "TUDO حصہ"
+
+msgid "tudo_commission"
+msgstr "گریجویٹی TUDO کمیشن"
+
+msgid "payment_processing_fee"
+msgstr "ادائیگی پروسیسنگ فیس"
+
+msgid "service_earning_amount"
+msgstr "سروس آمدنی کی رقم"
+
+msgid "amount_transfer_success"
+msgstr "آپ کے اکاؤنٹ میں کامیابی سے منتقل کی گئی رقم"
+
+msgid "my_earing_transfer"
+msgstr "میری آمدنی اور منتقلی"
+
+msgid "transfer_txt"
+msgstr "فنڈز منتقل کی گئی"
+
+msgid "earning_txt"
+msgstr "آمدنی"
+
+msgid "transfered_id_txt"
+msgstr "منتقلی آئی ڈی"
+
+msgid "no_payments_done"
+msgstr "کوئی کمائی نہیں ابھی تک"
+
+msgid "no_transaction_done"
+msgstr "کوئی منتقلی نہیں"
+
+msgid "service_paid_amount"
+msgstr "سروس ادا کی گئی رقم"
+
+msgid "consumer_add_ons"
+msgstr "کنزیومر ایڈ آن"
+
+msgid "tudo_protection"
+msgstr "ٹوتحفظ"
+
+msgid "of_invoice"
+msgstr "انوائس کا"
+
+msgid "tudo_booking"
+msgstr "TUDO بکنگ فیس"
+
+msgid "charitable_contribution"
+msgstr "خیراتی شراکتیں"
+
+msgid "sub_total_add_ons"
+msgstr "ذیلی کل اضافے"
+
+msgid "owen_tudo"
+msgstr "TUDOسے"
+
+msgid "check_amount_consumer"
+msgstr "صارفین سے رقم چیک کریں۔"
+
+msgid "reports_screen_title"
+msgstr "رپورٹس کی وجہ"
+
+msgid "select_duration"
+msgstr "منتخب کریں مدت"
+
+msgid "last_month"
+msgstr "آخری مہینہ"
+
+msgid "last_3_month"
+msgstr "آخری 3 ماہ"
+
+msgid "last_6_month"
+msgstr "آخری 6 ماہ"
+
+msgid "no_reports_text"
+msgstr "ابھی تک کوئی رپورٹ دستیاب نہیں"
+
+msgid "service_provider_info"
+msgstr "سروس فراہم کرنے والے کی معلومات"
+
+msgid "business_profile"
+msgstr "کاروباری پروفائل:"
+
+msgid "buss_license"
+msgstr "کاروباری لائسنس"
+
+msgid "exp_date_text"
+msgstr "ختم ہونے کی تاریخ"
+
+msgid "authority_text"
+msgstr "اتھارٹی"
+
+msgid "uploaded_pic"
+msgstr "نے لائسنس کی تصاویر اپ لوڈ کی ہیں:"
+
+msgid "business_est_year"
+msgstr "کاروبار قائمسال"
+
+msgid "bounded"
+msgstr "جکڑے ہوئے"
+
+msgid "insured"
+msgstr "بیمہ"
+
+msgid "other_details"
+msgstr "دیگر تفصیلاتنمبر:"
+
+msgid "background_verifed"
+msgstr "کے پس منظر کی توثیق"
+
+msgid "unregistered"
+msgstr "غیر رجسٹرڈ"
+
+msgid "verified_business"
+msgstr "شدہ بزنس"
+
+msgid "business_contact"
+msgstr "بزنس رابطے"
+
+msgid "name_text"
+msgstr "کا نام"
+
+msgid "email_text"
+msgstr "ای میل"
+
+msgid "phone_text"
+msgstr "فون نمبر"
+
+msgid "country_text"
+msgstr "ملک"
+
+msgid "service_offered"
+msgstr "خدمات کی پیشکش"
+
+msgid "reviews_text"
+msgstr "صارفین کی درجہ بندی اور جائزے"
+
+msgid "what_good_text"
+msgstr "پیشہ"
+
+msgid "what_bad_text"
+msgstr "تجاویز۔"
+
+msgid "no_reviews_text"
+msgstr "پہلیکو لکھنے کا جائزہ لینے کےایک کوہو"
+
+msgid "consumer_info"
+msgstr "صارفین کی معلومات"
+
+msgid "no_reviews_user_text"
+msgstr "کوئی جائزے ابھی تک"
+
+msgid "deal_filter_screen_title"
+msgstr "فلٹرز"
+
+msgid "reset_txt"
+msgstr "ری سیٹ"
+
+msgid "apply_txt"
+msgstr ""
+
+msgid "select_rating_count"
+msgstr "منتخب درجہ بندی"
+
+msgid "high_to_low"
+msgstr "تاریخلگائیںاعلی"
+
+msgid "low_to_high"
+msgstr "کرنے کی نئیپست"
+
+msgid "expires_in"
+msgstr "ختم ہوجاتامیں"
+
+msgid "select_expires_in"
+msgstr "منتخبمیعاد ختم ہو جائے میں"
+
+msgid "ascending_txt"
+msgstr "صعودی"
+
+msgid "descending_txt"
+msgstr "نزولی"
+
+msgid "distance"
+msgstr "فاصلہ"
+
+msgid "near_to_far"
+msgstr "کرنےقریب"
+
+msgid "far_to_near"
+msgstr "قریبکودور"
+
+msgid "service_type"
+msgstr "قسم سروس"
+
+msgid "please_select_more_filters"
+msgstr "(براہ مہربانی منتخب کریں زیادہ فلٹر کے لئے قسم)"
+
+msgid "apply_to_all"
+msgstr "فلٹر کا اطلاق آپ کی تمام خدمات کے لیے؟"
+
+msgid "no_deals_found_filter"
+msgstr "کوئی سودے کے لئےآپ کے انتخاب کےپایا"
+
+msgid "select_filter_to_apply"
+msgstr "لاگو کرنے کے لیے فلٹر منتخب کریں۔"
+
+msgid "enter_filter_name_to_proceed"
+msgstr "آگے بڑھنے کے لیے فلٹر کا نام درج کریں۔"
+
+msgid "update_filter_txt"
+msgstr "فلٹر اپ ڈیٹ کریں۔"
+
+msgid "save_filter_txt"
+msgstr "فلٹر محفوظ کریں۔"
+
+msgid "filter_name_txt"
+msgstr "نام فلٹر کریں۔"
+
+msgid "enter_filter_name_txt"
+msgstr "فلٹر کا نام درج کریں۔"
+
+msgid "all_txt"
+msgstr "تمام"
+
+msgid "appointment_duration"
+msgstr "تقرری کی مدت"
+
+msgid "short_to_long"
+msgstr "مختصر سے لمبا۔"
+
+msgid "long_to_short"
+msgstr "طویل فاصلے سے مختصر فاصلے تک۔"
+
+msgid "theme_screen_title"
+msgstr "موضوع"
+
+msgid "selected_color"
+msgstr "منتخب رنگین"
+
+msgid "complimentory_color"
+msgstr "اعزازی رنگین"
+
+msgid "chat_module_title"
+msgstr "شامل رکنی"
+
+msgid "group_admin"
+msgstr "گروپ ایڈمن"
+
+msgid "group_name"
+msgstr "گروپ کا نام"
+
+msgid "enter_group_name"
+msgstr "درج کریںگروپ کا نام"
+
+msgid "my_net"
+msgstr "MyNet"
+
+msgid "bus_net"
+msgstr "BusNet"
+
+msgid "paypal_payout_screen_title"
+msgstr "میرا ٹرانسفر"
+
+msgid "transfer_now"
+msgstr "ابھی منتقلی"
+
+msgid "available_amt"
+msgstr "دستیاب رقم:"
+
+msgid "paypal_account_id"
+msgstr "چاہیے:واپسی پے پال اکاؤنٹ کی شناخت"
+
+msgid "update_txt"
+msgstr "اپ ڈیٹ"
+
+msgid "transfers_in"
+msgstr "کی منتقلی میں"
+
+msgid "enter_payout_amount"
+msgstr "درجواپسی رقم"
+
+msgid "please_enter_amount"
+msgstr "درج کریں رقم"
+
+msgid "value_should_be_proper"
+msgstr "ٹرانسفر رقم کم یا برابر ہونا دستیاب فنڈز میں"
+
+msgid "transfer_success"
+msgstr "فنڈز کی منتقلی آپ کے پے پال اکاؤنٹ میں کامیابی کے ساتھ عمل میں آئی۔"
+
+msgid "contract_begin"
+msgstr "معاہدہ شروع کریں تاریخ"
+
+msgid "contract_end"
+msgstr "معاہدہ تاریخ اختتام"
+
+msgid "please_valid_Date"
+msgstr "درست تاریخداخل"
+
+msgid "select_emp_type"
+msgstr "منتخب ملازم قسم"
+
+msgid "select_manager"
+msgstr "منتخب مینیجر"
+
+msgid "manager"
+msgstr "مینیجر"
+
+msgid "select_org_role"
+msgstr "منتخب آرگنائزیشن کردار"
+
+msgid "org_role"
+msgstr "آرگنائزیشن کردار"
+
+msgid "emp_payrate"
+msgstr "کو منتخب کریں ملازم Payrate"
+
+msgid "payrate"
+msgstr "Payrate"
+
+msgid "invite_emp"
+msgstr "ملازممدعو کریں"
+
+msgid "select_shift_schedule"
+msgstr "منتخب شفٹ شیڈول"
+
+msgid "shift_schedule"
+msgstr "شیڈول منتقل"
+
+msgid "buss_legal_address"
+msgstr "کاروباری پتہ"
+
+msgid "invite"
+msgstr "کو مدعو"
+
+msgid "emp_invitation"
+msgstr "ملازم دعوتکریں!"
+
+msgid "emp_invite_success"
+msgstr "روزگار کی دعوت کامیابی کے ساتھ بھیجی گئی!"
+
+msgid "erro_emp_invite"
+msgstr "ملازمت بھیجنے میں خرابیدعوت"
+
+msgid "invite_emp_2"
+msgstr "ملازم کودیں مرحلہ 2 ملازم کے"
+
+msgid "select_detail_require"
+msgstr "لیے درکار تفصیلات کا انتخاب کریں"
+
+msgid "vehicle"
+msgstr "گاڑی کی"
+
+msgid "insurance"
+msgstr "انشورنس"
+
+msgid "exp_text"
+msgstr "تجربہ میں"
+
+msgid "emp_role_org"
+msgstr "داخل ہوں ملازم کا کردار تنظیم میں"
+
+msgid "select_one_service"
+msgstr "ہے آگے بڑھنے کے لیے آپ کو ایک سروس منتخب کرنی چاہیے"
+
+msgid "no_service"
+msgstr "کوئی سروس دستیاب نہیں اندرون ملک"
+
+msgid "service_detail_title"
+msgstr "سروس کی تفصیلات"
+
+msgid "job_description"
+msgstr "سروس تفصیل"
+
+msgid "bid_option"
+msgstr "بولی آپشن"
+
+msgid "upload_image"
+msgstr "اپ لوڈ تصویریں (اگر کوئی ہو)"
+
+msgid "date_time"
+msgstr "تاریخ اور وقت"
+
+msgid "job_date"
+msgstr "سروس کی تاریخ"
+
+msgid "your_proposal_title"
+msgstr "بولی کی تجاویز"
+
+msgid "bid_job_title"
+msgstr "بولی کی درخواستیں"
+
+msgid "date_time_error"
+msgstr "برائے مہربانی کیلنڈر سے تاریخ اور وقت منتخب کریں"
+
+msgid "proposal_detail_title"
+msgstr "تجویز تفصیل"
+
+msgid "remark"
+msgstr "ریمارک"
+
+msgid "bidding_cost"
+msgstr "بولی کی قیمت"
+
+msgid "create_proposal_title"
+msgstr "پروپوزلبنائیں"
+
+msgid "cost_method"
+msgstr "لاگت کا طریقہ"
+
+msgid "consumer_questions"
+msgstr "صارفین کیسے سوالات"
+
+msgid "bid_requests_title"
+msgstr "بولی کی درخواستوں"
+
+msgid "bid_details_title"
+msgstr "بولی کی تفصیلات"
+
+msgid "proposal"
+msgstr "تجویز"
+
+msgid "bid_proposal"
+msgstr "بولی کی تجویز"
+
+msgid "pay_before_request_text"
+msgstr "ادائیگی کریں اور بولی کی درخواستوں کا جواب دیں۔ متبادل کے طور پر آپ اپنے سبسکرپشن پلان کو اپ گریڈ کر سکتے ہیں۔"
+
+msgid "send_proposal"
+msgstr "اپنی تجویز بھیجیں۔"
+
+msgid "warning_txt"
+msgstr "انتباہ"
+
+msgid "paypal_txt"
+msgstr "پے پال"
+
+msgid "cash_txt"
+msgstr "کیش"
+
+msgid "check_txt"
+msgstr "چیک"
+
+msgid "cash_confirm_question"
+msgstr "آپ نے قبول کر لیا ہے۔ صارفین سے نقد اور نقد رسید کی تصدیق؟"
+
+msgid "cash_payment_success"
+msgstr "شکریہ ، کیش ٹرانزیکشن نے کامیابی سے"
+
+msgid "confirm_settle"
+msgstr "تصدیق کی اور"
+
+msgid "cash_collected_consumer"
+msgstr "سے جمع کی گئی"
+
+msgid "amount_due_consumer"
+msgstr "کنزیومرسے وصول کی جانے والی رقم"
+
+msgid "returned_cash"
+msgstr "بیلنس کیشکیش واپس"
+
+msgid "tudo_payment_slip"
+msgstr "TUDO کی واجب الادا رقم۔"
+
+msgid "amount_be_settled"
+msgstr "رقم TUDO"
+
+msgid "invoice_include_tax"
+msgstr "انوائس رقم (ٹیکس سمیت)"
+
+msgid "tudo_platform_deduction"
+msgstr "TUDO پلیٹ فارم کٹوتیوںبیک"
+
+msgid "govt_charge_etc"
+msgstr "(گورنمنٹ فیس ، چارج، دیگر فیسیں وغیرہ)"
+
+msgid "check_confirm_question"
+msgstr "آپ نے صارفین سے چیک قبول کیا ہے اور چیک کی رسید کی تصدیق کی ہے؟"
+
+msgid "check_payment_success"
+msgstr "آپ کو لین دین کی جانچ پڑتال کامیابی اس بات کی تصدیقشکریہ"
+
+msgid "check_payment_split"
+msgstr "کی ادائیگی چیک پرچی"
+
+msgid "total_check_amt"
+msgstr "کل چیک کریں رقم"
+
+msgid "bank_name"
+msgstr "بینک نام"
+
+msgid "check_number"
+msgstr "چیک تعداد"
+
+msgid "check_date"
+msgstr "تاریخ کی جانچ پڑتال"
+
+msgid "infavor_of_name"
+msgstr "کے نامحق میں"
+
+msgid "signatory_name"
+msgstr "دستخط نام"
+
+msgid "amount_due_from_consumer"
+msgstr "चेक राशि"
+
+msgid "add_check_detail"
+msgstr "چیک کریں تفصیلاتکریں"
+
+msgid "please_upload_atleast_2_images"
+msgstr "کو اپ لوڈ براہ مہربانی چیک کریں سامنے اور پیچھے فوٹو"
+
+msgid "you_need_to_add_2_image"
+msgstr "آگے بڑھنے کے لئے کی جانچ پڑتال کے سامنے اور پیچھے کی تصاویر اپ لوڈ کرنا ضروریاگلے"
+
+msgid "upload_check_img"
+msgstr "اپ لوڈ کی جانچ پڑتال سامنے اور پیچھے فوٹو"
+
+msgid "please_enter_check_proper"
+msgstr "صحیح چیک تعداد اندراجبراہ مہربانی"
+
+msgid "select_check_date"
+msgstr "منتخب تاریخ چیک"
+
+msgid "enter_bank_name"
+msgstr "درج بینک نام"
+
+msgid "check_amt"
+msgstr "چیک رقم"
+
+msgid "check_rcv_name"
+msgstr "کے حق میں اجراء"
+
+msgid "enter_check_rcv_name"
+msgstr "درج حق میں اجراءکے"
+
+msgid "check_rcv_name_error"
+msgstr "کے حق میں اجراء"
+
+msgid "enter_check_amt"
+msgstr "چیک کریںمقداردرج"
+
+msgid "name_of_sign"
+msgstr "دستخط کینام"
+
+msgid "enter_name_of_signatory"
+msgstr "دستخط کا نام درج"
+
+msgid "check_accepted_wait"
+msgstr "کریں آپ کی ادائیگی چیک درخواست پر کارروائی، کے لئے سروس فراہم کی تصدیقانتظار"
+
+msgid "subscription_screen_title"
+msgstr "سبسکرپشنز"
+
+msgid "plan_name"
+msgstr "پلان نامکر:"
+
+msgid "plan_cycle"
+msgstr "منصوبہ سائیکل:"
+
+msgid "paid_amount"
+msgstr "ہے:ادا کی گئی رقم"
+
+msgid "start_date"
+msgstr "شروع کرنے کی تاریخ"
+
+msgid "plan_usage"
+msgstr "پلان استعمال"
+
+msgid "balance"
+msgstr "بیلنس"
+
+msgid "entitlement"
+msgstr "ہقداری"
+
+msgid "no_limit"
+msgstr "کوئی حد"
+
+msgid "qr_code_text"
+msgstr "اشتراکQR کوڈ آپ سے TUDO پروفائل"
+
+msgid "notification_center"
+msgstr "اطلاعاتی مرکز"
+
+msgid "accept_schedule"
+msgstr "قبول کریں اور شیڈول"
+
+msgid "send"
+msgstr "کا حساب"
+
+msgid "service_info_text"
+msgstr "سروس معلومات"
+
+msgid "cancle_txt"
+msgstr "منسوخ"
+
+msgid "purchase_txt"
+msgstr "خریداری"
+
+msgid "branch_purchased_info"
+msgstr "تم پر ہونا ضروری آپ کے اکاؤنٹ میں برانچ شامل کرنے کے لیے سبسکرپشن پلان ، اپنے سبسکرپشن پلان کو اپ گریڈ کریں آپ کو سبسکرپٹ"
+
+msgid "employee_purchased_info"
+msgstr "پر ہونا چاہیے اپنے کاروباری اکاؤنٹ میں ملازم کو شامل کرنے کا منصوبہ ، اپنا سبسکرپشن پلاناپ گریڈ"
+
+msgid "text_txt"
+msgstr "ٹیکسٹ"
+
+msgid "enter_text_txt"
+msgstr "کریں ٹیکسٹ"
+
+msgid "address_denided_question"
+msgstr "TUDO کو اپنے آلے پر مقام کی خدمات تک رسائی کی اجازت دیں ، آگے بڑھنے کے لیے ٹھیک دبائیں۔"
+
+msgid "estimate"
+msgstr "تخمینہ"
+
+msgid "calendar_txt"
+msgstr "کیلنڈر۔"
+
+msgid "ask_question_screen_title"
+msgstr "پوچھیں سوال پوچھیں"
+
+msgid "ask_question_seeker"
+msgstr "اپنے سوالات بولی دہندگان کو لکھیں"
+
+msgid "prev_text"
+msgstr "پچھلا"
+
+msgid "question_txt"
+msgstr "سوال"
+
+msgid "ask_question_txt"
+msgstr "پوچھیں"
+
+msgid "paid_total_amt_txt"
+msgstr "ادا کی گئی ، کل رقم"
+
+msgid "fail_job_history"
+msgstr "اپائنٹمنٹ ہسٹری"
+
+msgid "job_history"
+msgstr "اپائنٹمنٹ ہسٹری"
+
+msgid "by_txt"
+msgstr "کرکے"
+
+msgid "confirm_accepting_changes"
+msgstr "تصدیقکہ آپ اتفاق کر رہے ہیں اور سروس اپائنٹمنٹ کی ترامیم کو قبول کرنا اسسروس اپائنمنٹ کی ترامیم"
+
+msgid "confirm_rejecting_desc"
+msgstr "بات کی تصدیق کریں کہ آپکو مسترد"
+
+msgid "begin_service_que"
+msgstr "کر رہے ہیں آپ اس سروس اپائنٹمنٹ پر اپنے صارف کی خدمت شروع کرنے والے"
+
+msgid "onboard_process_desc"
+msgstr "ہیں کیا آپ کو یقین ہے کہ ، صارف آپ کے قریب/ آپ کے ساتھ ہے اور آپ کی سروسز کو قبول کرنے کے لیے تیار ہے؟"
+
+msgid "plan_appoint_date"
+msgstr "منصوبہ بند سروس کی تقرری کی تاریخ:"
+
+msgid "reason_dispute"
+msgstr "تنازعات کی وجوہات"
+
+msgid "enter_reason_txt"
+msgstr "براہ مہربانی ایک درست وجہ درج کریں"
+
+msgid "uodate_forward_dispute"
+msgstr "TUDO آٹو سروس کی تقرریوں کو کامیاب ادائیگی سے 10 دن کے بعد حتمی شکل دیتا ہے اور درمیان میں تنازعات اٹھانے کی اجازت دیتا ہے (اگر کوئی ہے) ، کیا آپ کو پہلے 'حتمی شکل دینے' کا یقین ہے؟"
+
+msgid "dispute_que"
+msgstr "کیا آپ کو یقین ہے کہ تنازعہ حل ہو گیا ہے؟"
+
+msgid "are_you_appoint"
+msgstr "براہ کرم تصدیق کریں کہ آپ نے سروس اپائنٹمنٹ کی ضروریات پوری کر لی ہیں"
+
+msgid "completed_generated_que"
+msgstr "اور انوائس بنانے کے لیے تیار ہیں۔"
+
+msgid "confirmation_text"
+msgstr "Confirmation"
+
+msgid "email_has_been_already_taken"
+msgstr ""
+
+msgid "error_while_creating_user_install"
+msgstr ""
+
+msgid "error_while_updating_user_install"
+msgstr "صارف انسٹال کرتے وقت تازہ کاری کے دوران خرابی!"
+
+msgid "something_went_wrong_while_getting_user_install"
+msgstr "صارف انسٹال کی بازیافت کرتے وقت کچھ غلط ہوگیا۔ صارف انسٹال"
+
+msgid "unable_to_create_or_update_user_install"
+msgstr "بنانے یا اپ ڈیٹ کرنے سے قاصر!"
+
+msgid "device_token_is_missing_in_install_params"
+msgstr "ڈیوائس ٹوکن انسٹال پیرامیوں میں گم ہے!"
+
+msgid "more_than_one_results_against_user_and_fcm_token"
+msgstr "صارف اور ایف سی ایم ٹوکن کے خلاف ایک سے زیادہ نتائج"
+
+msgid "invalid_email_or_some_internet_issue"
+msgstr "غلط ای میل / پاس ورڈ یا انٹرنیٹ مسئلہ!"
+
+msgid "user_is_blocked"
+msgstr "صارف پروفائل مسدود ہے"
+
+msgid "user_is_rejected"
+msgstr "صارف پروفائل مسترد کردیا گیا ہے"
+
+msgid "confirmation_pending"
+msgstr "آپ کے اکاؤنٹ کی توثیق زیر التواء"
+
+msgid "bid_does_not_exist"
+msgstr "بولی موجود نہیں!"
+
+msgid "unexpected_error_occurred"
+msgstr "غیر متوقع خرابی پیش آگئی ، دوبارہ کوشش کریں!"
+
+msgid "branch_does_not_exist"
+msgstr "بزنس برانچ موجود نہیں!"
+
+msgid "this_business_does_not_belongs_to_you"
+msgstr "یہ کاروبار آپ کا نہیں ہے"
+
+msgid "enable_to_fetch_business"
+msgstr "بزنس لانے کے قابل بنائیں"
+
+msgid "this_branch_does_not_belongs_to_you"
+msgstr "یہ کاروبار آپ کا نہیں ہےآپ کے"
+
+msgid "enable_to_check_business_for_this_branch"
+msgstr "اس شاخ کے کاروبار کو جانچنے کے قابل بنائیںکاروبار کے لئے"
+
+msgid "already_have_a_branch_for_this_business"
+msgstr "اسی نام کی ایک شاخ پہلے ہی موجود ہے"
+
+msgid "enable_to_fetch_branch"
+msgstr "برانچ"
+
+msgid "enable_to_fetch_geo_zones"
+msgstr "کو بازیافت کرنے کے قابل بنائیں جیو زونز"
+
+msgid "enable_to_fetch_country_services"
+msgstr "کو بازیافت کرنے کے قابل بنائیں سروسز"
+
+msgid "enable_to_fetch_service_types"
+msgstr "سروس کی قسمیں بازیافت"
+
+msgid "enable_to_upsert_branch_services"
+msgstr "کرنے کے قابل بنائیں برانچ سروسز کو برقرار رکھنے کے قابل بنائیں"
+
+msgid "this_user_have_a_business_with_same_name"
+msgstr "اس صارف کا اسی نام کے ساتھ ایک کاروبار ہے"
+
+msgid "enable_to_fetch_user"
+msgstr "صارف"
+
+msgid "enable_to_create_branch"
+msgstr "کو برانچ بنانے کے قابل بنائیں برانچ کوفعال"
+
+msgid "invalid_business_id_or_country_service_id"
+msgstr "غیربزنس ایڈ یا کنٹری_سواس_آئڈی"
+
+msgid "dynamic_screen_exists_for_this_business_and_cs"
+msgstr "متحرک اسکرین پہلے ہی موجود ہے اس بزنس کے لئے اور کنٹری سروس"
+
+msgid "dynamic_screen_exists_for_this_country_service"
+msgstr "متحرک اسکرین اس کنٹری سروسکیلئے پہلے سے موجود ہے۔"
+
+msgid "dynamic_screen_does_not_exist"
+msgstr "ڈائنامکاسکرین موجود نہیں ہے"
+
+msgid "business_or_dynamic_screen_is_not_correct"
+msgstr "کاروبار اور / یا متحرک اسکرین غلط ہے!"
+
+msgid "dynamic_screen_is_not_correct"
+msgstr "متحرک اسکرین درست ہے!"
+
+msgid "dynamic_group_already_exists"
+msgstr "متحرک گروپ پہلے ہی موجود ہے"
+
+msgid "dynamic_group_or_screen_does_not_exist"
+msgstr "متحرک گروپ یا اسکرین موجود نہیں ہے!"
+
+msgid "dynamic_group_does_not_exist"
+msgstr "متحرک گروپ موجود نہیں ہے!"
+
+msgid "dynamic_group_screen_relation_does_not_exist"
+msgstr "متحرک اسکرین اور گروپ تعلقات موجود نہیں ہے"
+
+msgid "notification_can_not_send"
+msgstr "اطلاع بھیج نہیں سکتی!"
+
+msgid "token_already_sent"
+msgstr "ٹوکن پہلے ہی بھیج دیا گیا ہے!"
+
+msgid "employee_already_exist"
+msgstr "ملازم کا ریکارڈ پہلے سے موجود ہے!"
+
+msgid "enable_to_fetch_employee"
+msgstr "ملازمین کو بازیافت کرنے کے"
+
+msgid "enable_to_create_user"
+msgstr "قابل بنائیں صارف تشکیل دینے کے قابل بنائیں صارف کا"
+
+msgid "manager_does_not_exist"
+msgstr "صارف موجود نہیں ہے!"
+
+msgid "manager_do_not_exist_under_that_business"
+msgstr "اس کاروبار کے تحت مینیجر صارف موجود نہیں ہے!"
+
+msgid "manager_invalid"
+msgstr "غلط مینیجر صارف!"
+
+msgid "invalid_branch"
+msgstr "غلط برانچ"
+
+msgid "manager_does_not_belong_to_given_branch"
+msgstr "منیجر صارف کا تعلق برانچ سے نہیں ہے!"
+
+msgid "unable_to_validate_manager"
+msgstr "مینیجر صارف کی توثیق کرنے سے قاصر!"
+
+msgid "invoice_does_not_exist"
+msgstr "انوائس موجود نہیں!"
+
+msgid "sales_tax_settings_not_found"
+msgstr "کاروباری سیلز ٹیکس کی ترتیبات نہیں ملی"
+
+msgid "error_in_getting_sales_tax_settings"
+msgstr "سیلز ٹیکس کی ترتیبات بازیافت کرنے میں خرابی"
+
+msgid "unable_to_make_estimated_job_cost"
+msgstr "ملازمت کی تخمینی لاگت کا حساب کرنے سے قاصر ہے!"
+
+msgid "settings_fields_does_not_have_valid_keys"
+msgstr "ترتیبات کے ٹیبل فیلڈ میں درست چابیاں نہیں ہیں"
+
+msgid "invoice_not_created_successfully"
+msgstr "انوائس تیار کرنے میں ناکام ، دوبارہ کوشش کریں!"
+
+msgid "you_are_not_permitted"
+msgstr "آپ کو یہ کارروائی کرنے کی اجازت نہیں ہے!"
+
+msgid "invalid_invoice_or_job"
+msgstr "غلط کام یا رسید ، دوبارہ کوشش کریں!"
+
+msgid "max_change_invoice_limit_reached"
+msgstr "زیادہ سے زیادہ انوائس ایڈجسٹمنٹ / دن کی حد تک پہنچ گئی!"
+
+msgid "unable_to_check_adjust_count"
+msgstr "انوائس ایڈجسٹمنٹ / دن کی گنتی کو چیک کرنے سے قاصر"
+
+msgid "can_not_update_job_status"
+msgstr "ملازمت کی حیثیت کو اپ ڈیٹ نہیں کرسکتے ، دوبارہ کوشش کریں!"
+
+msgid "job_does_not_exist"
+msgstr "نوکری موجود نہیں!"
+
+msgid "unexpected_error_occurred_while_updating_group_status"
+msgstr "گروپ کی حیثیت کو اپ ڈیٹ کرتے وقت غیر متوقع خرابی پیش آگئی!"
+
+msgid "unable_to_update_Service Provider_meta"
+msgstr "سروس پرووائڈر میٹا"
+
+msgid "unable_to_update_Consumer_meta"
+msgstr "کو اپ ڈیٹ کرنے سے قاصر کنزیومر میٹا کو اپ ڈیٹ کرنے سے قاصر"
+
+msgid "new_employee_does_not_exist"
+msgstr "نیا ملازم کا ریکارڈ موجود نہیں ہے"
+
+msgid "error_in_verifying_job_status"
+msgstr "ملازمت کی حیثیت کی تصدیق کرنے میں غلطی ملازمت کی حیثیت"
+
+msgid "unable_to_verify_job_status"
+msgstr "کی تصدیق"
+
+msgid "unable_to_verify_job_updating_timing"
+msgstr "کرنے سے قاصر ملازمت کی تازہ کاری کے وقت کی تصدیق کرنے سے قاصر"
+
+msgid "can_not_start_work_outside_request_time"
+msgstr "صارفین کی درخواست کے وقت سے باہر کام شروع نہیں کیا جاسکتا وقت کی فراہمی"
+
+msgid "error_in_verifying_provider_for_rescheduling"
+msgstr "کے لئے سروس پرووائڈر کی تصدیق میں خرابی"
+
+msgid "unable_verify_provider_for_rescheduling"
+msgstr "شیڈولنگ کے لئے خدمت فراہم کنندہ کی توثیق کرنے سے قاصر"
+
+msgid "some_compulsory_parameter_is_missing"
+msgstr "غیر ملکی کلید میں کچھ غلط ہے یا لازمی پیرامیٹر غائب ہے"
+
+msgid "job_params_are_not_correct"
+msgstr "ملازمت کے پیرامز درست نہیں ہیں"
+
+msgid "something_went_wrong_in_schedule"
+msgstr "شیڈولنگ میں کچھ غلط ہوا ہے"
+
+msgid "can_not_delete_leads"
+msgstr "لیڈز کو حذف نہیں کیا جاسکتا ، کچھ غلط ہوگیا"
+
+msgid "employee_service_does_not_exist"
+msgstr "ملازم ملازم"
+
+msgid "error_in_validate_employee"
+msgstr "کی توثیق کرنے میں غلطی"
+
+msgid "employee_does_not_available"
+msgstr "موجود نہیں ہے ، ناجائز حیثیت یا معاہدہ ختم ہو گیا!"
+
+msgid "self_job_posting_is_not_allowed"
+msgstr "خود کو نوکری پوسٹ کرنے کی اجازت"
+
+msgid "unable_to_verify_self_job_posting"
+msgstr "نہیں ہے خود ملازمت کی پوسٹنگ کی توثیق کرنے سے قاصر"
+
+msgid "no_need_to_check_availability_now"
+msgstr "اب دستیابی کو چیک کرنے کی ضرورت نہیں"
+
+msgid "provider_is_not_available_now"
+msgstr "منتخب خدمت فراہم کنندہ ابھی دستیاب نہیں ہے ، براہ کرم دوبارہ تلاش کریں!"
+
+msgid "something_went_wrong_while_searching_Service Provider"
+msgstr "سروس پرووائڈر کو تلاش کرتے وقت کچھ غلط ہو گیا ، براہ کرم دوبارہ کوشش کریں"
+
+msgid "unable_to_check_provider_availability"
+msgstr "سروس فراہم کرنے والے کی دستیابی کا تعین کرنے سے قاصر"
+
+msgid "employee_contract_expired"
+msgstr "ملازم کے معاہدے کی میعاد ختم ہو گئی"
+
+msgid "notification_sent"
+msgstr "نوٹیفیکیشن بھیج دیا گیا!"
+
+msgid "can_not_send_notification"
+msgstr "کچھ غلط ہوگیا ، نوٹیفیکیشن نہیں بھیج سکتا"
+
+msgid "error_in_fetching_branch_service"
+msgstr "برانچ سروس کی بازیافت میں"
+
+msgid "error_while_adding_ewd_in_params"
+msgstr "خرابی جب پیرمز میں ترتیبات سے متوقع کام کا دورانیہ شامل"
+
+msgid "error_in_fetching_ewd_settings"
+msgstr "کرنے میں خامی توقع شدہ کام کی مدت کی ترتیبات"
+
+msgid "branch_service_id_missing_to_get_ewd"
+msgstr "برانچ سروس کی شناخت کو پڑھنے کے لئے گمشدہ ہے ترتیبات سے سروس کا دورانیہ"
+
+msgid "cost_missing_in_params_and_error_in_fetching_proposal"
+msgstr "متوقع لاگت پیراموں میں غائب ہے اور اس میں غلطی تخمینی لاگت کا تعی toن کرنے کے لئے بولی کی تجویز کی بازیافت"
+
+msgid "unable_to_make_job_cost"
+msgstr "تخمینہ لاگت کا تعین کرنے سے قاصر ، دوبارہ کوشش کریں"
+
+msgid "no_price_settings_for_type_and_cs"
+msgstr "سروس کے خلاف ترتیبات میں تخمینہ شدہ قیمت نہیں ملی ہے"
+
+msgid "more_than_one_records_in_settings"
+msgstr "فراہم کردہ ڈیٹا کے خلاف ترتیبات میں ایک سے زیادہ ریکارڈ مل گئے ہیں"
+
+msgid "invalid_service_type"
+msgstr "غلط سروس کی قسم کی"
+
+msgid "settings_service_rates_does_not_exist"
+msgstr "خدمت کی شرح کی ترتیبات موجود نہیں ہیں!"
+
+msgid "promotion_already_exist"
+msgstr "تشہیر پہلے ہی موجود ہے!"
+
+msgid "enable_to_fetch_promotion"
+msgstr "پروموشنز بازیافت کرنے کو فعال کریں"
+
+msgid "promotion_status_is_invalid"
+msgstr "غیر درست پروموشن کا درجہ"
+
+msgid "promotion_does_not_exist"
+msgstr "پروموشنکا کوئی وجود"
+
+msgid "you_do_not_have_valid_available_promotion"
+msgstr "یہ ڈیٹاکے خلاف آپ کا کوئی درست پروموشن"
+
+msgid "error_while_making_promotion_used"
+msgstr "کسی چیزنہیں،غلط حساب لگانے کی پروموشن کے استعمالگئے"
+
+msgid "enable_to_validate_promotion"
+msgstr "پروموشندرست کرنے کے قابل بنانا"
+
+msgid "missing_params_for_promotion_validation"
+msgstr "کچھ پروموشن توثیقکے لئے پآرامس میں لاپتہ"
+
+msgid "country_does_not_exist"
+msgstr "ملکموجود نہیں ہے"
+
+msgid "enable_to_fetch_country"
+msgstr "ملکبازیافت کرنے فعال"
+
+msgid "service_does_not_exist"
+msgstr "کی خدمت کا کوئی وجود نہیں ہے"
+
+msgid "enable_to_fetch_service"
+msgstr "سروس بازیافت کرنے کے قابل بنائے"
+
+msgid "enable_to_fetch_employee_service"
+msgstr "ملازم سروسبازیافت کرنے فعال"
+
+msgid "enable_to_fetch_country_service"
+msgstr "ملک سروسبازیافت کرنے فعال"
+
+msgid "active_country_service_does_not_exist"
+msgstr "کا کوئی وجود نہیںایکٹیو ملک سروس"
+
+msgid "branch_service_already_exist"
+msgstr "برانچ سروسدی پیرامیٹرز کے لئے پہلے سے موجود"
+
+msgid "branch_service_does_not_exist"
+msgstr "برانچ سروسکا کوئی وجود نہیں"
+
+msgid "error_in_getting_branch_service"
+msgstr "برانچ سروسبازیافت میں خرابی"
+
+msgid "error_in_branch_service_creation"
+msgstr "برانچ سروسپیدا کرنے میںخرابی"
+
+msgid "error_while_updating_settings"
+msgstr "میں خرابیترتیباتاپ ڈیٹ کرتے ہوئے"
+
+msgid "unable_to_update_settings_on_bs_creation"
+msgstr "پربرانچ ترتیباتسروس تخلیق کرنے میں ناکام ، دوبارہ کوشش"
+
+msgid "error_in_update_setting"
+msgstr "ترتیباتکو اپ ڈیٹ کرنے میں کچھ غلط ہو گیا ہے"
+
+msgid "no_service_radius_setting"
+msgstr "کریں اس برانچکے لئےسروس رداس کی ترتیباتاس برانچ کی"
+
+msgid "no_services_expected_work_duration_setting"
+msgstr "سروسزخدمات کے متوقع کام کی مدت کی ترتیبات"
+
+msgid "no_services_rates_setting"
+msgstr "اس برانچکے لئے ریٹ سیٹنگس سے محروم ہیں اس برانچ"
+
+msgid "no_service_sales_tax_setting"
+msgstr "سروسسروس سیلز ٹیکس کی ترتیبات غائب ہیں"
+
+msgid "error_in_updating_branch_service"
+msgstr "برانچ سروستازہ کاری کے دوران"
+
+msgid "merchant_account_does_not_exist"
+msgstr "مرچنٹ اکاؤنٹ کیوہ موجود نہیں ہے"
+
+msgid "unable_to_fetch_merchant_account"
+msgstr "چنانچہمیانٹنگ کچھ غلط ہو گیا ، مرچنٹ اکاؤنٹ بازیافت کرنے سے قاصر"
+
+msgid "something_went_wrong_bt_parameters"
+msgstr "برائنٹری ادائیگی کے گیٹ وے کے پیرامیٹرز کے ساتھ"
+
+msgid "merchant_not_created_successfully"
+msgstr "کچھ غلط ہو گیا ، مرچنٹ اکاؤنٹ کی تشکیل ناکام ہوگئی"
+
+msgid "bt_account_does_not_exist"
+msgstr "برائنٹری اکاؤنٹ موجود"
+
+msgid "unable_to_fetch_bt_account"
+msgstr "نہیں ہے برائنٹری ادائیگی کے گیٹ وے اکاؤنٹ کی بازیافت کرنے سے قاصر"
+
+msgid "payment_method_does_not_exist"
+msgstr "ادائیگی کا طریقہ موجود"
+
+msgid "unable_to_fetch_payment_method"
+msgstr "نہیں ہے"
+
+msgid "unable_to_create_bt_payment_method"
+msgstr "برائنٹری ادائیگی کا طریقہ کار تشکیل دینے سے قاصر برائنٹری ادائیگی کا طریقہ"
+
+msgid "unable_to_update_bt_payment_method"
+msgstr "اپ ڈیٹ"
+
+msgid "unable_to_update_local_payment_method"
+msgstr "کرنے سے قاصر مقامی ادائیگی کے طریقہ کار کو اپ ڈیٹ کرنے سے قاصر ادائیگی کا طریقہ"
+
+msgid "unable_to_delete_payment_method"
+msgstr "حذف"
+
+msgid "unable_to_delete_bt_payment_method"
+msgstr "کرنے سے قاصر برائنری ادائیگی کا طریقہ حذف کرنے سے قاصر"
+
+msgid "invalid_user_or_password"
+msgstr "غلط صارف اور / یا پاس ورڈ"
+
+msgid "you_business_already_have_bought_package"
+msgstr "اس خریداری کے پیکیج کیلئے آپ کا کاروبار پہلے ہی اندراج شدہ"
+
+msgid "subscription_does_not_exist"
+msgstr "رکنیت پیکیج موجود نہیں ہے!"
+
+msgid "more_than_one_subscriptions"
+msgstr "سے زیادہ"
+
+msgid "some_thing_went_wrong_with_subscription_params"
+msgstr "سکریپشن کے پیرامیٹرز میں کچھ"
+
+msgid "error_while_retrying_charge_subscription"
+msgstr "چارج بریائنٹری سکریپشن پر دوبارہ کوشش کرتے وقت بریائنٹریغلطی ہوئی ہے!"
+
+msgid "Service Provider_subscription_rule_does_not_exist"
+msgstr "اس سروس فراہم کنندہ خریداری کا اصول موجود نہیں ہے!"
+
+msgid "Consumer_subscription_rule_does_not_exist"
+msgstr "یہ صارف سبسکرپشن اصول موجود نہیں ہے!"
+
+msgid "bt_subscription_status_does_not_exist"
+msgstr "یہ برائنٹری سکریپشن حیثیت موجود نہیں ہے!"
+
+msgid "user_does_not_exist"
+msgstr "یہ صارف موجود نہیں ہے!"
+
+msgid "business_does_not_exist"
+msgstr "یہ کاروبار موجود نہیں ہے!"
+
+msgid "no_need_to_get_wallet"
+msgstr "پرس لینے کی ضرورت نہیں!"
+
+msgid "please_select_a_payment_method"
+msgstr "براہ کرم ادائیگی کا طریقہ منتخب کریں"
+
+msgid "no_subscription_rule_against_plan_and_country"
+msgstr "اس ملک کے لئےاصول / منصوبہ موجود نہیں ہے"
+
+msgid "no_available_promotion_is_to_be_created"
+msgstr "آپ نے اپنے سبسکرپشن پیکیج پر تشہیر کی حد سے تجاوز کر"
+
+msgid "more_than_one_rule_against_your_country_and_package"
+msgstr "خریداری کالیا اپنے ملک اور سبسکرپشن پیکیج کے خلاف متعدد سبسکرپشن اصول"
+
+msgid "brain_tree_subscription_failed"
+msgstr "کچھ غلط ہو گیا ، برائنٹری سبسکرپشن ناکام!"
+
+msgid "error_while_creating_bt_subscription"
+msgstr "برائنٹری سبدوران کچھ غلط ہو گیاسب"
+
+msgid "no_record_against_plan_id_and_country"
+msgstr "سکریپشن بنانے کےاس ملک کے لئےسکریپشن پلان موجود نہیں ہے"
+
+msgid "unable_to_create_local_subscription"
+msgstr "مقامی سکریپشن پیدا"
+
+msgid "unable_to_create_local_payment"
+msgstr "کرنے سے قاصر"
+
+msgid "error_while_creating_balance"
+msgstr "بیلنس میںپیدا کرتے وقت بیلنس میںپیدا کرنے کے دوران بیلنٹ میںپیدا کرنے کے"
+
+msgid "error_while_updating_balance"
+msgstr "خرابیخرابیخرابی"
+
+msgid "error_while_getting_balance"
+msgstr "جبکہ"
+
+msgid "unable_to_fetch_bt_subscription"
+msgstr "قابل نہیںبرائنٹری سکریپشن لانے میںبرائنٹری سکریپشن"
+
+msgid "unable_to_update_bt_subscription"
+msgstr "قاصرکو اپ ڈیٹ"
+
+msgid "unable_to_cancel_bt_subscription"
+msgstr "کرنے سے قاصر برائنٹری سکریپشن"
+
+msgid "something_wrong_with_bt_transaction_parameters"
+msgstr "برائنٹری ٹرانزیکشن کے پیرامیٹرز کے ساتھ"
+
+msgid "unable_to_create_payment_method_nonce"
+msgstr "کچھ غلط ہوگیا ، کچھ غلط ہو گیا ،کرنے میں ادائیگی کا طریقہ نانسیپیدا کرنے سے قاصر"
+
+msgid "error_in_adding_donations_and_tips"
+msgstr "عطیات اور گراٹی کو شاملغلطی!"
+
+msgid "can_not_add_donations_and_tips"
+msgstr "کچھ غلط ہوگیا ، عطیات اور گراٹی کو شامل نہیں کرسکتا!"
+
+msgid "brain_tree_transaction_failed"
+msgstr "کچھ غلط ہوگیا ، برائنٹری ادائیگی کا لین دین ناکام ہوگیا!"
+
+msgid "amount_is_missing_in_coming_params"
+msgstr "رقم کے پیرام غائب!"
+
+msgid "unable_to_create_transaction"
+msgstr "کچھ غلط ہو گیا ، لین دین پیدا کرنے سے قاصر"
+
+msgid "can_not_create_local_transaction"
+msgstr "کچھ غلط ہوا ، مقامی ٹرانزیکشن نہیں تشکیل پایا"
+
+msgid "unable_to_create_local_transaction"
+msgstr "کچھ غلط ہو گیا ، مقامی ٹرانزیکشن پیدا کرنے سے قاصر"
+
+msgid "can_not_calculate_amount_shares"
+msgstr "کچھ غلط ہو گیا ، قدر ، عطیات اور سروس فراہم کرنے والے کی رقم کا حساب نہیں لگا سکتا!"
+
+msgid "error_while_creating_Consumer_spent_amount"
+msgstr "خرابیکنزیومر خرچ ہونے والی رقمپیدا کرتے"
+
+msgid "error_while_updating_Consumer_spent_amount"
+msgstr "کنزیومر خرچ ہونے والی رقماپ ڈیٹ کرتے ہوئےمیں خرابی"
+
+msgid "error_while_getting_Consumer_spent_amount"
+msgstr "کنزیومر خرچ ہونے والی رقمہو رہی ہے جبکہمیں خرابی"
+
+msgid "transaction_does_not_exist"
+msgstr "ٹرانزیکشن کا کوئی وجود نہیںہوئے!"
+
+msgid "unable_to_fetch_bt_transaction"
+msgstr "کچھ غلط ہوگیا ، برائنٹری ٹرانزیکشن بازیافت کرنے سے قاصر"
+
+msgid "failed_to_refund_transaction"
+msgstr "کچھ غلط ہوگیا ، رقم کی واپسی میں ناکام رہا!"
+
+msgid "bt_customer_already_exists"
+msgstr "برائنٹری کسٹمر اکاؤنٹ پہلے سے موجود ہے!"
+
+msgid "bt_customer_does_not_exist"
+msgstr "braintree کی کسٹمر کے اکاؤنٹکا کوئی وجود نہیں"
+
+msgid "unable_to_fetch_customer"
+msgstr "کسٹمربازیافت کرنے سے قاصر ہے"
+
+msgid "unable_to_fetch_brain_tree_customer"
+msgstr "braintree کی کسٹمربازیافت کرنے سے قاصر ہے"
+
+msgid "unable_to_create_customer"
+msgstr "کسٹمربنانے سے قاصر"
+
+msgid "unable_to_update_brain_tree_customer"
+msgstr "braintree کی کسٹمراپ ڈیٹ کرنے سے قاصر ہے"
+
+msgid "unable_to_delete_customer"
+msgstr "کسٹمرحذف کرنے سے قاصر"
+
+msgid "unable_to_delete_brain_tree_customer"
+msgstr "braintree کی کسٹمرحذف کرنے سے قاصر"
+
+msgid "hyper_wallet_user_does_not_exist"
+msgstr "HyperWallet صارفموجود نہیں ہے"
+
+msgid "more_than_one_hw_records_against_this_user"
+msgstr "اس صارفخلاف ایک سے زیادہ Hyperwallet ریکارڈز"
+
+msgid "unable_to_fetch_local_hw_user"
+msgstr "کو مقامی بازیافت کرنے سے قاصرہائپر واللیٹ صارف صارف کے"
+
+msgid "unable_to_list_transfer_methods_of_that_user"
+msgstr "لئے منتقلی کے طریقوں کی فہرست میں ناکام ہے!"
+
+msgid "hw_transfer_method_does_not_exist"
+msgstr "ہائپر واللیٹ کی منتقلی کا طریقہ موجود"
+
+msgid "unable_to_fetch_transfer_method"
+msgstr "نہیں ہے منتقلی کا طریقہ کار لانے سے قاصر"
+
+msgid "no_hw_transfer_method_exist"
+msgstr "ہائپر واللیٹ کی منتقلی کا طریقہ موجود نہیں ہے"
+
+msgid "error_while_getting_branch"
+msgstr "جبکہ برانچ"
+
+msgid "unable_to_get_Service Provider_minimum_transfer_limit"
+msgstr "کو خدمت فراہم کرنے والے کو کم سے کم منتقلی کی حد"
+
+msgid "unable_to_get_Service Provider_maximum_transfer_limit"
+msgstr "ملنے سے قاصر ہےفراہم کنندہزیادہ سے زیادہ منتقلی کی حد میں"
+
+msgid "error_in_updating_available_balance"
+msgstr "دستیابکو اپ ڈیٹ کرنے میںغلطی دستیاب"
+
+msgid "insufficient_balance"
+msgstr "ناکافی توازن میں"
+
+msgid "error_in_getting_available_balance"
+msgstr "لانے میںخرابی دستیاب ہے۔ توازن"
+
+msgid "unable_to_create_hw_payment"
+msgstr "ہائپر واللیٹ ادائیگی پیدا کرنے سے قاصر ہے!"
+
+msgid "unable_to_get_hw_payment"
+msgstr "ہائپر واللیٹ ادائیگی حاصل کرنے سے قاصر!"
+
+msgid "unable_to_create_hw_transfer"
+msgstr "ہائپر واللیٹ ٹرانسفر بنانے سے قاصر!"
+
+msgid "unable_to_create_hw_transfer_method"
+msgstr "ہائپر واللیٹ کی منتقلی کا طریقہ پیدا کرنے سے قاصر ہے!"
+
+msgid "unable_to_create_hw_local_transfer_method"
+msgstr "ہائپر واللیٹ مقامی منتقلی کا طریقہ پیدا کرنے سے قاصر ہے!"
+
+msgid "unable_to_update_hw_local_transfer_method"
+msgstr "مقامی ٹرانسفر کے طریقہ کار کو اپ ڈیٹ کرنے سے قاصر"
+
+msgid "error_in_updating_local_hw_transfer_method"
+msgstr "مقامی ہائپر واللیٹ کی منتقلی کے طریقہ کار کو اپ ڈیٹ کرتے وقت"
+
+msgid "hyper_wallet_user_already_exists"
+msgstr "ہائپر واللیٹ صارف پہلے ہی موجود ہے!"
+
+msgid "unable_to_create_hw_user"
+msgstr "ہائپر واللیٹ صارف بنانے سے قاصر!"
+
+msgid "unable_to_create_hw_local_user"
+msgstr "ہائپر واللیٹ مقامی صارف بنانے سے"
+
+msgid "unable_to_update_hw_user"
+msgstr "قاصر ہائپر واللیٹ صارف کو اپ ڈیٹ کرنے سے قاصر!"
+
+msgid "unable_to_get_hw_user"
+msgstr "ہائپر واللیٹ صارف حاصل کرنے سے قاصر!"
+
+msgid "amount_could_not_verified"
+msgstr "انوائس کی رقم سے لین دین کی رقم کی توثیق نہیں ہوسکی!"
+
+msgid "error_in_fetching_invoice_to_verify_amount"
+msgstr "اس بات کی تصدیق کرنے کے بل لین دین کی رقمبازیافت میں خرابی"
+
+msgid "no_record_for_promotion_price_verification"
+msgstr "کوئی ریکارڈ پروموشن قیمت تصدیقیکے لئے موجود ہے"
+
+msgid "could_not_verify_promotion_amount"
+msgstr "سکریپشن فروغکی رقم کی توثیق کرتے وقتکچھغلط ہو"
+
+msgid "no_subscription_Service Provider_rule"
+msgstr "کے لئے سروس فراہم موجود نہیں ہےسکریپشن حکمرانیگیا!"
+
+msgid "available_promotion_is_not_created"
+msgstr "دستیاب پروموشن نہیں بنایا گیا ہے"
+
+msgid "can_not_add_donation_and_tip_amounts"
+msgstr "عطیہ اور قدر کی مقدار میں اضافہ نہیں کیا جاسکتا!"
+
+msgid "can_not_get_Service Provider_subscription"
+msgstr "سروس فراہم کرنے والے کے خریداریاں حاصل نہیں ہوسکتی ہیں"
+
+msgid "params_for_calculating_shares_not_correct"
+msgstr "مقامی لین دین کا حساب کتاب کرنے کے پیرام درست نہیں ہیں"
+
+msgid "unauthorized"
+msgstr "غیر مجاز"
+
+msgid "user_status_is_not_confirmed"
+msgstr "صارف کی حیثیت کی تصدیق نہیں ہوئی ہے!"
+
+msgid "unable_to_convert_string_to_time"
+msgstr "اسٹرنگ کو ٹائم فارمیٹ میں تبدیل کرنے سے قاصر"
+
+msgid "device_not_correct"
+msgstr "آلہ درست نہیں ہے یا تعاون یافتہ"
+
+msgid "cannot_send_android_notification"
+msgstr "نہیں ہے Android اطلاعات نہیں بھیج سکتا!"
+
+msgid "cannot_send_ios_notification"
+msgstr "IOS اطلاعات نہیں بھیج سکتا!"
+
+msgid "dashboard_auto_refresh"
+msgstr "ڈیش بورڈ آٹو ریفریش"
+
+msgid "share_location_with_user"
+msgstr "اپنے مقام کا اشتراک کریں"
+
+msgid "error_while_fetching_branch_availability"
+msgstr "برانچ کی دستیابی کے"
+
+msgid "availability_settings_does_not_exist"
+msgstr "وقت موجودگی کی ترتیبات موجود نہیں ہیں"
+
+msgid "unable_to_create_bid"
+msgstr "کچھ بولا گیا ، بولی بنانے سے قاصر ، دوبارہ کوشش کریں"
+
+msgid "can_not_create_bid"
+msgstr "کچھ غلط ہو گیا ، بولی"
+
+msgid "unable_to_update_bid"
+msgstr "نہیں بن سکتا غلط ، بولی کو اپ ڈیٹ کرنے سے قاصر"
+
+msgid "can_not_update_bid"
+msgstr "کچھ غلط ہو گیا ، تازہ کاری نہیں ہوسکتی ہے بولی میں"
+
+msgid "can_not_delete_bid"
+msgstr "کچھ غلط ہوا ، بولی کو حذف نہیں کیا جاسکتا"
+
+msgid "unable_to_create_bid_proposal"
+msgstr "کچھ غلط ہو گیا ، بولی کی تجویز کو تشکیل دینے سے قاصر"
+
+msgid "can_not_create_bid_proposal"
+msgstr "کچھ غلط ہو گیا ،"
+
+msgid "bid_proposal_does_not_exist"
+msgstr "بولی کی تجویز موجود نہیں!"
+
+msgid "service_type_does_not_exist"
+msgstr "خدمت کی قسم موجود نہیں ہے!"
+
+msgid "error_in_getting_availability_settings"
+msgstr "اس برانچ کے لئے دستیابی کی ترتیبات کو بازیافت کرنے میں خرابی"
+
+msgid "can_not_delete_branch"
+msgstr "کچھ غلط ہو گیا ، برانچ کو حذف نہیں کیا جاسکتا۔ خدمات برانچوابستہ ہیں"
+
+msgid "business_does_not_exist_for_that_user"
+msgstr "بزنس سےاس صارف کے"
+
+msgid "access_denied"
+msgstr "ل Access رسائی کا انکار نہیں"
+
+msgid "dynamic_field_does_not_exist"
+msgstr "متحرک فیلڈ موجود نہیں ہے"
+
+msgid "dynamic_group_already_attached_to_that_screen"
+msgstr "اسکرین پرگروپ پہلے ہی منسلک ہے"
+
+msgid "dynamic_field_tag_does_not_exist"
+msgstr "متحرکمتحرک فیلڈ ٹیگ موجود نہیں ہے!"
+
+msgid "dynamic_field_type_does_not_exist"
+msgstr "متحرک فیلڈ کی قسم موجود نہیں ہے!"
+
+msgid "can_not_update"
+msgstr "کچھ غلط ہوا ، تازہ کاری نہیں ہوسکتی ہے"
+
+msgid "can_not_delete"
+msgstr "کچھ غلط ہوا ، حذف نہیں ہوسکتا ہے"
+
+msgid "can_not_insert"
+msgstr "کچھ غلط ہوا ، داخل نہیں ہوسکتا ہے"
+
+msgid "can_not_get"
+msgstr "کچھ غلط ہو گیا ہے ،"
+
+msgid "error_in_deleting_employee_setting"
+msgstr "ملازمین کو حذف کرنے"
+
+msgid "error_in_updating_employee_setting"
+msgstr "میں غلطی سے ملازمین کی ترتیب کو اپ ڈیٹ کرنے میں غلطی ملازم کی ترتیب"
+
+msgid "error_in_creating_employee_setting"
+msgstr "پیدا کرنے میں خرابی"
+
+msgid "employee_type_does_not_exist"
+msgstr "ملازم کی قسم نہیں ہے موجود نہیں!"
+
+msgid "employee_status_does_not_exist"
+msgstr "ملازم کی حیثیت موجود نہیں!"
+
+msgid "employee_role_does_not_exist"
+msgstr "ملازم کا وجود نہیں!"
+
+msgid "pay_rate_does_not_exist"
+msgstr "ملازمین کی تنخواہ کی شرح موجود نہیں ہے!"
+
+msgid "file_not_uploaded_successfully"
+msgstr "کچھ غلط ہوگیا ، فائل اپ لوڈ ناکام ہوگئی ، فائل کی"
+
+msgid "invalid_file"
+msgstr "غلط شکل ، اپ لوڈ مسدود ہے!"
+
+msgid "icon_not_uploaded_successfully"
+msgstr "شبیہہ کامیابی کے ساتھ اپ لوڈ نہیں ہوا!"
+
+msgid "unable_to_fetch_geo_zones"
+msgstr "کچھ غلط ہوگیا ، جیو زونز بازیافت کرنے سے قاصر!"
+
+msgid "unable_to_list_hw_payments"
+msgstr "کچھ غلط ہوگیا ، ہائپر وایلٹ لین دین کی فہرست میں ناکام رہا!"
+
+msgid "unable_to_get_currencies_and_transfer_method_types"
+msgstr "کچھ غلط ہو گیا ، درخواست کی وجہ سے کرنسیوں اور منتقلی کے طریق کار کی قسموںکی وجہ سے"
+
+msgid "unable_to_get_currencies_and_transfer_method_types_si"
+msgstr "کو بازیافت کرنے سے قاصر ، کنیکشن مداخلت"
+
+msgid "error_in_fetching_currencies_and_transfer_methods"
+msgstr "کرنسیوں اور منتقلی کے طریقوں کی بازیافت کرنے میںہائپر واللیٹ سے کرنسیوں اور منتقلی کے طریقوں کو بازیافت کرنے میں غلطی ، ٹرانسفر میथ"
+
+msgid "unable_to_list_transfer_method_fields"
+msgstr "ناکام ،فیلڈز کو فہرست میں لانے سے قاصر!"
+
+msgid "any_required_parameter_is_missing"
+msgstr "کچھ ضروری پیرامیٹرز غائب ہیں!"
+
+msgid "invalid_transfer_method_type"
+msgstr "غلط منتقلی کے طریقہ کار ، اپنے ان پٹ کو چیک کریں!"
+
+msgid "unable_to_get_transfer_method_by_token"
+msgstr "کچھ غلط ہوا ، اس ٹوکن کے خلاف ٹرانسفر کا طریقہ کار بازیافت کرنے سے قاصر اورکی قسم"
+
+msgid "error_in_reformatting_results_after_decoding"
+msgstr "ضابطہ کشائی کے بعد نتائج کو دوبارہ شکل دینے میں غلطی!"
+
+msgid "_max_allowed_taxes_and_discounts_does_not_exit"
+msgstr "زیادہ سے زیادہ اجازت والے ٹیکس اور چھوٹ کے لئے برانچ کی ترتیبات خارج نہیں ہوتی ہیں!"
+
+msgid "error_while_getting_branch_settings"
+msgstr "برانچ کی ترتیبات کو بازیافت کرتے وقت"
+
+msgid "error_Service Provider_allowed_to_add_taxes_and_discounts"
+msgstr "غلطی سروس فراہم کرنے والے کے دوران غیر متوقع طور پر غلطی پیش آئی ٹیکس اور چھوٹ"
+
+msgid "error_Service Provider_allowed_to_add_discounts"
+msgstr "سروس پرووائڈر کے دوران غیر متوقع خرابی پیش آنے پر رعایت"
+
+msgid "error_Service Provider_allowed_to_add_taxes"
+msgstr "سروس پرووائڈر"
+
+msgid "Service Provider_not_allowed_to_add_taxes"
+msgstr "کو ٹیکسوں کو شامل کرنے کی اجازت نہیں سروس فراہم کرنے والے کو ٹیکسوں کو شامل"
+
+msgid "Service Provider_not_allowed_to_add_discounts"
+msgstr "کرنے کی اجازت نہیں چھوٹ"
+
+msgid "something_went_wrong_in_calculation"
+msgstr "انوائس میں کچھ غلط ہوگئی رقم کا حساب کتاب!"
+
+msgid "bidding_proposal_does_not_exist"
+msgstr "بولی دینے کی یہ تجویز موجود نہیں ہے!"
+
+msgid "job_category_does_not_exist"
+msgstr "یہ نوکری زمرہ موجود نہیں ہے!"
+
+msgid "job_status_does_not_exist"
+msgstr "آپ کی ملازمت کی حیثیت جس کی کوشش کر رہے ہیں وہ موجود نہیں ہے!"
+
+msgid "can_not_get_job"
+msgstr "ٹیکس اور چھوٹ میں اضافے کے بعد سروس فراہم کرنے والے کے دوران غیر متوقع خرابی پیدا ہوگئی!"
+
+msgid "holiday_already_exists"
+msgstr "آپ کے تعطیلات کیلنڈر میں چھٹی پہلے ہی موجود ہے از"
+
+msgid "input_time_from_and_to_is_same"
+msgstr "وقت: وقت ایک جیسا ہے ، اپنی اندراج کو درست کریں اور دوبارہ کوشش کریں۔"
+
+msgid "holiday_does_not_exist"
+msgstr "آپ کے تعطیل والے کیلنڈر میں تعطیلات موجود نہیں ہیں"
+
+msgid "free_Service Provider_rule_does_not_exist"
+msgstr "سروس مہیا کرنے والوں کے لئے مفت سب سکریپشن اصول موجود نہیں ہے!"
+
+msgid "more_than_one_subscription_Service Provider_rules"
+msgstr "اس پیکیج اور ملک کے خلاف ایک سے زیادہ سروس فراہم کرنے والے خریداری کے اصول دستیاب"
+
+msgid "unable_to_create_subscription_Service Provider_rule"
+msgstr "ہیں ، کچھ نہ کچھ غلط ہو گیا ، سروس فراہم کرنے والے کی رکنیت کا قاعدہ تشکیل دینے سے قاصر ،"
+
+msgid "already_a_subscription_rule"
+msgstr "آپ کے پاس پہلے سے ہی فراہم کردہ پیکیج کی شناخت کے خلاف سبسکرپشن کا قاعدہ ہے اور ملک میں"
+
+msgid "unable_to_update_subscription_Service Provider_rule"
+msgstr "کچھ غلط ہوگیا ہے ، سروس پروفیسر سکریپشن رول کو اپ ڈیٹ کرنے سے قاصر"
+
+msgid "unable_to_get_subscription_Service Provider_rule"
+msgstr "کچھ غلط ، ناکام سروس پرووائڈر کے لئے سکریپشن رول کو دوبارہ حاصل کرنے میں"
+
+msgid "unable_to_delete_subscription_Service Provider_rule"
+msgstr "کچھ غلط ہو گیا ، سروس فراہم کرنے والے کے لئے سبسکرپشن رول ڈیلیٹ کرنے سے قاصر"
+
+msgid "unable_to_update_pricing"
+msgstr "کچھ غلط ہو گیا ، سبسکرپشن کی قیمتوں کو اپ ڈیٹ کرنے سے قاصر"
+
+msgid "unable_to_delete_pricing"
+msgstr "کچھ غلط ہوگیا ، سب سکریپشن کی قیمتوں کو ختم کرنے میں ناکام رہا ،"
+
+msgid "unable_to_purchase_promotion"
+msgstr "پروموشن دستیاب نہیں ہے اور پروموشن خریدنے"
+
+msgid "error_in_creating_promotion_purchase_price"
+msgstr "میں غلطی قیمت خرید ، دوبارہ کوشش کریں"
+
+msgid "no_Service Provider_earnings"
+msgstr "سروس فراہم کرنے والے کی اب تک کوئی آمدنی نہیں ہے!"
+
+msgid "dispute_category_does_not_exist"
+msgstr "تنازعہ زمرہ موجود نہیں ہے!"
+
+msgid "dispute_status_does_not_exist"
+msgstr "تنازعہ کی حیثیت موجود نہیں!"
+
+msgid "input_parameters_not_correct_for_deals"
+msgstr "اس پیکیج اور ملک کے خلافایک سے زیادہ سروس فراہم کرنے والے خریداری کے اصول دستیاب ہیں اور"
+
+msgid "no_used_or_available_promotion"
+msgstr "آپ کوآپ کو اپنے سب سکریپشن پیکیج میں تشہیر کا استعمال یا اہلیت نہیں ہے آپ کے سبسکرپشن پیکیج میں"
+
+msgid "no_used_promotion"
+msgstr "آپ کو کوئی استعمال شدہ پروموشن نہیں ہے آپ کے سبسکرپشن پیکیج میں"
+
+msgid "no_available_promotion"
+msgstr "کوئی پروموشن نہیں ہے"
+
+msgid "error_while_getting_user"
+msgstr "کچھ ہو گیا صارف کی بازیافت کرتے وقت غلط ، غیر متوقع نقص پیش آگیا!"
+
+msgid "business_does_not_provide_that_service"
+msgstr "آپ کا کاروبار مطلوبہ سروسنہیں فراہم کرتا"
+
+msgid "already_exist"
+msgstr "ڈیٹا پہلے سے موجودہے!"
+
+msgid "does_not_exist"
+msgstr "ڈیٹا موجود نہیں!"
+
+msgid "settings_does_not_exist"
+msgstr "ترتیبات موجود نہیں ہیں!"
+
+msgid "unable_to_create_user_installs"
+msgstr "کچھ غلط ہو گیا ، صارف کی انسٹالز بنانے سے قاصر!"
+
+msgid "unable_to_update_user_installs"
+msgstr "کچھ غلط ہو گیا ، صارف کے انسٹال کو اپ ڈیٹ کرنے سے قاصر!"
+
+msgid "error_while_updating_user_installs"
+msgstr "صارف کے انسٹال کو اپ ڈیٹ کرتے وقت کچھ غلط ہوگیا!"
+
+msgid "error_while_getting_user_installs"
+msgstr "صارف انسٹال کی بازیافت کرتے وقت"
+
+msgid "probably_status_is_already_confirmed"
+msgstr "کچھ غلط ہو گیا کچھ غلط ہو گیا ، ممکن ہے پہلے ہی حیثیت کی تصدیق ہوگئی ہو!"
+
+msgid "invalid_token"
+msgstr "غلط ٹوکن"
+
+msgid "hashing_problem"
+msgstr "ہیشنگ کی پریشانی"
+
+msgid "os_is_incorrect"
+msgstr "کچھ غلط ہوگئی ، غلط OS کا پتہ چلا"
+
+msgid "invoice_does_not_belongs_to_this_job"
+msgstr "انوائس اس ملازمت سے متعلق نہیں ہے"
+
+msgid "error_in_making_params_for_local_payment"
+msgstr "مقامی ادائیگی کے لئے پیرام بنانے میں غلطی ،"
+
+msgid "error_in_making_schedule_for_calendar"
+msgstr "کیلنڈر کے شیڈول کو نشان زد کرنے میں دوبارہ کوشش کریں ،دوبارہ"
+
+msgid "reassign_scheduled_jobs_before_leaving"
+msgstr "ملازمین کی حیثیت کو فعال کرنے سے پہلے شیڈول ملازمتوں کوتفویض کریں۔"
+
+msgid "error_in_fetching_calendar"
+msgstr "کیلنڈر کی بازیافت میں خامی ، دوبارہ کوشش کریں"
+
+msgid "register_on_tudo_using_email"
+msgstr "ای میل کا استعمال کرکے TUDO پر اپنے آپ کو رجسٹر کریں"
+
+msgid "already_registered_just_login"
+msgstr "ہم نے نوٹ کیا ہے کہ آپ نے پہلے ہی TUDO ایپ پر ایک اکاؤنٹ بنایا ہے۔ صرف ای میل کا استعمال کرکے لاگ ان کریں"
+
+msgid "employee_status_is"
+msgstr "ملازمین کی حیثیت یہ ہے کہ"
+
+msgid "can_not_update_job_status_after"
+msgstr "آپ ملازمت کی حیثیتاس کے بعد"
+
+msgid "can_not_update_job_Service Provider_status_after"
+msgstr "کو اپ ڈیٹ نہیں کر سکتےآپ سروس فراہم کرنے والے کے بعد ملازمت کی حیثیت"
+
+msgid "can_not_update_job_Consumer_status_after"
+msgstr "کو اپ ڈیٹ نہیں کرسکتے ہیں"
+
+msgid "already_have_package"
+msgstr "آپ کے کاروبار نے پہلے ہی پیکیج خرید لیا ہے کے بعد:"
+
+msgid "amount_should_at_least"
+msgstr "رقم کم از کم"
+
+msgid "max_limit_is_today_remaining_limit_is"
+msgstr "زیادہ سے زیادہ منتقلی کی حد ہو ، آج کی باقی حدہے"
+
+msgid "error_while_creating_details"
+msgstr "تفصیلات بنانے کے دوران خرابی، دوبارہ کوشش کریں"
+
+msgid "error_while_updating_details"
+msgstr "تفصیلات کو اپ ڈیٹ کرتے وقت خرابی ، دوبارہ کوشش"
+
+msgid "details_more_than_records_employee"
+msgstr "کریں اس ملازم کے لئے ایک سے زیادہ ریکارڈ مل گئے!"
+
+msgid "create_job_pending_for_Consumer_notify"
+msgstr "!! آپ کا شکریہ !! - آپ کی {service_type} ملاقات (ID: # {job_id}) تشکیل دے دی گئی ہے اور خدمت فراہم کنندہ ({خدمت فراہم کنندہ_پروفائل_ نام name) کی منظوری کا منتظر ہے۔"
+
+msgid "create_job_pending_for_Service Provider_emp_notify"
+msgstr "!!کارروائی کی ضرورت!! مبارک ہو آپ کو ایک نئی pr سروس_ٹائپ} تقرری # {نوکری_ ID for کے لئے مقرر کیا گیا ہے} _name____}___________________________________________pr_pr___prprprprprprprprprprprprprprprprprprprprprprprprprprprprprprpr"
+
+msgid "create_job_confirmed_for_Consumer_notify"
+msgstr "- - - - - - - - - - - Your Your Your Your Your Your Your Your Your Your Your Your Your Your Your and and and {خدمت فراہم کنندہ_پفایل_ نام}۔"
+
+msgid "create_job_confirmed_for_Service Provider_emp_notify"
+msgstr "!! نیا تقرری !! - مبارک ہو کہ آپ {صارف_پیشہ ور_ نام} کے ساتھ {emp_profile_name to کے ساتھ تفویض کردہ ایک نئی _ service_type} تقرری # {نوکری_ ID for کے لئے شیڈول ہیں۔"
+
+msgid "accept_job_for_Consumer_notify"
+msgstr "!! قبول! !! آپ کی {سروس_ٹائپ} تقرری # {نوکری_ ID} تبدیلیاں قبول کی گئیں ، براہ کرم تبدیلیوں کی توثیق کریں اور ان کو تسلیم کریں۔"
+
+msgid "accept_job_for_Service Provider_emp_notify"
+msgstr "!! قبول! !! آپ کی {سروس_ٹائپ} تقرری # {نوکری_ ID} تبدیلیاں قبول کی گئیں ، براہ کرم تبدیلیوں کی توثیق کریں اور ان کو تسلیم کریں۔"
+
+msgid "reject_job_for_Consumer_notify"
+msgstr "!! مسترد !! - _ سروس_ٹائپ} تقرری # {نوکری_ ID} تبدیلیاں مسترد کردی گئیں اور خوشخبری آپ کی اصل تقرری برقرار ہے۔"
+
+msgid "reject_job_for_Service Provider_emp_notify"
+msgstr "!! مسترد !! - _ سروس_ٹائپ} تقرری # {نوکری_ ID} تبدیلیاں مسترد کردی گئیں اور خوشخبری آپ کی اصل تقرری برقرار ہے۔"
+
+msgid "cancel_job_for_Consumer_notify"
+msgstr "!! منسوخ - آپ کا عمل درکار !! _ سروس_ٹائپ} تقرری # {جاب_ ایڈ AN منسوخ کردی گئی ہے ، براہ کرم تبدیلیوں کی توثیق کریں اور ان کو تسلیم کریں۔"
+
+msgid "cancel_job_for_Service Provider_emp_notify"
+msgstr "!! منسوخ - آپ کا عمل درکار !! _ سروس_ٹائپ} تقرری # {جاب_ ایڈ AN منسوخ کردی گئی ہے ، براہ کرم تبدیلیوں کی توثیق کریں اور ان کو تسلیم کریں۔"
+
+msgid "reschedule_job_for_Service Provider_emp_notify"
+msgstr "!! تجدید - آپ کا عمل ضروری ہے !! _ سروس_ٹائپ} تقرری # {جاب_ایڈ Business کو بزنس سروس پرووائڈر {سروس پرووائڈر_برانچ_پروفائل_ نام with کے ساتھ دوبارہ شیڈول کیا گیا ہے ، براہ کرم تبدیلیوں کی توثیق اور قبول کریں یا اسے مسترد کریں۔"
+
+msgid "reschedule_job_for_Consumer_notify"
+msgstr "!! تجدید - آپ کا عمل ضروری ہے !! _ سروس_ٹائپ} تقرری # {جاب_ ایڈ Business کو بزنس سروس پرووائڈر Res {سروس پرووائڈر_برانچ_پروفائل_ نام with with کے ساتھ شیڈول کیا گیا ہے ، براہ کرم تبدیلیوں کی توثیق اور قبول کریں یا اسے مسترد کریں۔"
+
+msgid "agent_reassign_job_for_Consumer_notify"
+msgstr "تبدیلیاں - کوئی کارروائی کی ضرورت ہے !! FYI {service_type} تقرری # {نوکری_ ID for کے لئے ایجنٹ کی تفویض تازہ کاری ہوگئی ہے۔"
+
+msgid "agent_reassign_job_for_Service Provider_emp_notify"
+msgstr "تبدیلیاں - آپ کی کارروائی کی ضرورت ہے !! # خدمت_ٹائپ} تقرری # {نوکری_ ID Emp کو ایمپ # {پچھلے_یمپلوئی_ائڈ Emp سے # # موجودہ #Employee_id assigned تفویض کیا گیا ہے۔ براہ کرم نوٹ کریں اور تصدیق کریں اور منصوبہ بندی کریں۔"
+
+msgid "invoice_ready_for_Consumer_notify"
+msgstr "!! انوائس شدہ بل - آپ کے عمل کی ضرورت ہے !! - آپ کی {service_type} تقرری # {نوکری_ ID completed مکمل ہوچکی ہے اور {انوائس_اماؤنٹ P کی ادائیگی کیلئے تیار ہے اور آپ کی فوری ادائیگی کی تعریف کرتے ہیں۔"
+
+msgid "adjust_invoice_for_Service Provider_emp_notify"
+msgstr "!! ایڈوسٹ انوائس - آپ کا عمل ضروری ہے !! - صارف نے انوائس # انوائس_ ID میں ایڈجسٹمنٹ کی درخواست کی۔ ادائیگی کے ل fast تیزی سے کام کریں۔"
+
+msgid "adjusted_invoice_for_Consumer_notify"
+msgstr "!! انوائس ایڈجسٹ - آپ کی کارروائی کی ضرورت ہے !! - آپ کی {service_type} تقرری # {نوکری_ ID completed مکمل ہوچکی ہے اور {انوائس_اماؤنٹ P کی ادائیگی کیلئے تیار ہے اور آپ کی فوری ادائیگی کی تعریف کرتے ہیں۔"
+
+msgid "raise_dispute_for_Service Provider_emp_notify"
+msgstr "تنازعہ اٹھایا گیا - آپ کا عمل درکار ہے !! - صارف نے درخواست کی کہ وہ {سروس_ٹائپ} اپائنمنٹ # {جاب_آئڈی} اور انوائس کی رقم: {انوائس_اماؤنٹ with سے مسئلہ حل کریں۔ تنازعہ کو حل کرنے کے لئے تیزی سے کام کریں۔"
+
+msgid "manage_dispute_for_Consumer_notify"
+msgstr "!! تنازعہ حل - آپ کی کارروائی کی ضرورت ہے !! - {سروس_ٹائپ on اپوائنٹمنٹ # {نوکری_ ID resolved پر تنازعہ حل ہو گیا ہے اور انوائس کی رقم میں نظر ثانی کی گئی ہے: payment انوائس_اماؤنٹ payment ادائیگی کے لئے تیار ہے ، اپنی فوری ادائیگی کی تعریف کریں۔"
+
+msgid "on_board_walk_in_Consumer_near_appointment_notify"
+msgstr "!معلومات!! {خدمت_ٹائپ} تقرری # {نوکری_ ID for کے لئے صارف قریب ہے اور کوئڈ # {کوئڈ with کے ساتھ کامیابی کے ساتھ بورڈ پر ہے"
+
+msgid "Service Provider_on_boards_appointment_notify"
+msgstr "! معلومات !! {خدمت_ٹائپ} تقرری # {نوکری_ ID for کے لئے صارف قریب ہے اور کوئڈ # {کوئڈ with کے ساتھ کامیابی کے ساتھ بورڈ پر ہے"
+
+msgid "walk_in_Consumer_near_appointment_notify"
+msgstr "! معلومات !! {خدمت_ٹائپ} تقرری # {نوکری_ ID for کے لئے صارف قریب ہے اور کوئڈ # {کوئڈ with کے ساتھ کامیابی کے ساتھ بورڈ پر ہے"
+
+msgid "in_home_on_demand_Service Provider_near_appointment_notify"
+msgstr "! معلومات !! Prov service_type} تقرری # {نوکری_ ID for کیلئے کاروباری فراہم کنندہ قریب ہے اور کوئڈ # {کوئڈ with کے ساتھ کامیابی کے ساتھ بورڈ پر ہے"
+
+msgid "Consumer_Service Provider_initiates_on_board_action_notify"
+msgstr "! معلومات !! Prov service_type} تقرری # {نوکری_ ID for کیلئے کاروباری فراہم کنندہ قریب ہے اور کوئڈ # {کوئڈ with کے ساتھ کامیابی کے ساتھ بورڈ پر ہے"
+
+msgid "appointment_alert_12_hrs_earlier_notify"
+msgstr "!! الرٹ !! آپ کا شیڈول {سروس_ٹائپ} تقرری # {جاب_ایڈ 12 12 گھنٹے میں شروع ہونے والا ہے۔"
+
+msgid "appointment_alert_2_hrs_earlier_notify"
+msgstr "!! الرٹ !! آپ کا شیڈول {service_type} تقرری # {جاب_ایڈ 2 2 گھنٹے میں شروع ہونے والا ہے۔"
+
+msgid "appointment_alert_30_mins_earlier_notify"
+msgstr "!! الرٹ !! آپ کا شیڈول {service_type} تقرری # {جاب_ایڈ 30 30 منٹ میں شروع ہونے والا ہے۔"
+
+msgid "appointment_alert_5_mins_earlier_notify"
+msgstr "!! الرٹ !! آپ کا شیڈول {سروس_ائپ} تقرری # {جاب_ایڈ 5 5 منٹ میں شروع ہونے والا ہے۔"
+
+msgid "payment_made_notify"
+msgstr "!! ادائیگی کا عمل !! - آپ کی ادائیگی {انوائس_اماؤنٹ} کے لئے {service_type} تقرری # {نوکری_ ID successfully کامیابی کے ساتھ عمل میں لائی گئی ہے ، آپ کا شکریہ اور آپ کے ساتھ دوبارہ کاروبار کرنے کے منتظر ہیں۔"
+
+msgid "Service Provider_sends_employment_invitation_to_Consumer_notify"
+msgstr "!! نیا روزگار - آپ کا عمل ضروری ہے !! employment سروس پرووائڈر_پروفائل_ نام from سے آپ کی ملازمت کی پیش کش کے لئے جہاز پر خوش آمدید۔ اگلے اقدامات کے لئے یہاں کلک کریں۔"
+
+msgid "reset_password_for_Consumer_notify"
+msgstr "!! اکاؤنٹ کی تازہ کاری - آپ کی کارروائی کی ضرورت ہے !! ایک ای میل اپ ڈیٹ ہدایات کے ساتھ بھیجا گیا۔"
+
+msgid "employee_enrollment_notify_title"
+msgstr "ملازم انرولمنٹ"
+
+msgid "reset_password_notify_title"
+msgstr "ری سیٹ پاس ورڈ"
+
+msgid "can_not_get_push_notification_message"
+msgstr "کو پش نوٹیفیکیشن میسج نہیں مل سکتا!"
+
+msgid "logout_successfully"
+msgstr "لاگ آؤٹ کامیابکامیابی کے ساتھ"
+
+msgid "token_successfully_sent"
+msgstr "ٹوکنبھیجا گیا!"
+
+msgid "unable_to_create_branch"
+msgstr "برانچ بنانے سے قاصر!"
+
+msgid "unable_to_update_branch"
+msgstr "برانچ کو اپ ڈیٹ کرنے سے قاصر!"
+
+msgid "unable_to_create_business"
+msgstr "کاروبار بنانے سے قاصر!"
+
+msgid "unable_to_update_business"
+msgstr "کاروبار کو اپ ڈیٹ کرنے سے قاصر!"
+
+msgid "dynamic_field_value_does_not_exist"
+msgstr "متحرک فیلڈ ویلیو موجود نہیں ہے!"
+
+msgid "employee_setting_does_not_exist"
+msgstr "ملازمین کی ترتیب موجود نہیں!"
+
+msgid "manage_employee_does_not_exist"
+msgstr "کا انتظام ملازم موجود نہیں ہے!"
+
+msgid "shift_schedule_does_not_exist"
+msgstr "بزنس شفٹ شیڈول موجود نہیں ہے!"
+
+msgid "unable_to_invite_employee"
+msgstr "ملازمت کا دعوت نامہ بھیجنے سے قاصر"
+
+msgid "no_error_found"
+msgstr "کوئی خرابی نہیں ملی"
+
+msgid "unable_to_list_hw_users"
+msgstr "ہائپر واللیٹ صارفین کی فہرست درج کرنے سے"
+
+msgid "unable_to_get_invoice"
+msgstr "قاصر انوائس کو بازیافت"
+
+msgid "unable_to_generate_invoice"
+msgstr "کرنے سے قاصر انوائستیار کرنے سے قاصر"
+
+msgid "invoice_id_or_job_id_missing_in_params"
+msgstr "ID یا جاب_آئڈیپیرامیٹرز میں موجود ہے!"
+
+msgid "this_invoice_is_locked"
+msgstr "انوائس مقفل ہے ، آپ اس انوائس کو اپ ڈیٹ نہیں کرسکتے ہیں!"
+
+msgid "error_while_getting_invoice_by_job"
+msgstr "ملازمت کے ذریعہ انوائس حاصل کرنے میں خرابی انوائس"
+
+msgid "unable_to_adjust_invoice"
+msgstr "کو ایڈجسٹ کرنے سے قاصر"
+
+msgid "employee_does_not_exists"
+msgstr "ملازم موجود نہیں ہے!"
+
+msgid "not_permitted_to_update_job"
+msgstr "آپ کو یہ نوکری اپ ڈیٹ کرنے کی اجازت نہیں ہے"
+
+msgid "not_permitted_to_update_estimate"
+msgstr "آپ کے پاس تخمینہ لاگت کو اپ ڈیٹ کرنے کی اجازت نہیں ہے"
+
+msgid "no_request_to_update_cost_estimates"
+msgstr "لاگت کا تخمینہ لگانے میں کوئی"
+
+msgid "error_while_getting_job"
+msgstr "غلطی نہیں جب ملازمت کیلاتے وقت ملازمت کی"
+
+msgid "error_while_getting_branch_from_employee"
+msgstr "خرابیخرابی کی بازیافت کرتے ہوئے ایمیئل"
+
+msgid "Service Provider_meta_does_not_exist"
+msgstr "سروس سروس فراہم کنندہ میٹا موجود نہیں!"
+
+msgid "Consumer_meta_does_not_exist"
+msgstr "صارف میٹا موجود نہیں ہے!"
+
+msgid "can_not_create_promotion"
+msgstr "کچھ غلط ہو گیا ، پروموشن نہیں تشکیل دے سکتا"
+
+msgid "country_service_does_not_exist"
+msgstr "کنٹری سروس موجود نہیں ہے!"
+
+msgid "no_record_against_county_code"
+msgstr "آپ کی کاؤنٹی کیخلاف کوئی ریکارڈ موجود"
+
+msgid "error_while_getting_country_from_country_code"
+msgstr "کنٹری کوڈ سے ملک کو بازیافت کرتے وقتغلطی کے"
+
+msgid "service_not_available_in_this_country"
+msgstr "نہیں ہے۔ یہ سروس اس ملک میں دستیاب نہیں ہےموجود ہے"
+
+msgid "error_while_creating_lead"
+msgstr "جبکہ لیڈتخلیق کرتے وقت خرابی"
+
+msgid "lead_not_created"
+msgstr "لیڈ"
+
+msgid "not_permitted_to_create_this_setting"
+msgstr "آپ کو یہ ترتیب دینے کی اجازت نہیں ہے"
+
+msgid "error_in_getting_setting"
+msgstr "ترتیبات کی بازیافت میں"
+
+msgid "setting_does_not_exist"
+msgstr "سیٹنگ موجود"
+
+msgid "unable_to_upsert_employee_details"
+msgstr "نہیں ملازمین کی تفصیلات کو برقرار رکھنے سے قاصر ہے۔"
+
+msgid "Consumer_already_settings_with_this_slug"
+msgstr "اس صارف کے پاس پہلے سے ہی اس سلگ کے ساتھ ترتیبات موجود ہیں اس صارف کے پاس اس سلگ کے ساتھ"
+
+msgid "Consumer_already_more_than_one_settings"
+msgstr "پہلے ہی 1 سے زیادہ"
+
+msgid "unable_to_create_settings"
+msgstr "ترتیباتکرنے میں ناکام ہیں"
+
+msgid "Consumer_settings_does_not_exist"
+msgstr "ترتیبات موجود ہیں جو آپ کے صارف پروفائل کے لئےصارفین کی ترتیبات غائب!"
+
+msgid "error_in_fetching_Consumer_settings"
+msgstr "صارفین کی ترتیبات کی بازیافت میں خامی سیٹنگوں"
+
+msgid "unable_to_update_settings"
+msgstr "کو اپ ڈیٹ کرنے سے قاصر"
+
+msgid "no_Consumer_setting_exist"
+msgstr "صارفین کی ترتیب موجود نہیں ہے!"
+
+msgid "no_employee_details_exist"
+msgstr "ملازمین کی تفصیلات موجود نہیں!"
+
+msgid "unable_to_delete_settings"
+msgstr "کچھ غلط ہوگیا ، ترتیبات کو حذف، دوبارہ کوشش کریں"
+
+msgid "unable_to_logout"
+msgstr "کرنے سے قاصرلاگ آؤٹ کرنے سے قاصر"
+
+msgid "user_address_does_not_exist"
+msgstr "صارف کا پتہ موجود نہیں ہے!"
+
+msgid "can_not_create_client_token"
+msgstr "کلائنٹ ٹوکن نہیں بنا سکتا!"
+
+msgid "unable_to_get_donations"
+msgstr "کچھ غلط ہو گیا ، عطیہ کی فہرست بازیافت کرنے سے قاصر"
+
+msgid "country_id_does_not_exist"
+msgstr "صارف کا ملکی شناخت موجود نہیں"
+
+msgid "error_in_getting_country_id"
+msgstr "صارف کا کنٹری ID بازیافت کرنے میں خرابی!"
+
+msgid "branch_id_or_business_id_compulsory"
+msgstr "بزنس یا برانچ کی شناخت لازمی طور پرمیں ہونی چاہئے"
+
+msgid "promotion_purchase_price_not_exist"
+msgstr "پروموشن"
+
+msgid "licensed"
+msgstr "لائسنس شدہ / رجسٹرڈ"
+
+msgid "passport"
+msgstr "پاسپورٹ"
+
+msgid "driving_license"
+msgstr "ڈرائیور لائسنس کارڈ"
+
+msgid "ration_card"
+msgstr "راشن کارڈ"
+
+msgid "voter_iD_card"
+msgstr "ووٹر شناختی کارڈ"
+
+msgid "aadhar"
+msgstr "آدھار کارڈ"
+
+msgid "other_id"
+msgstr "دیگر حکومتجاری کردہ شناختی کارڈ"
+
+msgid "percentage"
+msgstr "کا فی صد"
+
+msgid "cash"
+msgstr "کیش"
+
+msgid "national_business_tax"
+msgstr "فیڈرل / نیشنل / سینٹرل بزنس ٹیکس"
+
+msgid "regional_business_tax"
+msgstr "صوبہ / علاقائی / ریاست بزنس ٹیکس"
+
+msgid "donation_x%"
+msgstr "سے TUDO ٹیبل سےکی فہرست شے کے لئے 1 X٪"
+
+msgid "donation_$2.00"
+msgstr "سے TUDO میز $ 2.001لسٹ آئٹم کے 1"
+
+msgid "donation_$1.50"
+msgstr "TUDO کی میز $ 1.501فہرست آئٹم"
+
+msgid "donation_y%"
+msgstr "سے TUDO میز Y٪سےفہرست آئٹم"
+
+msgid "donation_2%"
+msgstr "لسٹTUDO ٹیبل سے آئٹم 1 2٪"
+
+msgid "promotion_radius_1"
+msgstr "1 x سروس رداس (50 میل / کلومیٹر) (TUDO Default)"
+
+msgid "promotion_radius_2"
+msgstr "2 X سروس رداس"
+
+msgid "promotion_radius_3"
+msgstr "3 x سروس رداس"
+
+msgid "federal_authority"
+msgstr "فیڈرل / نیشنل / سنٹرل گورنمنٹ۔ اتھارٹی"
+
+msgid "regional_authority"
+msgstr "ریاست / علاقہ / صوبہ حکومت اتھارٹی"
+
+msgid "county_authority"
+msgstr "کاؤنٹی / سٹی گورنمنٹ اتھارٹی"
+
+msgid "local_authority"
+msgstr "ٹاؤن / گاؤں / مقامی حکومت اتھارٹی"
+
+msgid "service_duration_15m"
+msgstr "0:15:00"
+
+msgid "service_radius_50k"
+msgstr "50"
+
+msgid "service_duration_30m"
+msgstr "0:30:00"
+
+msgid "service_radius_75k"
+msgstr "75"
+
+msgid "service_radius_100k"
+msgstr "100"
+
+msgid "service_radius_150k"
+msgstr "150"
+
+msgid "service_duration_45m"
+msgstr "0:45:00"
+
+msgid "service_radius_200k"
+msgstr "200"
+
+msgid "service_duration_60m"
+msgstr "1:00:00"
+
+msgid "service_duration_90m"
+msgstr "1:30:00"
+
+msgid "service_radius_300k"
+msgstr "300"
+
+msgid "service_duration_120m"
+msgstr "2:00:00"
+
+msgid "service_radius_30k"
+msgstr "30"
+
+msgid "service_duration_150m"
+msgstr "2:30:00"
+
+msgid "service_duration_180m"
+msgstr "3:00:00"
+
+msgid "service_duration_210m"
+msgstr "3:30:00"
+
+msgid "service_duration_240m"
+msgstr "4:00:00"
+
+msgid "service_duration_300m"
+msgstr "5:00:00"
+
+msgid "service_duration_360m"
+msgstr "6:00:00"
+
+msgid "service_duration_420m"
+msgstr "7:00:00"
+
+msgid "service_duration_480m"
+msgstr "8:00:00"
+
+msgid "local_business_tax"
+msgstr "شہر / قصبہ / گاؤں / مقامی کاروباری ٹیکس"
+
+msgid "gst_business_tax"
+msgstr "GST"
+
+msgid "sgst_business_tax"
+msgstr "SGST (سروس GST)"
+
+msgid "vat_business_tax"
+msgstr "VAT"
+
+msgid "other_business_tax"
+msgstr "دیگر کاروباری ٹیکس"
+
+msgid "auto_insurance"
+msgstr "آٹو / وہیکل انشورنس"
+
+msgid "fire_insurance"
+msgstr "فائر انشورنس"
+
+msgid "heath_insurance"
+msgstr "ہیلتھ انشورنس"
+
+msgid "dental_insurance"
+msgstr "ڈینٹل انشورنس"
+
+msgid "vision_insurance"
+msgstr "ویژن انشورنس"
+
+msgid "home_insurance"
+msgstr "ہوم مالکان انشورنس"
+
+msgid "renters_insurance"
+msgstr "کرایہ کار انشورنس"
+
+msgid "general_insurance"
+msgstr "جنرل انشورنس"
+
+msgid "life_insurance"
+msgstr "ذاتی / زندگی انشورنس"
+
+msgid "family_insurance"
+msgstr "گروپ"
+
+msgid "property_insurance"
+msgstr "انشورنس"
+
+msgid "business_insurance"
+msgstr "بزنس انشورنس"
+
+msgid "guarantee_insurance"
+msgstr "گارنٹی انشورنس"
+
+msgid "liability_insurance"
+msgstr "لیبلٹی کوریج انشورنس"
+
+msgid "marine_insurance"
+msgstr "میرین انشورنس"
+
+msgid "social_insurance"
+msgstr "سوشل انشورنس"
+
+msgid "other_insurance"
+msgstr "دیگر انشورنس"
+
+msgid "male_gender"
+msgstr "مرد"
+
+msgid "female_gender"
+msgstr "خواتین"
+
+msgid "other_gender"
+msgstr "دیگر"
+
+msgid "super_admin_role"
+msgstr "سپر ایڈمن (= کاروبار کے مالک)"
+
+msgid "admin_manager_role"
+msgstr "ایڈمن منیجر بزنس منیجر)"
+
+msgid "service_supervisor_role"
+msgstr "کی سروس نگران (سروس سٹاف)"
+
+msgid "service_assiciate_role"
+msgstr "کی سروس ایسوسی ایٹ (سروس سٹاف)"
+
+msgid "service_trainee_role"
+msgstr "کی سروس ٹرینی (سروس اسٹاف)"
+
+msgid "support_supervisor_role"
+msgstr "سپورٹ نگران (سپورٹ اسٹاف)"
+
+msgid "support_associate_role"
+msgstr "سپورٹ ایسوسی ایٹ (سپورٹ اسٹاف)"
+
+msgid "support_trainee_role"
+msgstr "سپورٹ ٹرینی (سپورٹ اسٹاف)"
+
+msgid "branch_super_admin_role"
+msgstr "برانچ سپر ایڈمن (= برانچ کے لئے کاروبار کے مالک)"
+
+msgid "branch_admin_manager_role"
+msgstr "برانچ ایڈمن مینیجر (برانچ منیجر)"
+
+msgid "fulltime_employment"
+msgstr "پورنکالک"
+
+msgid "partime_employment"
+msgstr "Parttime"
+
+msgid "temp_employment"
+msgstr "عارضی"
+
+msgid "education_qualification_type"
+msgstr "تعلیم"
+
+msgid "certification_qualification_type"
+msgstr "سرٹیفیکیشن"
+
+msgid "other_qualification_type"
+msgstr "علاوہ"
+
+msgid "less_than12th_qualification"
+msgstr "ہائی سپریم کورٹ کے کم ہول (<12 گریڈ)"
+
+msgid "high_school_equ_qualification"
+msgstr "ہائی اسکول (12 گریڈ) یا ڈپلومہ یا مساوی"
+
+msgid "certification_qualification"
+msgstr "سرٹیفیکیشن"
+
+msgid "college_no_degree_qualification"
+msgstr "کچھ کالج ، نو ڈگری"
+
+msgid "associate_degree_qualification"
+msgstr "ایسوسی ایٹ کی ڈگری"
+
+msgid "bachelors_degree_qualification"
+msgstr "بیچلر ڈگری"
+
+msgid "masters_qualification"
+msgstr "ماسٹر کی ڈگری"
+
+msgid "professional_qualification"
+msgstr "پروفیشنل ڈگری"
+
+msgid "doc_phd_qualification"
+msgstr "ڈاکٹر یا پی ایچ ڈیاسسٹنشپ"
+
+msgid "other_qualification"
+msgstr "دیگر"
+
+msgid "internship_experiance_type"
+msgstr "انٹرنشپ"
+
+msgid "trainee_experiance_type"
+msgstr "ٹرینی"
+
+msgid "employment_experiance_type"
+msgstr "ایمپلائمنٹ"
+
+msgid "research_assistant_experiance_type"
+msgstr "ریسرچ"
+
+msgid "other_experiance_type"
+msgstr "دیگر"
+
+msgid "temporary_experiance"
+msgstr "عارضی"
+
+msgid "parttime_experiance"
+msgstr "پارٹ ٹائم"
+
+msgid "fulltime_experiance"
+msgstr "فل ٹائم"
+
+msgid "self_employed_experiance"
+msgstr "سیلف ایمپلائڈ"
+
+msgid "freelancer_experiance"
+msgstr "فری لانس"
+
+msgid "other_experiance"
+msgstr "دیگر"
+
+msgid "2wheeler_vehicle_type_motorcycle"
+msgstr "2 وہیلر (موٹر بائک)"
+
+msgid "3wheeler_vehicle_type_motorcycle"
+msgstr "3 پہی (ں (آٹو رکشہ / ٹک ٹوک)"
+
+msgid "sedan_vehicle_type_passenger"
+msgstr "سیڈن (مسافر کار)"
+
+msgid "suv_vehicle_type_multipurpose"
+msgstr "ایس یو وی"
+
+msgid "mini_truck_vehicle_type_truck"
+msgstr "مینی ٹرک"
+
+msgid "medium_vehicle_type_truck"
+msgstr "میڈیم ٹرک"
+
+msgid "regular_truck_vehicle_type_truck"
+msgstr "باقاعدہ ٹرک"
+
+msgid "heavy_truck_vehicle_type_truck"
+msgstr "ہیوی ٹرک"
+
+msgid "trailer_vehicle_type_truck"
+msgstr "ملٹی ایکسل ٹریلر ٹرک"
+
+msgid "activity_vehicle_type_low"
+msgstr "اے ٹی وی"
+
+msgid "bus_vehicle_type_bus"
+msgstr "بس"
+
+msgid "trailer_vehicle_type_trailer"
+msgstr "ٹریلر"
+
+msgid "special_equip_vehicle_type_truck"
+msgstr "خصوصی سامان"
+
+msgid "vessal_vehicle_type_truck"
+msgstr "وسول"
+
+msgid "other_vehicle_type"
+msgstr "دیگر"
+
+msgid "other_authority"
+msgstr "دیگر حکومت۔ اتھارٹی"
+
+msgid "fiscal_january"
+msgstr "جنوری۔ دسمبر"
+
+msgid "fiscal_february"
+msgstr "فروری۔ جنوری"
+
+msgid "fiscal_march"
+msgstr "مارچ۔ فروری"
+
+msgid "fiscal_april"
+msgstr "اپریل۔ مارچ"
+
+msgid "fiscal_may"
+msgstr "مئی۔ اپریل"
+
+msgid "fiscal_june"
+msgstr "جون - مئی"
+
+msgid "fiscal_july"
+msgstr "جولائی۔ جون"
+
+msgid "fiscal_august"
+msgstr "اگست۔ جولائی"
+
+msgid "fiscal_september"
+msgstr "ستمبر۔ اگست"
+
+msgid "fiscal_october"
+msgstr "اکتوبر۔ ستمبر"
+
+msgid "fiscal_november"
+msgstr "نومبر۔ اکتوبر"
+
+msgid "fiscal_december"
+msgstr "دسمبر۔ نومبر"
+
+msgid "delete_branch"
+msgstr "کاروباری پروفائل حذف کریں"
+
+msgid "delete_branch_desc"
+msgstr "کیا آپ واقعی اپنے کاروباری پروفائل کو \"ڈیلیٹ\" کرنا چاہتے ہیں؟ براہ کرم نوٹ کریں، اگر آپ آگے بڑھنے کا انتخاب کرتے ہیں تو آپ اس کارروائی کو ریورس نہیں کر سکتے۔"
+
+msgid "delete_branch_title"
+msgstr "کیا تمہیں یقین ہے؟"
+
+msgid "branch_success_title"
+msgstr "آپ کا کاروباری پروفائل کامیابی کے ساتھ حذف ہو گیا۔"
+
+msgid "branch_success_desc"
+msgstr "براہ کرم لاگ آؤٹ کریں اور دوبارہ لاگ ان"
+
+msgid "delete_account"
+msgstr "کریں اکاؤنٹ حذف کریں"
+
+msgid "delete_account_title"
+msgstr "کیا آپ کو یقین ہے؟"
+
+msgid "delete_account_desc"
+msgstr "کیا آپ واقعی اپنا اکاؤنٹ حذف کرنا چاہتے ہیں؟ براہ کرم نوٹ کریں، اگر آپ آگے بڑھنے کا انتخاب کرتے ہیں تو آپ اس کارروائی کو ریورس نہیں کر سکتے۔"
+
+msgid "account_success_title"
+msgstr "آپ کا اکاؤنٹ کامیابی سے حذف ہو گیا۔"
+
+msgid "account_success_desc"
+msgstr "تصدیق کرنے کے لیے براہ کرم لاگ آؤٹ کریں۔"
+

@@ -1,0 +1,706 @@
+"id","name","service_group_id","service_type_id","service_status_id","inserted_at","updated_at"
+1,Pet food and supplies,1,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+2,Animal hospital,1,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+3,Animal rescue,1,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+4,Pet care and grooming,1,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+5,Veterinary services,1,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+6,Catering services,2,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+7,"Sweet, treats & hots",2,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+8,North Indian,2,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+9,South Indian,2,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+10,Air condition and heater repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+11,Audio and video repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+12,Auto finance agent,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+13,Auto insurance agent,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+14,Body repair and paint,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+15,Break and light inspection,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+16,Ding and dent repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+17,Electric vehicle service,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+18,Tune-up and general repairs,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+19,Hybrid vehicle service,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+20,Wash and detailing,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+21,New vehicle and equipment sale,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+22,Oil and maintenance service,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+23,Parts and accessories,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+24,Smog/ Emission check and certification,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+25,Tire and wheel alignment,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+26,Roadside assistance,3,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+27,Custom modification,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+28,Roadside assistance,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+29,Window tinting,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+30,Glass  and door repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+31,Personnel fitness trainer,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+32,Yoga lessons,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+33,Aerobics training lessons,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+34,Group training class,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+36,Personal Finance / Loan service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+37,Software service,5,walk_in,in_active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+38,Appliance Sales & Service,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+39,Architect and Construction service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+40,Brokerage service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+41,Chiropractic,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+42,Computer Sales and Repair,21,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+43,Court Reporter,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+44,CPA/Charted Accountant service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+45,Debris & Waste collection,16,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+46,Escrow service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+47,Event Management,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+49,Commercial Finance/ Loan service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+52,Insurance services,21,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+53,Interior Designer,5,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+54,Laundry and Dry cleaning,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+55,Legal/ Attorney,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+56,Lock Smith,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+57,Marketing and Advertisement,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+58,Notary Public,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+59,Office and Commercial Space,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+60,Back Office support,5,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+61,Pickup and Delivery,5,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+62,Real Estate Broker/ Agent,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+63,Replacement Windows & Doors,5,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+64,"Tailoring, Custom and Alteration Tailor",5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+65,Wood and Art Work,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+66,Air Taxi,6,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+67,Airport Shuttle,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+68,Bike Taxi,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+69,Car pool,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+70,Limo service,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+71,Share Taxi,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+72,Taxi,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+73,Tuk Tuk (3-Wheeler),6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+74,Vanpool,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+75,Academic Tutoring,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+76,After School Tutoring,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+77,Coaching center,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+78,Elementary school,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+79,High school,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+48,Fabrication & Metal works,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+50,General Construction,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+35,Private fitness lessons,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+80,Middle school,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+81,Paly and Preschool,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+82,SAT preparation,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+83,School District,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+84,School drop-off & Pickup,7,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+85,Testing center,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+86,Text book Rentals,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+87,Party Entertainer,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+88,India,9,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+89,Astrology,10,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+90,Crystallomancy,10,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+91,Face Reading,10,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+92,Necromancy,10,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+93,Palmistry,10,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+94,Pendulum Reading,10,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+95,Tarot Card Readings,10,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+96,Tea Leaves Reading,10,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+97,Personnel fitness,11,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+98,Personnel Trainer,11,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+99,Athletics Coach,11,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+100,Facility Reservation,11,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+101,Gym/ Fitness Center,11,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+103,Acupuncture,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+104,Body Imaging & X-Ray,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+106,"ENT (Ear, Nose and Throat) Specialist",12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+107,Eye Exam & Glasses,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+110,Medical Diagnostics and Tests,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+111,Oil and Brake service,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+112,Pathology and Audiology,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+113,Children Caregiver,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+114,Adult Caregiver,12,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+115,Health care Services,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+117,Emergency care Facility,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+118,In-Patient Hospital,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+119,Health Clinic,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+120,Cooking,13,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+121,Home Decoration,13,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+122,Maid Help Service,13,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+123,Gruha Pravesh (House warming),14,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+124,Muhurat (Auspicious time),14,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+125,Naming ceremony,14,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+126,Other Rituals,14,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+127,Pooja Services,14,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+128,Punya vaachanam,14,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+129,Satytanarayan Vrat Pooja,14,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+130,Vivah (Marriage),14,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+131,Shraddha Karma,14,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+132,Assistant Pundit,14,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+133,House cleaning,15,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+134,Maid services,15,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+135,Outdoor and yard cleaning,15,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+136,Steam/ Deep cleaning,15,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+137,Tile & Carpet cleaning,15,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+138,Upholstery cleaning,15,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+139,Window cleaning,15,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+143,Auto/ Car mechanic,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+147,Equipment Assembly,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+151,Home Appraisal,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+153,Home Fumigation,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+154,Home Improvement,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+155,Home Inspection,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+158,Landry and Dry cleaner,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+108,Health Care/ Nurse,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+109,Homeopathic Physician,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+116,Urgent Care Facility,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+105,Dental care,55,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+159,Landscape Design,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+157,Kitchen Remodeling,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+149,Gardening/ Sprinklers,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+146,Cabinets & Closets,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+145,Builder/ Construction,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+142,Attic & Wall Insulation,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+150,Architect and Designer,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+141,Artificial Turf & Grass,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+148,Garage Door,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+160,Nanny and Baby sitting,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+165,Termite & Pest Control,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+166,Tree Pruning,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+167,Window cleaning,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+173,Wood Work,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+174,Gardner,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+175,Acting and Drama,17,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+176,Instrument lessons,17,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+177,Music Instrument Sale & repair,21,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+178,Painting lessons,17,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+179,Singing lessons,17,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+180,Dance lessons,17,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+181,Sculptural,17,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+182,Handcraft,17,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+183,City Hall,18,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+184,Complaints,18,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+185,Court,18,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+186,Library,18,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+187,Police,18,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+188,Roads and Buildings,18,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+189,School District,18,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+190,Utility/ Electrical,18,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+191,Water & Sewage,18,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+192,Approver Inspection,18,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+193,Church/ Baptism,19,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+194,Hindu Temples,19,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+195,Bicycles,20,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+196,Bikes,20,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+197,Bus,20,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+198,Passenger Car,20,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+199,Three Wheeler,20,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+200,Truck,20,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+201,Equipment,20,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+202,Heavy Equipment,20,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+203,Construction Equipment,20,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+205,Air Ducting,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+206,Appliance Sales & Service,21,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+207,Appliances,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+208,Auto/ Car mechanic,21,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+209,Bath & Showers,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+210,Carpentry,21,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+211,Carpet & Flooring,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+212,Garage Door,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+216,Handyman,21,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+218,Mason,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+219,Natural Gas appliance,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+220,Plumbing & Repiping,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+221,Rain Gutter,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+222,Roofing,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+223,Solar Panel Installer,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+224,Water & Sewage,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+225,Water Heating,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+226,Window Installation,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+227,Auto Body Painting,21,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+228,Air Tickets,22,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+229,Boys Hostel,22,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+230,Bus Tickets,22,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+231,Girls Hostel,22,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+232,Home/ Room Sharing,22,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+233,Local Tours,22,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+234,Long Term Lease,22,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+235,Paying guest,22,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+236,Pilgrimage tours,22,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+237,Sight seeing,22,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+238,Train Tickets,22,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+239,Travel planner,22,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+240,Pet care & grooming,1,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+241,Veterinary services,1,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+171,Plumbing,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+169,"Window Shades, Shutters & Blinds",38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+168,Window Curtains & Drapes,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+163,Solar Panel Installer,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+162,Skylight & Solar Daylighting,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+161,Painter/ Painting,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+164,Home Cleaning,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+172,Carpenter,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+204,Air Conditioning and Heating,21,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+213,General Construction,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+214,General Contractor,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+215,General Electrical,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+217,Heating & Air Conditioning,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+242,Pet food,1,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+243,Animal rescue,1,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+244,Animal rescue,1,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+245,Catering services,2,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+246,"Sweet, treats & hots",2,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+247,North Indian,2,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+248,South Indian,2,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+249,Toeing Service,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+250,Ding and dent repair,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+251,Tune-up and general repairs,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+253,Wash and detailing,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+254,Transmission repair and rebuild,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+255,Parts and Accessories,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+256,Window tinting,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+257,Glass  and door repair,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+260,Battery Service,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+261,Battery Service,3,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+262,Personnel fitness trainer,4,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+263,Group training class,4,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+265,Animal breeder,1,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+266,Animal training,1,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+267,Pet transportation and delivery,1,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+268,Pet boarding and sitting,1,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+269,Pet equipment,1,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+270,Pet ambulance,1,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+271,Dog walking,1,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+272,Pet boarding and sitting,1,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+274,Animal training,1,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+275,Pet transportation and delivery,1,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+276,Pet food and supplies,1,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+277,Pet food and supplies,1,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+278,Local delicacies,2,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+279,Local delicacies,2,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+280,Home made delicacies,2,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+281,Vegan only,2,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+282,Vegan only,2,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+283,Vegetarian only,2,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+284,Vegetarian only,2,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+285,Pescatarian only,2,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+286,Pescatarian only,2,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+287,Halal only (Non-Vegetarian),2,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+288,Halal only (Non-Vegetarian),2,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+289,Jhatka only (Non-Vegetarian),2,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+290,Jhatka only (Non-Vegetarian),2,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+291,Upholstery repair,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+292,Upholstery repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+293,Muffler and exhaust repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+294,"Lights, electrical and electronics repair",3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+295,"Lights, electrical and electronics repair",3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+297,Heavy and special equipment repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+298,Hydraulic system repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+299,"Wheel, steering and suspension repair",3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+300,Truck and diesel vehicle repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+301,Alternate fuel vehicle repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+302,Special vehicle repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+303,Vintage vehicle repair and restoration,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+304,Earth mover and crane repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+305,Engine repair and rebuild,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+306,Used vehicle and equipment sale,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+307,Vassal and ship repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+308,ATV and UTV vehicle repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+309,Form equipment repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+310,Lawnmower and outdoor equipment repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+311,Pickle and spices of India,2,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+312,Pickle and spices of India,2,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+313,Home made delicacies,2,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+314,Fast food,2,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+315,Fast food,2,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+316,Collision center,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+317,Radiator and cooling system repair,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+318,Brake system service,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+319,Oil and maintenance service,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+320,Brake system service,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+321,Nutritional counselling,4,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+322,Nutritional counselling,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+323,Weight loss counselling,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+324,Weight loss counselling,4,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+325,Body sculpt,4,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+326,Body sculpt,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+327,Kids martial arts training,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+328,Adult Martial arts training,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+329,Fitness boot camp,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+330,"Taekwondo training ",4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+331,Karate training,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+332,Kickboxing training,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+333,Jiu-Jitsu training,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+334,Muay Thai training,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+335,Wrestling training,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+336,Spin class,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+337,Pilates class,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+338,Buts and guts class,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+339,Jumba class,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+340,U-jam class,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+341,Circuit class,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+342,HIIT class,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+343,Power core yoga class,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+344,Total tone class,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+345,RIPPED class,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+346,Senior core and mobility,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+347,Abs and sports mobility,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+348,Piloxing combo class,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+349,Power dance class,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+350,Senior strength class,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+351,360 Total body toning,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+353,Swimming lessons,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+354,Marathon training,4,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+358,Document writing and Proof reading,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+364,Business Accounting service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+365,Tax advisory and Filing service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+366,Paralegal and Legal Assistant service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+367,Personal Insurance and Retirement,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+368,Design and Drafting service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+369,Logistics and Supply Chain,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+370,Healthcare Claim processing,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+371,Sales and Purchase Orders fulfillment,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+372,"HR, Risk, Compliance support",5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+373,Business and Computer Assistance,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+374,Home/ Real Estate Appraisal,5,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+375,Home/ Real Estate Inspection,5,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+376,Pickup and Delivery,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+377,Estate Planning,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+378,Estate Planning,43,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+379,Family Law,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+380,Family Law,43,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+381,Child Custody,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+382,Small Claims,43,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+383,Small Claims,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+384,Divorce,43,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+385,Divorce,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+386,Probate,43,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+387,Probate,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+388,Child Support,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+389,Auto accidents,43,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+390,Auto accidents,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+391,Commercial Real Estate,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+392,Landlord and Tenant,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+393,Bankruptcy,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+394,Civil rights,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+395,Aviation accidents,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+396,Asylum,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+397,Consumer Protection,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+398,Criminal Defense,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+399,Debt Settlement,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+400,Deportation,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+401,DUI and DWI,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+402,Startup and Fundraising,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+403,Debt Settlement,43,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+404,Employment,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+405,Environmental Law,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+355,Business Consulting,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+356,Immigration service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+357,Hiring and Staffing service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+359,Property management service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+360,Income Tax service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+361,Sales Tax service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+363,Financial Audit service,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+406,Residential Real Estate,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+407,Expungement,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+408,Immigration and Citizenship,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+409,Legal Malpractice,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+410,Litigation,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+411,"Health, Medicare and Disability",43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+412,Mesothelioma,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+413,Maritime Law,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+414,Patent and Intellectual Property,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+415,Product Liability,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+416,Securities Law,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+417,Sexual Harassment,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+418,Social Security Disability and Insurance,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+419,Traffic Tickets,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+420,Workers Compensation,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+421,Wage theft,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+422,Corporate Law,43,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+423,Corporate Law,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+424,Contracts and Legal documentation,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+425,Contracts and Legal documentation,43,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+426,Legal Secretary/ Assistant,43,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+427,Legal Secretary/ Assistant,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+428,Court Reporter,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+429,Paralegal service,43,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+430,Paralegal service,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+431,Daily Commute,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+432,Mini Bus,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+434,Senior Citizen rides,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+435,Student rides,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+436,Corporate Commute,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+437,Corporate Commute,6,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+438,Corporate Commute,6,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+439,Senior Citizen rides,6,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+440,Senior Citizen rides,6,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+441,Student rides,6,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+442,Student rides,6,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+443,Local tours,6,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+444,Local tours,6,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+445,Local tours,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+446,Carriage rides,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+447,Carriage rides,6,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+448,Carriage rides,6,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+449,Rickshaw rides,6,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+450,Rickshaw rides,6,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+451,Rickshaw rides,6,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+452,Helicopter rides,6,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+453,Blimp rides,6,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+454,Hot Air Balloon rides,6,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+455,Boat rides,6,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+456,Speed Boat rides,6,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+457,Hovercraft rides,6,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+458,Shuttle service,6,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+459,Mediation and Arbitration,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+460,International Law,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+462,Tax Law,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+463,Public Interest Law,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+464,General Counsel,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+465,Trademark/ Copyright,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+466,Privacy and Data Security,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+467,Collections,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+468,Parent Counseling and Training,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+469,Behavioral and Transitional training,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+470,Behavioral and Transitional training,7,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+471,College Counseling,7,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+472,College Counseling,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+473,Goal Management,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+474,Goal Management,7,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+475,Academic Assessment,7,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+476,Academic Assessment,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+477,Educational Planning,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+478,Educational Planning,7,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+479,Homework help,7,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+480,Homework help,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+481,Career Counseling and Training,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+482,Career Counseling and Training,7,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+483,After School Tutoring,7,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+484,After School Care,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+485,College Application help,7,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+486,College Application help,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+487,College Tours,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+488,Practice and Preparation Tests,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+489,"Ability and Aptitude Assessment ",7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+490,Home Education service,7,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+491,Academic Tutoring,7,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+492,After School Care,7,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+493,Vocational Education,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+494,Community College,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+495,College Transission Support,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+496,Language Reading and Writing,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+497,University Representation,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+498,Study Aboard Assessment and Training,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+499,Foreign Credential Evaluation,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+500,International Education Assistance,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+501,Scholarship Application Assistance,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+502,Student Loan and Aid service,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+503,Summer Classes/ Coaching,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+504,Service Learning Counseling,7,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+505,Disk Jockey (DJ),8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+506,Wedding Planner,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+507,Wedding Planner,8,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+508,Wedding Photographer,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+509,Wedding Photographer,8,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+510,Wedding Officiants,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+511,Bilingual Wedding Officiants,8,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+512,Bilingual Wedding Officiants,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+513,Gay Wedding Officiant,8,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+514,Gay Wedding Officiant,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+515,Lesbian Wedding Officiant,8,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+516,Lesbian Wedding Officiant,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+517,Catholic Wedding Officiants,8,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+518,Catholic Wedding Officiants,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+519,Catholic Ordained Minister,8,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+520,Catholic Ordained Minister,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+521,Islamic Nikkah service,8,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+522,Islamic Nikkah service,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+523,Funeral services,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+524,Funeral Director,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+525,Outdoor Event Venue Decoration,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+526,Indoor Event Venue Decoration,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+527,Stage Decoration service,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+528,Home Decor service,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+529,Photobooth,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+530,Floral Arrangements and Blooming Plants,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+531,Floral Arrangements and Blooming Plants,8,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+532,Wedding and Event Makeup,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+533,Wedding and Event Makeup,8,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+534,Bartending service,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+535,Wedding and Event Makeup,8,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+536,Wedding Disk Jockey (DJ),8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+537,Party Disk Jockey (DJ),8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+538,Latin Disk Jockey (DJ),8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+539,Photo and Video grapher,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+540,Master for Ceremony service,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+541,Choreographer,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+542,Portable Restrooms,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+543,Quinceaneras - Sweet 16,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+544,Birthday and Special Event,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+273,Dog training,1,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+545,Ayurvedic Oriental Massage,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+546,Detoxification Therapy,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+547,Diet and Life style,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+548,Cupping,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+550,Health Clinic,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+549,Shirodhara(Ayurvedic Oil Dripping),12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+551,Ayurvedic Panchakarma,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+552,Ayurvedic Abhyanga & Swedanam,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+553,Udvartana (Ayurvedic Therapy),12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+554,Abhyanga & Swedanam (Ayurvedic Therapy),12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+555,Shiromardan & Nasya (Ayurvedic Therapy),12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+556,Kati Basti (Ayurvedic Therapy),12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+557,Janu Basti (Ayurvedic Therapy),12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+102,Ayurvedic Medicine Practitioner,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+558,Greeva Basti (Ayurvedic Therapy),12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+560,Couple Counsellng,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+562,Ayurvedic Facials,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+563,Ayurvedic Facelift,37,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+564,Ayurvedic Facelift,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+565,Ayurvedic Hair Treatment,37,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+566,Ayurvedic Hair Treatment,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+561,Ayurvedic Facials,37,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+567,Ayurvedic Skin and Hair Consultation,37,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+568,Ayurvedic Skin and Hair Consultation,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+569,Herbal Medicine Practitioner,12,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+570,Vibrational Sound Therapy,37,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+616,Security Alam System Installation,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+559,Ayurvedic Wellness Therapie,37,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+571,Business License Verification,53,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+572,Self-Employed Personal Identity Verification,53,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+573,Men's Haircut,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+574,Women's Haircut,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+575,Teen's Haircut,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+576,Children's Haircut,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+577,Prem,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+578,Straight Perm,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+579,Hair Color,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+580,Hair Highlight,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+581,Skincare,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+582,Hair Blowdry,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+583,Hair Wash,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+584,Upstyle,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+585,Hair Retouches,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+586,Beard,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+587,Beard Trim,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+588,Fades,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+589,Blow-Out,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+590,Hot Towel Shave,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+591,Eyebrows,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+592,Shape Up,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+593,Designs,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+594,Shampoo,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+595,Hair Retouches,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+596,Regular Manicure,54,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+597,French Manicure,54,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+598,Shellac Manicure,54,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+599,Regular Pedicure,54,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+600,French Pedicure,54,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+601,Shellac Pedicure,54,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+602,Acrylic Full Set Nail Polish,54,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+603,Acrylic Fill Nail Polish,54,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+604,Dipping Powder,54,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+605,Nail Polish Change,54,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+606,Vaxing Services,54,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+607,Finger and Toe Nail Tirm,54,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+608,Tuneup and preventive maintence,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+609,Vehicle VIN inspection,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+610,Vehicle VIN inspection,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+611,Tuneup and preventive maintence,3,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+612,Vehicle Unlock service,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+613,Vehicle Unlock service,3,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+617,Security Alam System Repair,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+614,Vehicle Remote/ Key Fobs service,3,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+615,Swirl/ Oxidation removal,3,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+618,Home Theater System Installation,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+619,Home Theater System Repair,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+620,Intercom System Installation,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+621,Intercom System Repair,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+622,Security Camera System Installation,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+623,Security Camera System Repair,21,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+624,General Dentistry services,55,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+625,Cosmetic Dentistry services,55,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+626,Restoractive Dentistry services,55,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+627,Preventive Dentistry services,55,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+628,Orthodontics services,55,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+433,Air Ambulance,12,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+630,Embroidery and Printing,24,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+631,Video Games/ E-Sports center,8,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+362,Payroll and Taxation,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+629,Printing and Copying,5,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+632,Glass and Vape,56,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+634,Jewellery and Onraments,24,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+633,Stiching and Alterations,24,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+635,Event Decorators,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+636,Facial/ Threading,47,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+144,Wigs Weaving,47,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+637,Debris & Waste collection,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+170,Electrical,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+638,Appliance,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+156,Home Theater installation,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+152,Home Decoration,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+51,Health Care/ Nurse,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+640,Roofing,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+641,Pavers,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+642,Carpet and Flooring,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+643,Air Conditioning and Heating,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+644,Air Conditioning and Heating,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+645,Fencing and Gates,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+647,Debris & Waste cleaning,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+646,Wood Work,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+649,Plumbing,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+650,Yard Cleaning,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+652,Carports and Patio repair,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+653,Garbage Disposal,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+657,Drywall Repair and Installation,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+658,Wood and Tile Flooring,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+659,"Block Wall and Fencing ",36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+660,Painting,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+661,"Patio, Entry Door Install and Repair",36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+662,Windows Installation and Repair,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+663,"Bathroom, Kitchen Cabinet Installation and Repair",36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+664,Garage Door Adjustment,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+665,Garage Upgrade,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+666,Epoxy Flooring,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+667,Roof Repair,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+668,Kit Assembling and Disassembling,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+669,"TV, Audio & Video system mounting",36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+670,Landscaping and Paving,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+671,Appliance Repair,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+648,Deck Repair and Rebuild,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+651,"Sinks, Faucet, Toilet leak fixing",36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+654,Masonry Work,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+655,Electrical Work,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+672,Brick and Stone Work,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+656,Concrete Repair,36,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+639,Water Softner,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+674,Fireplace Remodel,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+675,Walk-In Closets Remodel and Addition,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+676,Room Remodel and Additions,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+677,"Sunrooms ",38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+673,Bathfoom Remodel,38,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+679,Web Programming,49,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+680,Web Design,49,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+678,Video Games/ E-Sports center,8,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+681,Indoor/ Outdoor Lighting,38,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+682,Indoor/ Outdoor Lighting,36,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+683,Indoor/ Outdoor Lighting,16,on_demand,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+688,Seed and Sod,16,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+264,Private fitness  lessons,4,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+691,Carnatic music (South Indian) lessions,17,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+689,Buy and Sell,35,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+690,Buy and Sell,35,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+692,Carnatic music (South Indian) lessions,17,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+140,Industrial/ Heavy duty,27,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+461,Personal Injury,43,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+695,Wash-n-Fold - Health Care,57,walk_in,in_active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+694,Wash-n-Fold  - Commercial,57,walk_in,in_active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+693,Wash-n-Fold  - Residential,57,walk_in,in_active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+686,Wash and Iron,57,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+685,Dry Cleaning,57,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+687,Wash and Fold,57,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+684,Bulky Item Wash,57,home_service,in_active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+696,Duct Cleaning,58,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+697,Trash Chute Cleaning,58,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+698,Grease Exaust Duct System,58,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+699,Gutter and Downsprout Cleaning,58,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+700,"Free Estimates(No Cost) ",58,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+701,Free Consultation(No Cost),58,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+702,"Free Estimates(No Cost) ",60,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+703,Free Consultation(No Cost),60,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+704,Personal Injury,43,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+705,Immigration and Citizenship,43,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+706,DUI and DWI,43,home_service,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+707,Tattooing,59,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+708,Piercing,59,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+709,Branding,59,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000
+710,Permanent Cosmetics,59,walk_in,active,2019-01-11 04:44:00.000,2019-01-11 04:44:00.000

@@ -1,0 +1,7 @@
+defmodule Core.Repo.Migrations.CreateSeedAclRules do
+  use Ecto.Migration
+
+  def change do
+
+  end
+end

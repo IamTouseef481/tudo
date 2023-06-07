@@ -1,0 +1,2 @@
+id,email,mobile,is_verified,password_hash,profile,availability,birth_at,confirmation_sent_at,rating,rating_count,acl_role_id,language_id,country_id,status_id,inserted_at,updated_at
+1,admin@gmail.com,+13146004751,true,"$argon2id$v=19$m=131072,t=8,p=4$cQWaaR5V4KxLmlf1jOcjoQ$3HYoAzJ7bJjwv2fST/0rL1iE3VEC4fBPhmA6wsR5Y4Y","{""last_name"": ""Web"", ""first_name"": ""Admin""}",{},1995-02-06 03:56:15.162244,2021-08-01 00:00:00,5,0,"{web}",1,1,confirmed,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244

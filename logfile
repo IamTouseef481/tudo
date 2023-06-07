@@ -1,0 +1,10 @@
+2022-04-28 06:55:02.825 PKT [18675] LOG:  starting PostgreSQL 14.2 on x86_64-apple-darwin20.6.0, compiled by Apple clang version 13.0.0 (clang-1300.0.29.30), 64-bit
+2022-04-28 06:55:02.827 PKT [18675] LOG:  listening on IPv6 address "::1", port 5432
+2022-04-28 06:55:02.827 PKT [18675] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2022-04-28 06:55:02.827 PKT [18675] FATAL:  could not open lock file "/tmp/.s.PGSQL.5432.lock": Permission denied
+2022-04-28 06:55:02.828 PKT [18675] LOG:  database system is shut down
+2022-04-28 06:55:47.100 PKT [18933] LOG:  starting PostgreSQL 14.2 on x86_64-apple-darwin20.6.0, compiled by Apple clang version 13.0.0 (clang-1300.0.29.30), 64-bit
+2022-04-28 06:55:47.102 PKT [18933] LOG:  listening on IPv6 address "::1", port 5432
+2022-04-28 06:55:47.102 PKT [18933] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2022-04-28 06:55:47.102 PKT [18933] FATAL:  could not open lock file "/tmp/.s.PGSQL.5432.lock": Permission denied
+2022-04-28 06:55:47.104 PKT [18933] LOG:  database system is shut down

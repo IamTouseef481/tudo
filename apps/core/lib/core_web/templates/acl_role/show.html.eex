@@ -1,0 +1,18 @@
+<h1>Show Acl role</h1>
+
+<ul>
+
+  <li>
+    <strong>Role:</strong>
+    <%= @acl_role.role %>
+  </li>
+
+  <li>
+    <strong>Parent:</strong>
+    <%= @acl_role.parent %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.acl_role_path(@conn, :edit, @acl_role) %></span>
+<span><%= link "Back", to: Routes.acl_role_path(@conn, :index) %></span>

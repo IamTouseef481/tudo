@@ -1,0 +1,520 @@
+description,id
+ibm,ibm
+tata consultancy services,tata_consultancy_services
+accenture,accenture
+us army,us_army
+ey,ey
+hewlett-packard,hewlett-packard
+cognizant technology solutions,cognizant_technology_solutions
+walmart,walmart
+microsoft,microsoft
+at&t,at&t
+united states air force,united_states_air_force
+pwc,pwc
+wells fargo,wells_fargo
+infosys,infosys
+deloitte,deloitte
+citi,citi
+bank of america,bank_of_america
+jpmorgan chase & co.,jpmorgan_chase_&_co.
+us navy,us_navy
+amazon,amazon
+apple,apple
+siemens,siemens
+oracle,oracle
+nokia,nokia
+education nationale,education_nationale
+capgemini,capgemini
+wipro technologies,wipro_technologies
+hsbc,hsbc
+google,google
+united states postal service,united_states_postal_service
+mcdonald's corporation,mcdonald's_corporation
+ericsson,ericsson
+nhs,nhs
+boeing,boeing
+vodafone,vodafone
+kaiser permanente,kaiser_permanente
+ford motor company,ford_motor_company
+intel corporation,intel_corporation
+department of veterans affairs,department_of_veterans_affairs
+cisco,cisco
+general motors,general_motors
+pepsico,pepsico
+target,target
+shell,shell
+hcl technologies,hcl_technologies
+ups,ups
+pfizer,pfizer
+unilever,unilever
+nestl√©,nestl√©
+unitedhealth group,unitedhealth_group
+huawei technologies,huawei_technologies
+dell,dell
+gsk,gsk
+honeywell,honeywell
+sap,sap
+schlumberger,schlumberger
+lockheed martin,lockheed_martin
+"ayatama energi, trisco nusantara","ayatama_energi,_trisco_nusantara"
+abb,abb
+american center of krasnodar,american_center_of_krasnodar
+starbucks,starbucks
+promobroker agente de seguros y de fianzas s a de c v,promobroker_agente_de_seguros_y_de_fianzas_s_a_de_c_v
+morgan stanley,morgan_stanley
+the home depot,the_home_depot
+independiente,independiente
+novartis,novartis
+johnson & johnson,johnson_&_johnson
+bp,bp
+schneider electric,schneider_electric
+state farm,state_farm
+secretar√≠a de educaci√≥n p√∫blica,secretar√≠a_de_educaci√≥n_p√∫blica
+dhl,dhl
+my home,my_home
+td,td
+ge,ge
+philips,philips
+ubs,ubs
+procter & gamble,procter_&_gamble
+walgreens,walgreens
+"keller williams realty, inc.","keller_williams_realty,_inc."
+"lowe's companies, inc.","lowe's_companies,_inc."
+verbum traducci√≥n y edici√≥n,verbum_traducci√≥n_y_edici√≥n
+united states marine corps,united_states_marine_corps
+dell emc,dell_emc
+tech mahindra,tech_mahindra
+verizon wireless,verizon_wireless
+sanofi,sanofi
+bnp paribas,bnp_paribas
+sodexo,sodexo
+deutsche bank,deutsche_bank
+tencent,tencent
+j.p. morgan,j.p._morgan
+verizon,verizon
+l'or√©al,l'or√©al
+kpmg,kpmg
+orange,orange
+linkedin,linkedin
+barclays,barclays
+facebook,facebook
+northrop grumman corporation,northrop_grumman_corporation
+fca fiat chrysler automobiles,fca_fiat_chrysler_automobiles
+adp,adp
+medtronic,medtronic
+abbott,abbott
+chevron,chevron
+roche,roche
+american express,american_express
+samsung electronics,samsung_electronics
+macy's,macy's
+thomson reuters,thomson_reuters
+ministerio de educaci√≥n,ministerio_de_educaci√≥n
+avon,avon
+cgi,cgi
+cvs health,cvs_health
+halliburton,halliburton
+atos,atos
+pcs informatica,pcs_informatica
+ge healthcare,ge_healthcare
+csc,csc
+merck,merck
+banco santander,banco_santander
+scotiabank,scotiabank
+dxc technology,dxc_technology
+johnson controls,johnson_controls
+posteamos.com,posteamos.com
+allstate,allstate
+petrobras,petrobras
+credit suisse,credit_suisse
+telef√≥nica,telef√≥nica
+marriott international,marriott_international
+axa,axa
+3m health care,3m_health_care
+standard chartered bank,standard_chartered_bank
+xerox,xerox
+cbre,cbre
+nyc department of education,nyc_department_of_education
+goldman sachs,goldman_sachs
+fidelity investments,fidelity_investments
+icici bank,icici_bank
+exxonmobil,exxonmobil
+t-mobile,t-mobile
+aon,aon
+royal bank of scotland,royal_bank_of_scotland
+astrazeneca,astrazeneca
+nike,nike
+basf,basf
+hdfc bank,hdfc_bank
+best buy,best_buy
+american airlines,american_airlines
+baker hughes,baker_hughes
+the coca-cola company,the_coca-cola_company
+genpact,genpact
+jll,jll
+rbc,rbc
+u.s. bank,u.s._bank
+larsen & toubro,larsen_&_toubro
+continental,continental
+pnc,pnc
+sprint,sprint
+saudi aramco,saudi_aramco
+g4s,g4s
+airbus,airbus
+capital one,capital_one
+delta air lines,delta_air_lines
+carrefour,carrefour
+ninguna,ninguna
+merrill lynch,merrill_lynch
+mondelƒìz international,mondelƒìz_international
+bt,bt
+h&m,h&m
+anz,anz
+farmers insurance,farmers_insurance
+aecom,aecom
+united states department of defense,united_states_department_of_defense
+metlife,metlife
+total,total
+ikea group,ikea_group
+cargill,cargill
+bae systems,bae_systems
+united airlines,united_airlines
+lavoratore indipendente,lavoratore_indipendente
+mary kay inc.,mary_kay_inc.
+liberty mutual insurance,liberty_mutual_insurance
+comcast,comcast
+caterpillar inc.,caterpillar_inc.
+jacobs,jacobs
+bny mellon,bny_mellon
+raytheon,raytheon
+soci√©t√© g√©n√©rale,soci√©t√©_g√©n√©rale
+eli lilly and company,eli_lilly_and_company
+hp,hp
+eskom,eskom
+school,school
+uber,uber
+lloyds banking group,lloyds_banking_group
+kroger,kroger
+thermo fisher scientific,thermo_fisher_scientific
+renault,renault
+nhs trust,nhs_trust
+willis towers watson,willis_towers_watson
+hospital universitario josep trueta,hospital_universitario_josep_trueta
+aig,aig
+state bank of india,state_bank_of_india
+fedex express,fedex_express
+novo nordisk,novo_nordisk
+mynet,mynet
+vale,vale
+ita√∫ unibanco,ita√∫_unibanco
+h&r block,h&r_block
+sncf,sncf
+social security administration,social_security_administration
+"bright futures, a college and career management company","bright_futures,_a_college_and_career_management_company"
+costco wholesale,costco_wholesale
+thales,thales
+convergys,convergys
+ministry of education,ministry_of_education
+tesco plc,tesco_plc
+iqvia,iqvia
+salesforce,salesforce
+edf,edf
+prefeitura municipal,prefeitura_municipal
+the dow chemical company,the_dow_chemical_company
+forza silicon,forza_silicon
+hilton worldwide,hilton_worldwide
+los angeles unified school district,los_angeles_unified_school_district
+army national guard,army_national_guard
+nordstrom,nordstrom
+lifespan,lifespan
+fedex,fedex
+edward jones,edward_jones
+particular,particular
+travelers,travelers
+fresher,fresher
+boehringer ingelheim,boehringer_ingelheim
+state street,state_street
+private,private
+the walt disney company,the_walt_disney_company
+nielsen,nielsen
+emirates,emirates
+lg electronics,lg_electronics
+bombardier,bombardier
+herbalife,herbalife
+northwestern mutual,northwestern_mutual
+valeo,valeo
+eaton,eaton
+aflac,aflac
+united nations,united_nations
+flextronics,flextronics
+standard bank group,standard_bank_group
+subway,subway
+mayo clinic,mayo_clinic
+booz allen hamilton,booz_allen_hamilton
+allianz,allianz
+telstra,telstra
+qualcomm,qualcomm
+john deere,john_deere
+aetna,aetna
+enterprise rent-a-car,enterprise_rent-a-car
+bristol-myers squibb,bristol-myers_squibb
+alberta health services,alberta_health_services
+us department of homeland security,us_department_of_homeland_security
+commonwealth bank,commonwealth_bank
+new york life insurance company,new_york_life_insurance_company
+siemens healthcare,siemens_healthcare
+cibc,cibc
+adidas,adidas
+weatherford,weatherford
+fluor corporation,fluor_corporation
+pemex,pemex
+sopra steria,sopra_steria
+hca,hca
+bmw group,bmw_group
+dupont,dupont
+nessuna azienda,nessuna_azienda
+sears holdings corporation,sears_holdings_corporation
+cleveland clinic,cleveland_clinic
+lafargeholcim,lafargeholcim
+kohl's department stores,kohl's_department_stores
+humana,humana
+primerica,primerica
+axis bank,axis_bank
+coldwell banker residential brokerage,coldwell_banker_residential_brokerage
+bayer,bayer
+fujitsu,fujitsu
+faa,faa
+bbva,bbva
+university of michigan,university_of_michigan
+banco do brasil,banco_do_brasil
+fis,fis
+foxconn,foxconn
+intercontinental hotels group (ihg¬Æ),intercontinental_hotels_group_(ihg¬Æ)
+ge power,ge_power
+epam systems,epam_systems
+pearson,pearson
+national australia bank,national_australia_bank
+reliance,reliance
+jcpenney,jcpenney
+imss,imss
+bradesco,bradesco
+boston scientific,boston_scientific
+stay at home mom,stay_at_home_mom
+lenovo,lenovo
+nationwide insurance,nationwide_insurance
+nissan motor corporation,nissan_motor_corporation
+amazon web services,amazon_web_services
+philip morris international,philip_morris_international
+alstom,alstom
+cummins inc.,cummins_inc.
+centurylink,centurylink
+psa peugeot citro√´n,psa_peugeot_citro√´n
+european commission,european_commission
+amgen,amgen
+abn amro bank n.v.,abn_amro_bank_n.v.
+cvs pharmacy,cvs_pharmacy
+trw,trw
+ncr corporation,ncr_corporation
+akzonobel,akzonobel
+amdocs,amdocs
+abbvie,abbvie
+arcelormittal,arcelormittal
+free lance,free_lance
+jaguar land rover,jaguar_land_rover
+aut√¥noma,aut√¥noma
+sgs,sgs
+wipro infotech,wipro_infotech
+aramark,aramark
+"ministero istruzione, universita' e ricerca","ministero_istruzione,_universita'_e_ricerca"
+samsung,samsung
+kuehne + nagel,kuehne_+_nagel
+cerner corporation,cerner_corporation
+mckinsey & company,mckinsey_&_company
+kimberly-clark,kimberly-clark
+caixa economica federal,caixa_economica_federal
+"biocolloids fate and transport in environmental systems, network biomet","biocolloids_fate_and_transport_in_environmental_systems,_network_biomet"
+agilent technologies,agilent_technologies
+upwork,upwork
+whole foods market,whole_foods_market
+comcast cable,comcast_cable
+indra,indra
+southwest airlines,southwest_airlines
+mid managing international diffusion,mid_managing_international_diffusion
+stryker,stryker
+international mission of mercy (imm),international_mission_of_mercy_(imm)
+british american tobacco,british_american_tobacco
+nordea,nordea
+bank of america merrill lynch,bank_of_america_merrill_lynch
+publix super markets,publix_super_markets
+own businees,own_businees
+youtube,youtube
+u.s. department of state,u.s._department_of_state
+cecaci  centro de capacitacion comercial e industrial,cecaci__centro_de_capacitacion_comercial_e_industrial
+mars,mars
+lic,lic
+sabic,sabic
+bsnl,bsnl
+danone,danone
+usaa,usaa
+chicago public schools,chicago_public_schools
+le groupe la poste,le_groupe_la_poste
+bmo financial group,bmo_financial_group
+fresenius medical care,fresenius_medical_care
+cushman & wakefield,cushman_&_wakefield
+ing,ing
+rolls-royce,rolls-royce
+cigna,cigna
+ymca,ymca
+prudential financial,prudential_financial
+saipem,saipem
+bosch,bosch
+rodan + fields,rodan_+_fields
+rr donnelley,rr_donnelley
+vmware,vmware
+university of washington,university_of_washington
+penn state university,penn_state_university
+texas instruments,texas_instruments
+michelin,michelin
+baxter international inc.,baxter_international_inc.
+sakri it solutions pvt ltd,sakri_it_solutions_pvt_ltd
+rabobank,rabobank
+cardinal health,cardinal_health
+amway,amway
+adecco,adecco
+bb&t,bb&t
+saic,saic
+bureau veritas,bureau_veritas
+faurecia,faurecia
+sas,sas
+indite technologies,indite_technologies
+mahindra satyam,mahindra_satyam
+coldwell banker,coldwell_banker
+orange business services,orange_business_services
+monsanto company,monsanto_company
+manpowergroup,manpowergroup
+american red cross,american_red_cross
+kelly services,kelly_services
+time warner cable,time_warner_cable
+nedbank,nedbank
+adobe,adobe
+university of florida,university_of_florida
+bell,bell
+ecolab,ecolab
+bhp billiton,bhp_billiton
+university of minnesota,university_of_minnesota
+absa,absa
+bbc,bbc
+government of maharashtra,government_of_maharashtra
+"ameriprise financial services, inc.","ameriprise_financial_services,_inc."
+unicredit,unicredit
+mphasis,mphasis
+randstad,randstad
+progressive insurance,progressive_insurance
+the ohio state university,the_ohio_state_university
+"anthem, inc.","anthem,_inc."
+safeway,safeway
+teleperformance,teleperformance
+worleyparsons,worleyparsons
+korea facilitators association,korea_facilitators_association
+british airways,british_airways
+national oilwell varco,national_oilwell_varco
+aviva,aviva
+syngenta,syngenta
+magna international,magna_international
+walt disney world,walt_disney_world
+auchan,auchan
+staples,staples
+no-company,no-company
+the salvation army,the_salvation_army
+inditex,inditex
+barclays investment bank,barclays_investment_bank
+toyota,toyota
+sherwin williams,sherwin_williams
+arcadis,arcadis
+motorola,motorola
+chubb,chubb
+stanford university,stanford_university
+mercer,mercer
+airtel,airtel
+colegio,colegio
+sony,sony
+genentech,genentech
+delphi,delphi
+serco,serco
+bd,bd
+leroy merlin,leroy_merlin
+sct ltd co.,sct_ltd_co.
+air liquide,air_liquide
+te connectivity,te_connectivity
+wood,wood
+promsvyaznedvizhimost,promsvyaznedvizhimost
+duke energy corporation,duke_energy_corporation
+university of toronto,university_of_toronto
+teksystems,teksystems
+insidesecure,insidesecure
+sun life financial,sun_life_financial
+tata motors,tata_motors
+century 21¬Æ,century_21¬Æ
+adecco group,adecco_group
+colgate palmolive,colgate_palmolive
+ge aviation,ge_aviation
+no,no
+tesla,tesla
+sena,sena
+queensland health,queensland_health
+air france,air_france
+u.s. coast guard,u.s._coast_guard
+the janssen pharmaceutical companies of johnson & johnson,the_janssen_pharmaceutical_companies_of_johnson_&_johnson
+bayer healthcare,bayer_healthcare
+stmicroelectronics,stmicroelectronics
+charter communications,charter_communications
+re/max,re/max
+jabil,jabil
+us government,us_government
+skanska,skanska
+leonardo,leonardo
+accorhotels,accorhotels
+brf,brf
+l&t infotech,l&t_infotech
+sonatrach,sonatrach
+pizza hut,pizza_hut
+technip,technip
+eni,eni
+departament d'ensenyament - generalitat de catalunya,departament_d'ensenyament_-_generalitat_de_catalunya
+altran,altran
+emerson automation solutions,emerson_automation_solutions
+the boston consulting group (bcg),the_boston_consulting_group_(bcg)
+l-3 communications,l-3_communications
+davita,davita
+intesa sanpaolo,intesa_sanpaolo
+daimler ag,daimler_ag
+lear corporation,lear_corporation
+rockwell automation,rockwell_automation
+rb,rb
+db schenker,db_schenker
+h√¥tel,h√¥tel
+wells fargo advisors,wells_fargo_advisors
+accenture in india,accenture_in_india
+texas a&m university,texas_a&m_university
+bloomberg lp,bloomberg_lp
+arizona state university,arizona_state_university
+heineken,heineken
+escola,escola
+statoil,statoil
+ppg industries,ppg_industries
+sainsbury's,sainsbury's
+fiserv,fiserv
+teva pharmaceuticals,teva_pharmaceuticals
+rogers communications,rogers_communications
+conocophillips,conocophillips
+diageo,diageo
+michigan state university,michigan_state_university
+qatar airways,qatar_airways
+generali,generali
+suntrust bank,suntrust_bank
+rockwell collins,rockwell_collins
+office depot,office_depot
+sephora,sephora
+telenor,telenor
+manulife,manulife
+ceva logistics,ceva_logistics

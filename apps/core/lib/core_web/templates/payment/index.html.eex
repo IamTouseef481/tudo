@@ -1,0 +1,28 @@
+<h1>Listing Brain tree tokens</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Token</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for payment <- @brain_tree_tokens do %>
+    <tr>
+      <td><%= payment.id %></td>
+      <td><%= payment.token %></td>
+
+      <td>
+        <span><%= link "Show", to: Routes.payment_path(@conn, :show, payment) %></span>
+        <span><%= link "Edit", to: Routes.payment_path(@conn, :edit, payment) %></span>
+        <span><%= link "Delete", to: Routes.payment_path(@conn, :delete, payment), method: :delete, data: [confirm: "Are you sure?"] %></span>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Payment", to: Routes.payment_path(@conn, :new) %></span>

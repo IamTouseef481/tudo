@@ -1,0 +1,63 @@
+<%= form_for @changeset, @action, fn f -> %>
+  <%= if @changeset.action do %>
+    <div class="alert alert-danger">
+      <p>Oops, something went wrong! Please check the errors below.</p>
+    </div>
+  <% end %>
+
+  <%= label f, :calendar_title %>
+  <%= text_input f, :calendar_title %>
+  <%= error_tag f, :calendar_title %>
+
+  <%= label f, :calendar_desc %>
+  <%= text_input f, :calendar_desc %>
+  <%= error_tag f, :calendar_desc %>
+
+  <%= label f, :all_day %>
+  <%= checkbox f, :all_day %>
+  <%= error_tag f, :all_day %>
+
+  <%= label f, :start_date %>
+  <%= datetime_select f, :start_date %>
+  <%= error_tag f, :start_date %>
+
+  <%= label f, :duration %>
+  <%= datetime_select f, :duration %>
+  <%= error_tag f, :duration %>
+
+  <%= label f, :recurring %>
+  <%= text_input f, :recurring %>
+  <%= error_tag f, :recurring %>
+
+  <%= label f, :recurring_interval %>
+  <%= text_input f, :recurring_interval %>
+  <%= error_tag f, :recurring_interval %>
+
+  <%= label f, :number_of_occurances %>
+  <%= number_input f, :number_of_occurances %>
+  <%= error_tag f, :number_of_occurances %>
+
+  <%= label f, :end_date %>
+  <%= datetime_select f, :end_date %>
+  <%= error_tag f, :end_date %>
+
+  <%= label f, :reminders %>
+  <%= text_input f, :reminders %>
+  <%= error_tag f, :reminders %>
+
+  <%= label f, :alarm_sound %>
+  <%= text_input f, :alarm_sound %>
+  <%= error_tag f, :alarm_sound %>
+
+  <%= label f, :snooz %>
+  <%= checkbox f, :snooz %>
+  <%= error_tag f, :snooz %>
+
+  <%= label f, :show_us %>
+  <%= text_input f, :show_us %>
+  <%= error_tag f, :show_us %>
+
+  <div>
+    <%= submit "Save" %>
+  </div>
+<% end %>

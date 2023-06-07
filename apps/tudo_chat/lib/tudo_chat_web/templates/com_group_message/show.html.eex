@@ -1,0 +1,28 @@
+<h1>Show Com group message</h1>
+
+<ul>
+
+  <li>
+    <strong>Content type:</strong>
+    <%= @com_group_message.content_type %>
+  </li>
+
+  <li>
+    <strong>Message:</strong>
+    <%= @com_group_message.message %>
+  </li>
+
+  <li>
+    <strong>Is active:</strong>
+    <%= @com_group_message.is_active %>
+  </li>
+
+  <li>
+    <strong>Is personal:</strong>
+    <%= @com_group_message.is_personal %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.com_group_message_path(@conn, :edit, @com_group_message) %></span>
+<span><%= link "Back", to: Routes.com_group_message_path(@conn, :index) %></span>

@@ -1,0 +1,48 @@
+slug,send_in_blue_email_template_id,send_in_blue_notification_template_id,name,inserted_at,updated_at
+create_job_confirmed_for_cmr,1,22,Job confirmed(CMR),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+create_job_confirmed_for_bsp,2,23,Job confirmed(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+create_job_pending_for_cmr,3,24,Job pending(CMR),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+create_job_pending_for_bsp,4,25,Job pending(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+cancel_job_for_cmr,5,30,Job cancel(CMR),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+cancel_job_for_bsp,6,31,Job cancel(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+adjust_invoice_for_bsp,8,37,Adjust invoice(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+adjusted_invoice_for_cmr,9,38,Adjusted invoice(CMR),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+raise_dispute_for_bsp,10,39,Raise dispute(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+manage_dispute_for_cmr,1,40,Manage dispute(CMR),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+payment_made,12,50,Payment made,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+accept_job_changes_for_bsp,14,27,Accept job changes(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+reschedule_job_for_bsp,15,32,Reschedule job(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+reschedule_job_for_cmr,16,33,Reschedule job(CMR),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+update_platform_terms,18,53,Update platform terms,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+invite_employee,17,,Invite employee,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+invite_cmr,85,,Invite cmr,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+registration_activation,20,,Registration activation,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+forget_password,21,,Forget_password,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+job_request_to_bsp_on_demand,78,77,On demand job request(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+send_temporary_password,92,,Send temporary password,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+BSP_Availability_QR_Code_Email,91,,BSP Availability QR Code Email,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+bsp_profile_activated,69,,Branch activated,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+accept_job_for_cmr,,26,Accept job(CMR),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+reject_job_for_cmr,,28,Reject job(CMR),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+reject_job_changes_for_bsp,13,29,Reject job(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+agent_reassign_job_for_cmr,,34,Agent reassign job(CMR),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+reassign_job_for_bsp_emp,,35,Reassign job(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+invoice_ready_for_cmr,7,36,Invoice ready(CMR),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+on_board_walk_in_cmr_near_appointment,,41,CMR near appointment,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+bsp_on_boards_appointment,,42,BSP on boards appointment,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+walk_in_cmr_near_appointment,,43,walk_in cmr near appointment,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+in_home_on_demand_bsp_near_appointment,,44,in_home on_demand bsp near appointment,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+in_home_on_demand_bsp_near_appointment_cmr_bsp_initiates_on_board_action,,45,in_home on_demand bsp near appointment cmr bsp initiates on_board action,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+appointment_alert_12_hrs_earlier,,46,Appointment alert 12 hrs earlier,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+appointment_alert_2_hrs_earlier,,47,Appointment alert 2 hrs earlier,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+appointment_alert_30_mins_earlier,,48,Appointment alert 30 mins earlier,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+appointment_alert_5_mins_earlier,,49,Appointment alert 5 mins earlier,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+bsp_sends_employment_invitation_to_cmr,,51,BSP sends employment invitation to CMR,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+reset_password_for_cmr,,52,Reset password,2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+cmr_accepts_employment_invitation_to_bsp,,55,CMR accepts employment invitation(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+cash_payment_for_bsp,,56,Cash payment(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+cash_payment_for_cmr,,54,Cash payment(CMR),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+cheque_payment_for_bsp,,57,Cheque payment(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+cheque_payment_for_cmr,,57,Cheque payment(CMR),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+new_bid_request_to_bsp,,66,New bid request(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244
+bid_reject_to_bsp,,59,Bid reject(BSP),2021-02-06 03:56:15.162244,2021-02-06 03:56:15.162244

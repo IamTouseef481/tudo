@@ -1,0 +1,5 @@
+id,title,slug,description,amount,status,valid_from,valid_to,charitable_organization_id,inserted_at,updated_at
+1,COVID19 fund,covid_fund,COVID19 fund,10,active,2020-02-06 03:56:15.162244,2023-02-06 03:56:15.162244,1,2023-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+2,Firefigting fund,fire_fighting_fund,Firefigting fund,20,active,2020-02-06 03:56:15.162244,2023-02-06 03:56:15.162244,2,2023-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+3,Flood fund,flood_fund,Flood fund,15,active,2020-02-06 03:56:15.162244,2023-02-06 03:56:15.162244,3,2023-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+4,Earthquake fund,earthquake_fund,Earthquake fund,05,active,2020-02-06 03:56:15.162244,2023-02-06 03:56:15.162244,4,2023-02-06 03:56:15.162244,2019-02-06 03:56:15.162244

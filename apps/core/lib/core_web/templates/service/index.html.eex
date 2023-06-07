@@ -1,0 +1,29 @@
+<h1>Listing Services</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Service category</th>
+      <th>Service group</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for service <- @services do %>
+    <tr>
+      <td><%= service.name %></td>
+      <td><%= service.service_group_id %></td>
+
+      <td>
+        <%= link "Show", to: Routes.service_path(@conn, :show, service) %>
+        <%= link "Edit", to: Routes.service_path(@conn, :edit, service) %>
+        <%= link "Delete", to: Routes.service_path(@conn, :delete, service), method: :delete, data: [confirm: "Are you sure?"] %>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Service", to: Routes.service_path(@conn, :new) %></span>

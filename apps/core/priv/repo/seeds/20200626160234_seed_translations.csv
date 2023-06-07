@@ -1,0 +1,164 @@
+slug,language,field_id,translation,screen_id,inserted_at,updated_at
+email,EN,1,Email,login,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+password,EN,2,Password,login,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+show_password,EN,3,Show Password,login,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+hide_password,EN,4,Hide Password,login,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+login,EN,5,Log In,login,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+sign_up,EN,6,Sign Up,login,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+email,EN,1,Email,sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+code,EN,2,Code,sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+mobile,EN,3,Mobile,sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+first_name,EN,4,First Name,sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+last_name,EN,5,Last Name,sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+password,EN,6,Password,sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+terms_and_condition,EN,7,Terms And Condition,sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+clear,EN,8,Clear,sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+sig_up,EN,9,Sign Up,sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+back_to_login,EN,10,Back kTo Login,sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+email,EN,1,Email,forgot,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+forgot,EN,2,Forgot,forgot,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+deals,EN,1,Deals,cmr_dashboard,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+eventer,EN,2,Eventer,cmr_dashboard,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+hanging,EN,3,Hanging,cmr_dashboard,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+my_net,EN,4,My Net,cmr_dashboard,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+n_ter,EN,5,N Ter,cmr_dashboard,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+payments,EN,6,Payments,cmr_dashboard,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+reports,EN,7,Reports,cmr_dashboard,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+scheduled,EN,8,Scheduled,cmr_dashboard,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+add_in_home,EN,1,Add In-home,floating_button,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+add_event,EN,2,Add Event,floating_button,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+add_task,EN,3,Add Task,floating_button,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+add_on_demand,EN,4,Add On Demand,floating_button,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+add_walk_in,EN,5,Add Walk_In,floating_button,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+add_branch,EN,1,Add Branch,bsp_floating_button,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+add_employee,EN,2,Add Employee,bsp_floating_button,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+add_invoice,EN,3,Add Invoice,bsp_floating_button,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+add_follow_up,EN,4,Add Follow Up Appointment,bsp_floating_button,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+dash_board,EN,1,My Dash Board,main_drawer,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+setting,EN,2,Setting,main_drawer,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+business_service_provider,EN,3,Become a Business Service Provider,main_drawer,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+switch_to_bsp,EN,7,Switch to Business Provider,main_drawer,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+notification,EN,4,Notification Preference,main_drawer,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+TUDO,EN,5,Refer TUDO,main_drawer,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+terms_and_condition,EN,6,Legal Terms and Conditions,main_drawer,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+contact_us,EN,7,Contact Us,main_drawer,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+sign_out,EN,8,Sign Out,main_drawer,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+branch,EN,1,Branch,add_employee,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+dob,EN,2,Date of Birth,add_employee,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+role_of_employee,EN,4,Role of Employee,add_employee,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+role_name,EN,5,Role Name,add_employee,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+vehicle_id,EN,6,Vehicle Registration ID,add_employee,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+service,EN,7,Service,add_employee,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+employee_type,EN,8,Employee Type,add_employee,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+work_shift,EN,9,Work Shift,add_employee,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+pay_scale,EN,10,Pay Scale,add_employee,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+annual_absence_hours,EN,11,Annual Absence Hours,add_employee,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+legal_business_name,EN,1,Business Legal Name,add_branch,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+branch_phone,EN,2,Branch Phone #,add_branch,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+license_no,EN,2,Business License#,add_branch,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+established_year,EN,2,Bus. Establishment Year,add_branch,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+expiry_date,EN,2,License Expiry Date,add_branch,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+profile_picture,EN,2,Business Profile Picture,add_branch,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+license_picture,EN,2,Business License Picture,add_branch,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+legal_business_name,EN,1,Business Legal Name,bsp_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+alternate_phone,EN,2,Business phone#,bsp_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+established_year,EN,3,Bus. Establishment Year,bsp_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+number_of_employees,EN,4,Number of Employees,bsp_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+business_legal_address,EN,5,Business Legal address,bsp_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+legal_business_check,EN,6,"Yes, I am over 18 years of age and accept to continue",bsp_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+error_text,EN,7,You must accept to check this condition,bsp_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+select_check,EN,1,Select checkbox(es) that are applicable for your business.,bsp_licensed_sign_up_terms,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+customer_visit_check,EN,2,Walk-In Services (Customer visits my business facility),bsp_licensed_sign_up_terms,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+customer_visit_help,EN,3,"Help - Choose the above checkbox if customer(s) visit your business facility for the services your business renders. Example: Law firms, Doctor office, Barber shop, Bar&Restaurant, Hotels, Auto repair shop, etc.",bsp_licensed_sign_up_terms,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+business_check,EN,4,In-House Services (My business personal visit customer places),bsp_licensed_sign_up_terms,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+business_check_help,EN,5,"Help - Choose the above checkbox if you or your employee(s) visit customer's place to render your business services. Example: Home cleaning, Repair services, Handyman, Plumbing, Home Tutoring, Music classes, Nannys, Health aid, etc.",bsp_licensed_sign_up_terms,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+business_provide_check,EN,6,On-Demand Services (My business serves location based On-Demand services to customers),bsp_licensed_sign_up_terms,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+business_provide_help,EN,7,"Help - Choose the above checkbox if your business renders On-Demand round the clock based services. Example: Taxi, Roadside assistance, Emergency repairs, Location based services, Ambulance, Public services, etc.",bsp_licensed_sign_up_terms,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+customer_walk_in,EN,8,Walk-In Services (Customer visits my business facility),bsp_licensed_sign_up_terms,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+customer_in_home,EN,9,In-House Services (My business personal visit customer places),bsp_licensed_sign_up_terms,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+business_on_demand,EN,10,On-Demand Services (My business serves location based On-Demand services to customers),bsp_licensed_sign_up_terms,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+upload_profile_picture,EN,1,"Upload Business Profile Pictures:",business_profile,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+agree_and_accept,EN,2,I agree and accept to pay dues incurred in my business background verification,business_profile,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+accept_tudo,EN,3,I agree and accept TUDO Terms and Conditions,business_profile,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+label_upload_licen_picture,EN,4,Upload Business License Pictures,business_profile,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+information_is_legitimate,EN,1,Above entered Identity information is legitimate and accurate to my knowledge,unlicensed_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+identification_type_1,EN,2,Select Personal Identification Type,unlicensed_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+document_number_1,EN,3,Personal ID Number,unlicensed_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+issuing_authority_1,EN,4,Photo Identification Issuing Authority,unlicensed_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+identification_type_2,EN,5,Select Personal Identification Type,unlicensed_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+document_number_2,EN,5,Business License#,unlicensed_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+issuing_authority_2,EN,6,Photo Identification Issuing Authority,unlicensed_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+information_is_legitimate,EN,7,I accept the Identity Information entered above is legitimate and accurate to my knowledge,unlicensed_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+license_issuing_authority_type,EN,1,License Issuing Authority Type,licensed_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+business_license_no,EN,2,"Business License#",licensed_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+legal_business_check,EN,3,I accept the Identity Information entered above is legitimate and accurate to my knowledge,licensed_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+label_upload_licen_picture,EN,4,Upload Business License Pictures,licensed_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+license_issuing_authority,EN,5,License Issuing Authority,licensed_sign_up,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+next,EN,1,Next,language,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+new_pass,EN,1,New Password,reset,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+confirm_pass,EN,1,Confirm Password,reset,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+module,EN,1,Business Holiday,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+create_holiday,EN,1,Setup Business Holiday,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+update_holiday,EN,1,Update Business Holiday,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+title,EN,1,Holiday Title,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+description,EN,1,Describe the Holiday,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+dis_hint,EN,1,Describe the Holiday,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+duration,EN,1,Duration,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+to_date,EN,1,To Date,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+from_date,EN,1,From Date,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+to_time,EN,1,To Time,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+from_time,EN,1,From Time,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+is_half,EN,1,Partial Day-Off?,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+save,EN,1,Save,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+update,EN,1,Update,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+cancel,EN,1,Cancel,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+delete,EN,1,Delete,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+close,EN,1,Close,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+conf_delete,EN,1,Are you sure?,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+update_message,EN,1,Successfully Updated,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+create_message,EN,1,Successfully Created,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+delete_holiday,EN,1,Successfully Deleted,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+hit_to_date,EN,1,To Date,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+hit_from_date,EN,2,From Date,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+hit_to_time,EN,1,To Time,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+hit_from_time,EN,1,From Time,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_title,EN,1,Holiday Title is required.,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_des,EN,1,Description is required.,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_to_date,EN,1,To Date is required.,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_to_date_2,EN,1,Invalid Date range.,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_from_date,EN,1,From Date is required.,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_to_time,EN,1,To Time is required.,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_from_time,EN,1,From Time is required.,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_to_time_2,EN,1,Invalid Time range.,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+all_holi,EN,1,Yearly Holiday List,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+no_holi,EN,1,Holidays not found in this month,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+no_holi_list,EN,1,Holiday not available,holidays,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+service_date,EN,1,Service Date,add_walk_in,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+flexible_me,EN,1,"Flexible time (+/- 2 hours)",add_walk_in,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+select_address,EN,1,Select Address,add_walk_in,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+upload_picture,EN,1,Upload Pictures,add_walk_in,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+clear,EN,1,Clear,button,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+next,EN,2,Next,button,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+module,EN,1,Shift Schedule,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+begin_time,EN,1,Begin Time,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+end_time,EN,1,End Time,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+title,EN,1,Shift Title,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+save,EN,1,Save,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+name_dis,EN,1,Name or Description,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+update,EN,1,Update,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+off_day,EN,1,Off-Day,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+delete,EN,1,Delete,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+default,EN,1,Default,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+name_or_dis,EN,1,Name or Description,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+close,EN,1,Close,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_1,EN,1,Shift begin or end time is invalid,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_2,EN,1,Break begin or end time is invalid,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_3,EN,1,Name or description must required,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_4,EN,1,Max 2 hours overlapping allowed between the shifts.,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_5,EN,1,Break time must be between Shift schedule boundaries,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_6,EN,1,Schedule successfully saved,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_7,EN,1,"Sorry, something went wrong, try again!!",shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_8,EN,1,"Sorry, something went wrong, try again!!",shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+err_9,EN,1,Are you sure to set Default Schedules for your business?,shift_schedule,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+module,EN,1,Scheduled,bsp_job,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244
+filter_title,EN,1,Filter By Status,bsp_job,2019-02-06 03:56:15.162244,2019-02-06 03:56:15.162244

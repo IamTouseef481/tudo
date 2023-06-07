@@ -1,0 +1,1190 @@
+msgid "Email has been already taken"
+msgstr "ईमेल को पहले हीदी गई है"
+
+msgid "Error while creating user install!"
+msgstr "उपयोगकर्ता को इंस्टॉल करते समयत्रुटि दे!"
+
+msgid "Error while updating user install!"
+msgstr "उपयोगकर्ता इंस्टॉल को अपडेट करते समय त्रुटि!"
+
+msgid "Something went wrong while retrieving user install"
+msgstr "उपयोगकर्ता को पुनर्प्राप्त करते समय कुछ गलत हो गया, उपयोगकर्ता को स्थापितकरने में"
+
+msgid "Unable to create or update user install!"
+msgstr "करने या अपडेटअसमर्थ!"
+
+msgid "Device Token is missing in install params!"
+msgstr "डिवाइस टोकन इंस्टॉल पैराम्स में गायब है!"
+
+msgid "More than one results against User and FCM token"
+msgstr "उपयोगकर्ता और FCM टोकन के खिलाफ एक से अधिक परिणाम"
+
+msgid "Invalid Email/ Password or Internet issue!"
+msgstr "अमान्य ईमेल / पासवर्ड या इंटरनेट समस्या!"
+
+msgid "User profile is blocked"
+msgstr "उपयोगकर्ता प्रोफ़ाइल अवरुद्ध है"
+
+msgid "User profile is rejected"
+msgstr "उपयोगकर्ता प्रोफ़ाइल को अस्वीकार कर दिया गया है"
+
+msgid "Your account confirmation pending"
+msgstr "आपके खाते की पुष्टि लंबित है"
+
+msgid "Something went wrong, try again!"
+msgstr "कुछ गलत हो गया, फिर से प्रयास करें!"
+
+msgid "Bid doesn't exist!"
+msgstr "बोली मौजूद नहीं है!"
+
+msgid "Unexpected error occurred, try again!"
+msgstr "अनपेक्षित त्रुटि हुई, पुनः प्रयास करें!"
+
+msgid "Business Branch doesn't exist!"
+msgstr "व्यापार शाखा मौजूद नहीं है!"
+
+msgid "This Business doesn't belongs to you"
+msgstr "यह व्यापार अंतर्गत आता है नहीं है कि आपकरने के लिए"
+
+msgid "Enable to fetch Business"
+msgstr "व्यापार लाने के लिएसक्षम"
+
+msgid "This business doesn't belongs to you"
+msgstr "इस व्यवसायअंतर्गत आता है तो आपकरने के लिए नहीं है"
+
+msgid "Enable to check business for this branch"
+msgstr "इस शाखाके लिए व्यापार की जांच करने के लिए सक्षम"
+
+msgid "A Branch with same name already exist for your Business"
+msgstr "एक शाखा में एक ही नाम के साथ पहले से ही अपने व्यवसाय के लिए मौजूद हैं"
+
+msgid "Enable to fetch Branch"
+msgstr "लाने के लिए सक्षम शाखा"
+
+msgid "Enable to fetch Geo Zones"
+msgstr "भू क्षेत्र को लाने के लिए सक्षम"
+
+msgid "Enable to fetch Country Services"
+msgstr "देश लाने के लिए सक्षमसेवा"
+
+msgid "Enable to fetch Service Types"
+msgstr "सेवा प्रकार लाने के लिए सक्षम"
+
+msgid "Enable to upsert Branch Services"
+msgstr "शाखा सेवाएं Upsert करने के लिए सक्षम"
+
+msgid "This User have a Business with same name"
+msgstr "इस उपयोगकर्ता एक ही नाम के साथ एक व्यापार है"
+
+msgid "Enable to fetch User"
+msgstr "उपयोगकर्तालाने के लिए सक्षम"
+
+msgid "Enable to create Branch"
+msgstr "शाखाबनाने के लिए सक्षम"
+
+msgid "Invalid Business_id or Country_Service_id"
+msgstr "अमान्य business_id या Country_Service_id"
+
+msgid "Dynamic Screen already exists for this Business and Country Service"
+msgstr "गतिशील स्क्रीनपहले से मौजूद है के लिए इस व्यवसाय और देश सेवा"
+
+msgid "Dynamic Screen already exists for this Country Service"
+msgstr "गतिशील स्क्रीन पहले से ही इस देश सेवाके लिए मौजूद है"
+
+msgid "Dynamic Screen doesn't exist"
+msgstr "गतिशीलस्क्रीन मौजूद नहीं है"
+
+msgid "Business and/ or Dynamic Screen is incorrect!"
+msgstr "व्यवसाय और / या डायनामिक स्क्रीन गलत है!"
+
+msgid "Dynamic Screen is in correct!"
+msgstr "डायनेमिक स्क्रीन सही में है!"
+
+msgid "Dynamic group already exists"
+msgstr "डायनामिक ग्रुप पहले से मौजूद है"
+
+msgid "Dynamic Group or Screen doesn't exist!"
+msgstr "डायनामिक ग्रुप या स्क्रीन मौजूद नहीं है!"
+
+msgid "Dynamic Group doesn't exist!"
+msgstr "गतिशील समूह मौजूद नहीं है!"
+
+msgid "Dynamic screen doesn't exist!"
+msgstr "गतिशील स्क्रीन मौजूद नहीं है!"
+
+msgid "Dynamic Screen and Group relationship doesn't exist"
+msgstr "गतिशील स्क्रीन और समूह संबंध मौजूद नहीं है"
+
+msgid "Notification can't send!"
+msgstr "अधिसूचना नहीं भेज सकता है!"
+
+msgid "Token already sent!"
+msgstr "टोकन पहले ही भेज दिया!"
+
+msgid "Employee record already exists!"
+msgstr "कर्मचारी रिकॉर्ड पहले से मौजूद है!"
+
+msgid "Enable to fetch Employee"
+msgstr "कर्मचारी लाने के लिए"
+
+msgid "Enable to create User"
+msgstr "सक्षम करें उपयोगकर्ताबनाने के लिए सक्षम करें"
+
+msgid "Manager user doesn't exist!"
+msgstr "प्रबंधकउपयोगकर्ता मौजूद नहीं है!"
+
+msgid "Manager user do not exist under this Business!"
+msgstr "प्रबंधक उपयोगकर्ता इस व्यवसाय के अंतर्गत मौजूद नहीं है!"
+
+msgid "Invalid Manager user!"
+msgstr "अमान्य प्रबंधक उपयोगकर्ता!"
+
+msgid "Invalid Branch"
+msgstr "अमान्य शाखाशाखा"
+
+msgid "Manager user doesn't belong to the Branch!"
+msgstr "प्रबंधक उपयोगकर्तासे संबंधित नहीं है!"
+
+msgid "Unable to validate Manager user!"
+msgstr "प्रबंधक उपयोगकर्ता को मान्य करने में असमर्थ!"
+
+msgid "Invoice doesn't exist!"
+msgstr "चालान मौजूद नहीं है!"
+
+msgid "Business Sales Tax settings not found"
+msgstr "व्यावसायिक बिक्री कर सेटिंगनहीं मिली"
+
+msgid "Error in fetching Sales Tax settings"
+msgstr "में त्रुटिबिक्री कर सेटिंग लाने में त्रुटि"
+
+msgid "Unable to compute Estimated Cost for Job!"
+msgstr "नौकरी के लिए अनुमानित लागत की गणना करने में असमर्थ!"
+
+msgid "Settings table fields doesn't have valid keys"
+msgstr "सेटिंग्स तालिका फ़ील्ड में मान्य कुंजी नहीं हैकरने में"
+
+msgid "Failed to generate Invoice, try again!"
+msgstr ", चालान जनरेटविफल, फिर से प्रयास करें!"
+
+msgid "You are not allowed to perform this action!"
+msgstr "आपको यह क्रिया करने की अनुमति नहीं है!"
+
+msgid "Invalid Job or Invoice, try again!"
+msgstr "अमान्य नौकरी या चालान, फिर से प्रयास करें!"
+
+msgid "Max allowed Invoice adjustments/day limit reached!"
+msgstr "अधिकतम ने चालान समायोजन / दिन की सीमा तक पहुंच की अनुमति दी!"
+
+msgid "Unable to check Invoice adjustments/day count"
+msgstr "चालान समायोजन / दिन गिनती की जाँच करने केमें असमर्थ"
+
+msgid "Can't update Job status, try again!"
+msgstr "कार्य स्थिति अद्यतन नहीं कर सकतेहै,पुन: प्रयास करें!"
+
+msgid "Job doesn't exist!"
+msgstr "नौकरी मौजूद नहीं है!"
+
+msgid "Unexpected error occurred while updating group status!"
+msgstr "समूह की स्थिति अपडेट करते समय अनपेक्षित त्रुटि हुई!"
+
+msgid "Unable to update Service Provider meta"
+msgstr "सेवा प्रदाता मेटाअद्यतन करने के लिएअसमर्थ"
+
+msgid "Unable to update Consumer meta"
+msgstr "अद्यतन उपभोक्ता मेटाकरने में असमर्थ"
+
+msgid "New Employee record doesn't exist"
+msgstr "नए कर्मचारी रिकॉर्डमौजूद नहीं है"
+
+msgid "Error in verifying Job status"
+msgstr "नौकरी स्थिति की पुष्टि करने में त्रुटि"
+
+msgid "Unable to verify Job status"
+msgstr "नौकरी स्थिति को सत्यापित करने में असमर्थ"
+
+msgid "Unable to verify Job updating timing"
+msgstr "कार्य को अपडेट करना समय को सत्यापित करने केअसमर्थ"
+
+msgid "Can't start work outside Consumer request time"
+msgstr "प्रारंभ नहीं कर सकता काम के बाहर उपभोक्ता अनुरोध समय"
+
+msgid "Error in verifying Service Provider for rescheduling"
+msgstr "पुनर्निर्धारण के लिए सेवा प्रदाता की पुष्टि करने मेंत्रुटि"
+
+msgid "Unable verify Service Provider for rescheduling"
+msgstr "पुनर्निर्धारित करने के लिए सेवा प्रदाता को सत्यापित करने में असमर्थ"
+
+msgid "Something wrong in foreign key OR compulsory parameter is missing"
+msgstr "। विदेशी कुंजी या अनिवार्य पैरामीटर में कुछ गड़बड़ है,"
+
+msgid "Job params are not correct"
+msgstr "जॉब पैरामेंट्स सही नहीं"
+
+msgid "Something went wrong in scheduling"
+msgstr "हैं, शेड्यूलिंग में"
+
+msgid "Can't delete Leads, something went wrong"
+msgstr "कुछ गलत हो गया है, लीड को डिलीट नहीं किया जा सकता है, कुछ गलत हो गया है"
+
+msgid "Employee service doesn't exist"
+msgstr "कर्मचारी सेवा मौजूद नहीं है"
+
+msgid "Error in validating Employee"
+msgstr "कर्मचारी को मान्य करने में त्रुटि"
+
+msgid "Employee doesn't exist, invalid status or contract expired!"
+msgstr "मौजूद नहीं है , अमान्य स्थिति या अनुबंध समाप्त हो गया है!"
+
+msgid "Job posting to Self is not allowed"
+msgstr "स्वयं को पोस्ट करने की अनुमति नहीं है,"
+
+msgid "Unable to verify Self Job posting"
+msgstr "सेल्फ जॉब पोस्टिंग सत्यापित करने में असमर्थ है"
+
+msgid "No need to check availability now"
+msgstr "अब उपलब्धता की जांच करने की आवश्यकता नहीं है"
+
+msgid "Selected Service Provider is not available right now, please search again!"
+msgstr "चयनित सेवा प्रदाता अभी उपलब्ध नहीं है, कृपया फिर से खोज करें!"
+
+msgid "Something went wrong while searching Service Provider, please try again"
+msgstr "सेवा प्रदाता को खोजते समय कुछ गलत हुआ, कृपया पुनः प्रयास करें"
+
+msgid "Unable to determine Service Provider availability"
+msgstr "सेवा प्रदाता उपलब्धता निर्धारित करने में असमर्थ"
+
+msgid "Employee contract expired"
+msgstr "कर्मचारी अनुबंध कीसमाप्त हो गई है"
+
+msgid "Notification sent!"
+msgstr "अधिसूचना!"
+
+msgid "Something went wrong, can't send notification"
+msgstr "कुछ है, गलत हो गया था नहींअधिसूचनाभेज सकते"
+
+msgid "Error in fetching Branch Service"
+msgstr "प्राप्त करने में कठिनाई शाखा सेवामेंत्रुटि"
+
+msgid "Error while adding Expected Work Duration from settings in params"
+msgstr "त्रुटिहैं,जबकि पैरामीटरमें सेटिंग्स से जोड़ने की उम्मीद कार्य अवधि"
+
+msgid "Error in fetching Expected Work Duration settings"
+msgstr "अपेक्षित कार्य अवधि सेटिंग्सलाने मेंत्रुटि"
+
+msgid "Branch Service id missing to read Service Duration from settings"
+msgstr "शाखा सेवा आईडी सेटिंग्ससे सेवा अवधि को पढ़ने के लिए याद आ रही"
+
+msgid "Estimated Cost is missing in params and error in fetching Bidding proposal to determine Estimated cost"
+msgstr "अनुमानित लागत में पैरामीटर और त्रुटि में याद आ रही हैअनुमानित लागत निर्धारित करने में असमर्थता प्राप्त करने के लिए बोली लगाने का प्रस्ताव लाने का"
+
+msgid "Unable to determine Estimated Cost, try again"
+msgstr "अनुमान, फिर से प्रयास करें"
+
+msgid "Estimated Cost not found in settings against the Service"
+msgstr "सेवा के विरुद्ध सेटिंग्स में अनुमानित लागत नहीं मिली है"
+
+msgid "Multiple records found in settings against provided data"
+msgstr "उपलब्ध कराए गए डेटा के विरुद्ध सेटिंग्स में पाए गए कई रिकॉर्ड"
+
+msgid "Invalid Service Type"
+msgstr "अमान्य सेवा प्रकार"
+
+msgid "Service Rate settings doesn't exist!"
+msgstr "सेवा दर सेटिंग्स मौजूद नहीं है!"
+
+msgid "Promotion already exist!"
+msgstr "पदोन्नति पहले से मौजूद है!"
+
+msgid "Enable to fetch Promotions"
+msgstr "प्रचार लाने के लिए सक्षम करें"
+
+msgid "Invalid Promotion status"
+msgstr "अमान्य प्रचार स्थिति स्थिति"
+
+msgid "Promotion doesn't exist"
+msgstr "संवर्धन मौजूद"
+
+msgid "No valid Promotion available against this data"
+msgstr "नहीं है इस डेटा के विरुद्ध कोई भी मान्य प्रचार उपलब्ध नहीं है"
+
+msgid "Something went wrong calculating Promotion usage"
+msgstr "कुछ गलत हो गया है प्रचार का उपयोग पदोन्नति"
+
+msgid "Enable to validate Promotion"
+msgstr "को मान्य करने के लिए सक्षम करें"
+
+msgid "Something missing in params for Promotion validation"
+msgstr "पदोन्नति सत्यापन के लिए कुछ अनुपलब्ध"
+
+msgid "Country doesn't exist"
+msgstr "देश में मौजूद नहीं है"
+
+msgid "Enable to fetch Country"
+msgstr "देशप्राप्त करने के लिए सक्षम"
+
+msgid "Service doesn't exist"
+msgstr "सेवानहीं है"
+
+msgid "Enable to fetch Service"
+msgstr "सेवा लाने के लिए सक्षम"
+
+msgid "Enable to fetch Employee Service"
+msgstr "लाने के लिए सक्षमकर्मचारी सेवा"
+
+msgid "Enable to fetch Country Service"
+msgstr "देश सेवालाने के लिएसक्षम करें"
+
+msgid "Active Country Service doesn't exist"
+msgstr "सक्रिय देश सेवामौजूद नहीं है"
+
+msgid "Branch Service already exist for given parameters"
+msgstr "शाखा सेवापहले से ही दिए गए मापदंडों के लिए मौजूद"
+
+msgid "Branch Service does not exist"
+msgstr "शाखा सेवामौजूद नहीं है"
+
+msgid "Error in creating Branch Service"
+msgstr "शाखा सेवाबनाने मेंत्रुटि"
+
+msgid "Error while updating Settings"
+msgstr "त्रुटिसेटिंगअपडेट करते समय"
+
+msgid "Branch settings on creating Service failed, try again"
+msgstr "परशाखा सेटिंगसेवा बनाना विफल रहा, फिर से प्रयास करें कि"
+
+msgid "Something went wrong in updating Settings"
+msgstr "सेटिंग में कुछ गलत हो गया है।सेटिंग्स"
+
+msgid "Service Radius settings missing for this Branch"
+msgstr "इसलिए अनुपलब्धसेवा त्रिज्या सेटिंग्स गायब हो गई हैं इस"
+
+msgid "Services Expected Work Duration settings missing for this Branch"
+msgstr "सेवा केसेवा के लिए अपेक्षित कार्य अवधि सेटिंग्स इस शाखा के"
+
+msgid "Services Rate settings missing for this Branch"
+msgstr "लिए अनुपलब्ध हैं दर इस शाखा के लिए अनुपलब्ध"
+
+msgid "Service Sales Tax settings missing for this Branch"
+msgstr "सेवा दरें इस शाखा के लिए अनुपलब्ध है"
+
+msgid "Error while updating Branch Service"
+msgstr "सेवा शाखा शाखाअपडेट करते समय त्रुटि"
+
+msgid "Merchant Account doesn't exist"
+msgstr "व्यापारी खातामौजूद नहीं है"
+
+msgid "Something went wrong, unable to fetch Merchant Account"
+msgstr "तो mething त्रुटि हुई, व्यापारी खाताप्राप्त नहीं कर पा"
+
+msgid "Something went wrong with parameters for Braintree Payment Gateway"
+msgstr "कुछBraintree भुगतान गेटवेके लिए मानकों के साथ गलत हो गया था"
+
+msgid "Something went wrong, Merchant Account creation failed"
+msgstr "कुछगलत हो गया था, व्यापारी खाता बनाना विफल"
+
+msgid "Braintree account doesn't exist"
+msgstr "ब्रेनट्री खातामौजूद नहीं है"
+
+msgid "Unable to fetch Braintree Payment Gateway account"
+msgstr "लाने के लिए ब्रेनट्री भुगतान गेटवे खाताअसमर्थ"
+
+msgid "Payment method doesn't exist"
+msgstr "भुगतान प्रक्रियामौजूद नहीं है"
+
+msgid "Unable to fetch Payment method"
+msgstr "भुगतान विधि ढूंढ पाने में असमर्थ"
+
+msgid "Unable to create Braintree Payment method"
+msgstr "Braintree भुगतान विधिबनाने में असमर्थ"
+
+msgid "Unable to update Braintree Payment method"
+msgstr "Braintree भुगतान पद्धति अपडेट करने में असमर्थ"
+
+msgid "Unable to update local Payment method"
+msgstr "स्थानीय भुगतान विधि अपडेट करने में असमर्थ"
+
+msgid "Unable to delete Payment method"
+msgstr "कोहटाना भुगतान विधि करने में असमर्थ"
+
+msgid "Unable to delete Braintree Payment method"
+msgstr "नष्ट करने के लिए ब्रेनट्री भुगतान विधि"
+
+msgid "Invalid User and/ or Password"
+msgstr "अमान्य उपयोगकर्ता और / या पासवर्ड"
+
+msgid "Your Business already enrolled for this Subscription package"
+msgstr "आपके व्यापार पहले से ही इस सदस्यता पैकेजके लिए दाखिला लिया"
+
+msgid "Subscription package doesn't exist!"
+msgstr "सदस्यता पैकेज मौजूद नहीं हैअसमर्थ!"
+
+msgid "More than one Subscription"
+msgstr "एक से अधिक"
+
+msgid "Something went wrong with parameters for Braintree Subscription"
+msgstr "सबस्क्राइब ब्रेंट्री सब्सक्रिप्शनमापदंडों के साथ कुछ गलत हो गया,सब्सक्रिप्शन"
+
+msgid "Error while retrying charge Braintree Subscription!"
+msgstr "त्रुटि केजबकि ब्राइनट्रीको पुनः प्राप्त करने में त्रुटि हुई!"
+
+msgid "This Service Provider Subscription rule doesn't exist!"
+msgstr "यह सेवा प्रदाता सदस्यता नियम मौजूद नहीं है!"
+
+msgid "This Consumer Subscription rule doesn't exist!"
+msgstr "यह उपभोक्ता सदस्यता नियम मौजूद नहीं है!"
+
+msgid "This Braintree Subscription status doesn't exist!"
+msgstr "यह Braintree सदस्यता स्थिति मौजूद नहीं है!"
+
+msgid "This User doesn't exist!"
+msgstr "यह उपयोगकर्ता मौजूद नहीं है!"
+
+msgid "This Business doesn't exist!"
+msgstr "यह व्यवसाय मौजूद नहीं है!"
+
+msgid "No need to get wallet!"
+msgstr "बटुआ पाने की जरूरत नहीं!"
+
+msgid "Please select a payment method"
+msgstr "कृपया भुगतान विधि का चयन करें"
+
+msgid "Subscription rule/ plan does not exist for this Country"
+msgstr "इस देश के लिए सदस्यता नियम / योजना मौजूद नहीं है"
+
+msgid "You exceeded Promotion limit on your Subscription package"
+msgstr "आपने अपने सब्सक्रिप्शन पैकेज पर पदोन्नति की सीमा को पार कर लिया है"
+
+msgid "Multiple subscription rules against your Country and Subscription package"
+msgstr "अपने देश और सदस्यता पैकेज के खिलाफ कई सदस्यता नियम"
+
+msgid "Something went wrong, Braintree Subscription failed!"
+msgstr "गलत हो गए, ब्रेंट्री सदस्यता विफल रही!"
+
+msgid "Something went wrong while creating Braintree Subscription"
+msgstr "Braintree सदस्यताबनाने के दौरानकुछ गलत हो गया"
+
+msgid "Subscription plan does not exist for this Country"
+msgstr "सदस्यता योजनाइस देशके लिए मौजूद नहीं है"
+
+msgid "Unable to create local Subscription"
+msgstr "स्थानीय सदस्यताबनाने में असमर्थ"
+
+msgid "Unable to create local Payment"
+msgstr "स्थानीय भुगतानबनाने में असमर्थ"
+
+msgid "Error while creating Balance"
+msgstr "शेष राशि को बनानेजबकित्रुटि"
+
+msgid "Error while updating Balance"
+msgstr "में त्रुटिशेष राशिअपडेट करते समय"
+
+msgid "Error while getting Balance"
+msgstr "त्रुटिशेषहो रही है, जबकि"
+
+msgid "Unable to fetch Braintree Subscription"
+msgstr "ब्रेनट्री सदस्यतालाने में असमर्थ"
+
+msgid "Unable to update Braintree subscription"
+msgstr "ब्रेनट्री सदस्यताअपडेट करने में असमर्थ"
+
+msgid "Unable to cancel Braintree Subscription"
+msgstr "को रद्द करने में असमर्थBraintree सदस्यता"
+
+msgid "Something went wrong with parameters for Braintree transaction"
+msgstr "कुछ Braintree लेनदेन के लिए मापदंडों के साथ गलत हो गया है"
+
+msgid "Something went wrong, unable to create Payment Method Nonce"
+msgstr "कुछ गलत हो गया,भुगतान विधि Nonceबनाने में असमर्थ"
+
+msgid "Error in adding Donations and Gratuity!"
+msgstr "दान और ग्रेच्युटी जोड़ने मेंत्रुटि!"
+
+msgid "Something went wrong, can't add Donations and Gratuity!"
+msgstr "कुछ गलत हो गया, दान और ग्रेच्युटी नहीं जोड़ सकते हैं!"
+
+msgid "Something went wrong, Braintree Payment transaction failed!"
+msgstr "कुछ गलत हो गया, Braintree भुगतान लेनदेन विफल हो गया!"
+
+msgid "Amount params missing!"
+msgstr "राशि पाराम गायब!"
+
+msgid "Something went wrong, unable to create transaction"
+msgstr "कुछ है, गलत हो गया लेन-देनबनाने में असमर्थ"
+
+msgid "Something went wrong, can't create local transaction"
+msgstr "में कुछस्थानीय लेनदेननहीं बना सकते, गलत हो गया"
+
+msgid "Something went wrong, unable to create local transaction"
+msgstr "कुछथा,गलत हो गया था स्थानीय लेनदेनबनाने में असमर्थ"
+
+msgid "Something went wrong, can't calculate Gratuity, Donations and Service Provider's amount!"
+msgstr "कुछगलत हो गया था, उपदान, दान और सेवा प्रदाता के राशि की गणना नहीं कर सकता!"
+
+msgid "Error while creating Consumer spent amount"
+msgstr "उपभोक्ता खर्च राशि बनाते समय त्रुटि उपभोक्ता खर्च राशि"
+
+msgid "Error while updating Consumer spent amount"
+msgstr "अपडेट करते समय त्रुटि उपभोक्ता खर्च राशि"
+
+msgid "Error while getting Consumer spent amount"
+msgstr "प्राप्त करते समय त्रुटि"
+
+msgid "Transaction doesn't exist!"
+msgstr "मौजूद नहीं है!"
+
+msgid "Something went wrong, unable to fetch Braintree transaction"
+msgstr "कुछ है, गलत हो गया ब्रेनट्री लेनदेनप्राप्त नहीं कर पा"
+
+msgid "Something went wrong, failed to Refund transaction!"
+msgstr "कुछवापसी लेन-देन करने में विफल रहा, गलत हो गया था!"
+
+msgid "Braintree Customer account already exists!"
+msgstr "Braintree ग्राहक खाता पहले से मौजूद है!"
+
+msgid "Braintree customer account doesn't exist"
+msgstr "Braintree ग्राहक खातामौजूद नहीं है"
+
+msgid "Unable to fetch Customer"
+msgstr "ग्राहकलाने में असमर्थ"
+
+msgid "Unable to fetch Braintree Customer"
+msgstr "ब्रेनट्री ग्राहकलाने में असमर्थ"
+
+msgid "Unable to create Customer"
+msgstr "ग्राहकबनाने में असमर्थ"
+
+msgid "Unable to update Braintree Customer"
+msgstr "ब्रेनट्री ग्राहकअपडेट करने में असमर्थ"
+
+msgid "Unable to delete Customer"
+msgstr "ग्राहकहटाने में असमर्थ"
+
+msgid "Unable to delete Braintree customer"
+msgstr "को हटाने के लिए ब्रेनट्री ग्राहकअसमर्थ"
+
+msgid "HyperWallet User doesn't exist"
+msgstr "HyperWallet उपयोगकर्तामौजूद नहीं है"
+
+msgid "Multiple Hyperwallet records against this User"
+msgstr "इस उपयोगकर्ताके खिलाफ एकाधिक Hyperwallet रिकॉर्ड"
+
+msgid "Unable to fetch local Hyperwallet User"
+msgstr "स्थानीय प्राप्त करने में असमर्थHyperwallet उपयोगकर्ता उपयोगकर्ता"
+
+msgid "Unable to list Transfer Methods for the User!"
+msgstr "के लिए स्थानांतरण विधियों को सूचीबद्ध करने में असमर्थ है!"
+
+msgid "Hyperwallet Transfer Method doesn't exist"
+msgstr "Hyperwallet स्थानांतरण विधिमौजूद नहीं है"
+
+msgid "Unable to fetch Transfer Method"
+msgstr "लाने के लिए स्थानांतरण विधिअसमर्थ"
+
+msgid "Error while getting Branch"
+msgstr "त्रुटिहै,जबकि शाखाहो रही"
+
+msgid "Unable to get Service Provider minimum Transfer Limit"
+msgstr "सेवा प्रदाता न्यूनतम स्थानांतरण सीमाप्राप्त करने में असमर्थ"
+
+msgid "Unable to get Service Provider maximum Transfer Limit"
+msgstr "सेवा प्रदाता अधिकतम स्थानांतरण सीमाप्राप्त करने में असमर्थ"
+
+msgid "Error in updating Available Balance"
+msgstr "उपलब्ध शेष राशिअपडेट करनेमेंत्रुटि"
+
+msgid "Insufficient Balance"
+msgstr "अपर्याप्त शेष"
+
+msgid "Error in fetching Available Balance"
+msgstr "प्राप्त करने में कठिनाई उपलब्ध मेंमें त्रुटिशेष!"
+
+msgid "Unable to create Hyperwallet payment!"
+msgstr "Hyperwallet भुगतान बनाने में असमर्थ"
+
+msgid "Unable to get Hyperwallet payment!"
+msgstr "हाइपरवालेट भुगतान प्राप्त करने में असमर्थ!"
+
+msgid "Unable to create Hyperwallet transfer!"
+msgstr "हाइपरवालेट ट्रांसफर बनाने में असमर्थ!"
+
+msgid "Unable to create Hyperwallet transfer method!"
+msgstr "हाइपरवालेट ट्रांसफर विधि बनाने में असमर्थ!"
+
+msgid "Unable to create Hyperwallet local transfer method!"
+msgstr "हाइपरवालेट स्थानीय स्थानांतरण विधि बनाने में असमर्थ!"
+
+msgid "Unable to update local Transfer method"
+msgstr "स्थानीय ट्रांसफ़र पद्धति को अपडेट करने में असमर्थ"
+
+msgid "Error while updating local Hyperwallet transfer method"
+msgstr "स्थानीय हाइपरवालेट ट्रांसफ़र विधि को अपडेट करते समय"
+
+msgid "Hyperwallet User already exists!"
+msgstr "हाइपरवालेट उपयोगकर्ता पहले से मौजूद है!"
+
+msgid "Unable to create Hyperwallet user!"
+msgstr "Hyperwallet उपयोगकर्ता बनाने में असमर्थ!"
+
+msgid "Unable to create Hyperwallet local user"
+msgstr "Hyperwallet स्थानीय उपयोगकर्ता बनाने में"
+
+msgid "Unable to update Hyperwallet user!"
+msgstr "असमर्थ"
+
+msgid "Unable to get Hyperwallet user!"
+msgstr "Hyperwallet उपयोगकर्ता प्राप्त करने में असमर्थ!"
+
+msgid "Transaction amount couldn't verify with invoice amount!"
+msgstr "लेनदेन राशि चालान राशि के साथ सत्यापित नहीं हो सकी!"
+
+msgid "Error in fetching Invoice to verify transaction amount"
+msgstr "चालान सत्यापित करने के लिए लेनदेन की रकमफ़ेच करने में त्रुटि"
+
+msgid "No record exists for Promotion price verification"
+msgstr "कोई रिकॉर्ड संवर्धन कीमत सत्यापनके लिए मौजूद है"
+
+msgid "Something went wrong while verifying amount of Subscription promotion"
+msgstr "थोड़ी देरसदस्यता पदोन्नतिकी राशि की पुष्टि करने केकुछगलत हो गया"
+
+msgid "Subscription rule for Service Provider doesn't exist!"
+msgstr "के लिए सेवा प्रदाता मौजूद नहीं हैसदस्यता शासनथा!"
+
+msgid "Available Promotion isn't created"
+msgstr "उपलब्ध प्रचार नहीं बनाया गया है"
+
+msgid "Can't add Donation and Gratuity amounts!"
+msgstr "दान और ग्रेच्युटी राशि नहीं जोड़ सकते हैं!"
+
+msgid "Can't get Service Provider Subscriptions"
+msgstr "सेवा प्रदाता सदस्यता प्राप्त नहीं कर सकते"
+
+msgid "Params to calculate local transaction are not correct"
+msgstr "स्थानीय लेनदेन की गणना करने के लिए Params सही नहीं हैं"
+
+msgid "Unauthorized"
+msgstr "अनधिकृत"
+
+msgid "User status is not confirmed!"
+msgstr "उपयोगकर्ता की स्थिति की पुष्टि नहीं की गई है!"
+
+msgid "Unable to convert String to Time format"
+msgstr "स्ट्रिंग को समय प्रारूप में बदलने में असमर्थ"
+
+msgid "Device not correct or not supported"
+msgstr "डिवाइस सही नहीं है या समर्थित"
+
+msgid "Can't send Android notifications!"
+msgstr "नहीं है, Android सूचनाएं नहीं भेज सकता!"
+
+msgid "Can't send IOS notifications!"
+msgstr "IOS सूचनाएं नहीं भेज सकते हैं!"
+
+msgid "Dashboard auto refresh"
+msgstr "डैशबोर्ड स्वत: रीफ्रेश"
+
+msgid "Share your location"
+msgstr "शेयर अपने स्थान"
+
+msgid "Profile visibility"
+msgstr "प्रोफ़ाइल दृश्यता"
+
+msgid "Send notifications"
+msgstr "संदेश सूचनाएं"
+
+msgid "Send emails"
+msgstr "ईमेल भेजने"
+
+msgid "Error while fetching Branch Availability"
+msgstr "शाखा उपलब्धताप्राप्त करते समयमें त्रुटि"
+
+msgid "Availability Settings for this Branch doesn't exist"
+msgstr "करता इस शाखा के लिएउपलब्धता सेटिंगमौजूदनहीं"
+
+msgid "Something went wrong, unable to create the Bidding job , try again"
+msgstr "कुछ गलत हो, बोलीबनाने के लिए, फिर से कोशिश में असमर्थ हो गया था"
+
+msgid "Something went wrong, can't create the Bidding job"
+msgstr "कोई त्रुटि हुई, बोलीनहीं बना सकते"
+
+msgid "Something went wrong, unable to update Bidding job"
+msgstr "कुछ चला गयागलत, अद्यतन करने के लिए बोलीअसमर्थ"
+
+msgid "Something went wrong, can't update Bidding job"
+msgstr "कुछ गलत हो गया, अद्यतन नहीं कर सकते बोली"
+
+msgid "Something went wrong, can't delete Bidding job"
+msgstr "कुछ गलत हो गया, नहीं हटा सकतेबोली"
+
+msgid "Something went wrong, unable to create Bid proposal"
+msgstr "कुछ गलत हो,बोली प्रस्तावबनाने के असमर्थ हो"
+
+msgid "Something went wrong, can't create Bid proposal"
+msgstr "गलत हो गयाकुछलिए,बोली प्रस्तावनहीं बना सकते"
+
+msgid "Bid proposal doesn't exist!"
+msgstr "बोली प्रस्ताव मौजूद नहीं हैगया!"
+
+msgid "Service type doesn't exist!"
+msgstr "सेवा प्रकार मौजूद नहीं है!"
+
+msgid "Error in retrieving Availability Settings for this Branch"
+msgstr "इस शाखा के लिए उपलब्धता सेटिंग्स प्राप्त करने में त्रुटि"
+
+msgid "Something went wrong, can't delete Branch. Services are associated with the Branch"
+msgstr "कुछ गलत हो गई, शाखा को हटा नहीं सकता। सेवाएँ शाखा से जुड़ी होती हैं,"
+
+msgid "Business doesn't exist for that user"
+msgstr "व्यवसाय उस उपयोगकर्ता के लिए मौजूद नहीं होता है जो"
+
+msgid "Access denied"
+msgstr "पहुँच से वंचित है"
+
+msgid "Dynamic field doesn't exist"
+msgstr "डायनामिक फ़ील्ड मौजूद नहीं है"
+
+msgid "Dynamic Group already attached to the Screen"
+msgstr "डायनामिक समूह स्क्रीनसे पहले से"
+
+msgid "Dynamic Field tag doesn't exist!"
+msgstr "डायनामिक फ़ील्ड टैगमौजूद नहीं है!"
+
+msgid "Dynamic Field type doesn't exist!"
+msgstr "डायनेमिक फ़ील्ड प्रकार मौजूद नहीं है!"
+
+msgid "Something went wrong, can't update"
+msgstr "कुछ गलत हो गया, नहीं कर सकते हैं अद्यतन"
+
+msgid "Something went wrong, can't delete"
+msgstr "कुछ गलत हो गया, नहीं हटानेकर सकते"
+
+msgid "Something went wrong, can't insert"
+msgstr "कुछ गलत हो गयाहैं,नहीं डालनेकर सकते हैं"
+
+msgid "Something went wrong, can't retrieve"
+msgstr "कुछ गलत हो गया,प्राप्त नहीं कर सकता"
+
+msgid "Error in deleting Employee Setting"
+msgstr "कर्मचारी सेटमेंको हटाने में त्रुटि"
+
+msgid "Error in updating Employee setting"
+msgstr "कर्मचारी सेटिंग अपडेट करनेमेंकरने त्रुटि"
+
+msgid "Error in creating Employee setting"
+msgstr "कर्मचारी सेटिंगबनाने मेंमें त्रुटि"
+
+msgid "Employee type doesn't exist!"
+msgstr "कर्मचारी प्रकार नहीं करता'मौजूद नहीं है!"
+
+msgid "Employee status doesn't exist!"
+msgstr "कर्मचारी की स्थिति मौजूद नहीं है!"
+
+msgid "Employee role doesn't exist!"
+msgstr "कर्मचारी की भूमिका मौजूद नहीं है!"
+
+msgid "Employee Pay Rate doesn't exist!"
+msgstr "कर्मचारी वेतन दर मौजूद नहीं है!"
+
+msgid "Something went wrong, file upload failed"
+msgstr "कुछ गलत हो गया है, फ़ाइल अपलोड विफल हो गई"
+
+msgid "Invalid file format, upload blocked!"
+msgstr "अमान्य फ़ाइल प्रारूप, अपलोड अवरुद्ध!"
+
+msgid "Icon not uploaded successfully!"
+msgstr "आइकन सफलतापूर्वक अपलोड नहीं हुआ!"
+
+msgid "Something went wrong, unable to fetch Geo Zones!"
+msgstr "कुछ गलत हो गया, जियो जोन लाने में असमर्थ!"
+
+msgid "Something went wrong, unable to list Hyperwallet transactions!"
+msgstr "हाइपरवलेट लेनदेन को सूचीबद्ध करने में असमर्थ कुछ गलत हो गया!"
+
+msgid "Something went wrong, unable to retrieve Currencies and Transfer Method types due to request"
+msgstr "कुछ गलत हो गया, अनुरोधों के कारण मुद्राओं और स्थानांतरण विधि के प्रकारोंकारण"
+
+msgid "Connection interruption, unable to retrieve Currencies and Transfer Method types"
+msgstr "को प्राप्त करने में असमर्थ, कनेक्शन रुकावट के, मुद्राओं को स्थानांतरित करने में असमर्थ और ट्रांसफर के तरीके टाइप करने में"
+
+msgid "Error in fetching Currencies and Transfer Methods from Hyperwallet"
+msgstr "त्रुटि Currencies और Transfer तरीके को लाने में त्रुटि Hyperwallet से"
+
+msgid "Something went wrong, unable to list Transfer Method fields!"
+msgstr "कुछ गलत हो गया, स्थानांतरण फ़ील्ड्स को सूचीबद्ध करने में असमर्थ!"
+
+msgid "Some of the required parameters is missing!"
+msgstr "आवश्यक मापदंडों में से कुछ गायब है!"
+
+msgid "Invalid Transfer Method type, check your input!"
+msgstr "अमान्य स्थानांतरण विधि प्रकार, अपना इनपुट जांचें!"
+
+msgid "Something went wrong, unable to retrieve Transfer Method against this Token and Type"
+msgstr "कुछ गलत हो गया, इस टोकन के खिलाफ ट्रांसफर मेथड को पुनः प्राप्त करने में असमर्थ औरटाइप करें"
+
+msgid "Error in reformatting results after decoding!"
+msgstr "डिकोडिंग के बाद परिणाम को बदलने में त्रुटि!"
+
+msgid "Branch Settings for max allowed Taxes and Discounts doesn't exit!"
+msgstr "अधिकतम अनुमत टैक्स और छूट के लिए शाखा सेटिंग्स बाहर नहीं निकलती हैं!"
+
+msgid "Error while retrieving Branch Settings"
+msgstr "शाखा सेटिंग्स को पुनः प्राप्त करते समय"
+
+msgid "Unexpected error occurred during Service Provider adding Taxes and Discounts"
+msgstr "त्रुटि सेवा प्रदाता को जोड़ने के दौरान अप्रत्याशित त्रुटि हुई और छूट"
+
+msgid "Unexpected error occurred during Service Provider adding Discounts"
+msgstr "सेवा प्रदाता को जोड़ने के"
+
+msgid "Unexpected error occurred during Service Provider adding Taxes"
+msgstr "दौरान अप्रत्याशित त्रुटि आई। सेवा प्रदाता को जोड़ने के दौरान अप्रत्याशित त्रुटि हुई सेवा प्रदाता को जोड़ने के दौरान सेवा प्रदाता को जोड़ने"
+
+msgid "Service Provider not allowed to add Taxes"
+msgstr "की अनुमति नहीं है"
+
+msgid "Service Provider not allowed to add Discounts"
+msgstr "सेवा प्रदाता को जोड़ने की अनुमति नहीं है छूट में"
+
+msgid "something went wrong in Invoice amount calculation!"
+msgstr "कुछ गलत है राशि की गणना!"
+
+msgid "This Bidding proposal doesn't exist!"
+msgstr "यह बोली-प्रक्रिया प्रस्ताव मौजूद नहीं है!"
+
+msgid "This Job category doesn't exist!"
+msgstr "यह नौकरी श्रेणी मौजूद नहीं है!"
+
+msgid "Job status you are trying doesn't exist!"
+msgstr "नौकरी की स्थिति आप कोशिश कर रहे हैं मौजूद नहीं है!"
+
+msgid "Unexpected error occurred during Service Provider adding Taxes and Discounts can't retrieve the Job!"
+msgstr "सेवा प्रदाता द्वारा कर और छूट को जोड़ने के दौरान अप्रत्याशित त्रुटि उत्पन्न हुई जो नौकरी को पुनः प्राप्त नहीं कर सकती है!"
+
+msgid "Holiday already exists in your Holiday calendar"
+msgstr "आपके हॉलिडे कैलेंडर में पहले से ही छुट्टी मौजूद है"
+
+msgid "From and To: time is same, correct your entry and try again."
+msgstr "और इससे: समय एक ही है, अपनी प्रविष्टि को ठीक करें और फिर से प्रयास करें।"
+
+msgid "Holiday doesn't exist in your Holiday calendar"
+msgstr "आपके हॉलिडे कैलेंडर में छुट्टी मौजूद नहीं है"
+
+msgid "Free Subscription rule for Service Providers doesn't exist!"
+msgstr "सेवा प्रदाताओं के लिए नि: शुल्क सदस्यता नियम मौजूद नहीं है!"
+
+msgid "Multiple Service Provider Subscriptions rules available against this package and Country"
+msgstr "एकाधिक सेवा प्रदाता सदस्यता इस पैकेज और देशके खिलाफ नियम"
+
+msgid "Something went wrong, unable to create Service Provider Subscription rule"
+msgstr "में कुछउपलब्ध,गलत हो गया था सेवा प्रदाता सदस्यता नियम बनाने में असमर्थ"
+
+msgid "You already have a Subscription rule against provided package id and Country"
+msgstr "आप पहले से ही प्रदान की जाती पैकेज आईडी और देशके खिलाफ एक सदस्यता नियम है"
+
+msgid "Something went wrong, unable to update Service Proficer Subscription rule"
+msgstr "में कुछगलत, अद्यतन करने के लिए सेवा Proficer सदस्यता नियमअसमर्थ,हो गया था"
+
+msgid "Something went wrong, unable to retrieve Subscription rule for Service Provider"
+msgstr "कुछ गलत हो गया असमर्थपुनः प्राप्त करने के सेवा प्रदाताके लिए सदस्यता नियम"
+
+msgid "Something went wrong, unable to delete Subscription rule for Service Provider"
+msgstr "कुछ सदस्यता के लिए नियम सेवा प्रदाताहटाने में असमर्थ,चला गया"
+
+msgid "Something went wrong, unable to update Subscription pricing"
+msgstr "गलत,कुछ गलत हो गयाअसमर्थ सदस्यता मूल्य निर्धारणअद्यतन करने के लिए"
+
+msgid "Something went wrong, unable to delete Subscription pricing"
+msgstr "कुछचला गया गलत, नहीं हटा सके सदस्यता मूल्य निर्धारण"
+
+msgid "No available Promotion and not allowed to purchase Promotion"
+msgstr "कोई उपलब्ध संवर्धन औरखरीद संवर्धनकी अनुमति नहीं"
+
+msgid "Error in creating Promotion purchase price, try again"
+msgstr "संवर्धन बनाने मेंत्रुटिखरीद मूल्य, फिर से प्रयास करें"
+
+msgid "Service Provider has No earnings so far!"
+msgstr "सेवा प्रदाता के पास अब तक कोई आय नहीं है!"
+
+msgid "Dispute category doesn't exist!"
+msgstr "विवाद श्रेणी मौजूद नहीं है!"
+
+msgid "Dispute status doesn't exist!"
+msgstr "विवाद की स्थिति मौजूद नहीं है!"
+
+msgid "You don't have Promotion usage or eligibility in your Subscription package"
+msgstr "आपके सब्सक्रिप्शन पैकेज में पदोन्नति का उपयोग या पात्रताअपने सब्सक्रिप्शन पैकेज"
+
+msgid "You don't have any used Promotion in your Subscription package"
+msgstr "नहीं है। आपके पासमें किसी भी तरह का उपयोग"
+
+msgid "You don't have any available Promotions in your Subscription package"
+msgstr "नहीं किया"
+
+msgid "Something went wrong, unexpected error occurred while retrieving User!"
+msgstr "गया है उपयोगकर्ता को पुनर्प्राप्त करते समय गलत, अप्रत्याशित त्रुटि हुई!"
+
+msgid "Your Business doesn't provide the requested Service"
+msgstr "आपका व्यवसाय अनुरोधित सेवा"
+
+msgid "Data already exists!"
+msgstr "डेटा पहले से मौजूद नहीं है!"
+
+msgid "Data doesn't exist!"
+msgstr "डेटा मौजूद नहीं है!"
+
+msgid "Settings does not exist!"
+msgstr "सेटिंग्स मौजूद नहीं है!"
+
+msgid "Multiple FCM Tokens and Users found"
+msgstr "एकाधिक FCM टोकन और उपयोगकर्ता ने पाया कि"
+
+msgid "Something went wrong, unable to create User installs!"
+msgstr "कुछ गलत हो गया, उपयोगकर्ता इंस्टॉल बनाने में असमर्थ!"
+
+msgid "Something went wrong, unable to update User installs!"
+msgstr "कुछ गलत हो गया, उपयोगकर्ता इंस्टॉल को अपडेट करने में असमर्थ!"
+
+msgid "Something went wrong while updating User installs!"
+msgstr "उपयोगकर्ता इंस्टॉल को अपडेट करते समय कुछ गलत हो गया!"
+
+msgid "Something went wrong while retrieving User install"
+msgstr "उपयोगकर्ता को पुनर्प्राप्त करते समय"
+
+msgid "Something went wrong, probably status is already confirmed!"
+msgstr "कुछ गलत हो गया है कुछ गलत हो गया, शायद स्थिति पहले से ही पुष्टि की गई है!"
+
+msgid "Invalid token"
+msgstr "अमान्य टोकन"
+
+msgid "Hashing problem"
+msgstr "हैशिंग समस्या"
+
+msgid "Something went wrong, incorrect OS detected"
+msgstr "कुछ गलत हो गई, गलत OS का पता चला"
+
+msgid "Invoice does not belongs to this Job"
+msgstr "चालाननौकरी केइस जॉबनहीं है"
+
+msgid "Error in making params for local payment, try again"
+msgstr "स्थानीयलिए पैरामेट्स बनाने मेंत्रुटि का, फिर से प्रयास करें"
+
+msgid "Error in marking schedule for calendar, try again"
+msgstr ", कैलेंडर के लिए शेड्यूल को चिह्नित करने में त्रुटि, पुन:"
+
+msgid "Reassign scheduled Jobs before In-activating the Employee status."
+msgstr "असाइन करें एम्प्लॉई स्थिति को सक्रिय करने से पहले शेड्यूल किए गए जॉब।"
+
+msgid "Error in fetching calendar, try again"
+msgstr "कैलेंडर लाने में त्रुटि, पुनः प्रयास करें"
+
+msgid "Logout successful"
+msgstr "लॉगआउट सफलसफलतापूर्वक"
+
+msgid "Token sent successfully!"
+msgstr "टोकनभेजा गया!"
+
+msgid "Unable to create Branch!"
+msgstr "शाखा बनाने में असमर्थ!"
+
+msgid "Unable to update Branch!"
+msgstr "शाखा अपडेट करने में असमर्थ!"
+
+msgid "Unable to create Business!"
+msgstr "व्यवसाय बनाने में असमर्थ!"
+
+msgid "Unable to update Business!"
+msgstr "व्यवसाय अपडेट करने में असमर्थ!"
+
+msgid "Dynamic Field value doesn't exist!"
+msgstr "गतिशील फ़ील्ड मान मौजूद नहीं है!"
+
+msgid "Employee setting doesn't exist!"
+msgstr "कर्मचारी सेटिंग मौजूद नहीं है!"
+
+msgid "Manage employee doesn't exist!"
+msgstr "कर्मचारी का प्रबंधन मौजूद नहीं है!"
+
+msgid "Business Shift Schedule doesn't exist!"
+msgstr "व्यवसाय शिफ्ट अनुसूची मौजूद नहीं है!"
+
+msgid "Unable to send Employment Invitation"
+msgstr "रोजगार आमंत्रण भेजने में असमर्थ"
+
+msgid "No error found"
+msgstr "कोई त्रुटि नहीं पाई"
+
+msgid "Unable to list down Hyperwallet users"
+msgstr "गई। हाइपरवाल्ट उपयोगकर्ताओं को सूचीबद्ध"
+
+msgid "Unable to fetch Invoice"
+msgstr "करने में असमर्थ इनवॉइस प्राप्त"
+
+msgid "Unable to generate Invoice"
+msgstr "करने में असमर्थ इनवॉइसउत्पन्न करने में असमर्थ"
+
+msgid "ID or Job_id missing in parameters!"
+msgstr "आईडी या Job_id मापदंडों में लापता!"
+
+msgid "Invoice locked, you can't update this Invoice!"
+msgstr "लॉक किया गया चालान, आप इस चालान को अपडेट नहीं कर सकते हैं!"
+
+msgid "Error while getting Invoice by Job"
+msgstr "जॉब द्वारा चालान प्राप्त करने में त्रुटि जबकि"
+
+msgid "Unable to Adjust Invoice"
+msgstr "चालानको समायोजित करने में असमर्थ है"
+
+msgid "Employee doesn't exists!"
+msgstr "कर्मचारीमौजूद नहीं है!"
+
+msgid "You don't have permission to update this Job"
+msgstr "आपके पास इस जॉब को अपडेट करने की अनुमति नहीं है।"
+
+msgid "You don't have permission to update Estimated Cost"
+msgstr "आपके पास अनुमानित लागत अपडेट करने की अनुमति नहीं है"
+
+msgid "No request to update Cost Estimates"
+msgstr "कॉस्ट एस्टिमेटको अपडेट करने का कोई अनुरोध नहीं है,"
+
+msgid "Error while fetching the Job"
+msgstr "जॉबप्राप्त करते समयत्रुटि"
+
+msgid "Error while retrieving Branch from Employee_id"
+msgstr ", एंप्लॉयीज से लिंक प्राप्त करते समयएरर"
+
+msgid "Service Provider meta doesn't exist!"
+msgstr "सेवा प्रदाता मेटा मौजूद नहीं है!"
+
+msgid "Consumer meta doesn't exist!"
+msgstr "उपभोक्ता मेटा मौजूद नहीं है!"
+
+msgid "Something went wrong, can't create Promotion"
+msgstr "कुछ गलत हुआ, प्रमोशन नहीं बना सकते"
+
+msgid "Country Service doesn't exist!"
+msgstr "देश सेवा मौजूद नहीं है!"
+
+msgid "Service doesn't exist!"
+msgstr "सेवा मौजूद नहीं है!"
+
+msgid "No record exist against your County"
+msgstr "आपकी काउंटीखिलाफ कोई रिकॉर्ड मौजूद नहीं है।"
+
+msgid "Error while retrieving Country from Country code"
+msgstr "देश कोड से देश को पुनर्प्राप्त करते समयत्रुटि के"
+
+msgid "This Service not available in this Country"
+msgstr "यह सेवा इस देश में उपलब्ध नहीं है,"
+
+msgid "Error while creating Lead"
+msgstr "जबकि लीड"
+
+msgid "Lead not created"
+msgstr "लीड नहीं बना रहा है।"
+
+msgid "You don't have Permission to create this Setting"
+msgstr "आपके पास इस सेटिंग को बनाने की अनुमति नहीं है"
+
+msgid "Error in retrieving Settings"
+msgstr "सेटिंग्स को पुनर्प्राप्त करने में त्रुटि"
+
+msgid "Setting does not exist"
+msgstr "मौजूद नहीं है सेटिंग कामौजूद नहीं है"
+
+msgid "Unable to upsert employee details"
+msgstr "विवरण"
+
+msgid "This Consumer has already settings with this slug"
+msgstr "इस उपभोक्ता ने पहले ही इस स्लग के साथ सेटिंग कर ली है। इसइस स्लग के साथ"
+
+msgid "This Consumer has already more than 1 Settings with this slug"
+msgstr "उपभोक्ता के पासपहले से ही १ से अधिक"
+
+msgid "Unable to create Settings"
+msgstr "सेटिंग्सबनाने में असमर्थ है"
+
+msgid "Consumer Settings missing for your User profile!"
+msgstr "सेटिंग्स हैं, जो अपने यूजर प्रोफाइल के लिए गायबउपभोक्ता सेटिंग्स!"
+
+msgid "Error in fetching Consumer Settings"
+msgstr "उपभोक्ता सेटिंग लाने में त्रुटि सेटिंग"
+
+msgid "Unable to update Settings"
+msgstr "अपडेट करने में असमर्थ"
+
+msgid "Consumer Setting doesn't exist!"
+msgstr "उपभोक्ता सेटिंग मौजूद नहीं है!"
+
+msgid "Employee details doesn't exist!"
+msgstr "कर्मचारी विवरण मौजूद नहीं है!"
+
+msgid "Something went wrong, unable to delete Settings, try again"
+msgstr "कुछ गलत हो गया, सेटिंग्स को हटाने में असमर्थ, फिर से कोशिश करें"
+
+msgid "Unable to Logout"
+msgstr "लॉगआउट करने में असमर्थ"
+
+msgid "User Address doesn't exist!"
+msgstr "उपयोगकर्ता पता मौजूद नहीं है!"
+
+msgid "Can't create client Token!"
+msgstr "ग्राहक टोकन नहीं बना सकते हैं!"
+
+msgid "Something went wrong, unable to retrieve Donation list"
+msgstr "कुछ गलत हो गया, दान सूची को पुनः प्राप्त करने में असमर्थ"
+
+msgid "User's Country ID doesn't exist"
+msgstr "उपयोगकर्ता की देश की आईडी मौजूद नहीं है"
+
+msgid "Error in retrieving User's Country ID!"
+msgstr "उपयोगकर्ता की देश की आईडी प्राप्त करने में त्रुटि!"
+
+msgid "Business or Branch ID must present in params"
+msgstr "व्यवसाय या शाखा आईडी को परमसमें मौजूद होना चाहिए"
+
+msgid "Promotion purchase Price missing, try again later!"
+msgstr "प्रमोशन खरीदमूल्य लापता, बाद में फिर से प्रयास करें!"
+
+msgid "Employee Enrollment"
+msgstr "कर्मचारी नामांकन"
+
+msgid "Reset Password"
+msgstr "रीसेट पासवर्ड"
+
+msgid "Can't get push notification message!"
+msgstr "पुश सूचना संदेश प्राप्त नहीं कर सकता है!"
+
+msgid "Please register yourself on TUDO using email"
+msgstr "ईमेल का उपयोग करके TUDO पर स्वयं को पंजीकृत करें"
+
+msgid "We noticed you already an account on TUDO app. just login using email"
+msgstr "हमने देखा कि आपने TUDO ऐप पर पहले से ही एक खाता है। ईमेल का उपयोग करके बस लॉगिन करें"
+
+msgid "Employee status is"
+msgstr "कर्मचारी की स्थिति"
+
+msgid "You can't update Job status after"
+msgstr "आपबाद"
+
+msgid "You can't update Job status after Service Provider"
+msgstr "सेवा प्रदाता के बाद नौकरी की स्थिति को अपडेट नहीं कर सकते इसकेआप नौकरी की स्थिति को"
+
+msgid "You can't update Job status after Consumer"
+msgstr "अपडेट नहीं कर सकते हैं आप उपभोक्ता के बाद नौकरी की स्थिति को अपडेट नहीं कर सकते हैं"
+
+msgid "Your business already purchased the Package:"
+msgstr "आपके व्यवसाय ने पहले ही पैकेज खरीदा है:"
+
+msgid "Amount must be at least"
+msgstr "राशि कम से कमहोनी चाहिए"
+
+msgid "MAX transfer limit is , Today’s remaining limit is"
+msgstr "अधिकतम स्थानांतरण सीमा, आज की शेष सीमा"
+
+msgid "Error while creating details, try again"
+msgstr "विवरण बनाते समय त्रुटि है, पुन: प्रयास करें"
+
+msgid "Error while updating details, try again"
+msgstr "विवरण अपडेट करते समय त्रुटि, पुन: प्रयास करें"
+
+msgid "Multiple records found for this employee!"
+msgstr "इस कर्मचारी के लिए एकाधिक रिकॉर्ड मिले!"

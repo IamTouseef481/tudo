@@ -1,0 +1,136 @@
+"id","name","slug","type","country_id","inserted_at","updated_at"
+1,Licensed / Registered,licensed,business_types,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+2,Unregistered,unregistered,business_types,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+3,Passport,passport,person_identity,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+4,Driver License Card,driving_license,person_identity,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+5,Ration Card,ration_card,person_identity,3,2019-01-11 04:44:00,2019-01-11 04:44:00
+6,Voter ID Card,voter_iD_card,person_identity,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+7,Aadhar Card,aadhar,person_identity,3,2019-01-11 04:44:00,2019-01-11 04:44:00
+8,Other Govt. issued ID Card,other_id,person_identity,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+9,Percentage,percentage,promotion_discount_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+10,Cash,cash,promotion_discount_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+11,Federal/National/Central Business Tax,national_business_tax,tax_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+12,State/Regional/Province Business Tax,regional_business_tax,tax_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+13,List item 1 from TUDO table x%,donation_x%,donations,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+14,List item 1 from TUDO table $2.00,donation_$2.00,donations,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+15,List item 1 from TUDO table $1.50,donation_$1.50,donations,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+16,List item 1 from TUDO table y%,donation_y%,donations,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+17,List item 1 from TUDO table 2%,donation_2%,donations,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+18,"1 x Service radius (50 Miles/Kms) (TUDO Default)",promotion_radius_1,promotions,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+19,"2 x Service radius",promotion_radius_2,promotions,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+20,"3 x Service radius",promotion_radius_3,promotions,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+21,Federal/National/Central Govt. Authority,federal_authority,licensing_authority,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+22,State/Region/Province Govt. Authority,regional_authority,licensing_authority,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+23,County/ City Govt. Authority,county_authority,licensing_authority,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+24,Town/Village/Local Govt. Authority,local_authority,licensing_authority,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+26,"00:15:00",service_duration_15m,service_duration,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+27,"50",service_radius_50k,service_radius,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+28,"00:30:00",service_duration_30m,service_duration,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+29,"75",service_radius_75k,service_radius,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+30,"100",service_radius_100k,service_radius,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+31,"150",service_radius_150k,service_radius,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+32,"00:45:00",service_duration_45m,service_duration,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+33,"200",service_radius_200k,service_radius,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+34,"01:00:00",service_duration_60m,service_duration,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+35,"01:30:00",service_duration_90m,service_duration,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+36,"300",service_radius_300k,service_radius,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+37,"02:00:00",service_duration_120m,service_duration,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+38,"30",service_radius_30k,service_radius,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+39,"02:30:00",service_duration_150m,service_duration,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+40,"03:00:00",service_duration_180m,service_duration,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+41,"03:30:00",service_duration_210m,service_duration,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+42,"04:00:00",service_duration_240m,service_duration,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+43,"05:00:00",service_duration_300m,service_duration,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+44,"06:00:00",service_duration_360m,service_duration,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+45,"07:00:00",service_duration_420m,service_duration,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+46,"08:00:00",service_duration_480m,service_duration,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+47,City/Town/Village/Local Business Tax,local_business_tax,tax_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+48,GST,gst_business_tax,tax_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+49,SGST (Service GST),sgst_business_tax,tax_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+50,VAT,vat_business_tax,tax_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+51,Other Business Tax,other_business_tax,tax_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+52,Auto/ Vehicle Insurance,auto_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+53,Fire Insurance,fire_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+54,Health Insurance,heath_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+55,Dental Insurance,dental_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+56,Vision Insurance,vision_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+57,Home owners Insurance,home_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+58,Renters Insurance,renters_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+59,General Insurance,general_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+60,Personal/ Life Insurance,life_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+61,Group Insurance,family_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+62,Property Insurance,property_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+63,Business Insurance,business_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+64,Guarantee Insurance,guarantee_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+65,Liability Coverage Insurance,liability_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+66,Marine Insurance,marine_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+67,Social Insurance,social_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+68,Other Insurance,other_insurance,insurance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+69,Male,male_gender,gender_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+70,Female,female_gender,gender_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+71,Other,other_gender,gender_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+72,Super Admin (=Business Owner),super_admin_role,tudo_role,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+73,Admin Manager (Business Manager),admin_manager_role,tudo_role,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+74,Service Supervisor (Service Staff),service_supervisor_role,tudo_role,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+75,Service Associate (Service Staff),service_assiciate_role,tudo_role,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+76,Service Trainee (Service Staff),service_trainee_role,tudo_role,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+77,Support Supervisor (Support Staff),support_supervisor_role,tudo_role,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+78,Support Associate (Support Staff),support_associate_role,tudo_role,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+79,Support Trainee (Support Staff),support_trainee_role,tudo_role,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+80,Branch Super Admin (=Business Owner for Branch),branch_super_admin_role,tudo_role,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+81,Branch Admin Manager (Branch Manager),branch_admin_manager_role,tudo_role,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+82,Fulltime,fulltime_employment,employment_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+83,Parttime,partime_employment,employment_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+84,Temporary,temp_employment,employment_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+85,Education,education_qualification_type,qualification_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+86,Certification,certification_qualification_type,qualification_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+87,Other,other_qualification_type,qualification_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+88,Less than High School (< 12th Grade),less_than12th_qualification,qualification,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+89,High School (12th grade) or Diploma or Equivalent,high_school_equ_qualification,qualification,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+90,Certification,certification_qualification,qualification,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+91,"Some College, No-Degree",college_no_degree_qualification,qualification,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+92,Associate's Degree,associate_degree_qualification,qualification,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+93,Bachelor's Degree,bachelors_degree_qualification,qualification,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+94,Master's Degree,masters_qualification,qualification,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+95,Professional Degree,professional_qualification,qualification,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+96,Doctorial or PhD,doc_phd_qualification,qualification,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+97,Other,other_qualification,qualification,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+98,Internship,internship_experiance_type,experiance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+99,Trainee,trainee_experiance_type,experiance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+100,Employment,employment_experiance_type,experiance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+101,Research Assistantship,research_assistant_experiance_type,experiance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+102,Other,other_experiance_type,experiance_type,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+103,Temporary,temporary_experiance,experiance,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+104,Part Time,parttime_experiance,experiance,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+105,Full Time,fulltime_experiance,experiance,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+106,Self-Employed,self_employed_experiance,experiance,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+107,Freelancer,freelancer_experiance,experiance,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+108,Other,other_experiance,experiance,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+109,"2-Wheeler (Motor Bike)","2wheeler_vehicle_type_motorcycle",vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+110,"3-Wheeler (Auto Raksha/ Tuk-tuk)","3wheeler_vehicle_type_motorcycle",vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+111,Sedan (Passenger car),sedan_vehicle_type_passenger,vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+112,SUV,suv_vehicle_type_multipurpose,vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+113,Mini Truck,mini_truck_vehicle_type_truck,vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+114,Medium Truck,medium_vehicle_type_truck,vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+115,Regular Truck,regular_truck_vehicle_type_truck,vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+116,Heavy Truck,heavy_truck_vehicle_type_truck,vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+117,Multi-axle Trailer Truck,trailer_vehicle_type_truck,vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+118,ATV,activity_vehicle_type_low,vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+119,Bus,bus_vehicle_type_bus,vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+120,Trailer,trailer_vehicle_type_trailer,vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+121,Special equipment,special_equip_vehicle_type_truck,vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+123,Vassal,vessal_vehicle_type_truck,vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+124,Other,other_vehicle_type,vehicle_type,1,2019-01-10 20:44:00,2019-01-10 20:44:00
+125,Other Govt. Authority,other_authority,licensing_authority,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+126,January - December,fiscal_january,fiscalyear,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+127,Febraury - January,fiscal_febraury,fiscalyear,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+128,March - Febraury,fiscal_march,fiscalyear,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+129,April - March,fiscal_april,fiscalyear,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+130,May - April,fiscal_may,fiscalyear,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+131,June - May,fiscal_june,fiscalyear,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+132,July - June,fiscal_july,fiscalyear,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+133,August - July,fiscal_august,fiscalyear,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+134,September - August,fiscal_september,fiscalyear,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+135,October - September,fiscal_october,fiscalyear,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+136,November - October,fiscal_november,fiscalyear,1,2019-01-11 04:44:00,2019-01-11 04:44:00
+137,December - November,fiscal_december,fiscalyear,1,2019-01-11 04:44:00,2019-01-11 04:44:00

@@ -1,0 +1,13 @@
+<h1>Show Calendar</h1>
+
+<ul>
+
+  <li>
+    <strong>Schedule:</strong>
+    <%= @calendar.schedule %>
+  </li>
+
+</ul>
+
+<span><%= link "Edit", to: Routes.calendar_path(@conn, :edit, @calendar) %></span>
+<span><%= link "Back", to: Routes.calendar_path(@conn, :index) %></span>
